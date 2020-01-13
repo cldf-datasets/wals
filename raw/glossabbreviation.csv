@@ -1,0 +1,228 @@
+pk,jsondata,id,name,description,markup_description,language_pk,version
+1,,PAT,patient,,,,1
+2,,DIST.PST,distant past,,,,1
+3,,VOC,vocative,,,,1
+4,,PST.PUNCT,past punctiliar,,,,1
+5,,LIG,ligature,,,,1
+6,,STAT,stative,,,,1
+7,,AGT,agent,,,,1
+8,,AGR,agreement,,,,1
+9,,CPW,categories per word,,,,1
+10,,PERS,personal,,,,1
+11,,NOMIN,nominalization,,,,1
+12,,HAB,habitual,,,,1
+13,,POSTP,postposition,,,,1
+14,,P,patient-like argument,,,,1
+15,,THM,theme (i.e. the semantic role),,,,1
+16,,PASS,passive,,,,1
+17,,FIN,finite,,,,1
+18,,SYM,symmetric,,,,1
+19,,PL,plural,,,,1
+20,,PRED,predicative,,,,1
+21,,SENS,sensory evidential,,,,1
+22,,SPEC,specific,,,,1
+23,,VENT,ventive,,,,1
+24,,BEN,benefactive,,,,1
+25,,REPET,repetitive,,,,1
+26,,EVD,evidential,,,,1
+27,,PCL,particle,,,,1
+28,,HEST,hesternal past,,,,1
+29,,TRASL,traslative,,,,1
+30,,PP,prepositional/postpositional phrase,,,,1
+31,,INTER,interrogative,,,,1
+32,,HUM,human,,,,1
+33,,NARR,narrative,,,,1
+34,,GEN,genitive,,,,1
+35,,INGR,ingressive,,,,1
+36,,C,common gender,,,,1
+37,,S,sole argument of the intransitive verb,,,,1
+38,,INTENT,intentional,,,,1
+39,,FOC,focus,,,,1
+40,,OPT,optative,,,,1
+41,,NOM,nominative,,,,1
+42,,ANC,action nominal construction,,,,1
+43,,INV,inverse,,,,1
+44,,INS,instrumental,,,,1
+45,,NMLZ,nominalizer/nominalization,,,,1
+46,,IND,indicative,,,,1
+47,,RNR,result nominalizer,,,,1
+48,,INF,infinitive,,,,1
+49,,PST,past,,,,1
+50,,REAL,realis,,,,1
+51,,COP,copula,,,,1
+52,,FV,verb-final vowel,,,,1
+53,,LOC,locative,,,,1
+54,,RES,resultative,,,,1
+55,,ILL,illative,,,,1
+56,,ADVZ,adverbializer,,,,1
+57,,REL,relative,,,,1
+58,,REC,recent (past),,,,1
+59,,COM,comitative,,,,1
+60,,ANTIP,antipassive,,,,1
+61,,FIN.AOR,finite aorist,,,,1
+62,,OBL,oblique,,,,1
+63,,OBJ,object,,,,1
+64,,AUD,auditory evidential,,,,1
+65,,AUG,augmented,,,,1
+66,,CL,"class (= noun class, gender)",,,,1
+67,,COMP,complementizer,,,,1
+68,,N,neuter,,,,1
+69,,REFL,reflexive,,,,1
+70,,OBV,obviative,,,,1
+71,,AUX,auxiliary,,,,1
+72,,ALL,allative,,,,1
+73,,SBJV,subjunctive,,,,1
+74,,SS,same subject,,,,1
+75,,SR,switch Reference,,,,1
+76,,PREF,prefix,,,,1
+77,,COMPL,completive,,,,1
+78,,COMPR,comparative,,,,1
+79,,NHON,non-honorific,,,,1
+80,,RLZ,realized,,,,1
+81,,SBJ,subject,,,,1
+82,,PREV,preverb,,,,1
+83,,SG,singular,,,,1
+84,,PREP,preposition,,,,1
+85,,DECL,declarative,,,,1
+86,,DIM,diminutive,,,,1
+87,,TOP,topic,,,,1
+88,,ERG,ergative,,,,1
+89,,UNSP,unspecified,,,,1
+90,,PTCP,participle,,,,1
+91,,RECP,reciprocal,,,,1
+92,,CVB,converb,,,,1
+93,,INFER,inferential evidential,,,,1
+94,,DIR,direct,,,,1
+95,,PRECONTEMP,precontemporal,,,,1
+96,,NSG,non-singular,,,,1
+97,,CAUS,causative,,,,1
+98,,FAM,familiar,,,,1
+99,,ADEL,adelative,,,,1
+100,,INCL,inclusive,,,,1
+101,,A,agent-like argument,,,,1
+102,,TEMPRY,temporary,,,,1
+103,,SUFF,suffix,,,,1
+104,,IRR,irrealis,,,,1
+105,,ABL,ablative,,,,1
+106,,INTGEN,intended genitive,,,,1
+107,,Q,question-marker,,,,1
+108,,ABS,absolutive,,,,1
+109,,CNTR,contrary to expectation marker,,,,1
+110,,IO,indirect object ,,,,1
+111,,NUM,numeral,,,,1
+112,,EXCL,exclusive,,,,1
+113,,IMM.PST,immediate past,,,,1
+114,,IE,Indo-European,,,,1
+115,,PURP,purposive,,,,1
+116,,ART,article,,,,1
+117,,QUOT,quotative,,,,1
+118,,PHR.TERM,phrase terminal marker,,,,1
+119,,HHON,super honorific,,,,1
+120,,NONFIN,non-finite ,,,,1
+121,,PST.CONT,past continuous,,,,1
+122,,ANIM,animate,,,,1
+123,,CONT,"continuative, continous",,,,1
+124,,EPV,expletive verbal suffix,,,,1
+125,,COND,conditional,,,,1
+126,,CONN,connective,,,,1
+127,,CONNEG,connegative,,,,1
+128,,PRF,perfect,,,,1
+129,,PROX,proximal/proximate,,,,1
+130,,INAN,inanimate,,,,1
+131,,PUNCT,punctual stem,,,,1
+132,,TOD.PST,today past,,,,1
+133,,PRS,present,,,,1
+134,,DIRL,directional,,,,1
+135,,REMOTE,remote,,,,1
+136,,CONTEMP,contemporative,,,,1
+137,,INCOMPL,incompletive,,,,1
+138,,VIS,visual evidential,,,,1
+139,,IMM.PRET,immediate preterite,,,,1
+140,,VBLZ,verbalizer,,,,1
+141,,T/A,tense/ aspect,,,,1
+142,,NONFIN.AOR,non-finite aorist,,,,1
+143,,FUT,future,,,,1
+144,,DEP,dependent marker,,,,1
+145,,DES,desire,,,,1
+146,,DET,determiner,,,,1
+147,,COLL,collective,,,,1
+148,,ITER,iterative,,,,1
+149,,CONSTR,construct,,,,1
+150,,EPENTH,epenthetic,,,,1
+151,,DEF,definite,,,,1
+152,,DEG,degree word,,,,1
+153,,IPFV,imperfective,,,,1
+154,,TRI,trial,,,,1
+155,,AFF,affirmative,,,,1
+156,,O,object pronominal marker,,,,1
+157,,DIR.EVD,direct evidential,,,,1
+158,,POSS,possessive,,,,1
+159,,VP,verb phrase,,,,1
+160,,NPST,non-past,,,,1
+161,,LOCUT,locutor person marker,,,,1
+162,,DISTR,distributive,,,,1
+163,,PROP,proper name,,,,1
+164,,SUP,superessive,,,,1
+165,,PRON,pronoun,,,,1
+166,,PROL,prolative,,,,1
+167,,ASSOC,associative,,,,1
+168,,PROH,prohibitive,,,,1
+169,,PROG,progressive,,,,1
+170,,ACC,accusative,,,,1
+171,,INCEP,inceptive,,,,1
+172,,CRS,currently relevant state,,,,1
+173,,NEG,"negation, negative",,,,1
+174,,NEC,necessity,,,,1
+175,,EMPH,emphatic,,,,1
+176,,ACR,actor,,,,1
+177,,HORT,hortative,,,,1
+178,,ACT,actual,,,,1
+179,,ATTR,attributive,,,,1
+180,,ASY,asymmetric,,,,1
+181,,NC,noun class,,,,1
+182,,REM.PST,remote past,,,,1
+183,,TELIC,telic,,,,1
+184,,APPL,applicative,,,,1
+185,,NP,noun phrase,,,,1
+186,,ADV,adverb(ial),,,,1
+187,,ACCOMP,accompanied ,,,,1
+188,,PRTV,partitive,,,,1
+189,,RDP,reduplication,,,,1
+190,,CLF,classifier,,,,1
+191,,IMP,imperative,,,,1
+192,,DUR,durative,,,,1
+193,,ADJ,adjective,,,,1
+194,,MED,medial,,,,1
+195,,PSTBEFOREYEST,past before yesterday (= prehesternal),,,,1
+196,,DEM,demonstrative,,,,1
+197,,DIST,distal,,,,1
+198,,INDIR.EVD,indirect evidential,,,,1
+199,,SUBORD,subordination,,,,1
+200,,PATH,path locative,,,,1
+201,,DU,dual,,,,1
+202,,SymAsy,symmetric and asymmetric,,,,1
+203,,DS,different subject,,,,1
+204,,N-,"non- (e.g. NSG nonsingular, NPST nonpast)",,,,1
+205,,CMPL,completive,,,,1
+206,,POT,potential,,,,1
+207,,F,feminine,,,,1
+208,,TR,transitive,,,,1
+209,,POS,possibility,,,,1
+210,,DOBJ,direct object,,,,1
+211,,DAT,dative,,,,1
+212,,IMPERS,impersonal,,,,1
+213,,TH,thematic suffix,,,,1
+214,,TD,time depth/ proximality marker,,,,1
+215,,HOD,hodiernal past,,,,1
+216,,INTF,intensifier,,,,1
+217,,HON,honorific,,,,1
+218,,M,masculine,,,,1
+219,,AN,action nominal,,,,1
+220,,AS,asseverative,,,,1
+221,,PLUPERF,pluperfect,,,,1
+222,,INTR,intransitive,,,,1
+223,,NON.F,non-feminine ,,,,1
+224,,DESID,desiderative,,,,1
+225,,INDF,indefinite,,,,1
+226,,PFV,perfective,,,,1
+227,,FACT,fact,,,,1

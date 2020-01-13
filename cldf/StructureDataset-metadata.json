@@ -5,7 +5,7 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Dryer, Matthew S. & Haspelmath, Martin (eds.) 2011. The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https://wals.info)",
+    "dc:bibliographicCitation": "Dryer, Matthew S. & Haspelmath, Martin (eds.) 2013. The World Atlas of Language Structures Online. Jena: Max Planck Institute for the Science of Human History. (Available online at https://wals.info)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:identifier": "https://wals.info",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
@@ -17,13 +17,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/wals",
-            "dc:created": "v2008"
+            "dc:created": "v2008-1-gef7134b"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1"
+            "dc:created": "v4.1-9-g95bfb4c"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -44,7 +44,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 76492,
+            "dc:extent": 76465,
             "tableSchema": {
                 "columns": [
                     {
@@ -171,11 +171,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Area"
+                        "name": "Chapter"
                     },
                     {
                         "datatype": "string",
-                        "name": "Chapter"
+                        "name": "Area"
                     }
                 ],
                 "foreignKeys": [
@@ -228,6 +228,14 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Number"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "icon"
                     }
                 ],
                 "foreignKeys": [
@@ -251,7 +259,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 2678,
+            "dc:extent": 2679,
             "tableSchema": {
                 "columns": [
                     {
@@ -348,7 +356,96 @@
             "url": "languages.csv"
         },
         {
-            "dc:extent": 4991,
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
+            "dc:extent": 3907,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Language_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#primaryText",
+                        "required": true,
+                        "name": "Primary_Text"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#analyzedWord",
+                        "required": false,
+                        "separator": "\\t",
+                        "name": "Analyzed_Word"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#gloss",
+                        "required": false,
+                        "separator": "\\t",
+                        "name": "Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#translatedText",
+                        "required": false,
+                        "name": "Translated_Text"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#metaLanguageReference",
+                        "required": false,
+                        "name": "Meta_Language_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "required": false,
+                        "name": "Comment"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Meta_Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "examples.csv"
+        },
+        {
+            "dc:extent": 7455,
             "tableSchema": {
                 "columns": [
                     {

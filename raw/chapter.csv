@@ -1,145 +1,152 @@
-id,name,blog_title,area_id
-1,Consonant Inventories,consonant-inventories,1
-2,Vowel Quality Inventories,vowel-quality-inventories,1
-3,Consonant-Vowel Ratio,consonant-vowel-ratio,1
-4,Voicing in Plosives and Fricatives,voicing-in-plosives-and-fricatives,1
-5,Voicing and Gaps in Plosive Systems,voicing-and-gaps-in-plosive-systems,1
-6,Uvular Consonants,uvular-consonants,1
-7,Glottalized Consonants,glottalized-consonants,1
-8,Lateral Consonants,lateral-consonants,1
-9,The Velar Nasal,the-velar-nasal,1
-10,Vowel Nasalization,vowel-nasalization,1
-11,Front Rounded Vowels,front-rounded-vowels,1
-12,Syllable Structure,syllable-structure,1
-13,Tone,tone,1
-14,Fixed Stress Locations,fixed-stress-locations,1
-15,Weight-Sensitive Stress,weight-sensitive-stress,1
-16,Weight Factors in Weight-Sensitive Stress Systems,weight-factors-in-weight-sensitive-stres,1
-17,Rhythm Types,rhythm-types,1
-18,Absence of Common Consonants,absence-of-common-consonants,1
-19,Presence of Uncommon Consonants,presence-of-uncommon-consonants,1
-20,Fusion of Selected Inflectional Formatives,fusion-of-selected-inflectional-formativ,2
-21,Exponence of Selected Inflectional Formatives,exponence-of-selected-inflectional-forma,2
-22,Inflectional Synthesis of the Verb,inflectional-synthesis-of-the-verb,2
-23,Locus of Marking in the Clause,locus-of-marking-in-the-clause,2
-24,Locus of Marking in Possessive Noun Phrases,locus-of-marking-in-possessive-noun-phra,2
-25,Locus of Marking: Whole-language Typology,locus-of-marking-whole-language-typology,2
-26,Prefixing vs. Suffixing in Inflectional Morphology,prefixing-vs-suffixing-in-inflectional-m,2
-27,Reduplication,reduplication,2
-28,Case Syncretism,case-syncretism,2
-29,Syncretism in Verbal Person/Number Marking,syncretism-in-verbal-person-number-marki,2
-30,Number of Genders,number-of-genders,3
-31,Sex-based and Non-sex-based Gender Systems,sex-based-and-non-sex-based-gender-syste,3
-32,Systems of Gender Assignment,systems-of-gender-assignment,3
-33,Coding of Nominal Plurality,coding-of-nominal-plurality,3
-34,Occurrence of Nominal Plurality,occurrence-of-nominal-plurality,3
-35,Plurality in Independent Personal Pronouns,plurality-in-independent-personal-pronou,3
-36,The Associative Plural,the-associative-plural,3
-37,Definite Articles,definite-articles,3
-38,Indefinite Articles,indefinite-articles,3
-39,Inclusive/Exclusive Distinction in Independent Pronouns,inclusive-exclusive-distinction-in-indep,3
-40,Inclusive/Exclusive Distinction in Verbal Inflection,inclusive-exclusive-distinction-in-verba,3
-41,Distance Contrasts in Demonstratives,distance-contrasts-in-demonstratives,3
-42,Pronominal and Adnominal Demonstratives,pronominal-and-adnominal-demonstratives,3
-43,Third Person Pronouns and Demonstratives,third-person-pronouns-and-demonstratives,3
-44,Gender Distinctions in Independent Personal Pronouns,gender-distinctions-in-independent-perso,3
-45,Politeness Distinctions in Pronouns,politeness-distinctions-in-pronouns,3
-46,Indefinite Pronouns,indefinite-pronouns,3
-47,Intensifiers and Reflexive Pronouns,intensifiers-and-reflexive-pronouns,3
-48,Person Marking on Adpositions,person-marking-on-adpositions,3
-49,Number of Cases,number-of-cases,3
-50,Asymmetrical Case-Marking,asymmetrical-case-marking,3
-51,Position of Case Affixes,position-of-case-affixes,3
-52,Comitatives and Instrumentals,comitatives-and-instrumentals,3
-53,Ordinal Numerals,ordinal-numerals,3
-54,Distributive Numerals,distributive-numerals,3
-55,Numeral Classifiers,numeral-classifiers,3
-56,Conjunctions and Universal Quantifiers,conjunctions-and-universal-quantifiers,3
-57,Position of Pronominal Possessive Affixes,position-of-pronominal-possessive-affixe,3
-58,Obligatory Possessive Inflection,obligatory-possessive-inflection,4
-59,Possessive Classification,possessive-classification,4
-60,"Genitives, Adjectives and Relative Clauses",genitives-adjectives-and-relative-clause,4
-61,Adjectives without Nouns,adjectives-without-nouns,4
-62,Action Nominal Constructions,action-nominal-constructions,4
-63,Noun Phrase Conjunction,noun-phrase-conjunction,4
-64,Nominal and Verbal Conjunction,nominal-and-verbal-conjunction,4
-65,Perfective/Imperfective Aspect,perfective-imperfective-aspect,5
-66,The Past Tense,the-past-tense,5
-67,The Future Tense,the-future-tense,5
-68,The Perfect,the-perfect,5
-69,Position of Tense-Aspect Affixes,position-of-tense-aspect-affixes,5
-70,The Morphological Imperative,the-morphological-imperative,5
-71,The Prohibitive,the-prohibitive,5
-72,Imperative-Hortative Systems,imperative-hortative-systems,5
-73,The Optative,the-optative,5
-74,Situational Possibility,situational-possibility,5
-75,Epistemic Possibility,epistemic-possibility,5
-76,Overlap between Situational and Epistemic Modal Marking,overlap-between-situational-and-epistemi,5
-77,Semantic Distinctions of Evidentiality,semantic-distinctions-of-evidentiality,5
-78,Coding of Evidentiality,coding-of-evidentiality,5
-79,Suppletion According to Tense and Aspect,suppletion-according-to-tense-and-aspect,5
-80,Verbal Number and Suppletion,verbal-number-and-suppletion,5
-81,"Order of Subject, Object and Verb",order-of-subject-object-and-verb,6
-82,Order of Subject and Verb,order-of-subject-and-verb,6
-83,Order of Object and Verb,order-of-object-and-verb,6
-84,"Order of Object, Oblique, and Verb",order-of-object-oblique-and-verb,6
-85,Order of Adposition and Noun Phrase,order-of-adposition-and-noun-phrase,6
-86,Order of Genitive and Noun,order-of-genitive-and-noun,6
-87,Order of Adjective and Noun,order-of-adjective-and-noun,6
-88,Order of Demonstrative and Noun,order-of-demonstrative-and-noun,6
-89,Order of Numeral and Noun,order-of-numeral-and-noun,6
-90,Order of Relative Clause and Noun,order-of-relative-clause-and-noun,6
-91,Order of Degree Word and Adjective,order-of-degree-word-and-adjective,6
-92,Position of Polar Question Particles,position-of-polar-question-particles,6
-93,Position of Interrogative Phrases in Content Questions,position-of-interrogative-phrases-in-con,6
-94,Order of Adverbial Subordinator and Clause,order-of-adverbial-subordinator-and-clau,6
-95,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,relationship-between-the-order-of-object,6
-96,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,relationship-between-the-order-of-object-1,6
-97,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,relationship-between-the-order-of-object-2,6
-98,Alignment of Case Marking of Full Noun Phrases,alignment-of-case-marking-of-full-noun-p,7
-99,Alignment of Case Marking of Pronouns,alignment-of-case-marking-of-pronouns,7
-100,Alignment of Verbal Person Marking,alignment-of-verbal-person-marking,7
-101,Expression of Pronominal Subjects,expression-of-pronominal-subjects,7
-102,Verbal Person Marking,verbal-person-marking,7
-103,Third Person Zero of Verbal Person Marking,third-person-zero-of-verbal-person-marki,7
-104,Order of Person Markers on the Verb,order-of-person-markers-on-the-verb,7
-105,Ditransitive Constructions: The Verb 'Give',ditransitive-constructions-the-verb-give,7
-106,Reciprocal Constructions,reciprocal-constructions,7
-107,Passive Constructions,passive-constructions,7
-108,Antipassive Constructions,antipassive-constructions,7
-109,Applicative Constructions,applicative-constructions,7
-110,Periphrastic Causative Constructions,periphrastic-causative-constructions,7
-111,Nonperiphrastic Causative Constructions,nonperiphrastic-causative-constructions,7
-112,Negative Morphemes,negative-morphemes,7
-113,Symmetric and Asymmetric Standard Negation,symmetric-and-asymmetric-standard-negati,7
-114,Subtypes of Asymmetric Standard Negation,subtypes-of-asymmetric-standard-negation,7
-115,Negative Indefinite Pronouns and Predicate Negation,negative-indefinite-pronouns-and-predica,7
-116,Polar Questions,polar-questions,7
-117,Predicative Possession,predicative-possession,7
-118,Predicative Adjectives,predicative-adjectives,7
-119,Nominal and Locational Predication,nominal-and-locational-predication,7
-120,Zero Copula for Predicate Nominals,zero-copula-for-predicate-nominals,7
-121,Comparative Constructions,comparative-constructions,7
-122,Relativization on Subjects,relativization-on-subjects,8
-123,Relativization on Obliques,relativization-on-obliques,8
-124,'Want' Complement Subjects,want-complement-subjects,8
-125,Purpose Clauses,purpose-clauses,8
-126,'When' Clauses,when-clauses,8
-127,Reason Clauses,reason-clauses,8
-128,Utterance Complement Clauses,utterance-complement-clauses,8
-129,Hand and Arm,hand-and-arm,9
-130,Finger and Hand,finger-and-hand,9
-131,Numeral Bases,numeral-bases,9
-132,Number of Non-Derived Basic Colour Categories,number-of-non-derived-basic-colour-categ,9
-133,Number of Basic Colour Categories,number-of-basic-colour-categories,9
-134,Green and Blue,green-and-blue,9
-135,Red and Yellow,red-and-yellow,9
-136,M-T Pronouns,m-t-pronouns,9
-137,N-M Pronouns,n-m-pronouns,9
-138,Tea,tea,9
-139,Irregular Negatives in Sign Languages,irregular-negatives-in-sign-languages,10
-140,Question Particles in Sign Languages,question-particles-in-sign-languages,10
-141,Writing Systems,writing-systems,11
-142,Para-Linguistic Usages of Clicks,para-linguistic-usages-of-clicks,11
-143,Order of Negative Morpheme and Verb,order-of-negative-morpheme-and-verb,6
-144,"Position of Negative Morpheme With Respect to Subject, Object, and Verb",position-of-negative-morpheme-with-respe,6
+pk,sortkey,wp_slug,area_pk
+1,1,consonant-inventories,1
+2,2,vowel-quality-inventories,1
+3,3,consonant-vowel-ratio,1
+4,4,voicing-in-plosives-and-fricatives,1
+5,5,voicing-and-gaps-in-plosive-systems,1
+6,6,uvular-consonants,1
+7,7,glottalized-consonants,1
+8,8,lateral-consonants,1
+9,9,the-velar-nasal,1
+10,10,vowel-nasalization,1
+11,11,front-rounded-vowels,1
+12,12,syllable-structure,1
+13,13,tone,1
+14,14,fixed-stress-locations,1
+15,15,weight-sensitive-stress,1
+16,16,weight-factors-in-weight-sensitive-stres,1
+17,17,rhythm-types,1
+18,18,absence-of-common-consonants,1
+19,19,presence-of-uncommon-consonants,1
+20,20,fusion-of-selected-inflectional-formativ,2
+21,21,exponence-of-selected-inflectional-forma,2
+22,22,inflectional-synthesis-of-the-verb,2
+23,23,locus-of-marking-in-the-clause,2
+24,24,locus-of-marking-in-possessive-noun-phra,2
+25,25,locus-of-marking-whole-language-typology,2
+26,26,prefixing-vs-suffixing-in-inflectional-m,2
+27,27,reduplication,2
+28,28,case-syncretism,2
+29,29,syncretism-in-verbal-person-number-marki,2
+30,30,number-of-genders,3
+31,31,sex-based-and-non-sex-based-gender-syste,3
+32,32,systems-of-gender-assignment,3
+33,33,coding-of-nominal-plurality,3
+34,34,occurrence-of-nominal-plurality,3
+35,35,plurality-in-independent-personal-pronou,3
+36,36,the-associative-plural,3
+37,37,definite-articles,3
+38,38,indefinite-articles,3
+39,39,inclusive-exclusive-distinction-in-indep,3
+40,40,inclusive-exclusive-distinction-in-verba,3
+41,41,distance-contrasts-in-demonstratives,3
+42,42,pronominal-and-adnominal-demonstratives,3
+43,43,third-person-pronouns-and-demonstratives,3
+44,44,gender-distinctions-in-independent-perso,3
+45,45,politeness-distinctions-in-pronouns,3
+46,46,indefinite-pronouns,3
+47,47,intensifiers-and-reflexive-pronouns,3
+48,48,person-marking-on-adpositions,3
+49,49,number-of-cases,3
+50,50,asymmetrical-case-marking,3
+51,51,position-of-case-affixes,3
+52,52,comitatives-and-instrumentals,3
+53,53,ordinal-numerals,3
+54,54,distributive-numerals,3
+55,55,numeral-classifiers,3
+56,56,conjunctions-and-universal-quantifiers,3
+57,57,position-of-pronominal-possessive-affixe,3
+58,58,obligatory-possessive-inflection,4
+59,59,possessive-classification,4
+60,60,genitives-adjectives-and-relative-clause,4
+61,61,adjectives-without-nouns,4
+62,62,action-nominal-constructions,4
+63,63,noun-phrase-conjunction,4
+64,64,nominal-and-verbal-conjunction,4
+65,65,perfective-imperfective-aspect,5
+66,66,the-past-tense,5
+67,67,the-future-tense,5
+68,68,the-perfect,5
+69,69,position-of-tense-aspect-affixes,5
+70,70,the-morphological-imperative,5
+71,71,the-prohibitive,5
+72,72,imperative-hortative-systems,5
+73,73,the-optative,5
+74,74,situational-possibility,5
+75,75,epistemic-possibility,5
+76,76,overlap-between-situational-and-epistemi,5
+77,77,semantic-distinctions-of-evidentiality,5
+78,78,coding-of-evidentiality,5
+79,79,suppletion-according-to-tense-and-aspect,5
+80,80,verbal-number-and-suppletion,5
+81,81,order-of-subject-object-and-verb,6
+82,82,order-of-subject-and-verb,6
+83,83,order-of-object-and-verb,6
+84,84,order-of-object-oblique-and-verb,6
+85,85,order-of-adposition-and-noun-phrase,6
+86,86,order-of-genitive-and-noun,6
+87,87,order-of-adjective-and-noun,6
+88,88,order-of-demonstrative-and-noun,6
+89,89,order-of-numeral-and-noun,6
+90,90,order-of-relative-clause-and-noun,6
+91,91,order-of-degree-word-and-adjective,6
+92,92,position-of-polar-question-particles,6
+93,93,position-of-interrogative-phrases-in-con,6
+94,94,order-of-adverbial-subordinator-and-clau,6
+95,95,relationship-between-the-order-of-object,6
+96,96,relationship-between-the-order-of-object-1,6
+97,97,relationship-between-the-order-of-object-2,6
+98,98,alignment-of-case-marking-of-full-noun-p,7
+99,99,alignment-of-case-marking-of-pronouns,7
+100,100,alignment-of-verbal-person-marking,7
+101,101,expression-of-pronominal-subjects,7
+102,102,verbal-person-marking,7
+103,103,third-person-zero-of-verbal-person-marki,7
+104,104,order-of-person-markers-on-the-verb,7
+105,105,ditransitive-constructions-the-verb-give,7
+106,106,reciprocal-constructions,7
+107,107,passive-constructions,7
+108,108,antipassive-constructions,7
+109,109,applicative-constructions,7
+110,110,periphrastic-causative-constructions,7
+111,111,nonperiphrastic-causative-constructions,7
+112,112,negative-morphemes,7
+113,113,symmetric-and-asymmetric-standard-negati,7
+114,114,subtypes-of-asymmetric-standard-negation,7
+115,115,negative-indefinite-pronouns-and-predica,7
+116,116,polar-questions,7
+117,117,predicative-possession,7
+118,118,predicative-adjectives,7
+119,119,nominal-and-locational-predication,7
+120,120,zero-copula-for-predicate-nominals,7
+121,121,comparative-constructions,7
+122,122,relativization-on-subjects,8
+123,123,relativization-on-obliques,8
+124,124,want-complement-subjects,8
+125,125,purpose-clauses,8
+126,126,when-clauses,8
+127,127,reason-clauses,8
+128,128,utterance-complement-clauses,8
+129,129,hand-and-arm,9
+130,130,finger-and-hand,9
+131,131,numeral-bases,9
+132,132,number-of-non-derived-basic-colour-categ,9
+133,133,number-of-basic-colour-categories,9
+134,134,green-and-blue,9
+135,135,red-and-yellow,9
+136,136,m-t-pronouns,9
+137,137,n-m-pronouns,9
+138,138,tea,9
+139,139,irregular-negatives-in-sign-languages,10
+140,140,question-particles-in-sign-languages,10
+141,141,writing-systems,11
+142,142,para-linguistic-usages-of-clicks,11
+143,143,order-of-negative-morpheme-and-verb,6
+144,144,position-of-negative-morpheme-with-respe,6
+145,0,,
+146,994,,
+147,995,,
+148,996,,
+149,997,,
+150,998,,
+151,999,,

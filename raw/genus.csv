@@ -1,511 +1,524 @@
-id,name,family_id,subfamily,comment
-adamawa,Adamawa,nigercongo,Adamawa-Ubangi,
-ainu,Ainu,ainu,,
-alacalufan,Alacalufan,alacalufan,,
-albanian,Albanian,indoeuropean,,
-algonquian,Algonquian,algic,,
-alsea,Alsea,oregoncoast,,
-amuzgoan,Amuzgoan,otomanguean,,
-andoke,Andoke,andoke,,
-anem,Anêm,anem,,
-angan,Angan,transnewguinea,,
-anindilyakwa,Anindilyakwa,australian,Gunwinyguan,
-annaberg,Annaberg,lowersepikramu,,
-ansonbay,Anson Bay,australian,Daly,
-arauan,Arauan,arauan,,
-araucanian,Araucanian,araucanian,,
-arawakan,Arawakan,arawakan,,
-arikem,Arikem,tupian,,
-armenian,Armenian,indoeuropean,,
-aruak,Aruak,chibchan,,
-aslian,Aslian,austroasiatic,Mon-Khmer,
-asmatkamoro,Asmat-Kamoro,transnewguinea,,
-atakapa,Atakapa,atakapa,,
-atayalic,Atayalic,austronesian,,
-athapaskan,Athapaskan,nadene,,
-avarandictsezic,Avar-Andic-Tsezic,nakhdaghestanian,Daghestanian,
-awinpare,Awin-Pare,awinpare,,
-awjudumut,Awju-Dumut,transnewguinea,,
-aymaran,Aymaran,aymaran,,
-aztecan,Aztecan,utoaztecan,,
-bahnaric,Bahnaric,austroasiatic,Mon-Khmer,
-bai,Bai,sinotibetan,Tibeto-Burman,
-baining,Baining,bainingtaulil,,
-baltic,Baltic,indoeuropean,,
-bantoid,Bantoid,nigercongo,Benue-Congo,
-barbacoan,Barbacoan,barbacoan,,
-bodogaro,Bodo-Garo,sinotibetan,Tibeto-Burman,
-basque,Basque,basque,,
-beja,Beja,afroasiatic,Cushitic,
-bellacoola,Bella Coola,salishan,,
-beothuk,Beothuk,beothuk,,
-berber,Berber,afroasiatic,,
-berta,Berta,nilosaharan,,
-betoi,Betoi,betoi,,
-binanderean,Binanderean,transnewguinea,,
-biumandara,Biu-Mandara,afroasiatic,Chadic,
-bodic,Bodic,sinotibetan,Tibeto-Burman,
-bongobagirmi,Bongo-Bagirmi,nilosaharan,Central Sudanic,
-boran,Boran,huitotoan,,
-border,Border,border,,
-bororo,Bororo,macroge,,
-bosavi,Bosavi,bosavi,,
-botin,Botin,lowersepikramu,,
-bulakariver,Bulaka River,bulakariver,,
-bunuban,Bunuban,australian,,
-burarran,Burarran,australian,,
-burmeselolo,Burmese-Lolo,sinotibetan,Tibeto-Burman,
-burushaski,Burushaski,burushaski,,
-cacuanukak,Cacua-Nukak,cacuanukak,,
-caddoan,Caddoan,caddoan,,
-cahita,Cahita,utoaztecan,,
-cahuapanan,Cahuapanan,cahuapanan,,
-camsa,Camsá,camsa,,
-candoshi,Candoshi,candoshi,,
-cariban,Cariban,cariban,,
-cayuvava,Cayuvava,cayuvava,,
-celtic,Celtic,indoeuropean,,
-centralcushitic,Central Cushitic,afroasiatic,Cushitic,
-centraldravidian,Central Dravidian,dravidian,,
-centralkhoisan,Central Khoisan,khoisan,,
-centralmalayopolynesian,Central Malayo-Polynesian,austronesian,,
-centralsalish,Central Salish,salishan,,
-chamorro,Chamorro,austronesian,,
-chapacurawanham,Chapacura-Wanham,chapacurawanham,,
-chibchanproper,Chibchan Proper,chibchan,,
-chichimec,Chichimec,otomanguean,,
-chimakuan,Chimakuan,chimakuan,,
-chimariko,Chimariko,hokan,,
-chimbu,Chimbu,transnewguinea,,
-chimila,Chimila,chibchan,,
-chimuan,Chimúan,chimuan,,
-chinantecan,Chinantecan,otomanguean,,
-chinese,Chinese,sinotibetan,,
-chinookan,Chinookan,penutian,,
-chiquito,Chiquito,chiquito,,
-chitimacha,Chitimacha,chitimacha,,
-choco,Choco,choco,,
-cholon,Cholon,cholon,,
-chonproper,Chon Proper,chon,,
-chumash,Chumash,chumash,,
-coahuiltecan,Coahuiltecan,coahuiltecan,,
-cofan,Cofán,cofan,,
-comecrudan,Comecrudan,comecrudan,,
-coosan,Coosan,oregoncoast,,
-corachol,Corachol,utoaztecan,,
-costanoan,Costanoan,penutian,Utian,
-creolesandpidgins,Creoles and Pidgins,other,,
-crossriver,Cross River,nigercongo,Benue-Congo,
-cuitlatec,Cuitlatec,cuitlatec,,
-dagan,Dagan,dagan,,
-daju,Daju,nilosaharan,Eastern Sudanic,
-dani,Dani,transnewguinea,,
-defoid,Defoid,nigercongo,Benue-Congo,
-djeragan,Djeragan,australian,,
-dogon,Dogon,nigercongo,,
-duna,Duna,transnewguinea,,
-eastbirdshead,East Bird's Head,eastbirdshead,,
-eastbougainville,East Bougainville,eastbougainville,,
-eastchadic,East Chadic,afroasiatic,Chadic,
-eastgeelvinkbay,East Geelvink Bay,eastgeelvinkbay,,
-eaststrickland,East Strickland,eaststrickland,,
-easterncushitic,Eastern Cushitic,afroasiatic,Cushitic,
-easterndaly,Eastern Daly,australian,Daly,
-easternhighlands,Eastern Highlands,transnewguinea,,
-easternjebel,Eastern Jebel,nilosaharan,Eastern Sudanic,
-easternmande,Eastern Mande,nigercongo,Mande,
-westernskou,Western Skou,skou,,
-edoid,Edoid,nigercongo,Benue-Congo,
-egyptiancoptic,Egyptian-Coptic,afroasiatic,,
-elemanproper,Eleman Proper,eleman,,
-engan,Engan,transnewguinea,,
-eskimo,Eskimo,eskimoaleut,,
-esselen,Esselen,esselen,,
-eyak,Eyak,nadene,,
-finisterrehuon,Finisterre-Huon,transnewguinea,,
-finnic,Finnic,uralic,Finno-Ugric,
-fur,Fur,nilosaharan,,
-gaagudju,Gaagudju,australian,,
-gapun,Gapun,gapun,,
-garrwan,Garrwan,australian,,
-gekaingang,Ge-Kaingang,macroge,,
-germanic,Germanic,indoeuropean,,
-gogodala,Gogodala,gogodalasuki,,
-goilalan,Goilalan,transnewguinea,,
-greatandamanese,Great Andamanese,greatandamanese,,
-greek,Greek,indoeuropean,,
-guahiban,Guahiban,guahiban,,
-guaicuruan,Guaicuruan,guaicuruan,,
-guato,Guató,macroge,,
-guaymi,Guaymi,chibchan,,
-gumuz,Gumuz,nilosaharan,,
-gunwinygic,Gunwinygic,australian,Gunwinyguan,
-gur,Gur,nigercongo,,
-hadza,Hadza,hadza,,
-haida,Haida,haida,,
-harakmbet,Harakmbet,harakmbet,,
-hatam,Hatam,westpapuan,,
-hmongmien,Hmong-Mien,hmongmien,,
-hopi,Hopi,utoaztecan,,
-huarpe,Huarpe,huarpe,,
-huavean,Huavean,huavean,,
-huitoto,Huitoto,huitotoan,,
-idomoid,Idomoid,nigercongo,Benue-Congo,
-igboid,Igboid,nigercongo,Benue-Congo,
-ijoid,Ijoid,nigercongo,,
-indic,Indic,indoeuropean,,
-interiorsalish,Interior Salish,salishan,,
-iranian,Iranian,indoeuropean,,
-itonama,Itonama,itonama,,
-iwaidjan,Iwaidjan,australian,,
-jabuti,Jabutí,jabuti,,
-jaminjungan,Jaminjungan,australian,,
-japanese,Japanese,japanese,,
-jinghpo,Jinghpo,sinotibetan,Tibeto-Burman,
-jirajaran,Jirajaran,jirajaran,,
-jivaroan,Jivaroan,jivaroan,,
-kadai,Kadai,taikadai,,
-kadugli,Kadugli,kadugli,,
-kainji,Kainji,nigercongo,Benue-Congo,
-kalapuyan,Kalapuyan,kalapuyan,,
-kamtai,Kam-Tai,taikadai,,
-karaja,Karajá,macroge,,
-karankawa,Karankawa,karankawa,,
-karen,Karen,sinotibetan,Tibeto-Burman,
-kariri,Kariri,kariri,,
-karkaryuri,Karkar-Yuri,karkaryuri,,
-karok,Karok,karok,,
-kartvelian,Kartvelian,kartvelian,,
-katuic,Katuic,austroasiatic,Mon-Khmer,
-katukinan,Katukinan,katukinan,,
-kaure,Kaure,kaure,,
-kayagar,Kayagar,kayagar,,
-kebar,Kebar,westpapuan,,
-keresan,Keresan,keresan,,
-khasian,Khasian,austroasiatic,Mon-Khmer,
-khmer,Khmer,austroasiatic,Mon-Khmer,
-kiowatanoan,Kiowa-Tanoan,kiowatanoan,,
-kiwaian,Kiwaian,kiwaian,,
-klamathmodoc,Klamath-Modoc,penutian,,
-koiarian,Koiarian,transnewguinea,,
-kolopom,Kolopom,kolopom,,
-koman,Koman,nilosaharan,,
-kombioarapesh,Kombio-Arapesh,torricelli,,
-korean,Korean,korean,,
-kresh,Kresh,nilosaharan,Central Sudanic,
-krisa,Krisa,skou,,
-kru,Kru,nigercongo,,
-kukichin,Kuki-Chin,sinotibetan,Tibeto-Burman,
-kuliak,Kuliak,nilosaharan,Eastern Sudanic,
-kuna,Kuna,chibchan,,
-kunama,Kunama,nilosaharan,,
-kunza,Kunza,kunza,,
-kuot,Kuot,kuot,,
-kusunda,Kusunda,kusunda,,
-kutenai,Kutenai,kutenai,,
-kutubuan,Kutubuan,transnewguinea,,
-kwa,Kwa,nigercongo,,
-kwaza,Kwaza,kwaza,,
-kwerba,Kwerba,kwerba,,
-laal,Laal,laal,,
-lakdargwa,Lak-Dargwa,nakhdaghestanian,Daghestanian,
-lakesplain,Lakes Plain,lakesplain,,
-laragiyan,Laragiyan,australian,,
-lendu,Lendu,nilosaharan,Central Sudanic,
-lepcha,Lepcha,sinotibetan,Tibeto-Burman,
-lezgic,Lezgic,nakhdaghestanian,Daghestanian,
-limilngan,Limilngan,australian,,
-lowerramu,Lower Ramu,lowersepikramu,,
-lowersepik,Lower Sepik,lowersepikramu,,
-lule,Lule,lule,,
-maban,Maban,nilosaharan,,
-madang,Madang,transnewguinea,,
-maiduan,Maiduan,penutian,,
-mailuan,Mailuan,transnewguinea,,
-mairasitanahmerah,Mairasi-Tanahmerah,transnewguinea,,
-maku,Máku,maku,,
-mangarrayi,Mangarrayi,australian,,
-mangbetu,Mangbetu,nilosaharan,Central Sudanic,
-mangbutuefe,Mangbutu-Efe,nilosaharan,Central Sudanic,
-maran,Maran,australian,,
-marindproper,Marind Proper,marind,,
-masa,Masa,afroasiatic,Chadic,
-mascoian,Mascoian,mascoian,,
-matacoan,Matacoan,matacoan,,
-maxakali,Maxakalí,macroge,,
-mayan,Mayan,mayan,,
-mek,Mek,transnewguinea,,
-mesophilippine,Meso-Philippine,austronesian,,
-middlesepik,Middle Sepik,sepik,,
-mikarew,Mikarew,lowersepikramu,,
-tani,Tani,sinotibetan,Tibeto-Burman,
-misumalpan,Misumalpan,misumalpan,,
-miwok,Miwok,penutian,Utian,
-mixezoque,Mixe-Zoque,mixezoque,,
-mixtecan,Mixtecan,otomanguean,,
-molala,Molala,penutian,,
-mombum,Mombum,mombum,,
-monde,Monde,tupian,,
-mongolic,Mongolic,altaic,,
-monic,Monic,austroasiatic,Mon-Khmer,
-monumbo,Monumbo,monumbo,,
-moreheadanduppermarorivers,Morehead and Upper Maro Rivers,moreheadanduppermarorivers,,
-morumadi,Moru-Ma'di,nilosaharan,Central Sudanic,
-morwap,Morwap,morwap,,
-mosetenan,Mosetenan,mosetenan,,
-motilon,Motilon,chibchan,,
-movima,Movima,movima,,
-munda,Munda,austroasiatic,,
-munduruku,Munduruku,tupian,,
-mura,Mura,mura,,
-murrinhpatha,Murrinh-Patha,australian,Daly,
-muskogean,Muskogean,muskogean,,
-nahali,Nahali,nahali,,
-nakh,Nakh,nakhdaghestanian,,
-nakkara,Nakkara,australian,,
-nambikuaran,Nambikuaran,nambikuaran,,
-nara,Nara,nilosaharan,Eastern Sudanic,
-natchez,Natchez,natchez,,
-naxi,Naxi,sinotibetan,Tibeto-Burman,
-ndjebbana,Ndjébbana,australian,,
-ngalakan,Ngalakan,australian,Gunwinyguan,
-ngandi,Ngandi,australian,Gunwinyguan,
-nicobarese,Nicobarese,austroasiatic,Mon-Khmer,
-nilotic,Nilotic,nilosaharan,Eastern Sudanic,
-nimboran,Nimboran,nimboran,,
-nivkh,Nivkh,nivkh,,
-northhalmaheran,North Halmaheran,westpapuan,,
-northcentralbirdshead,North-Central Bird's Head,westpapuan,,
-northernatlantic,Northern Atlantic,nigercongo,Atlantic,
-northernchukotkokamchatkan,Northern Chukotko-Kamchatkan,chukotkokamchatkan,,
-northerndaly,Northern Daly,australian,Daly,
-northerndravidian,Northern Dravidian,dravidian,,
-northerniroquoian,Northern Iroquoian,iroquoian,,
-northernkhoisan,Northern Khoisan,khoisan,,
-northernphilippines,Northern Philippines,austronesian,,
-northernwakashan,Northern Wakashan,wakashan,,
-northwestcaucasian,Northwest Caucasian,northwestcaucasian,,
-nubian,Nubian,nilosaharan,Eastern Sudanic,
-numic,Numic,utoaztecan,,
-nunggubuyu,Nunggubuyu,australian,Gunwinyguan,
-nungish,Nungish,sinotibetan,Tibeto-Burman,
-nupoid,Nupoid,nigercongo,Benue-Congo,
-nyimang,Nyimang,nilosaharan,Eastern Sudanic,
-nyulnyulan,Nyulnyulan,australian,,
-oceanic,Oceanic,austronesian,Eastern Malayo-Polynesian,
-ok,Ok,transnewguinea,,
-oksapmin,Oksapmin,oksapmin,,
-otomian,Otomian,otomanguean,,
-paezan,Páezan,paezan,,
-paiwanic,Paiwanic,austronesian,,
-palaihnihan,Palaihnihan,hokan,,
-palauan,Palauan,austronesian,,
-palaungkhmuic,Palaung-Khmuic,austroasiatic,Mon-Khmer,
-pamanyungan,Pama-Nyungan,australian,,
-pamean,Pamean,otomanguean,,
-panoan,Panoan,panoan,,
-pawaian,Pawaian,teberanpawaian,,
-paya,Paya,chibchan,,
-pebayaguan,Peba-Yaguan,pebayaguan,,
-platoid,Platoid,nigercongo,Benue-Congo,
-pomoan,Pomoan,hokan,,
-popolocan,Popolocan,otomanguean,,
-puelche,Puelche,chon,,
-puinave,Puinave,puinave,,
-puquina,Puquina,puquina,,
-qiangic,Qiangic,sinotibetan,Tibeto-Burman,
-quechuan,Quechuan,quechuan,,
-ram,Ram,sepik,,
-rama,Rama,chibchan,,
-rembarnga,Rembarnga,australian,Gunwinyguan,
-rgyalrong,rGyalrong,sinotibetan,Tibeto-Burman,
-rikbaktsa,Rikbaktsa,macroge,,
-romance,Romance,indoeuropean,,
-sahaptian,Sahaptian,penutian,,
-westernsaharan,Western Saharan,nilosaharan,Saharan,
-saliba,Sáliba,saliban,,
-salinan,Salinan,salinan,,
-samabajaw,Sama-Bajaw,austronesian,,
-samoyedic,Samoyedic,uralic,,
-sandawe,Sandawe,khoisan,,
-semitic,Semitic,afroasiatic,,
-senagi,Senagi,senagi,,
-sentani,Sentani,sentani,,
-sepikhill,Sepik Hill,sepik,,
-seri,Seri,hokan,,
-shabo,Shabo,nilosaharan,,
-shasta,Shasta,hokan,,
-signlanguages,Sign Languages,other,,
-siouan,Siouan,siouan,,
-siuslawan,Siuslawan,oregoncoast,,
-slavic,Slavic,indoeuropean,,
-bilua,Bilua,solomonseastpapuan,,
-songhay,Songhay,nilosaharan,,
-southandamanese,South Andamanese,southandamanese,,
-southbirdshead,South Bird's Head,marind,,
-southhalmaherawestnewguinea,South Halmahera - West New Guinea,austronesian,Eastern Malayo-Polynesian,
-southmindanao,South Mindanao,austronesian,,
-southcentraldravidian,South-Central Dravidian,dravidian,,
-southernatlantic,Southern Atlantic,nigercongo,Atlantic,
-southernchukotkokamchatkan,Southern Chukotko-Kamchatkan,chukotkokamchatkan,,
-southerncushitic,Southern Cushitic,afroasiatic,Cushitic,
-southerndaly,Southern Daly,australian,Daly,
-southerndravidian,Southern Dravidian,dravidian,,
-southerniroquoian,Southern Iroquoian,iroquoian,,
-southernkhoisan,Southern Khoisan,khoisan,,
-southernphilippines,Southern Philippines,austronesian,,
-southernwakashan,Southern Wakashan,wakashan,,
-subtiabatlapanec,Subtiaba-Tlapanec,otomanguean,,
-sulawesi,Sulawesi,austronesian,,
-sulka,Sulka,sulka,,
-surmic,Surmic,nilosaharan,Eastern Sudanic,
-tacame,Tacame,tacame,,
-tacanan,Tacanan,tacanan,,
-takelma,Takelma,takelma,,
-takic,Takic,utoaztecan,,
-talamanca,Talamanca,chibchan,,
-tamasepik,Tama Sepik,sepik,,
-taman,Taman,nilosaharan,Eastern Sudanic,
-tangkic,Tangkic,australian,,
-tarahumaran,Tarahumaran,utoaztecan,,
-tarascan,Tarascan,tarascan,,
-tasmanian,Tasmanian,tasmanian,,
-taushiro,Taushiro,taushiro,,
-teberan,Teberan,teberanpawaian,,
-temein,Temein,nilosaharan,Eastern Sudanic,
-tepiman,Tepiman,utoaztecan,,
-tequistlatecan,Tequistlatecan,tequistlatecan,,
-ticuna,Ticuna,ticuna,,
-tillamook,Tillamook,salishan,,
-timotecuica,Timote-Cuica,timotecuica,,
-timucua,Timucua,timucua,,
-tiwian,Tiwian,australian,,
-tlingit,Tlingit,nadene,,
-tol,Tol,tol,,
-tonkawa,Tonkawa,tonkawa,,
-tor,Tor,tororya,,
-totonacan,Totonacan,totonacan,,
-trumai,Trumai,trumai,,
-tsamosan,Tsamosan,salishan,,
-tsimshianic,Tsimshianic,penutian,,
-tsouic,Tsouic,austronesian,,
-tubar,Tubar,utoaztecan,,
-tubatulabal,Tubatulabal,utoaztecan,,
-tucanoan,Tucanoan,tucanoan,,
-tungusic,Tungusic,altaic,,
-tunica,Tunica,tunica,,
-tupari,Tupari,tupian,,
-tupiguarani,Tupi-Guaraní,tupian,,
-turamakikorian,Turama-Kikorian,turamakikorian,,
-turkic,Turkic,altaic,,
-ugric,Ugric,uralic,Finno-Ugric,
-uppersepik,Upper Sepik,sepik,,
-upperyuat,Upper Yuat,upperyuat,,
-urarina,Urarina,urarina,,
-urim,Urim,torricelli,,
-uruchipaya,Uru-Chipaya,uruchipaya,,
-nadahup,Nadahup,nadahup,,
-vietmuong,Viet-Muong,austroasiatic,Mon-Khmer,
-waorani,Waorani,waorani,,
-wapeipalei,Wapei-Palei,torricelli,,
-wappo,Wappo,wappoyukian,,
-warao,Warao,warao,,
-waray,Waray,australian,Gunwinyguan,
-washo,Washo,washo,,
-westbarkly,West Barkly,australian,,
-westbirdshead,West Bird's Head,westpapuan,,
-westbomberai,West Bomberai,westbomberai,,
-westbougainville,West Bougainville,westbougainville,,
-westchadic,West Chadic,afroasiatic,Chadic,
-westwapei,West Wapei,torricelli,,
-westerndaly,Western Daly,australian,Daly,
-westernfly,Western Fly,westernfly,,
-westernmande,Western Mande,nigercongo,Mande,
-serrahills,Serra Hills,skou,,
-wintuan,Wintuan,penutian,,
-wissellakeskemandoga,Wissel Lakes-Kemandoga,transnewguinea,,
-wiyot,Wiyot,algic,,
-wororan,Wororan,australian,,
-yale,Yale,yale,,
-yamana,Yámana,yamana,,
-yana,Yana,hokan,,
-yangmanic,Yangmanic,australian,Gunwinyguan,
-yanomam,Yanomam,yanomam,,
-yapese,Yapese,austronesian,,
-yareban,Yareban,yareban,,
-yaruro,Yaruro,yaruro,,
-yate,Yatê,macroge,,
-yawa,Yawa,yawa,,
-yele,Yele,yele,,
-yellowriver,Yellow River,sepik,,
-yeniseian,Yeniseian,yeniseian,,
-yokuts,Yokuts,penutian,,
-yuchi,Yuchi,yuchi,,
-yukaghir,Yukaghir,yukaghir,,
-yukian,Yukian,wappoyukian,,
-yuman,Yuman,hokan,,
-yuracare,Yuracare,yuracare,,
-yurimangi,Yurimangí,yurimangi,,
-yurok,Yurok,algic,,
-zamucoan,Zamucoan,zamucoan,,
-zaparoan,Zaparoan,zaparoan,,
-zapotecan,Zapotecan,otomanguean,,
-zuni,Zuni,zuni,,
-ramarama,Ramarama,tupian,,
-ubangi,Ubangi,nigercongo,Adamawa-Ubangi,
-heiban,Heiban,nigercongo,Kordofanian,
-katlatima,Katla-Tima,nigercongo,Kordofanian,
-rashad,Rashad,nigercongo,Kordofanian,
-talodiproper,Talodi Proper,nigercongo,Kordofanian,
-tegem,Tegem,nigercongo,Kordofanian,
-northomotic,North Omotic,afroasiatic,Omotic,
-southomotic,South Omotic,afroasiatic,Omotic,
-orya,Orya,tororya,,
-fasu,Fasu,transnewguinea,,
-kolanatanglapui,Kolana-Tanglapui,timoralorpantar,,
-suki,Suki,gogodalasuki,,
-tate,Tate,eleman,,
-taulil,Taulil,bainingtaulil,,
-lavukaleve,Lavukaleve,solomonseastpapuan,,
-savosavo,Savosavo,solomonseastpapuan,,
-wagiman,Wagiman,australian,Gunwinyguan,
-aleut,Aleut,eskimoaleut,,
-piaroa,Piaroa,saliban,,
-greateralor,Greater Alor,timoralorpantar,,
-makasaefatalukuoirata,Makasae-Fataluku-Oirata,timoralorpantar,,
-easternsaharan,Eastern Saharan,nilosaharan,Saharan,
-sulung,Sulung,sulung,,
-westernarunachal,Western Arunachal,sinotibetan,Tibeto-Burman,
-digaroan,Digaroan,sinotibetan,Tibeto-Burman,
-mari,Mari,uralic,Finno-Ugric,
-mordvin,Mordvin,uralic,Finno-Ugric,
-permic,Permic,uralic,Finno-Ugric,
-saami,Saami,uralic,Finno-Ugric,
-bangime,Bangime,bangime,,
-pearic,Pearic,austroasiatic,Mon-Khmer,
-northernnaga,Northern Naga,sinotibetan,Tibeto-Burman,
-hlai,Hlai,taikadai,,
-shompen,Shompen,shompen,,
-momuna,Momuna,transnewguinea,,
-warapu,Warapu,skou,,
-fas,Fas,kwomtaribaibai,,
-kwomtari,Kwomtari,kwomtaribaibai,,
-leftmay,Left May,leftmay,,
-marienberg,Marienberg,torricelli,,
-leko,Leko,leko,,
-kapixana,Kapixana,kapixana,,
-botocudo,Botocudo,macroge,,
-hoan,=|Hoan,khoisan,,
-barito,Barito,austronesian,,
-kayanmurik,Kayan-Murik,austronesian,,
-landdayak,Land Dayak,austronesian,,
-northwestmalayopolynesian,Northwest Malayo-Polynesian,austronesian,,
-balisasak,Bali-Sasak,austronesian,,
-gayo,Gayo,austronesian,,
-javanese,Javanese,austronesian,,
-lampungic,Lampungic,austronesian,,
-madurese,Madurese,austronesian,,
-malayic,Malayic,austronesian,,
-rejang,Rejang,austronesian,,
-sumatra,Sumatra,austronesian,,
-sundanese,Sundanese,austronesian,,
+pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
+1,,southerncushitic,Southern Cushitic,,,1,Cushitic,c000000
+2,,eastchadic,East Chadic,,,1,Chadic,c0000dd
+3,,beja,Beja,,,1,Cushitic,c009900
+4,,berber,Berber,,,1,,c66ff33
+5,,biumandara,Biu-Mandara,,,1,Chadic,c990099
+6,,westchadic,West Chadic,,,1,Chadic,c9999ff
+7,,centralcushitic,Central Cushitic,,,1,Cushitic,c99ffff
+8,,egyptiancoptic,Egyptian-Coptic,,,1,,caa0000
+9,,southomotic,South Omotic,,,1,Omotic,ccccccc
+10,,semitic,Semitic,,,1,,cdd0000
+11,,masa,Masa,,,1,Chadic,cff4400
+12,,easterncushitic,Eastern Cushitic,,,1,Cushitic,cff6600
+13,,northomotic,North Omotic,,,1,Omotic,cff66ff
+14,,ainu,Ainu,,,2,,cffcc00
+15,,alacalufan,Alacalufan,,,3,,cffff00
+16,,yurok,Yurok,,,4,,cffffcc
+17,,algonquian,Algonquian,,,4,,cffffff
+18,,wiyot,Wiyot,,,4,,d000000
+19,,turkic,Turkic,,,5,,d0000dd
+20,,mongolic,Mongolic,,,5,,d009900
+21,,tungusic,Tungusic,,,5,,d66ff33
+22,,andoke,Andoke,,,7,,d990099
+23,,anem,Anêm,,,8,,d9999ff
+24,,arauan,Arauan,,,9,,d99ffff
+25,,araucanian,Araucanian,,,10,,daa0000
+27,,atakapa,Atakapa,,,12,,ddd0000
+28,,westerndaly,Western Daly,,,13,Daly,dff4400
+29,,wororan,Wororan,,,13,,dff6600
+30,,bunuban,Bunuban,,,13,,dff66ff
+31,,burarran,Burarran,,,13,,dffcc00
+32,,ngandi,Ngandi,,,13,Gunwinyguan,dffff00
+33,,yangmanic,Yangmanic,,,13,Gunwinyguan,dffffcc
+34,,ngalakan,Ngalakan,,,13,Gunwinyguan,dffffff
+35,,ndjebbana,Ndjébbana,,,13,,f000000
+36,,nakkara,Nakkara,,,13,,f0000dd
+37,,murrinhpatha,Murrinh-Patha,,,13,Daly,f009900
+38,,iwaidjan,Iwaidjan,,,13,,f66ff33
+39,,jaminjungan,Jaminjungan,,,13,,f990099
+40,,rembarnga,Rembarnga,,,13,Gunwinyguan,f9999ff
+41,,anindilyakwa,Anindilyakwa,,,13,Gunwinyguan,f99ffff
+42,,pamanyungan,Pama-Nyungan,,,13,,faa0000
+43,,ansonbay,Anson Bay,,,13,Daly,fcccccc
+44,,gunwinygic,Gunwinygic,,,13,Gunwinyguan,fdd0000
+45,,limilngan,Limilngan,,,13,,fff4400
+46,,nyulnyulan,Nyulnyulan,,,13,,fff6600
+47,,garrwan,Garrwan,,,13,,fff66ff
+48,,nunggubuyu,Nunggubuyu,,,13,Gunwinyguan,fffcc00
+49,,gaagudju,Gaagudju,,,13,,fffff00
+50,,southerndaly,Southern Daly,,,13,Daly,fffffcc
+51,,northerndaly,Northern Daly,,,13,Daly,fffffff
+52,,tangkic,Tangkic,,,13,,s000000
+53,,tiwian,Tiwian,,,13,,s0000dd
+54,,easterndaly,Eastern Daly,,,13,Daly,s009900
+55,,mangarrayi,Mangarrayi,,,13,,s66ff33
+56,,djeragan,Djeragan,,,13,,s990099
+57,,waray,Waray,,,13,Gunwinyguan,s9999ff
+58,,westbarkly,West Barkly,,,13,,s99ffff
+59,,laragiyan,Laragiyan,,,13,,saa0000
+60,,maran,Maran,,,13,,scccccc
+61,,wagiman,Wagiman,,,13,Gunwinyguan,sdd0000
+62,,aslian,Aslian,,,14,Mon-Khmer,sff4400
+63,,bahnaric,Bahnaric,,,14,Mon-Khmer,sff6600
+64,,pearic,Pearic,,,14,Mon-Khmer,sff66ff
+65,,monic,Monic,,,14,Mon-Khmer,sffcc00
+66,,munda,Munda,,,14,,sffff00
+67,,vietmuong,Viet-Muong,,,14,Mon-Khmer,sffffcc
+68,,nicobarese,Nicobarese,,,14,Mon-Khmer,sffffff
+69,,palaungkhmuic,Palaung-Khmuic,,,14,Mon-Khmer,t000000
+70,,khmer,Khmer,,,14,Mon-Khmer,t0000dd
+71,,khasian,Khasian,,,14,Mon-Khmer,t009900
+72,,katuic,Katuic,,,14,Mon-Khmer,t66ff33
+73,,barito,Barito,,,15,,t990099
+74,,chamorro,Chamorro,,,15,,t9999ff
+75,,centralmalayopolynesian,Central Malayo-Polynesian,,,15,,t99ffff
+76,,samabajaw,Sama-Bajaw,,,15,,taa0000
+79,,southhalmaherawestnewguinea,South Halmahera - West New Guinea,,,15,Eastern Malayo-Polynesian,tff4400
+82,,yapese,Yapese,,,15,,tffcc00
+84,,rejang,Rejang,,,15,,tffffcc
+85,,palauan,Palauan,,,15,,tffffff
+86,,paiwanic,Paiwanic,,,15,,c000000
+87,,oceanic,Oceanic,,,15,Eastern Malayo-Polynesian,c0000dd
+88,,lampungic,Lampungic,,,15,,c009900
+89,,atayalic,Atayalic,,,15,,c66ff33
+90,,javanese,Javanese,,,15,,c990099
+95,,landdayak,Land Dayak,,,15,,cdd0000
+96,,tsouic,Tsouic,,,15,,cff4400
+101,,awinpare,Awin-Pare,,,16,,cffffcc
+102,,aymaran,Aymaran,,,17,,cffffff
+103,,taulil,Taulil,,,18,,d000000
+104,,baining,Baining,,,18,,d0000dd
+105,,bangime,Bangime,,,207,,d009900
+106,,barbacoan,Barbacoan,,,19,,d66ff33
+107,,basque,Basque,,,20,,d990099
+108,,beothuk,Beothuk,,,21,,d9999ff
+109,,betoi,Betoi,,,22,,d99ffff
+110,,border,Border,,,23,,daa0000
+111,,bosavi,Bosavi,,,24,,dcccccc
+112,,bulakariver,Bulaka River,,,25,,ddd0000
+113,,burushaski,Burushaski,,,26,,dff4400
+114,,cacuanukak,Cacua-Nukak,,,27,,dff6600
+115,,caddoan,Caddoan,,,28,,dff66ff
+116,,cahuapanan,Cahuapanan,,,29,,dffcc00
+117,,camsa,Camsá,,,30,,dffff00
+118,,candoshi,Candoshi,,,31,,dffffcc
+119,,cariban,Cariban,,,32,,dffffff
+120,,cayuvava,Cayuvava,,,33,,f000000
+121,,chapacurawanham,Chapacura-Wanham,,,34,,f0000dd
+122,,guaymi,Guaymi,,,35,,f009900
+123,,talamanca,Talamanca,,,35,,f66ff33
+124,,chibchanproper,Chibchan Proper,,,35,,f990099
+125,,rama,Rama,,,35,,f9999ff
+126,,paya,Paya,,,35,,f99ffff
+127,,kuna,Kuna,,,35,,faa0000
+128,,motilon,Motilon,,,35,,fcccccc
+129,,chimila,Chimila,,,35,,fdd0000
+130,,aruak,Aruak,,,35,,fff4400
+131,,chimakuan,Chimakuan,,,36,,fff6600
+132,,chimuan,Chimúan,,,37,,fff66ff
+133,,chiquito,Chiquito,,,38,,fffcc00
+134,,chitimacha,Chitimacha,,,39,,fffff00
+135,,choco,Choco,,,40,,fffffcc
+136,,cholon,Cholon,,,41,,fffffff
+137,,chonproper,Chon Proper,,,42,,s000000
+138,,puelche,Puelche,,,42,,s0000dd
+139,,northernchukotkokamchatkan,Northern Chukotko-Kamchatkan,,,43,,s009900
+140,,southernchukotkokamchatkan,Southern Chukotko-Kamchatkan,,,43,,s66ff33
+141,,chumash,Chumash,,,44,,s990099
+142,,coahuiltecan,Coahuiltecan,,,45,,s9999ff
+143,,cofan,Cofán,,,46,,s99ffff
+144,,comecrudan,Comecrudan,,,47,,saa0000
+145,,cuitlatec,Cuitlatec,,,48,,scccccc
+146,,dagan,Dagan,,,49,,sdd0000
+147,,southcentraldravidian,South-Central Dravidian,,,50,,sff4400
+148,,centraldravidian,Central Dravidian,,,50,,sff6600
+149,,southerndravidian,Southern Dravidian,,,50,,sff66ff
+150,,northerndravidian,Northern Dravidian,,,50,,sffcc00
+151,,eastbirdshead,East Bird's Head,,,51,,sffff00
+152,,eastbougainville,East Bougainville,,,52,,sffffcc
+153,,eastgeelvinkbay,East Geelvink Bay,,,53,,sffffff
+154,,eaststrickland,East Strickland,,,54,,t000000
+155,,tate,Tate,,,55,,t0000dd
+156,,elemanproper,Eleman Proper,,,55,,t009900
+157,,aleut,Aleut,,,56,,t66ff33
+158,,eskimo,Eskimo,,,56,,t990099
+159,,esselen,Esselen,,,57,,t9999ff
+160,,gapun,Gapun,,,58,,t99ffff
+161,,suki,Suki,,,59,,taa0000
+162,,gogodala,Gogodala,,,59,,tcccccc
+163,,greatandamanese,Great Andamanese,,,6,,tdd0000
+164,,guahiban,Guahiban,,,60,,tff4400
+165,,guaicuruan,Guaicuruan,,,61,,tff6600
+166,,hadza,Hadza,,,62,,tff66ff
+167,,haida,Haida,,,63,,tffcc00
+168,,harakmbet,Harakmbet,,,64,,tffff00
+169,,hmongmien,Hmong-Mien,,,65,,tffffcc
+170,,yuman,Yuman,,,66,,tffffff
+171,,seri,Seri,,,66,,c000000
+172,,chimariko,Chimariko,,,66,,c0000dd
+173,,palaihnihan,Palaihnihan,,,66,,c009900
+174,,shasta,Shasta,,,66,,c66ff33
+175,,yana,Yana,,,66,,c990099
+176,,pomoan,Pomoan,,,66,,c9999ff
+177,,huarpe,Huarpe,,,67,,c99ffff
+178,,huavean,Huavean,,,68,,caa0000
+179,,boran,Boran,,,69,,ccccccc
+180,,huitoto,Huitoto,,,69,,cdd0000
+181,,germanic,Germanic,,,70,,cff4400
+182,,indic,Indic,,,70,,cff6600
+183,,iranian,Iranian,,,70,,cff66ff
+184,,romance,Romance,,,70,,cffcc00
+185,,slavic,Slavic,,,70,,cffff00
+186,,greek,Greek,,,70,,cffffcc
+187,,celtic,Celtic,,,70,,cffffff
+188,,baltic,Baltic,,,70,,d000000
+189,,armenian,Armenian,,,70,,d0000dd
+190,,albanian,Albanian,,,70,,d009900
+191,,southerniroquoian,Southern Iroquoian,,,71,,d66ff33
+192,,northerniroquoian,Northern Iroquoian,,,71,,d990099
+193,,itonama,Itonama,,,72,,d9999ff
+194,,jabuti,Jabutí,,,73,,d99ffff
+195,,japanese,Japanese,,,74,,daa0000
+196,,jirajaran,Jirajaran,,,75,,dcccccc
+197,,jivaroan,Jivaroan,,,76,,ddd0000
+198,,kadugli,Kadugli,,,77,,dff4400
+199,,kalapuyan,Kalapuyan,,,78,,dff6600
+200,,kapixana,Kapixana,,,212,,dff66ff
+201,,karankawa,Karankawa,,,79,,dffcc00
+202,,kariri,Kariri,,,206,,dffff00
+203,,karkaryuri,Karkar-Yuri,,,80,,dffffcc
+204,,karok,Karok,,,81,,dffffff
+205,,kartvelian,Kartvelian,,,82,,f000000
+206,,katukinan,Katukinan,,,83,,f0000dd
+207,,kaure,Kaure,,,84,,f009900
+208,,kayagar,Kayagar,,,85,,f66ff33
+209,,keresan,Keresan,,,86,,f990099
+210,,centralkhoisan,Central Khoisan,,,87,,f9999ff
+211,,southernkhoisan,Southern Khoisan,,,87,,f99ffff
+212,,northernkhoisan,Northern Khoisan,,,87,,faa0000
+213,,hoan,=|Hoan,,,87,,fcccccc
+214,,sandawe,Sandawe,,,87,,fdd0000
+215,,kiowatanoan,Kiowa-Tanoan,,,88,,fff4400
+216,,kiwaian,Kiwaian,,,89,,fff6600
+217,,kolopom,Kolopom,,,90,,fff66ff
+218,,korean,Korean,,,91,,fffcc00
+219,,kunza,Kunza,,,92,,fffff00
+220,,kuot,Kuot,,,93,,fffffcc
+221,,kusunda,Kusunda,,,94,,fffffff
+222,,kutenai,Kutenai,,,95,,s000000
+223,,kwaza,Kwaza,,,96,,s0000dd
+224,,kwerba,Kwerba,,,97,,s009900
+225,,kwomtari,Kwomtari,,,209,,s66ff33
+226,,fas,Fas,,,209,,s990099
+227,,laal,Laal,,,98,,s9999ff
+228,,lakesplain,Lakes Plain,,,99,,s99ffff
+229,,leftmay,Left May,,,210,,saa0000
+230,,leko,Leko,,,211,,scccccc
+231,,lowersepik,Lower Sepik,,,100,,sdd0000
+232,,botin,Botin,,,100,,sff4400
+233,,annaberg,Annaberg,,,100,,sff6600
+234,,mikarew,Mikarew,,,100,,sff66ff
+235,,lowerramu,Lower Ramu,,,100,,sffcc00
+236,,lule,Lule,,,101,,sffff00
+237,,yate,Yatê,,,102,,sffffcc
+238,,gekaingang,Ge-Kaingang,,,102,,sffffff
+239,,maxakali,Maxakalí,,,102,,t000000
+240,,botocudo,Botocudo,,,102,,t0000dd
+241,,guato,Guató,,,102,,t009900
+242,,bororo,Bororo,,,102,,t66ff33
+243,,karaja,Karajá,,,102,,t990099
+244,,rikbaktsa,Rikbaktsa,,,102,,t9999ff
+245,,maku,Máku,,,103,,t99ffff
+246,,marindproper,Marind Proper,,,104,,taa0000
+247,,southbirdshead,South Bird's Head,,,104,,tcccccc
+248,,mascoian,Mascoian,,,105,,tdd0000
+249,,matacoan,Matacoan,,,106,,tff4400
+250,,mayan,Mayan,,,107,,tff6600
+251,,misumalpan,Misumalpan,,,108,,tff66ff
+252,,mixezoque,Mixe-Zoque,,,109,,tffcc00
+253,,mombum,Mombum,,,110,,tffff00
+254,,monumbo,Monumbo,,,111,,tffffcc
+255,,moreheadanduppermarorivers,Morehead and Upper Maro Rivers,,,112,,tffffff
+256,,morwap,Morwap,,,113,,c000000
+257,,mosetenan,Mosetenan,,,114,,c0000dd
+258,,movima,Movima,,,115,,c009900
+259,,mura,Mura,,,116,,c66ff33
+260,,muskogean,Muskogean,,,117,,c990099
+261,,nadahup,Nadahup,,,177,,c9999ff
+262,,athapaskan,Athapaskan,,,118,,c99ffff
+263,,tlingit,Tlingit,,,118,,caa0000
+264,,eyak,Eyak,,,118,,ccccccc
+265,,nahali,Nahali,,,119,,cdd0000
+266,,lakdargwa,Lak-Dargwa,,,120,Daghestanian,cff4400
+267,,lezgic,Lezgic,,,120,Daghestanian,cff6600
+268,,nakh,Nakh,,,120,,cff66ff
+269,,avarandictsezic,Avar-Andic-Tsezic,,,120,Daghestanian,cffcc00
+270,,nambikuaran,Nambikuaran,,,121,,cffff00
+271,,natchez,Natchez,,,122,,cffffcc
+272,,igboid,Igboid,,,123,Benue-Congo,cffffff
+273,,easternmande,Eastern Mande,,,123,Mande,d000000
+274,,bantoid,Bantoid,,,123,Benue-Congo,d0000dd
+275,,kwa,Kwa,,,123,,d009900
+276,,northernatlantic,Northern Atlantic,,,123,Atlantic,d66ff33
+277,,kru,Kru,,,123,,d990099
+278,,nupoid,Nupoid,,,123,Benue-Congo,d9999ff
+279,,adamawa,Adamawa,,,123,Adamawa-Ubangi,d99ffff
+280,,tegem,Tegem,,,123,Kordofanian,daa0000
+281,,talodiproper,Talodi Proper,,,123,Kordofanian,dcccccc
+282,,rashad,Rashad,,,123,Kordofanian,ddd0000
+283,,platoid,Platoid,,,123,Benue-Congo,dff4400
+284,,katlatima,Katla-Tima,,,123,Kordofanian,dff6600
+285,,heiban,Heiban,,,123,Kordofanian,dff66ff
+286,,kainji,Kainji,,,123,Benue-Congo,dffcc00
+287,,ubangi,Ubangi,,,123,Adamawa-Ubangi,dffff00
+288,,ijoid,Ijoid,,,123,,dffffcc
+289,,idomoid,Idomoid,,,123,Benue-Congo,dffffff
+290,,gur,Gur,,,123,,f000000
+291,,southernatlantic,Southern Atlantic,,,123,Atlantic,f0000dd
+292,,westernmande,Western Mande,,,123,Mande,f009900
+293,,crossriver,Cross River,,,123,Benue-Congo,f66ff33
+294,,defoid,Defoid,,,123,Benue-Congo,f990099
+295,,edoid,Edoid,,,123,Benue-Congo,f9999ff
+296,,dogon,Dogon,,,123,,f99ffff
+297,,temein,Temein,,,124,Eastern Sudanic,faa0000
+298,,easternjebel,Eastern Jebel,,,124,Eastern Sudanic,fcccccc
+299,,lendu,Lendu,,,124,Central Sudanic,fdd0000
+300,,koman,Koman,,,124,,fff4400
+301,,kresh,Kresh,,,124,Central Sudanic,fff6600
+302,,nyimang,Nyimang,,,124,Eastern Sudanic,fff66ff
+303,,mangbutuefe,Mangbutu-Efe,,,124,Central Sudanic,fffcc00
+304,,morumadi,Moru-Ma'di,,,124,Central Sudanic,fffff00
+305,,bongobagirmi,Bongo-Bagirmi,,,124,Central Sudanic,fffffcc
+306,,fur,Fur,,,124,,fffffff
+307,,nubian,Nubian,,,124,Eastern Sudanic,s000000
+308,,songhay,Songhay,,,124,,s0000dd
+309,,westernsaharan,Western Saharan,,,124,Saharan,s009900
+310,,shabo,Shabo,,,124,,s66ff33
+311,,taman,Taman,,,124,Eastern Sudanic,s990099
+312,,easternsaharan,Eastern Saharan,,,124,Saharan,s9999ff
+313,,maban,Maban,,,124,,s99ffff
+314,,nara,Nara,,,124,Eastern Sudanic,saa0000
+315,,mangbetu,Mangbetu,,,124,Central Sudanic,scccccc
+316,,kuliak,Kuliak,,,124,Eastern Sudanic,sdd0000
+317,,kunama,Kunama,,,124,,sff4400
+318,,daju,Daju,,,124,Eastern Sudanic,sff6600
+319,,berta,Berta,,,124,,sff66ff
+320,,nilotic,Nilotic,,,124,Eastern Sudanic,sffcc00
+321,,gumuz,Gumuz,,,124,,sffff00
+322,,surmic,Surmic,,,124,Eastern Sudanic,sffffcc
+323,,nimboran,Nimboran,,,125,,sffffff
+324,,nivkh,Nivkh,,,126,,t000000
+325,,northwestcaucasian,Northwest Caucasian,,,127,,t0000dd
+326,,oksapmin,Oksapmin,,,128,,t009900
+327,,coosan,Coosan,,,129,,t66ff33
+328,,alsea,Alsea,,,129,,t990099
+329,,siuslawan,Siuslawan,,,129,,t9999ff
+330,,signlanguages,Sign Languages,,,130,,t99ffff
+331,,creolesandpidgins,Creoles and Pidgins,,,130,,taa0000
+332,,zapotecan,Zapotecan,,,131,,tcccccc
+333,,subtiabatlapanec,Subtiaba-Tlapanec,,,131,,tdd0000
+334,,mixtecan,Mixtecan,,,131,,tff4400
+335,,chinantecan,Chinantecan,,,131,,tff6600
+336,,otomian,Otomian,,,131,,tff66ff
+337,,amuzgoan,Amuzgoan,,,131,,tffcc00
+338,,pamean,Pamean,,,131,,tffff00
+339,,popolocan,Popolocan,,,131,,tffffcc
+340,,chichimec,Chichimec,,,131,,tffffff
+341,,paezan,Páezan,,,132,,c000000
+342,,panoan,Panoan,,,133,,c0000dd
+343,,pebayaguan,Peba-Yaguan,,,134,,c009900
+344,,yokuts,Yokuts,,,135,,c66ff33
+345,,maiduan,Maiduan,,,135,,c990099
+346,,chinookan,Chinookan,,,135,,c9999ff
+347,,costanoan,Costanoan,,,135,Utian,c99ffff
+348,,sahaptian,Sahaptian,,,135,,caa0000
+349,,wintuan,Wintuan,,,135,,ccccccc
+350,,miwok,Miwok,,,135,Utian,cdd0000
+351,,molala,Molala,,,135,,cff4400
+352,,tsimshianic,Tsimshianic,,,135,,cff6600
+353,,klamathmodoc,Klamath-Modoc,,,135,,cff66ff
+354,,puinave,Puinave,,,136,,cffcc00
+355,,puquina,Puquina,,,137,,cffff00
+356,,quechuan,Quechuan,,,138,,cffffcc
+357,,saliba,Sáliba,,,139,,cffffff
+358,,piaroa,Piaroa,,,139,,d000000
+359,,salinan,Salinan,,,140,,d0000dd
+360,,centralsalish,Central Salish,,,141,,d009900
+361,,tillamook,Tillamook,,,141,,d66ff33
+362,,interiorsalish,Interior Salish,,,141,,d990099
+363,,bellacoola,Bella Coola,,,141,,d9999ff
+364,,tsamosan,Tsamosan,,,141,,d99ffff
+365,,senagi,Senagi,,,142,,daa0000
+366,,sentani,Sentani,,,143,,dcccccc
+367,,uppersepik,Upper Sepik,,,144,,ddd0000
+368,,middlesepik,Middle Sepik,,,144,,dff4400
+369,,ram,Ram,,,144,,dff6600
+370,,sepikhill,Sepik Hill,,,144,,dff66ff
+371,,tamasepik,Tama Sepik,,,144,,dffcc00
+372,,yellowriver,Yellow River,,,144,,dffff00
+373,,shompen,Shompen,,,208,,dffffcc
+374,,westernarunachal,Western Arunachal,,,145,Tibeto-Burman,dffffff
+375,,chinese,Chinese,,,145,,f000000
+376,,digaroan,Digaroan,,,145,Tibeto-Burman,f0000dd
+378,,karen,Karen,,,145,Tibeto-Burman,f66ff33
+379,,lepcha,Lepcha,,,145,Tibeto-Burman,f990099
+380,,burmeselolo,Burmese-Lolo,,,145,Tibeto-Burman,f9999ff
+381,,bai,Bai,,,145,Tibeto-Burman,f99ffff
+382,,tani,Tani,,,145,Tibeto-Burman,faa0000
+383,,bodogaro,Bodo-Garo,,,145,Tibeto-Burman,fcccccc
+384,,naxi,Naxi,,,145,Tibeto-Burman,fdd0000
+385,,nungish,Nungish,,,145,Tibeto-Burman,fff4400
+386,,kukichin,Kuki-Chin,,,145,Tibeto-Burman,fff6600
+387,,qiangic,Qiangic,,,145,Tibeto-Burman,fff66ff
+388,,northernnaga,Northern Naga,,,145,Tibeto-Burman,fffcc00
+389,,bodic,Bodic,,,145,Tibeto-Burman,fffff00
+390,,rgyalrong,rGyalrong,,,145,Tibeto-Burman,fffffcc
+391,,siouan,Siouan,,,146,,fffffff
+392,,westernskou,Western Skou,,,147,,s000000
+393,,serrahills,Serra Hills,,,147,,s0000dd
+394,,warapu,Warapu,,,147,,s009900
+395,,krisa,Krisa,,,147,,s66ff33
+396,,lavukaleve,Lavukaleve,,,203,,s990099
+397,,savosavo,Savosavo,,,203,,s9999ff
+398,,bilua,Bilua,,,203,,s99ffff
+399,,southandamanese,South Andamanese,,,202,,saa0000
+400,,sulka,Sulka,,,148,,scccccc
+401,,sulung,Sulung,,,204,,sdd0000
+402,,tacame,Tacame,,,149,,sff4400
+403,,tacanan,Tacanan,,,150,,sff6600
+404,,kamtai,Kam-Tai,,,151,,sff66ff
+405,,kadai,Kadai,,,151,,sffcc00
+406,,hlai,Hlai,,,151,,sffff00
+407,,takelma,Takelma,,,152,,sffffcc
+408,,tarascan,Tarascan,,,153,,sffffff
+409,,tasmanian,Tasmanian,,,154,,t000000
+410,,taushiro,Taushiro,,,155,,t0000dd
+411,,teberan,Teberan,,,156,,t009900
+412,,pawaian,Pawaian,,,156,,t66ff33
+413,,tequistlatecan,Tequistlatecan,,,157,,t990099
+414,,ticuna,Ticuna,,,158,,t9999ff
+415,,kolanatanglapui,Kolana-Tanglapui,,,205,,t99ffff
+416,,makasaefatalukuoirata,Makasae-Fataluku-Oirata,,,205,,taa0000
+417,,greateralor,Greater Alor,,,205,,tcccccc
+418,,timotecuica,Timote-Cuica,,,159,,tdd0000
+419,,timucua,Timucua,,,160,,tff4400
+420,,tol,Tol,,,161,,tff6600
+421,,tonkawa,Tonkawa,,,162,,tff66ff
+422,,orya,Orya,,,163,,tffcc00
+423,,tor,Tor,,,163,,tffff00
+424,,urim,Urim,,,164,,tffffcc
+425,,marienberg,Marienberg,,,164,,tffffff
+426,,westwapei,West Wapei,,,164,,c000000
+427,,kombioarapesh,Kombio-Arapesh,,,164,,c0000dd
+428,,wapeipalei,Wapei-Palei,,,164,,c009900
+429,,totonacan,Totonacan,,,165,,c66ff33
+430,,easternhighlands,Eastern Highlands,,,166,,c990099
+431,,duna,Duna,,,166,,c9999ff
+432,,dani,Dani,,,166,,c99ffff
+433,,engan,Engan,,,166,,caa0000
+434,,finisterrehuon,Finisterre-Huon,,,166,,ccccccc
+435,,goilalan,Goilalan,,,166,,cdd0000
+436,,wissellakeskemandoga,Wissel Lakes-Kemandoga,,,166,,cff4400
+437,,madang,Madang,,,166,,cff6600
+438,,chimbu,Chimbu,,,166,,cff66ff
+439,,koiarian,Koiarian,,,166,,cffcc00
+440,,fasu,Fasu,,,166,,cffff00
+441,,ok,Ok,,,166,,cffffcc
+442,,binanderean,Binanderean,,,166,,cffffff
+443,,momuna,Momuna,,,166,,d000000
+444,,kutubuan,Kutubuan,,,166,,d0000dd
+445,,awjudumut,Awju-Dumut,,,166,,d009900
+446,,mek,Mek,,,166,,d66ff33
+447,,asmatkamoro,Asmat-Kamoro,,,166,,d990099
+448,,mairasitanahmerah,Mairasi-Tanahmerah,,,166,,d9999ff
+449,,angan,Angan,,,166,,d99ffff
+450,,mailuan,Mailuan,,,166,,daa0000
+451,,trumai,Trumai,,,167,,dcccccc
+452,,tucanoan,Tucanoan,,,168,,ddd0000
+453,,tunica,Tunica,,,169,,dff4400
+454,,tupari,Tupari,,,170,,dff6600
+455,,monde,Monde,,,170,,dff66ff
+456,,ramarama,Ramarama,,,170,,dffcc00
+457,,tupiguarani,Tupi-Guaraní,,,170,,dffff00
+458,,arikem,Arikem,,,170,,dffffcc
+459,,munduruku,Munduruku,,,170,,dffffff
+460,,turamakikorian,Turama-Kikorian,,,171,,f000000
+462,,saami,Saami,,,173,Finno-Ugric,f009900
+463,,samoyedic,Samoyedic,,,173,,f66ff33
+464,,ugric,Ugric,,,173,Finno-Ugric,f990099
+465,,finnic,Finnic,,,173,Finno-Ugric,f9999ff
+466,,mari,Mari,,,173,Finno-Ugric,f99ffff
+467,,mordvin,Mordvin,,,173,Finno-Ugric,faa0000
+468,,permic,Permic,,,173,Finno-Ugric,fcccccc
+469,,urarina,Urarina,,,174,,fdd0000
+470,,uruchipaya,Uru-Chipaya,,,175,,fff4400
+471,,corachol,Corachol,,,176,,fff6600
+472,,tubar,Tubar,,,176,,fff66ff
+473,,hopi,Hopi,,,176,,fffcc00
+474,,takic,Takic,,,176,,fffff00
+475,,cahita,Cahita,,,176,,fffffcc
+476,,aztecan,Aztecan,,,176,,fffffff
+477,,numic,Numic,,,176,,s000000
+478,,tepiman,Tepiman,,,176,,s0000dd
+479,,tarahumaran,Tarahumaran,,,176,,s009900
+480,,tubatulabal,Tubatulabal,,,176,,s66ff33
+481,,southernwakashan,Southern Wakashan,,,178,,s990099
+482,,northernwakashan,Northern Wakashan,,,178,,s9999ff
+483,,waorani,Waorani,,,179,,s99ffff
+484,,yukian,Yukian,,,180,,saa0000
+485,,wappo,Wappo,,,180,,scccccc
+486,,warao,Warao,,,181,,sdd0000
+487,,washo,Washo,,,182,,sff4400
+488,,westbomberai,West Bomberai,,,183,,sff6600
+489,,westbougainville,West Bougainville,,,184,,sff66ff
+490,,westernfly,Western Fly,,,186,,sffcc00
+491,,westbirdshead,West Bird's Head,,,185,,sffff00
+492,,kebar,Kebar,,,185,,sffffcc
+493,,northcentralbirdshead,North-Central Bird's Head,,,185,,sffffff
+494,,northhalmaheran,North Halmaheran,,,185,,t000000
+495,,hatam,Hatam,,,185,,t0000dd
+496,,yale,Yale,,,187,,t009900
+497,,yamana,Yámana,,,188,,t66ff33
+498,,yanomam,Yanomam,,,189,,t990099
+499,,yareban,Yareban,,,190,,t9999ff
+500,,yaruro,Yaruro,,,191,,t99ffff
+501,,yawa,Yawa,,,192,,taa0000
+502,,yele,Yele,,,193,,tcccccc
+503,,yeniseian,Yeniseian,,,194,,tdd0000
+504,,yuchi,Yuchi,,,195,,tff4400
+505,,yukaghir,Yukaghir,,,196,,tff6600
+506,,yuracare,Yuracare,,,197,,tff66ff
+507,,yurimangi,Yurimangí,,,198,,tffcc00
+508,,zamucoan,Zamucoan,,,199,,tffff00
+509,,zaparoan,Zaparoan,,,200,,tffffcc
+510,,zuni,Zuni,,,201,,tffffff
+377,,jinghpo,Jingpho,,,145,Tibeto-Burman,f009900
+461,,upperyuat,Piawi,,,172,,f0000dd
+511,,dhimalic,Dhimalic,,,145,Tibeto-Burman,c000000
+512,,mahakiranti,Mahakiranti,,,145,Tibeto-Burman,c0000dd
+513,,greatercentralphilippine,Greater Central Philippine,,,15,,cffffcc
+514,,northernluzon,Northern Luzon,,,15,,cffffff
+515,,centralluzon,Central Luzon,,,15,,d000000
+516,,batanic,Batanic,,,15,,d0000dd
+517,,bilic,Bilic,,,15,,d009900
+518,,northborneo,North Borneo,,,15,,d66ff33
+519,,malayosumbawan,Malayo-Sumbawan,,,15,,d990099
+520,,enggano,Enggano,,,15,,d9999ff
+521,,northwestsumatrabarrierislands,Northwest Sumatra-Barrier Islands,,,15,,d99ffff
+522,,rukai,Rukai,,,15,,daa0000
+523,,minahasan,Minahasan,,,15,,dcccccc
+524,,sangiric,Sangiric,,,15,,ddd0000
+525,,southsulawesi,South Sulawesi,,,15,,dff4400
+526,,celebic,Celebic,,,15,,dff6600
+527,,moraori,Moraori,,,213,,c000000
+528,,aikana,Aikaná,,,214,,c000000
+529,,iranxe,Iranxe,,,215,,c000000
+530,,northernarawakan,Northern Arawakan,,,11,,c000000
+531,,westernarawakan,Western Arawakan,,,11,,c0000dd
+532,,centralarawakan,Central Arawakan,,,11,,c009900
+533,,easternarawakan,Eastern Arawakan,,,11,,c66ff33
+534,,purus,Purus,,,11,,c990099
+535,,boliviaparana,Bolivia-Parana,,,11,,c9999ff
+536,,preandinearawakan,Pre-Andine Arawakan,,,11,,c99ffff
+537,,gbayamanzangbaka,Gbaya-Manza-Ngbaka,,,123,,c000000

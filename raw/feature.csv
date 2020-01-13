@@ -1,193 +1,193 @@
-id,chapter_id,name,blog_title
-1A,1,Consonant Inventories,consonant-inventories
-2A,2,Vowel Quality Inventories,vowel-quality-inventories
-3A,3,Consonant-Vowel Ratio,consonant-vowel-ratio
-4A,4,Voicing in Plosives and Fricatives,voicing-in-plosives-and-fricatives
-5A,5,Voicing and Gaps in Plosive Systems,voicing-and-gaps-in-plosive-systems
-6A,6,Uvular Consonants,uvular-consonants
-7A,7,Glottalized Consonants,glottalized-consonants
-8A,8,Lateral Consonants,lateral-consonants
-9A,9,The Velar Nasal,the-velar-nasal
-10A,10,Vowel Nasalization,vowel-nasalization
-11A,11,Front Rounded Vowels,front-rounded-vowels
-12A,12,Syllable Structure,syllable-structure
-13A,13,Tone,tone
-14A,14,Fixed Stress Locations,fixed-stress-locations
-15A,15,Weight-Sensitive Stress,weight-sensitive-stress
-16A,16,Weight Factors in Weight-Sensitive Stress Systems,weight-factors-in-weight-sensitive-stres
-17A,17,Rhythm Types,rhythm-types
-18A,18,Absence of Common Consonants,absence-of-common-consonants
-19A,19,Presence of Uncommon Consonants,presence-of-uncommon-consonants
-20A,20,Fusion of Selected Inflectional Formatives,fusion-of-selected-inflectional-formativ
-21A,21,Exponence of Selected Inflectional Formatives,exponence-of-selected-inflectional-forma
-22A,22,Inflectional Synthesis of the Verb,inflectional-synthesis-of-the-verb
-23A,23,Locus of Marking in the Clause,locus-of-marking-in-the-clause
-24A,24,Locus of Marking in Possessive Noun Phrases,locus-of-marking-in-possessive-noun-phra
-25A,25,Locus of Marking: Whole-language Typology,locus-of-marking-whole-language-typology
-26A,26,Prefixing vs. Suffixing in Inflectional Morphology,prefixing-vs-suffixing-in-inflectional-m
-27A,27,Reduplication,reduplication
-28A,28,Case Syncretism,case-syncretism
-29A,29,Syncretism in Verbal Person/Number Marking,syncretism-in-verbal-person-number-marki
-30A,30,Number of Genders,number-of-genders
-31A,31,Sex-based and Non-sex-based Gender Systems,sex-based-and-non-sex-based-gender-syste
-32A,32,Systems of Gender Assignment,systems-of-gender-assignment
-33A,33,Coding of Nominal Plurality,coding-of-nominal-plurality
-34A,34,Occurrence of Nominal Plurality,occurrence-of-nominal-plurality
-35A,35,Plurality in Independent Personal Pronouns,plurality-in-independent-personal-pronou
-36A,36,The Associative Plural,the-associative-plural
-37A,37,Definite Articles,definite-articles
-38A,38,Indefinite Articles,indefinite-articles
-39A,39,Inclusive/Exclusive Distinction in Independent Pronouns,inclusive-exclusive-distinction-in-indep
-40A,40,Inclusive/Exclusive Distinction in Verbal Inflection,inclusive-exclusive-distinction-in-verba
-41A,41,Distance Contrasts in Demonstratives,distance-contrasts-in-demonstratives
-42A,42,Pronominal and Adnominal Demonstratives,pronominal-and-adnominal-demonstratives
-43A,43,Third Person Pronouns and Demonstratives,third-person-pronouns-and-demonstratives
-44A,44,Gender Distinctions in Independent Personal Pronouns,gender-distinctions-in-independent-perso
-45A,45,Politeness Distinctions in Pronouns,politeness-distinctions-in-pronouns
-46A,46,Indefinite Pronouns,indefinite-pronouns
-47A,47,Intensifiers and Reflexive Pronouns,intensifiers-and-reflexive-pronouns
-48A,48,Person Marking on Adpositions,person-marking-on-adpositions
-49A,49,Number of Cases,number-of-cases
-50A,50,Asymmetrical Case-Marking,asymmetrical-case-marking
-51A,51,Position of Case Affixes,position-of-case-affixes
-52A,52,Comitatives and Instrumentals,comitatives-and-instrumentals
-53A,53,Ordinal Numerals,ordinal-numerals
-54A,54,Distributive Numerals,distributive-numerals
-55A,55,Numeral Classifiers,numeral-classifiers
-56A,56,Conjunctions and Universal Quantifiers,conjunctions-and-universal-quantifiers
-57A,57,Position of Pronominal Possessive Affixes,position-of-pronominal-possessive-affixe
-58A,58,Obligatory Possessive Inflection,obligatory-possessive-inflection
-59A,59,Possessive Classification,possessive-classification
-60A,60,"Genitives, Adjectives and Relative Clauses",genitives-adjectives-and-relative-clause
-61A,61,Adjectives without Nouns,adjectives-without-nouns
-62A,62,Action Nominal Constructions,action-nominal-constructions
-63A,63,Noun Phrase Conjunction,noun-phrase-conjunction
-64A,64,Nominal and Verbal Conjunction,nominal-and-verbal-conjunction
-65A,65,Perfective/Imperfective Aspect,perfective-imperfective-aspect
-66A,66,The Past Tense,the-past-tense
-67A,67,The Future Tense,the-future-tense
-68A,68,The Perfect,the-perfect
-69A,69,Position of Tense-Aspect Affixes,position-of-tense-aspect-affixes
-70A,70,The Morphological Imperative,the-morphological-imperative
-71A,71,The Prohibitive,the-prohibitive
-72A,72,Imperative-Hortative Systems,imperative-hortative-systems
-73A,73,The Optative,the-optative
-74A,74,Situational Possibility,situational-possibility
-75A,75,Epistemic Possibility,epistemic-possibility
-76A,76,Overlap between Situational and Epistemic Modal Marking,overlap-between-situational-and-epistemi
-77A,77,Semantic Distinctions of Evidentiality,semantic-distinctions-of-evidentiality
-78A,78,Coding of Evidentiality,coding-of-evidentiality
-79A,79,Suppletion According to Tense and Aspect,suppletion-according-to-tense-and-aspect
-80A,80,Verbal Number and Suppletion,verbal-number-and-suppletion
-81A,81,"Order of Subject, Object and Verb",order-of-subject-object-and-verb
-82A,82,Order of Subject and Verb,order-of-subject-and-verb
-83A,83,Order of Object and Verb,order-of-object-and-verb
-84A,84,"Order of Object, Oblique, and Verb",order-of-object-oblique-and-verb
-85A,85,Order of Adposition and Noun Phrase,order-of-adposition-and-noun-phrase
-86A,86,Order of Genitive and Noun,order-of-genitive-and-noun
-87A,87,Order of Adjective and Noun,order-of-adjective-and-noun
-88A,88,Order of Demonstrative and Noun,order-of-demonstrative-and-noun
-89A,89,Order of Numeral and Noun,order-of-numeral-and-noun
-90A,90,Order of Relative Clause and Noun,order-of-relative-clause-and-noun
-91A,91,Order of Degree Word and Adjective,order-of-degree-word-and-adjective
-92A,92,Position of Polar Question Particles,position-of-polar-question-particles
-93A,93,Position of Interrogative Phrases in Content Questions,position-of-interrogative-phrases-in-con
-94A,94,Order of Adverbial Subordinator and Clause,order-of-adverbial-subordinator-and-clau
-95A,95,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,relationship-between-the-order-of-object
-96A,96,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,relationship-between-the-order-of-object-1
-97A,97,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,relationship-between-the-order-of-object-2
-98A,98,Alignment of Case Marking of Full Noun Phrases,alignment-of-case-marking-of-full-noun-p
-99A,99,Alignment of Case Marking of Pronouns,alignment-of-case-marking-of-pronouns
-100A,100,Alignment of Verbal Person Marking,alignment-of-verbal-person-marking
-101A,101,Expression of Pronominal Subjects,expression-of-pronominal-subjects
-102A,102,Verbal Person Marking,verbal-person-marking
-103A,103,Third Person Zero of Verbal Person Marking,third-person-zero-of-verbal-person-marki
-104A,104,Order of Person Markers on the Verb,order-of-person-markers-on-the-verb
-105A,105,Ditransitive Constructions: The Verb 'Give',ditransitive-constructions-the-verb-give
-106A,106,Reciprocal Constructions,reciprocal-constructions
-107A,107,Passive Constructions,passive-constructions
-108A,108,Antipassive Constructions,antipassive-constructions
-109A,109,Applicative Constructions,applicative-constructions
-110A,110,Periphrastic Causative Constructions,periphrastic-causative-constructions
-111A,111,Nonperiphrastic Causative Constructions,nonperiphrastic-causative-constructions
-112A,112,Negative Morphemes,negative-morphemes
-113A,113,Symmetric and Asymmetric Standard Negation,symmetric-and-asymmetric-standard-negati
-114A,114,Subtypes of Asymmetric Standard Negation,subtypes-of-asymmetric-standard-negation
-115A,115,Negative Indefinite Pronouns and Predicate Negation,negative-indefinite-pronouns-and-predica
-116A,116,Polar Questions,polar-questions
-117A,117,Predicative Possession,predicative-possession
-118A,118,Predicative Adjectives,predicative-adjectives
-119A,119,Nominal and Locational Predication,nominal-and-locational-predication
-120A,120,Zero Copula for Predicate Nominals,zero-copula-for-predicate-nominals
-121A,121,Comparative Constructions,comparative-constructions
-122A,122,Relativization on Subjects,relativization-on-subjects
-123A,123,Relativization on Obliques,relativization-on-obliques
-124A,124,'Want' Complement Subjects,want-complement-subjects
-125A,125,Purpose Clauses,purpose-clauses
-126A,126,'When' Clauses,when-clauses
-127A,127,Reason Clauses,reason-clauses
-128A,128,Utterance Complement Clauses,utterance-complement-clauses
-129A,129,Hand and Arm,hand-and-arm
-130A,130,Finger and Hand,finger-and-hand
-131A,131,Numeral Bases,numeral-bases
-132A,132,Number of Non-Derived Basic Colour Categories,number-of-non-derived-basic-colour-categ
-133A,133,Number of Basic Colour Categories,number-of-basic-colour-categories
-134A,134,Green and Blue,green-and-blue
-135A,135,Red and Yellow,red-and-yellow
-136A,136,M-T Pronouns,m-t-pronouns
-137A,137,N-M Pronouns,n-m-pronouns
-138A,138,Tea,tea
-139A,139,Irregular Negatives in Sign Languages,irregular-negatives-in-sign-languages
-140A,140,Question Particles in Sign Languages,question-particles-in-sign-languages
-141A,141,Writing Systems,writing-systems
-142A,142,Para-Linguistic Usages of Clicks,para-linguistic-usages-of-clicks
-143F,143,Postverbal Negative Morphemes,postverbal-negative-morphemes
-90B,90,Prenominal relative clauses,prenominal-relative-clauses
-144Y,144,The Position of Negative Morphemes in Object-Initial Languages,the-position-of-negative-morphemes-in-ob
-90C,90,Postnominal relative clauses,postnominal-relative-clauses
-144P,144,NegSOV Order,negsov-order
-144J,144,SVNegO Order,svnego-order
-144N,144,Obligatory Double Negation in SOV languages,obligatory-double-negation-in-sov-langua
-144S,144,SOVNeg Order,sovneg-order
-144X,144,Verb-Initial with Clause-Final Negative,verb-initial-with-clause-final-negative
-144A,144,"Position of Negative Word With Respect to Subject, Object, and Verb",position-of-negative-word-with-respect-t
-90G,90,Double-headed relative clauses,double-headed-relative-clauses
-90E,90,Correlative relative clauses,correlative-relative-clauses
-144V,144,Verb-Initial with Preverbal Negative,verb-initial-with-preverbal-negative
-144I,144,SNegVO Order,snegvo-order
-144R,144,SONegV Order,sonegv-order
-143B,143,Obligatory Double Negation,obligatory-double-negation
-144M,144,Multiple Negative Constructions in SOV Languages,multiple-negative-constructions-in-sov-l
-144U,144,Double negation in verb-initial languages,double-negation-in-verb-initial-language
-144G,144,Optional Double Negation in SVO languages,optional-double-negation-in-svo-language
-144K,144,SVONeg Order,svoneg-order
-144B,144,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,position-of-negative-words-relative-to-b
-144F,144,Obligatory Double Negation in SVO languages,obligatory-double-negation-in-svo-langua
-90D,90,Internally-headed relative clauses,internally-headed-relative-clauses
-144E,144,Multiple Negative Constructions in SVO Languages,multiple-negative-constructions-in-svo-l
-144D,144,The Position of Negative Morphemes in SVO Languages,the-position-of-negative-morphemes-in-sv
-81B,81,"Languages with two Dominant Orders of Subject, Object, and Verb",languages-with-two-dominant-orders-of-su
-143E,143,Preverbal Negative Morphemes,preverbal-negative-morphemes
-143C,143,Optional Double Negation,optional-double-negation
-90F,90,Adjoined relative clauses,adjoined-relative-clauses
-143A,143,Order of Negative Morpheme and Verb,order-of-negative-morpheme-and-verb-1
-144W,144,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,verb-initial-with-negative-that-is-immed
-144O,144,Optional Double Negation in SOV languages,optional-double-negation-in-sov-language
-144Q,144,SNegOV Order,snegov-order
-144L,144,The Position of Negative Morphemes in SOV Languages,the-position-of-negative-morphemes-in-so
-144H,144,NegSVO Order,negsvo-order
-144C,144,Languages with different word order in negative clauses,languages-with-different-word-order-in-n
-144T,144,The Position of Negative Morphemes in Verb-Initial Languages,the-position-of-negative-morphemes-in-ve
-143G,143,Minor morphological means of signaling negation,minor-morphological-means-of-signaling-n
-143D,143,Optional Triple Negation,optional-triple-negation
-39B,39,Inclusive/Exclusive Forms in Pama-Nyungan,inclusive-exclusive-forms-in-pama-nyunga
-137B,137,M in Second Person Singular,m-in-second-person-singular
-136B,136,M in First Person Singular,m-in-first-person-singular
-109B,109,Other Roles of Applied Objects,other-roles-of-applied-objects
-10B,10,Nasal Vowels in West Africa,nasal-vowels-in-west-africa
-25B,25,Zero Marking of A and P Arguments,zero-marking-of-a-and-p-arguments
-21B,21,Exponence of Tense-Aspect-Mood Inflection,exponence-of-tense-aspect-mood-inflectio
-108B,108,Productivity of the Antipassive Construction,productivity-of-the-antipassive-construc
-130B,130,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',cultural-categories-of-languages-with-id
-58B,58,Number of Possessive Nouns,number-of-possessive-nouns
-79B,79,Suppletion in Imperatives and Hortatives,suppletion-in-imperatives-and-hortatives
+pk,contribution_pk,id,blog_title,representation,ordinal_qualifier
+1,1,1A,,563,A
+2,2,2A,,564,A
+3,3,3A,,564,A
+4,4,4A,,567,A
+5,5,5A,,567,A
+6,6,6A,,567,A
+7,7,7A,,567,A
+8,8,8A,,567,A
+9,9,9A,,469,A
+10,10,10A,,244,A
+11,11,11A,,562,A
+12,12,12A,,486,A
+13,13,13A,,527,A
+14,14,14A,,502,A
+15,15,15A,,500,A
+16,16,16A,,500,A
+17,17,17A,,323,A
+18,18,18A,,567,A
+19,19,19A,,567,A
+20,20,20A,,165,A
+21,21,21A,,162,A
+22,22,22A,,145,A
+23,23,23A,,236,A
+24,24,24A,,236,A
+25,25,25A,,236,A
+26,26,26A,,969,A
+27,27,27A,,368,A
+28,28,28A,,198,A
+29,29,29A,,198,A
+30,30,30A,,257,A
+31,31,31A,,257,A
+32,32,32A,,257,A
+33,33,33A,,1066,A
+34,34,34A,,291,A
+35,35,35A,,261,A
+36,36,36A,,236,A
+37,37,37A,,620,A
+38,38,38A,,534,A
+39,39,39A,,200,A
+40,40,40A,,200,A
+41,41,41A,,234,A
+42,42,42A,,201,A
+43,43,43A,,225,A
+44,44,44A,,378,A
+45,45,45A,,207,A
+46,46,46A,,326,A
+47,47,47A,,168,A
+48,48,48A,,378,A
+49,49,49A,,261,A
+50,50,50A,,261,A
+51,51,51A,,1031,A
+52,52,52A,,322,A
+53,53,53A,,321,A
+54,54,54A,,251,A
+55,55,55A,,400,A
+56,56,56A,,116,A
+57,57,57A,,902,A
+58,58,58A,,244,A
+59,59,59A,,243,A
+60,60,60A,,138,A
+61,61,61A,,124,A
+62,62,62A,,168,A
+63,63,63A,,234,A
+64,64,64A,,301,A
+65,65,65A,,222,A
+66,66,66A,,222,A
+67,67,67A,,222,A
+68,68,68A,,222,A
+69,69,69A,,1131,A
+70,70,70A,,547,A
+71,71,71A,,495,A
+72,72,72A,,375,A
+73,73,73A,,319,A
+74,74,74A,,234,A
+75,75,75A,,240,A
+76,76,76A,,207,A
+77,77,77A,,418,A
+78,78,78A,,418,A
+79,79,79A,,193,A
+80,80,80A,,193,A
+81,81,81A,,1377,A
+82,82,82A,,1497,A
+83,83,83A,,1519,A
+84,84,84A,,500,A
+85,85,85A,,1183,A
+86,86,86A,,1249,A
+87,87,87A,,1366,A
+88,88,88A,,1224,A
+89,89,89A,,1153,A
+90,90,90A,,824,A
+91,91,91A,,481,A
+92,92,92A,,884,A
+93,93,93A,,902,A
+94,94,94A,,659,A
+95,95,95A,,1142,A
+96,96,96A,,879,A
+97,97,97A,,1316,A
+98,98,98A,,190,A
+99,99,99A,,172,A
+100,100,100A,,380,A
+101,101,101A,,711,A
+102,102,102A,,378,A
+103,103,103A,,380,A
+104,104,104A,,379,A
+105,105,105A,,378,A
+106,106,106A,,175,A
+107,107,107A,,373,A
+108,108,108A,,194,A
+109,109,109A,,183,A
+110,110,110A,,118,A
+111,111,111A,,310,A
+112,112,112A,,1157,A
+113,113,113A,,297,A
+114,114,114A,,297,A
+115,115,115A,,206,A
+116,116,116A,,955,A
+117,117,117A,,240,A
+118,118,118A,,386,A
+119,119,119A,,386,A
+120,120,120A,,386,A
+121,121,121A,,167,A
+122,122,122A,,166,A
+123,123,123A,,112,A
+124,124,124A,,283,A
+125,125,125A,,170,A
+126,126,126A,,174,A
+127,127,127A,,169,A
+128,128,128A,,143,A
+129,129,129A,,617,A
+130,130,130A,,593,A
+131,131,131A,,196,A
+132,132,132A,,119,A
+133,133,133A,,119,A
+134,134,134A,,120,A
+135,135,135A,,120,A
+136,136,136A,,230,A
+137,137,137A,,230,A
+138,138,138A,,230,A
+139,139,139A,,35,A
+140,140,140A,,38,A
+141,141,141A,,6,A
+142,142,142A,,143,A
+143,143,143F,,1324,F
+144,90,90B,,191,B
+145,144,144Y,,16,Y
+146,90,90C,,620,C
+147,144,144P,,408,P
+148,144,144J,,446,J
+149,144,144N,,45,N
+150,144,144S,,489,S
+151,144,144X,,151,X
+152,144,144A,,1189,A
+153,90,90G,,5,G
+154,90,90E,,23,E
+155,144,144V,,152,V
+156,144,144I,,421,I
+157,144,144R,,411,R
+158,143,143B,,119,B
+159,144,144M,,54,M
+160,144,144U,,17,U
+161,144,144G,,35,G
+162,144,144K,,446,K
+163,144,144B,,609,B
+164,144,144F,,56,F
+165,90,90D,,63,D
+166,144,144E,,48,E
+167,144,144D,,463,D
+168,81,81B,,67,B
+169,143,143E,,1324,E
+170,143,143C,,81,C
+171,90,90F,,10,F
+172,143,143A,,1324,A
+173,144,144W,,151,W
+174,144,144O,,31,O
+175,144,144Q,,408,Q
+176,144,144L,,572,L
+177,144,144H,,420,H
+178,144,144C,,28,C
+179,144,144T,,152,T
+180,143,143G,,1324,G
+181,143,143D,,6,D
+182,39,39B,,71,B
+183,137,137B,,230,B
+184,136,136B,,230,B
+185,109,109B,,183,B
+186,10,10B,,40,B
+187,25,25B,,235,B
+188,21,21B,,160,B
+189,108,108B,,186,B
+190,130,130B,,72,B
+191,58,58B,,243,B
+192,79,79B,,193,B
