@@ -5,7 +5,7 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Dryer, Matthew S. & Haspelmath, Martin (eds.) 2008. The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https://wals.info)",
+    "dc:bibliographicCitation": "Dryer, Matthew S. & Haspelmath, Martin (eds.) 2011. The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https://wals.info)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:identifier": "https://wals.info",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/wals",
-            "dc:created": "d538e89"
+            "dc:created": "v2008"
         },
         {
             "rdf:type": "prov:Entity",
@@ -44,7 +44,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 58065,
+            "dc:extent": 76492,
             "tableSchema": {
                 "columns": [
                     {
@@ -141,7 +141,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 142,
+            "dc:extent": 192,
             "tableSchema": {
                 "columns": [
                     {
@@ -172,6 +172,10 @@
                     {
                         "datatype": "string",
                         "name": "Area"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Chapter"
                     }
                 ],
                 "foreignKeys": [
@@ -195,7 +199,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 659,
+            "dc:extent": 1143,
             "tableSchema": {
                 "columns": [
                     {
@@ -247,7 +251,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 2561,
+            "dc:extent": 2678,
             "tableSchema": {
                 "columns": [
                     {
@@ -325,6 +329,16 @@
                     {
                         "separator": " ",
                         "name": "ISO_codes"
+                    },
+                    {
+                        "dc:description": "https://wals.info/chapter/s1#3.1._The_WALS_samples",
+                        "datatype": "boolean",
+                        "name": "Samples_100"
+                    },
+                    {
+                        "dc:description": "https://wals.info/chapter/s1#3.1._The_WALS_samples",
+                        "datatype": "boolean",
+                        "name": "Samples_200"
                     }
                 ],
                 "primaryKey": [
@@ -334,7 +348,7 @@
             "url": "languages.csv"
         },
         {
-            "dc:extent": 4912,
+            "dc:extent": 4991,
             "tableSchema": {
                 "columns": [
                     {

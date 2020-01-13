@@ -1,0 +1,2679 @@
+id,name,ascii_name,genus_id,longitude,latitude,samples_100,samples_200
+apk,A-Pucikwar,apucikwar,greatandamanese,92.8333333333,12.1666666667,f,f
+aci,Achí,achi,mayan,-90.5,15.1666666667,f,f
+ash,Adyghe (Shapsugh),adygheshapsugh,northwestcaucasian,38.75,45,f,f
+aka,Aka,aka,bantoid,16.25,2.66666666667,f,f
+akb,Aka-Biada,akabiada,greatandamanese,92.5,11.6666666667,f,f
+akc,Aka-Cari,akacari,greatandamanese,93,13.5,f,f
+akk,Aka-Kede,akakede,greatandamanese,92.75,12.75,f,f
+awk,Akwa,akwa,bantoid,6.33333333333,10.0833333333,f,f
+alx,Alas,alas,sumatra,97.8333333333,3.66666666667,f,f
+alt,Alsatian,alsatian,germanic,7.5,48.5,f,f
+anx,Andi,andi,avarandictsezic,46.25,42.75,f,f
+abh,Arabic (Bahrain),arabicbahrain,semitic,50.5,26,f,f
+arn,Arabic (Borno Nigerian),arabicbornonigerian,semitic,12.4166666667,8.58333333333,f,f
+akm,Arakanese (Marma),arakanesemarma,burmeselolo,92.5,21.5,f,f
+ard,Arandai,arandai,southbirdshead,133,-2.08333333333,f,f
+arz,Armenian (Iranian),armenianiranian,armenian,51.6666666667,32.6666666667,f,f
+arr,Arrernte,arrernte,pamanyungan,134,-24,f,f
+ast,Asturian,asturian,romance,-6,43.25,f,f
+aul,Aulua,aulua,oceanic,167.666666667,-16.3333333333,f,f
+auy,Auyana,auyana,easternhighlands,145.75,-6.5,f,f
+avt,Avatime,avatime,kwa,0.416666666667,6.83333333333,f,f
+ayn,Aynu,aynu,turkic,76,39.5,f,f
+bdg,Badaga,badaga,southerndravidian,76.75,11.6666666667,f,f
+bgi,Bagri,bagri,indic,74.3333333333,29.5833333333,f,f
+bah,Bahuana,bahuana,arawakan,-62.5,-0.5,f,f
+bjs,Bajau (Semporna),bajausemporna,samabajaw,118.5,4.5,f,f
+bmn,Bamun,bamun,bantoid,10.9166666667,5.5,f,f
+ban,Bana,bana,biumandara,13.5833333333,10.4166666667,f,f
+bnd,Bandi,bandi,westernmande,-10.25,8.08333333333,f,f
+brl,Baragaunle,baragaunle,bodic,83.8333333333,28.8333333333,f,f
+bat,Batak,batak,mesophilippine,119.083333333,10.25,f,f
+bth,Bathari,bathari,semitic,56,18,f,f
+bou,Berber (Wargla),berberwargla,berber,5.33333333333,31.9166666667,f,f
+bfd,Biafada,biafada,northernatlantic,-15.1666666667,11.4166666667,f,f
+bit,Biatah,biatah,landdayak,110,1.25,f,f
+biq,Bilaan,bilaan,southmindanao,125.333333333,6,f,f
+bos,Bosnian,bosnian,slavic,18,43,f,f
+bru,Bru (Eastern),brueastern,katuic,106,17.3333333333,f,f
+buy,Buli (in Ghana),buliinghana,gur,-1.25,10.5,f,f
+bpa,Bura-Pabir,burapabir,biumandara,12.25,10.5,f,f
+chz,Chaozhou,chaozhou,chinese,116.666666667,23.6666666667,f,f
+cht,Chatino (Nopala),chatinonopala,zapotecan,-97.1666666667,16.0833333333,f,f
+ckh,Cheke Holo,chekeholo,oceanic,159.666666667,-8.33333333333,f,f
+csc,Chinantec (Sochiapan),chinantecsochiapan,chinantecan,-96.6666666667,17.75,f,f
+cpw,Chippewa (Red Lake and Pillager),chippewaredlakeandpillager,algonquian,-95,48,f,f
+crh,Chru,chru,malayic,108.5,11.5,f,f
+cly,Chulym,chulym,turkic,89.6666666667,54.3333333333,f,f
+cwe,Columbia-Wenatchi,columbiawenatchi,interiorsalish,-120,47.5,f,f
+dbw,Dan (Blowo),danblowo,easternmande,-8.16666666667,7.33333333333,f,f
+dhm,Dhimal,dhimal,bodic,87.75,26.6666666667,f,f
+dda,Dhuwal (Dätiwuy),dhuwaldatiwuy,pamanyungan,136.25,-12.1666666667,f,f
+dgi,Dogri,dogri,indic,75,33,f,f
+dol,Dolgan,dolgan,turkic,98,71.25,f,f
+dbr,Dutch (Brabantic),dutchbrabantic,germanic,4.5,50.75,f,f
+dli,Dutch (Limburg),dutchlimburg,germanic,5.5,51,f,f
+duz,Dutch (Zeeuws),dutchzeeuws,germanic,3.75,51.5,f,f
+els,Elseng,elseng,morwap,140.5,-3,f,f
+eml,Embaloh,embaloh,sulawesi,112.333333333,1.16666666667,f,f
+ets,Etsako,etsako,edoid,6.5,7.25,f,f
+fiw,Fijian (Wayan),fijianwayan,oceanic,177.3,-17,f,f
+fea,Frisian (Eastern),frisianeastern,germanic,7.5,53.5833333333,f,f
+fno,Frisian (North),frisiannorth,germanic,9,54.5,f,f
+fli,Ful (Liptako),fulliptako,northernatlantic,0.5,13.5,f,f
+fbf,Fula (Burkina Faso),fulaburkinafaso,northernatlantic,0,14,f,f
+fgo,Fulani (Gombe),fulanigombe,northernatlantic,11.25,10.25,f,f
+fum,Fulfulde (Maasina),fulfuldemaasina,northernatlantic,-5,15,f,f
+gml,Gamilaraay,gamilaraay,pamanyungan,149.5,-29.8333333333,f,f
+gpz,German (Appenzell),germanappenzell,germanic,9.33333333333,47.3333333333,f,f
+gba,German (Bavarian),germanbavarian,germanic,11.5,49,f,f
+gbl,German (Berlin),germanberlin,germanic,13.3333333333,52.5,f,f
+gbe,German (Bern),germanbern,germanic,7.41666666667,47,f,f
+gha,German (Hannover),germanhannover,germanic,9.66666666667,52.4166666667,f,f
+gma,German (Mansfeldisch),germanmansfeldisch,germanic,11.5,51.5833333333,f,f
+gos,German (Ostschweiz),germanostschweiz,germanic,9.25,47.4166666667,f,f
+grp,German (Ripuarian),germanripuarian,germanic,7,51,f,f
+gtg,German (Thurgau),germanthurgau,germanic,9.16666666667,47.5833333333,f,f
+gth,German (Thuringian),germanthuringian,germanic,11,51,f,f
+gti,German (Timisoara),germantimisoara,germanic,21.25,45.75,f,f
+gau,German (Upper Austrian),germanupperaustrian,germanic,14,47,f,f
+gvi,German (Viennese),germanviennese,germanic,16.3333333333,48.1666666667,f,f
+mmz,Mam (Southern),mamsouthern,mayan,-91.6666666667,14.8333333333,f,f
+gwe,German (Westphalian),germanwestphalian,germanic,7.5,52,f,f
+gzu,German (Zurich),germanzurich,germanic,8.5,47.4166666667,f,f
+gho,Ghotuo,ghotuo,edoid,5.75,7.08333333333,f,f
+gdr,Gidar,gidar,biumandara,14,10,f,f
+giz,Giziga,giziga,biumandara,14.1666666667,10.3333333333,f,f
+grt,Gorontalo,gorontalo,sulawesi,122,0.5,f,f
+gcy,Greek (Cypriot),greekcypriot,greek,33,34.75,f,f
+gdl,Guadeloupe Creole,guadeloupecreole,creolesandpidgins,-61.5,16.25,f,f
+guq,Guaque,guaque,cariban,-72.0833333333,1,f,f
+gue,Guere,guere,kru,-7.75,6.66666666667,f,f
+gfr,Guianese French Creole,guianesefrenchcreole,creolesandpidgins,-53,5,f,f
+gbc,Guinea Bissau Crioulo,guineabissaucrioulo,creolesandpidgins,-15,12,f,f
+gmt,Gumatj,gumatj,pamanyungan,135.5,-12.5,f,f
+gut,Gurma (Togo),gurmatogo,gur,0.666666666667,10.75,f,f
+gro,Guro,guro,easternmande,-6,7,f,f
+gus,Gusii,gusii,bantoid,34.8333333333,-0.75,f,f
+hsl,Haisla,haisla,northernwakashan,-128.75,54,f,f
+hrr,Harari,harari,semitic,42.1666666667,9.25,f,f
+hav,Havasupai,havasupai,yuman,-112.5,35.75,f,f
+hia,Hianacoto,hianacoto,cariban,-71,0.833333333333,f,f
+hnk,Hinukh,hinukh,avarandictsezic,46,42.1666666667,f,f
+hre,Hre,hre,bahnaric,108.666666667,14.6666666667,f,f
+hyo,Hyow,hyow,kukichin,92.4166666667,22.0833333333,f,f
+ibn,Ibanag,ibanag,northernphilippines,121.666666667,17.5,f,f
+ibi,Ibibio,ibibio,crossriver,7.83333333333,5.25,f,f
+ipk,Indo-Pakistani Sign Language (Karachi dialect),indopakistanisignlanguagekarachidialect,signlanguages,68,28,f,f
+iir,Indonesian (Papuan),indonesianpapuan,malayic,140.666666667,-2.5,f,f
+inj,Indonesian (Jakarta),indonesianjakarta,malayic,106.75,-6.16666666667,f,f
+isl,International Sign,internationalsign,signlanguages,-170,40,f,f
+ish,Ishkashmi,ishkashmi,iranian,72,37,f,f
+isn,Isnag,isnag,northernphilippines,121,18.25,f,f
+itb,Italian (Bologna),italianbologna,romance,11.3333333333,44.5,f,f
+ifi,Italian (Fiorentino),italianfiorentino,romance,11.25,43.75,f,f
+itg,Italian (Genoa),italiangenoa,romance,8.95,44.4166666667,f,f
+itn,Italian (Napolitanian),italiannapolitanian,romance,14.25,40.9166666667,f,f
+itu,Italian (Turinese),italianturinese,romance,7.66666666667,45,f,f
+iva,Ivatan,ivatan,northernphilippines,122,20.5,f,f
+izh,Izhor,izhor,finnic,29,59,f,f
+jcr,Jamaican Creole,jamaicancreole,creolesandpidgins,-77.25,18.1666666667,f,f
+jib,Jibbali,jibbali,semitic,55,17.5,f,f
+jrn,Juruna,juruna,tupiguarani,-54.5,-5,f,f
+kbi,Kabui,kabui,kukichin,94,24.8333333333,f,f
+kgm,Kagoma,kagoma,platoid,8.16666666667,9.25,f,f
+kiq,Kalmyk (Issyk-Kul),kalmykissykkul,mongolic,78.3333333333,42.4166666667,f,f
+kao,Karao,karao,northernphilippines,120.833333333,16.5,f,f
+ksu,Kashubian,kashubian,slavic,18,54,f,f
+kgl,Kaugel,kaugel,chimbu,144,-6,f,f
+kbr,Kayan (Baram),kayanbaram,kayanmurik,114.5,3.5,f,f
+kag,Kayu Agung,kayuagung,lampungic,104.916666667,-3.16666666667,f,f
+keo,Ke'o,keo,centralmalayopolynesian,121.25,-8.83333333333,f,f
+klt,Kelabit,kelabit,northwestmalayopolynesian,115.416666667,3.66666666667,f,f
+ksl,Kenyan Sign Language,kenyansignlanguage,signlanguages,38,0,f,f
+ktp,Ketapang,ketapang,malayic,110,-1.86666666667,f,f
+khv,Khvarshi,khvarshi,avarandictsezic,46.1666666667,42.25,f,f
+kfy,Kirghiz (Fu-Yu),kirghizfuyu,turkic,124.416666667,47.75,f,f
+kij,Kitja,kitja,djeragan,127.75,-17.5,f,f
+kou,Kom,kom,bantoid,10.3333333333,6.25,f,f
+ksp,Kosop,kosop,adamawa,15.9166666667,9.91666666667,f,f
+kjr,Koyra,koyra,northomotic,37.8333333333,5.83333333333,f,f
+kym,Krymchak,krymchak,turkic,34.25,45,f,f
+krz,Kryz,kryz,lezgic,48,41.0833333333,f,f
+kua,Kualan,kualan,landdayak,110.416666667,-0.416666666667,f,f
+kuy,Kutai,kutai,malayic,116.666666667,-0.333333333333,f,f
+lha,Laha,laha,kadai,103.916666667,21.5833333333,f,f
+lns,Lamnso',lamnso,bantoid,10.75,6.16666666667,f,f
+lgp,Língua Gestual Portuguesa,linguagestualportuguesa,signlanguages,-8,40,f,f
+lma,Loma,loma,westernmande,-9.5,8,f,f
+lge,Low German,lowgerman,germanic,10,53,f,f
+lga,Luangiua,luangiua,oceanic,159.416666667,-5.33333333333,f,f
+lum,Lummi,lummi,centralsalish,-122.666666667,48.7,f,f
+lud,Lun Dayeh,lundayeh,northwestmalayopolynesian,115.916666667,4,f,f
+lur,Luri,luri,iranian,48.5,33.5,f,f
+lux,Luxemburgeois,luxemburgeois,germanic,6.16666666667,49.8333333333,f,f
+mca,Maca,maca,matacoan,-57.5,-25,f,f
+mdz,Mada (in Nigeria),madainnigeria,platoid,8.25,8.75,f,f
+msy,Magar (Syangja),magarsyangja,bodic,83.8333333333,28.0833333333,f,f
+mgn,Magindanao,magindanao,southernphilippines,124.5,6.83333333333,f,f
+mhm,Mah Meri,mahmeri,aslian,101.5,2.83333333333,f,f
+myk,Malay (Kuala Lumpur),malaykualalumpur,malayic,101.7,3.16666666667,f,f
+mmu,Malay (Ulu Muar),malayulumuar,malayic,102.5,2.66666666667,f,f
+mli,Mali,mali,baining,152.25,-4.83333333333,f,f
+mbu,Manambu,manambu,middlesepik,142.833333333,-4.25,f,f
+mma,Mandaic (Modern),mandaicmodern,semitic,48.5,31,f,f
+mnr,Mandar,mandar,sulawesi,119.083333333,-3.41666666667,f,f
+mnk,Maninka,maninka,westernmande,-9.5,10.5,f,f
+mkn,Mankanya,mankanya,northernatlantic,-15.9166666667,12.0833333333,f,f
+mqc,Martinique Creole,martiniquecreole,creolesandpidgins,-61,14.6666666667,f,f
+mtk,Matukar,matukar,oceanic,145.75,-4.91666666667,f,f
+mbz,Mbe',mbe,bantoid,11.0833333333,6.28333333333,f,f
+mel,Melanau,melanau,northwestmalayopolynesian,111.5,2.5,f,f
+mcf,Michif,michif,algonquian,-100.166666667,52,f,f
+mce,Mískito Coast English Creole,miskitocoastenglishcreole,creolesandpidgins,-88.8333333333,16.25,f,f
+mxl,Mixtec (Alacatlatzala),mixtecalacatlatzala,mixtecan,-98.5833333333,17.25,f,f
+mll,Molala,molala,molala,-122.5,44.5,f,f
+mol,Moldavian,moldavian,romance,29,47,f,f
+mdb,Mudburra,mudburra,pamanyungan,132.083333333,-17.3333333333,f,f
+muh,Muher,muher,semitic,38.1666666667,8.16666666667,f,f
+mnu,Mun,mun,hmongmien,110,19,f,f
+muo,Muong,muong,vietmuong,105.083333333,20.5,f,t
+nhc,Nahuatl (Central),nahuatlcentral,aztecan,-98.25,19,f,f
+nhp,Nahuatl (Pochutla),nahuatlpochutla,aztecan,-96.5,15.75,f,f
+nnt,Nanticoke,nanticoke,algonquian,-76.25,38,f,f
+nrm,Narom,narom,northwestmalayopolynesian,114,4.41666666667,f,f
+ntu,Nenets (Tundra),nenetstundra,samoyedic,76,70,f,f
+naa,Neo-Aramaic (Amadiya),neoaramaicamadiya,semitic,43,37,f,f
+ngy,Ngarinyman,ngarinyman,pamanyungan,130.5,-16.5,f,f
+nge,Ngemba,ngemba,bantoid,10,6.2,f,f
+nic,Nicobarese,nicobarese,nicobarese,93.8333333333,7,f,f
+nok,Noghay (Karagash),noghaykaragash,turkic,47.25,47.5,f,f
+nte,Norsk Tegnspråk,norsktegnsprak,signlanguages,9,61,f,f
+nnn,Nuni (Northern),nuninorthern,gur,-3,12.1666666667,f,f
+oi,Oi,oi,bahnaric,107.166666667,14.8333333333,f,f
+oku,Oku,oku,bantoid,10.5,6.25,f,f
+oma,Omagua,omagua,tupiguarani,-73.5,-4,f,f
+ora,Emai,emai,edoid,5.91666666667,7.08333333333,f,f
+pte,Paite,paite,kukichin,93.1666666667,24,f,f
+pak,Pakanha,pakanha,pamanyungan,142.416666667,-14.5,f,f
+pgl,Pingilapese,pingilapese,oceanic,160.7,6.21666666667,f,f
+psl,Plains-Indians Sign Language,plainsindianssignlanguage,signlanguages,-100,40,f,f
+pcm,Pocomam,pocomam,mayan,-90.5,14.6666666667,f,f
+pri,Príncipense,principense,creolesandpidgins,7.36666666667,1.61666666667,f,f
+pro,Provençal,provencal,romance,6,44,f,f
+qbo,Quechua (Bolivian),quechuabolivian,quechuan,-66,-20,f,f
+rag,Raga,raga,oceanic,168.166666667,-15.5,f,f
+rbu,Romani (Bugurdzi),romanibugurdzi,indic,21.1666666667,42.6666666667,f,f
+rbg,Romani (Burgenland),romaniburgenland,indic,16.5,47.5,f,f
+rlo,Romani (Lovari),romanilovari,indic,21.5,47,f,f
+rsh,Rushan,rushan,iranian,71.5,38.1666666667,f,f
+sch,Saanich,saanich,centralsalish,-123.416666667,48.5833333333,f,f
+sae,Saek,saek,kamtai,104.75,17.4166666667,f,f
+sst,Salish (Straits),salishstraits,centralsalish,-123.25,48.75,f,f
+syg,Saryg Yughur,sarygyughur,turkic,99.75,38.75,f,f
+smd,Semandang,semandang,landdayak,110.5,-0.75,f,f
+swr,Shoshone (Wind River),shoshonewindriver,numic,-108.833333333,43.4166666667,f,f
+sik,Sika,sika,centralmalayopolynesian,122.25,-8.7,f,f
+sry,Siraiya,siraiya,paiwanic,120.25,23,f,f
+sgs,Songish,songish,centralsalish,-123.333333333,48.45,f,f
+soo,Sooke,sooke,centralsalish,-123.75,48.3333333333,f,f
+spc,Spanish (Canary Islands),spanishcanaryislands,romance,-15.5833333333,28,f,f
+swv,Swedish (Västerbotten),swedishvasterbotten,germanic,19.75,64.25,f,f
+tgb,Tagbanwa (Aborlan),tagbanwaaborlan,mesophilippine,118.5,9.5,f,f
+taq,Taiwanese,taiwanese,chinese,121.5,25,f,f
+tsp,Tamil (Spoken),tamilspoken,southerndravidian,78,11,f,f
+ttb,Tatar (Baraba),tatarbaraba,turkic,78.3333333333,55.3333333333,f,f
+tmi,Tatar (Mishar),tatarmishar,turkic,49,55.5,f,f
+tlb,Tatar-Noghay (Alabugat),tatarnoghayalabugat,turkic,45.6666666667,47.4166666667,f,f
+tll,Taulil,taulil,taulil,152.083333333,-4.41666666667,f,f
+tay,Tayo,tayo,creolesandpidgins,166.333333333,-22,f,f
+tec,Teco,teco,mayan,-92.0833333333,15.4166666667,f,f
+tpc,Tepecano,tepecano,tepiman,-104.75,21.75,f,f
+thw,Thao,thao,paiwanic,120.916666667,23.8833333333,f,f
+tnd,Tindi,tindi,avarandictsezic,46.25,42.3666666667,f,f
+tod,Tod,tod,bodic,77.25,32.4166666667,f,f
+tow,Toussian (Win),toussianwin,gur,-4.66666666667,10.8333333333,f,f
+tmk,Tumak,tumak,eastchadic,17.3333333333,9.5,f,f
+tex,Turkic (East-Central Xorasan),turkiceastcentralxorasan,turkic,59,37,f,f
+twx,Turkic (West Xorasan),turkicwestxorasan,turkic,56,36.6666666667,f,f
+twa,Twana,twana,centralsalish,-122.75,47.6666666667,f,f
+ulc,Ulcha,ulcha,tungusic,140.333333333,52.25,f,f
+umu,Umaua,umaua,cariban,-72,1,f,f
+urh,Urhobo,urhobo,edoid,6,5.58333333333,f,f
+usl,Urubú Sign Language,urubusignlanguage,signlanguages,-46,-2.33333333333,f,f
+urm,Urum,urum,turkic,37.55,47.1166666667,f,f
+vat,Vata,vata,kru,-5.41666666667,5.83333333333,f,f
+vep,Veps,veps,finnic,35,60,f,f
+wwy,Waray-Waray,waraywaray,mesophilippine,125,12,f,f
+wmn,Wéménugbé,wemenugbe,kwa,2.5,6.66666666667,f,f
+xas,Xasonga,xasonga,westernmande,-10.5,14.25,f,f
+ygd,Yag Dii,yagdii,adamawa,14,8,f,f
+ygn,Yaghnobi,yaghnobi,iranian,69,39,f,f
+yba,Yamba,yamba,bantoid,11.0833333333,6.41666666667,f,f
+ynm,Yanomámi,yanomami,yanomam,-63,2.33333333333,f,f
+yem,Yemba,yemba,bantoid,10.0833333333,5.41666666667,f,f
+ydb,Yiddish (Bessarabian),yiddishbessarabian,germanic,28.5,47,f,f
+ylt,Yiddish (Lithuanian),yiddishlithuanian,germanic,25,55,f,f
+ydl,Yiddish (Lodz),yiddishlodz,germanic,19.4166666667,51.75,f,f
+yug,Yugh,yugh,yeniseian,90,61,f,f
+yrc,Yuracare,yuracare,yuracare,-65.25,-16.5833333333,f,f
+yrm,Yurimangí,yurimangi,yurimangi,-77,3.83333333333,f,f
+yta,Yurt Tatar,yurttatar,turkic,48.5,46.3333333333,f,f
+zpi,Zapotec (Ixtlan),zapotecixtlan,zapotecan,-96.5,17.25,f,f
+zhn,Zhuang (Northern),zhuangnorthern,kamtai,108,24,f,f
+zqr,Zoque (Rayon),zoquerayon,mixezoque,-93,17.0833333333,f,f
+zno,Zulu (Northern),zulunorthern,bantoid,31,-28,f,f
+zso,Zulu (Southern),zulusouthern,bantoid,30,-31,f,f
+abw,Abenaki (Western),abenakiwestern,algonquian,-72.25,44,f,f
+ada,Adamorobe Sign Language,adamorobesignlanguage,signlanguages,-0.166666666667,5.83333333333,f,f
+adt,Adyghe (Temirgoy),adyghetemirgoy,northwestcaucasian,39.7,45.2166666667,f,f
+aji,Ajië,ajie,oceanic,165.5,-21.3333333333,f,f
+axv,Akhvakh,akhvakh,avarandictsezic,46.3333333333,42.3333333333,f,f
+alg,Algonquin,algonquin,algonquian,-77,46,f,f
+amd,Amdo,amdo,bodic,100,35,f,f
+asl,American Sign Language,americansignlanguage,signlanguages,-78,39,f,f
+abb,Arabic (Abbéché Chad),arabicabbechechad,semitic,20.8333333333,13.8333333333,f,f
+arx,'Are'are,areare,oceanic,161.166666667,-9.25,f,f
+ati,Atikamekw,atikamekw,algonquian,-74,48,f,f
+aus,Auslan,auslan,signlanguages,145,-30,f,f
+bad,Bade,bade,westchadic,10.5,12.8333333333,f,f
+bpb,Bahnar (Plei Bong-Mang Yang),bahnarpleibongmangyang,bahnaric,108.333333333,13.8333333333,f,f
+bca,Bandjalang (Casino),bandjalangcasino,pamanyungan,153,-28.9166666667,f,f
+bau,Bau,bau,madang,145.616666667,-5.25,f,f
+beb,Benabena,benabena,easternhighlands,145.5,-6.16666666667,f,f
+bnq,Beng,beng,easternmande,-4.25,7.83333333333,f,f
+bec,Bengali (Chittagong),bengalichittagong,indic,91.8333333333,22.3333333333,f,f
+beo,Beothuk,beothuk,beothuk,-57,48,f,f
+bmz,Berber (Mzab),berbermzab,berber,3.5,32.5,f,f
+brz,Birri,birri,bongobagirmi,25.1666666667,5.5,f,f
+bsm,Bislama,bislama,creolesandpidgins,168,-16,f,f
+brc,Boruca,boruca,talamanca,-83.25,8.83333333333,f,f
+bsl,British Sign Language,britishsignlanguage,signlanguages,-1,52,f,f
+buj,Bujeba,bujeba,bantoid,10.1666666667,3,f,f
+cab,Cabécar,cabecar,talamanca,-83.4166666667,9.75,f,f
+cnm,Canamarí,canamari,katukinan,-68.5,-6.5,f,f
+cnl,Canela,canela,gekaingang,-45,-7,f,f
+crl,Carolinian,carolinian,oceanic,145.75,15.2,f,f
+cat,Catio,catio,choco,-76.3333333333,7.16666666667,f,f
+cco,Chasta Costa,chastacosta,athapaskan,-124,42.6666666667,f,f
+ctt,Chatino (Tataltepec),chatinotataltepec,zapotecan,-97.5833333333,16.1666666667,f,f
+cmk,Chemakum,chemakum,chimakuan,-122.916666667,48.0833333333,f,f
+cec,Chicomuceltec,chicomuceltec,mayan,-92.25,15.5,f,f
+cma,Chimila,chimila,chimila,-74,10,f,f
+csf,Chinantec (San Felipe Usila),chinantecsanfelipeusila,chinantecan,-96.5,17.9166666667,f,f
+cte,Chinantec (Tepetotutla),chinantectepetotutla,chinantecan,-96.5,17.8333333333,f,f
+csl,Chinese Sign Language,chinesesignlanguage,signlanguages,115,35,f,f
+clc,Colac,colac,pamanyungan,143.5,-38.3333333333,f,f
+cmc,Comecrudo,comecrudo,comecrudan,-99,25.8333333333,f,f
+com,Comorian,comorian,bantoid,44,-12,f,f
+ctc,Cuicatec,cuicatec,mixtecan,-96.8333333333,17.8333333333,f,f
+cut,Cuitlatec,cuitlatec,cuitlatec,-101,17.5,f,f
+cur,Curripaco,curripaco,arawakan,-68.5,2.5,f,f
+dat,Datooga,datooga,nilotic,35.3333333333,-4.33333333333,f,f
+dgx,Degexit'an,degexitan,athapaskan,-160,62,f,f
+dca,Dumagat (Casiguran),dumagatcasiguran,northernphilippines,122,16.3333333333,f,f
+dyu,Dyula,dyula,westernmande,-4.66666666667,9.83333333333,f,f
+eny,Enya,enya,bantoid,25.25,-0.5,f,f
+ewa,Ewe (Anglo),eweanglo,kwa,1,6,f,f
+fsl,Finnish Sign Language,finnishsignlanguage,signlanguages,26,62,f,f
+fus,Fula (Senegal),fulasenegal,northernatlantic,-14,15,f,f
+gsl,Greek Sign Language,greeksignlanguage,signlanguages,22,38.5,f,f
+gso,Greenlandic (South),greenlandicsouth,eskimo,-44,60,f,f
+gna,Guana,guana,mascoian,-58,-22,f,f
+gyb,Guayabero,guayabero,guahiban,-72,2.83333333333,f,f
+gir,Gula Iro,gulairo,adamawa,19.4166666667,10.25,f,f
+gji,Gurindji,gurindji,pamanyungan,130.666666667,-17.6666666667,f,f
+grm,Gurma,gurma,gur,1,12.25,f,f
+hrs,Harsusi,harsusi,semitic,56.5,20,f,f
+hks,Hong Kong Sign Language,hongkongsignlanguage,signlanguages,114,22.5,f,f
+hmb,Huambisa,huambisa,jivaroan,-78,-4,f,f
+ics,Icelandic Sign Language,icelandicsignlanguage,signlanguages,-18,65,f,f
+ill,Illinois,illinois,algonquian,-90,40,f,f
+ina,Inanwatan,inanwatan,southbirdshead,132.083333333,-2.08333333333,f,f
+ipi,Indo-Pakistani Sign Language (Indian dialects),indopakistanisignlanguageindiandialects,signlanguages,80,24,f,f
+inr,Inuktitut (Rankin Inlet),inuktitutrankininlet,eskimo,-92,63,f,f
+irs,Irish Sign Language,irishsignlanguage,signlanguages,-7.5,53.5,f,f
+iss,Israeli Sign Language,israelisignlanguage,signlanguages,34.8333333333,32,f,f
+itw,Itawis,itawis,northernphilippines,121.5,17.75,f,f
+ixc,Ixcatec,ixcatec,popolocan,-97.1666666667,17.8333333333,f,f
+jah,Jahai,jahai,aslian,101.5,5.75,f,f
+jem,Jemez,jemez,kiowatanoan,-107,35.8333333333,f,f
+jun,Juang,juang,munda,86,21.3333333333,f,f
+kai,Kaian,kaian,lowerramu,144.75,-4.08333333333,f,f
+klz,Kalanga,kalanga,bantoid,27.5,-20.5,f,f
+klh,Kalasha,kalasha,indic,72,35,f,f
+kgt,Kangiryuarmiut,kangiryuarmiut,eskimo,-133.75,68.3333333333,f,f
+kea,Kanjobal (Eastern),kanjobaleastern,mayan,-91.6666666667,15.3333333333,f,f
+kky,Kankanay,kankanay,northernphilippines,120.583333333,16.75,f,f
+kyo,Kanyok,kanyok,bantoid,23.5833333333,-7.33333333333,f,f
+kpn,Kapingamarangi,kapingamarangi,oceanic,154.75,1.05,f,f
+krg,Karanga,karanga,bantoid,31,-20,f,f
+kdg,Karipuna do Guapore,karipunadoguapore,panoan,-65,-10,f,f
+kkl,Kata Kolok,katakolok,signlanguages,115.166666667,-8.25,f,f
+ktz,Kati (in Afghanistan),katiinafghanistan,indic,70,35.5,f,f
+kto,Kato,kato,athapaskan,-123.666666667,39.6666666667,f,f
+kaq,Kaurna,kaurna,pamanyungan,138.5,-34.25,f,f
+keu,Kenyah (Uma' Lung),kenyahumalung,northwestmalayopolynesian,115.833333333,3,f,f
+kyg,Kenyang,kenyang,bantoid,9.5,5.66666666667,f,f
+khu,Khumi,khumi,kukichin,92.4166666667,21.9166666667,f,f
+klb,Kilba,kilba,biumandara,13.1666666667,10.3333333333,f,f
+ktb,Kituba,kituba,creolesandpidgins,17.5,-5,f,f
+kln,Kolana,kolana,kolanatanglapui,125.116666667,-8.25,f,f
+krf,Korafe,korafe,binanderean,149.083333333,-9.05,f,f
+ksi,Ksingmul,ksingmul,palaungkhmuic,104,21.0833333333,f,f
+klg,Kulung,kulung,bodic,87,27.5,f,f
+kth,Kutchin,kutchin,athapaskan,-146,67,f,f
+lch,Lachi,lachi,kadai,104.833333333,22.6666666667,f,f
+ldn,Ladin,ladin,romance,11.9166666667,46.5833333333,f,f
+lsf,Langue des Signes Française,languedessignesfrancaise,signlanguages,3,47,f,f
+lsq,Langue des Signes Québecoise,languedessignesquebecoise,signlanguages,-75,48,f,f
+lrd,Lardil,lardil,pamanyungan,139.333333333,-16.5,f,f
+lau,Lau,lau,oceanic,161.5,-9.58333333333,f,f
+lsa,Lengua de Señas Argentina,lenguadesenasargentina,signlanguages,-63,-34,f,f
+lse,Lengua de Señas Española,lenguadesenasespanola,signlanguages,-3,40,f,f
+les,Lese,lese,mangbutuefe,29,2,f,f
+lcr,Lesser Antillean French Creole,lesserantilleanfrenchcreole,creolesandpidgins,-61.1666666667,15,f,f
+lsb,Língua de Sinais Brasileira,linguadesinaisbrasileira,signlanguages,-48,-15,f,f
+lii,Lingua Italiana dei Segni,linguaitalianadeisegni,signlanguages,13,42,f,f
+lob,Lobi,lobi,gur,-3.25,10.5,f,f
+lgt,Logoti,logoti,morumadi,30,3.5,f,f
+lok,Loko,loko,westernmande,-12.0833333333,9.33333333333,f,f
+lgh,Lughat al-Isharat al-Lubnaniya,lughatalisharatallubnaniya,signlanguages,35.8333333333,34,f,f
+lye,Lyele,lyele,gur,-2.66666666667,12.5,f,f
+mcg,Macaguán,macaguan,guahiban,-71.3333333333,6.5,f,f
+mcn,Macuna,macuna,tucanoan,-70.1666666667,-0.333333333333,f,f
+mhc,Mahican,mahican,algonquian,-73.5,42.6666666667,f,f
+mkw,Máku,maku,maku,-69.8333333333,0.416666666667,f,f
+mjk,Manjaku,manjaku,northernatlantic,-16.25,12,f,f
+mpy,Mapoyo,mapoyo,cariban,-67,6,f,f
+mtl,Mattole,mattole,athapaskan,-124.166666667,40.1666666667,f,f
+mij,Miju,miju,tani,96,29,f,f
+mkr,Mikarew,mikarew,mikarew,144.916666667,-4.41666666667,f,f
+mgl,Mingrelian,mingrelian,kartvelian,42,42.5,f,f
+mit,Mituku,mituku,bantoid,25.5,-1.66666666667,f,f
+mkb,Miwok (Bodega),miwokbodega,miwok,-123,38.3333333333,f,f
+mwl,Miwok (Lake),miwoklake,miwok,-122.666666667,38.9166666667,f,f
+mwp,Miwok (Plains),miwokplains,miwok,-121,38,f,f
+mth,Mixe (Tlahuitoltepec),mixetlahuitoltepec,mixezoque,-96.1666666667,17.0833333333,f,f
+mxu,Mixtec (Chayuco),mixtecchayuco,mixtecan,-97.8333333333,16.4166666667,f,f
+mxz,Mixtec (Coatzospan),mixteccoatzospan,mixtecan,-96.5833333333,18.0833333333,f,f
+mjc,Mixtec (San Juan Colorado),mixtecsanjuancolorado,mixtecan,-98,16.5,f,f
+mxg,Mixtec (San Miguel el Grande),mixtecsanmiguelelgrande,mixtecan,-97.5666666667,17.05,f,f
+mxs,Mixtec (Silacayoapan),mixtecsilacayoapan,mixtecan,-98.1666666667,17.5,f,f
+mge,Mnong (Eastern),mnongeastern,bahnaric,108.5,12.6666666667,f,f
+moc,Moca,moca,southomotic,35.5,7.58333333333,f,f
+mti,Motilón (Chibchan),motilonchibchan,motilon,-73,9,f,f
+muy,Muyuw,muyuw,oceanic,152.75,-9.08333333333,f,f
+npn,Naga Pidgin,nagapidgin,creolesandpidgins,94,25.6666666667,f,f
+nhu,Nahuatl (Huauchinango),nahuatlhuauchinango,aztecan,-98.0833333333,20.1666666667,f,f
+nmp,Nahuatl (Milpa Alta),nahuatlmilpaalta,aztecan,-99.1666666667,19.25,f,f
+npa,Nahuatl (Pajapan),nahuatlpajapan,aztecan,-94.75,18.25,f,f
+nhx,Nahuatl (Xalitla),nahuatlxalitla,aztecan,-99.5,18,f,f
+nnm,Nanumea,nanumea,oceanic,176.116666667,-5.66666666667,f,f
+nsk,Naskapi,naskapi,algonquian,-70,56,f,f
+ntn,Nateni,nateni,gur,1.16666666667,10.5,f,f
+ndg,Ndogo,ndogo,ubangi,27,7.75,f,f
+ned,Nederlandse Gebarentaal,nederlandsegebarentaal,signlanguages,5.5,52.25,f,f
+neg,Negidal,negidal,tungusic,139,53,f,f
+nzs,New Zealand Sign Language,newzealandsignlanguage,signlanguages,172,-43,f,f
+nlu,Ngarluma,ngarluma,pamanyungan,117.5,-20.8333333333,f,f
+nih,Nihon Shuwa (Japanese Sign Language),nihonshuwajapanesesignlanguage,signlanguages,139,36,f,f
+nit,Nitinaht,nitinaht,southernwakashan,-124.75,48.6666666667,f,f
+nif,Niuafo'ou,niuafoou,oceanic,-175.616666667,-15.5666666667,f,f
+nuk,Nukak,nukak,cacuanukak,-71.5,2.5,f,f
+nju,Nyungar,nyungar,pamanyungan,122,-33.75,f,f
+onn,Onondaga,onondaga,northerniroquoian,-76.1666666667,42.75,f,f
+oko,Oriya (Kotia),oriyakotia,indic,83,18.3333333333,f,f
+orl,Orokolo,orokolo,elemanproper,145.333333333,-7.83333333333,f,f
+osm,Otomí (Santiago Mexquititlan),otomisantiagomexquititlan,otomian,-100.083333333,20.0833333333,f,f
+pen,Pengo,pengo,southcentraldravidian,83.8333333333,19.8333333333,f,f
+ppc,Piapoco,piapoco,arawakan,-69.5,4,f,f
+prt,Piratapuyo,piratapuyo,tucanoan,-69.5,0.333333333333,f,f
+pla,Playero,playero,guahiban,-71,7,f,f
+poc,Pocomam Oriental,pocomamoriental,mayan,-89.75,14.75,f,f
+psv,Popoloca (San Vicente Coyotepec),popolocasanvicentecoyotepec,popolocan,-97.8333333333,18.25,f,f
+pot,Potawatomi,potawatomi,algonquian,-85,44.5,f,f
+pow,Powhatan,powhatan,algonquian,-76.5,37.3333333333,f,f
+pui,Puinave,puinave,puinave,-68,4,f,f
+qan,Quechua (Ancash),quechuaancash,quechuan,-77.5,-8.5,f,f
+qca,Quechua (Cajamarca),quechuacajamarca,quechuan,-78.5,-7,f,f
+rad,Rade,rade,malayic,108.5,13,f,f
+rng,Rengao,rengao,bahnaric,107.833333333,14.5833333333,f,f
+rnn,Rennellese,rennellese,oceanic,160.25,-11.6166666667,f,f
+rgn,Roglai (Northern),roglainorthern,malayic,108.833333333,12.1666666667,f,f
+rse,Romani (Sepecides),romanisepecides,indic,27,38.25,f,f
+rsl,Russian Sign Language,russiansignlanguage,signlanguages,44,56,f,f
+smj,Semai,semai,aslian,101.666666667,4.33333333333,f,f
+shd,Sherdukpen,sherdukpen,westernarunachal,92.5,27,f,f
+sri,Siriano,siriano,tucanoan,-70.1666666667,0.75,f,f
+slv,Slavey,slavey,athapaskan,-120,60,f,f
+sge,Songe,songe,bantoid,22,-6.83333333333,f,f
+srl,Sorbian (Lower),sorbianlower,slavic,14.3333333333,51.75,f,f
+ssl,South Korean Sign Language,southkoreansignlanguage,signlanguages,128,37,f,f
+svt,Svenska Teckenspråket,svenskateckenspraket,signlanguages,15,59,f,f
+tbs,Tabassaran,tabassaran,lezgic,47.9166666667,41.8333333333,f,f
+tzi,Taiwanese Sign Language (Ziran Shouyu),taiwanesesignlanguageziranshouyu,signlanguages,121,24,f,f
+taz,Talysh (Azerbaijan),talyshazerbaijan,iranian,48.6666666667,38.75,f,f
+tnj,Tanaina,tanaina,athapaskan,-150,62,f,f
+tnl,Tanana (Lower),tananalower,athapaskan,-150,65,f,f
+tsl,Tanzania Sign Language,tanzaniasignlanguage,signlanguages,35,-6,f,f
+tpt,Tapieté,tapiete,tupiguarani,-61.6666666667,-19.75,f,f
+toy,Tasmanian (Oyster Bay to Pitwater),tasmanianoysterbaytopitwater,tasmanian,147.75,-42.5,f,f
+tmu,Tat (Muslim),tatmuslim,iranian,48.75,41.25,f,f
+tty,Tatuyo,tatuyo,tucanoan,-70.5,0.416666666667,f,f
+trg,Tewa (Rio Grande),tewariogrande,kiowatanoan,-106.166666667,36.25,f,f
+tsj,Tewa (San Juan Pueblo),tewasanjuanpueblo,kiowatanoan,-106.083333333,36.0833333333,f,f
+ths,Thai Sign Language,thaisignlanguage,signlanguages,101,15,f,f
+tbe,Tigré (Beni Amer),tigrebeniamer,semitic,38,15.5,f,f
+tws,Tiwa (Southern),tiwasouthern,kiowatanoan,-106.333333333,35,f,f
+tda,Toda,toda,southerndravidian,76.75,11.4166666667,f,f
+tof,Tofa,tofa,turkic,98,53.75,f,f
+tos,Totonac (Sierra),totonacsierra,totonacan,-97.4166666667,19.9166666667,f,f
+trc,Trique (Chicahuaxtla),triquechicahuaxtla,mixtecan,-97.8333333333,17.1666666667,f,f
+tub,Tubar,tubar,tubar,-108,27,f,f
+tui,Türk Isaret Dili,turkisaretdili,signlanguages,34,39,f,f
+tut,Tutchone (Northern),tutchonenorthern,athapaskan,-137,63,f,f
+tze,Tzeltal,tzeltal,mayan,-92.25,16.8333333333,f,f
+tzb,Tzeltal (Bachajón),tzeltalbachajon,mayan,-92,16.9166666667,f,f
+tzt,Tzeltal (Tenejapa),tzeltaltenejapa,mayan,-92.3333333333,16.6666666667,f,f
+tzs,Tzotzil (San Andrés),tzotzilsanandres,mayan,-92.8333333333,17,f,f
+ugs,Ugandan Sign Language,ugandansignlanguage,signlanguages,32.5,1,f,f
+uri,Urim,urim,urim,142.666666667,-3.58333333333,f,f
+ved,Vedda,vedda,indic,81,7,f,f
+vla,Vlaamse Gebarentaal,vlaamsegebarentaal,signlanguages,4,51,f,f
+wgu,Warrungu,warrungu,pamanyungan,145,-18,f,f
+xar,Xârâcùù,xaracuu,oceanic,166,-21.6666666667,f,f
+yak,Yaka,yaka,bantoid,17.5,-7,f,f
+ymi,Yami,yami,northernphilippines,121.5,22,f,f
+yrr,Yaruro,yaruro,yaruro,-68,7,f,f
+yms,Yemsa,yemsa,northomotic,37.3333333333,7.83333333333,f,f
+ydd,Yiddish,yiddish,germanic,23,52,f,f
+yyo,Yorta Yorta,yortayorta,pamanyungan,146,-36,f,f
+yrt,Yuruti,yuruti,tucanoan,-70.4166666667,1,f,f
+zaj,Zapotec (Juárez),zapotecjuarez,zapotecan,-96.5833333333,17.5,f,f
+zam,Zapotec (Mixtepec),zapotecmixtepec,zapotecan,-96.3333333333,16.3333333333,f,f
+zzo,Zapotec (Zoogocho),zapoteczoogocho,zapotecan,-96.25,17.25,f,f
+zfl,Zoque (Francisco León),zoquefranciscoleon,mixezoque,-93.25,17.3333333333,f,f
+alc,Allentiac,allentiac,huarpe,-68,-31,f,f
+aso,Altai (Southern),altaisouthern,turkic,87,51,f,f
+alu,Alutor,alutor,northernchukotkokamchatkan,165,61,f,f
+anu,Anufo,anufo,kwa,0.25,10.0833333333,f,f
+apj,Apache (Jicarilla),apachejicarilla,athapaskan,-104,36.5833333333,f,f
+ahs,Arabic (Bani-Hassan),arabicbanihassan,semitic,-10,20,f,f
+arh,Arabic (Hijazi),arabichijazi,semitic,38,26,f,f
+ako,Arabic (Kormakiti),arabickormakiti,semitic,33.5,35.25,f,f
+anl,Arabic (North Levantine Spoken),arabicnorthlevantinespoken,semitic,36,33.75,f,f
+ark,Araki,araki,oceanic,166.916666667,-15.6666666667,f,f
+atb,Aralle-Tabulahan,aralletabulahan,sulawesi,119.25,-2.75,f,f
+aho,Arapaho,arapaho,algonquian,-103,40,f,f
+blj,Baale,baale,surmic,34.5,6.5,f,f
+bkn,Bakundu,bakundu,bantoid,9.33333333333,4.83333333333,f,f
+bnl,Banggarla,banggarla,pamanyungan,137,-32,f,f
+bys,Bayso,bayso,easterncushitic,37.75,6.25,f,f
+bga,Benga,benga,bantoid,9.41666666667,1.16666666667,f,f
+bim,Bima,bima,centralmalayopolynesian,118.5,-8.5,f,f
+bkd,Binukid,binukid,southernphilippines,124.833333333,8.25,f,f
+boi,Boiken,boiken,middlesepik,143.5,-3.5,f,f
+blq,Bole,bole,westchadic,11.25,11.3333333333,f,f
+buk,Bukusu,bukusu,bantoid,34.6666666667,0.75,f,f
+buw,Bulu,bulu,bantoid,11,3,f,f
+chm,Chamalal,chamalal,avarandictsezic,46.05,42.55,f,f
+daa,Da'a,daa,sulawesi,119.583333333,-1,f,f
+dab,Daba,daba,biumandara,13.75,10.1666666667,f,f
+def,Defaka,defaka,ijoid,7.5,4.58333333333,f,f
+den,Dení,deni,arauan,-67,-6,f,f
+dge,Deutsche Gebärdensprache,deutschegebardensprache,signlanguages,11,52,f,f
+dng,Ding,ding,bantoid,19.5,-4.33333333333,f,f
+eip,Eipo,eipo,mek,140.083333333,-4.33333333333,f,f
+frw,Frisian (Western),frisianwestern,germanic,6,53,f,f
+fgu,Fula (Guinean),fulaguinean,northernatlantic,-12.5,11.5,f,f
+gad,Gade,gade,nupoid,7.41666666667,8.66666666667,f,f
+glc,Galician,galician,romance,-8,43,f,f
+grs,Garus,garus,madang,145.666666667,-4.95,f,f
+goj,Gojri,gojri,indic,76.25,32.75,f,f
+gre,Greenlandic (East),greenlandiceast,eskimo,-40,65,f,f
+gno,Guanano,guanano,tucanoan,-69.5,0.833333333333,f,f
+gdf,Guduf,guduf,biumandara,13.8,11.2333333333,f,f
+gny,Gunya,gunya,pamanyungan,146.5,-26.5,f,f
+hln,Halang,halang,bahnaric,107.5,14.5,f,f
+har,Haruai,haruai,upperyuat,144.166666667,-5.08333333333,f,f
+inu,Iñupiaq,inupiaq,eskimo,-161,67,f,f
+irm,Irish (Munster),irishmunster,celtic,-9,52.5,f,f
+isi,Isirawa,isirawa,kwerba,138.5,-1.83333333333,f,f
+jmm,Jamamadi,jamamadi,arauan,-67,-7.5,f,f
+kli,Kaili,kaili,sulawesi,120,-1.16666666667,f,f
+kaw,Kaiwá,kaiwa,tupiguarani,-55,-23,f,f
+kap,Kela (Apoze),kelaapoze,oceanic,147.083333333,-7.41666666667,f,f
+kkr,Kirikiri,kirikiri,lakesplain,137.166666667,-3,f,f
+kow,Ko (Winye),kowinye,gur,-2.91666666667,11.8666666667,f,f
+kda,Konda,konda,southcentraldravidian,83,19.5,f,f
+knu,Konua,konua,westbougainville,154.833333333,-5.83333333333,f,f
+ktt,Kott,kott,yeniseian,94,57,f,f
+kuz,Kulamanen,kulamanen,southernphilippines,125,7.75,f,f
+lla,Lamu-Lamu,lamulamu,pamanyungan,144.5,-14.8333333333,f,f
+lje,Lauje,lauje,sulawesi,120,-0.5,f,f
+luy,Luyia,luyia,bantoid,34.5,0.416666666667,f,f
+mms,Mamasa,mamasa,sulawesi,119.666666667,-3.08333333333,f,f
+mrq,Marquesan,marquesan,oceanic,-140.083333333,-8.91666666667,f,f
+myo,Mayo,mayo,cahita,-108,26,f,f
+mhk,Mehek,mehek,tamasepik,142.5,-3.75,f,f
+meb,Melayu Betawi,melayubetawi,creolesandpidgins,107,-6.5,f,f
+mig,Migama,migama,eastchadic,19.8333333333,12.1666666667,f,f
+mxt,Mixtec (Ayutla),mixtecayutla,mixtecan,-99.1666666667,16.9166666667,f,f
+liv,Liv,liv,finnic,24,56.8333333333,f,f
+mja,Mixtec (Jamiltepec),mixtecjamiltepec,mixtecan,-97.8333333333,16.25,f,f
+mko,Mokilko,mokilko,eastchadic,18.0833333333,11.9166666667,f,f
+mgd,Mongondow,mongondow,sulawesi,124,0.666666666667,f,f
+mug,Mugil,mugil,madang,145.75,-4.88333333333,f,f
+mrk,Murik,murik,lowersepik,144.25,-3.83333333333,f,f
+nsz,Nahuatl (Sierra de Zacapoaxtla),nahuatlsierradezacapoaxtla,aztecan,-97.3333333333,19.5833333333,f,f
+nsy,Neo-Aramaic (Assyrian),neoaramaicassyrian,semitic,41,36,f,f
+ndi,Ngbandi,ngbandi,ubangi,22,3.75,f,f
+nro,Nharo,nharo,centralkhoisan,20.5,-22.3333333333,f,f
+nom,Nomatsiguenga,nomatsiguenga,arawakan,-74.5,-11.6666666667,f,f
+nub,Nubi,nubi,creolesandpidgins,32.0833333333,0.666666666667,f,f
+nng,Nyanga,nyanga,bantoid,28.1666666667,-1.25,f,f
+nyl,Nyelâyu,nyelayu,oceanic,164.333333333,-20.3333333333,f,f
+ore,Orejón,orejon,tucanoan,-72.5,-2.83333333333,f,f
+oto,Oto,oto,siouan,-96,40.5,f,f
+ots,Otomí (Sierra),otomisierra,otomian,-98.8333333333,20.6666666667,f,f
+otr,Otoro,otoro,heiban,30.5,11.1666666667,f,f
+pag,Pagu,pagu,northhalmaheran,127.75,1.25,f,f
+prc,Parecis,parecis,arawakan,-57,-14,f,f
+plb,Polabian,polabian,slavic,12.8333333333,51,f,f
+plp,Pulopetak,pulopetak,barito,109.833333333,1.41666666667,f,f
+qta,Quechua (Tarma),quechuatarma,quechuan,-75.75,-11.4166666667,f,f
+rej,Rejang,rejang,rejang,102.5,-3.41666666667,f,f
+rnr,Romani (North Russian),romaninorthrussian,indic,38,60,f,f
+rmc,Romansch,romansch,romance,9.16666666667,46.6666666667,f,f
+rsm,Romansch (Surmeiran),romanschsurmeiran,romance,9.75,46.5833333333,f,f
+rcp,Russian-Chinese Pidgin (Birobidjan),russianchinesepidginbirobidjan,creolesandpidgins,132.95,48.8,f,f
+sao,Saho,saho,easterncushitic,39.75,14.75,f,f
+sss,Salish (Samish Straits),salishsamishstraits,centralsalish,-122.583333333,48.5833333333,f,f
+sps,Salish (Southern Puget Sound),salishsouthernpugetsound,centralsalish,-122.5,47.25,f,f
+sbg,Sama (Balangingi),samabalangingi,samabajaw,121.833333333,6.16666666667,f,f
+sgr,Sangir,sangir,sulawesi,125.5,3.5,f,f
+sen,Sena,sena,bantoid,35.25,-18,f,f
+shw,Shawnee,shawnee,algonquian,-83,40,f,f
+shr,Shor,shor,turkic,88,53,f,f
+skl,Sikule,sikule,sumatra,96,2.66666666667,f,f
+svc,Slovincian,slovincian,slavic,16,54,f,f
+sol,Solon,solon,tungusic,120,48,f,f
+sub,Subiya,subiya,bantoid,24.9166666667,-17.75,f,f
+suk,Suki,suki,suki,141.75,-8,f,f
+sum,Sumu,sumu,misumalpan,-84.5,13,f,f
+tld,Talaud,talaud,sulawesi,126.75,4.25,f,f
+tmm,Tamabo,tamabo,oceanic,167.166666667,-15.6666666667,f,f
+tht,Tehit,tehit,westbirdshead,132,-1.5,f,f
+trn,Terêna,terena,arawakan,-56,-20,f,f
+tew,Tewa (Arizona),tewaarizona,kiowatanoan,-110.416666667,35.8333333333,f,f
+thp,Thaypan,thaypan,pamanyungan,143.166666667,-14.8333333333,f,f
+tse,Timorese,timorese,centralmalayopolynesian,124.5,-9.66666666667,f,f
+tnt,Tontemboan,tontemboan,sulawesi,124.5,1.08333333333,f,f
+trd,Toraja,toraja,sulawesi,119.75,-3,f,f
+tst,Tsat,tsat,malayic,109.5,18.25,f,f
+tzz,Tzotzil (Zinacantán),tzotzilzinacantan,mayan,-92.8333333333,16.8333333333,f,f
+wgl,Waigali,waigali,indic,71.25,35,f,f
+wll,Wallisian,wallisian,oceanic,-176.2,-13.3,f,f
+wyn,Wayana,wayana,cariban,-54.1666666667,3.25,f,f
+xer,Xerénte,xerente,gekaingang,-48.1666666667,-10,f,f
+xun,!Xun (Ekoka),xunekoka,northernkhoisan,18,-19.6666666667,f,f
+ykm,Yakoma,yakoma,ubangi,18.4166666667,4.41666666667,f,f
+yil,Yil,yil,wapeipalei,142.15,-3.53333333333,f,f
+yki,Yuki,yuki,yukian,-123.5,39.6666666667,f,f
+yna,Yupik (Naukan),yupiknaukan,eskimo,-172,66,f,f
+ysi,Yupik (Sirenik),yupiksirenik,eskimo,-174,64.5,f,f
+zha,Zhang-Zhung,zhangzhung,bodic,78.4166666667,31.5833333333,f,f
+jum,Júma,juma,tupiguarani,-64,-7.5,f,f
+abd,Abidji,abidji,kwa,-4.58333333333,5.66666666667,f,f
+akl,Aklanon,aklanon,mesophilippine,122.333333333,11.5833333333,f,f
+ape,Ampeeli,ampeeli,angan,146.083333333,-6.75,f,f
+ago,Angolar,angolar,creolesandpidgins,6.5,0.25,f,f
+apc,Apache (Chiricahua),apachechiricahua,athapaskan,-108,33.25,f,f
+abe,Arabic (Beirut),arabicbeirut,semitic,35.5,33.9166666667,f,f
+ael,Arabic (Eastern Libyan),arabiceasternlibyan,semitic,22,32,f,f
+arv,Arabic (Negev),arabicnegev,semitic,34.75,30.5,f,f
+ars,Arabic (San'ani),arabicsanani,semitic,44,16,f,f
+akr,Arikara,arikara,caddoan,-100.5,45.5,f,f
+awd,Awadhi,awadhi,indic,81.5,27.5,f,f
+awi,Aekyom,aekyom,awinpare,141.416666667,-5.75,f,f
+bhn,Bahinemo,bahinemo,sepikhill,142.833333333,-4.58333333333,f,f
+blg,Balangao,balangao,northernphilippines,121.166666667,17.1666666667,f,f
+blk,Balantak,balantak,sulawesi,123.25,-0.833333333333,f,f
+bbm,Bambam,bambam,sulawesi,119.083333333,-3.08333333333,f,f
+bna,Banawá,banawa,arauan,-65,-7,f,f
+bnt,Bantik,bantik,sulawesi,124.75,1.41666666667,f,f
+bqi,Basque (Basaburua and Imoz),basquebasaburuaandimoz,basque,-1.66666666667,43,f,f
+bqb,Basque (Bidasoa Valley),basquebidasoavalley,basque,-3.83333333333,43,f,f
+bqg,Basque (Gernica),basquegernica,basque,-3,43.3333333333,f,f
+bqh,Basque (Hondarribia),basquehondarribia,basque,-3,42.5,f,f
+bql,Basque (Lekeitio),basquelekeitio,basque,-2.5,43,f,f
+bqn,Basque (Northern High Navarrese),basquenorthernhighnavarrese,basque,-2.5,43.3333333333,f,f
+bqo,Basque (Oñati),basqueonati,basque,-3.5,42.5,f,f
+bqr,Basque (Roncalese),basqueroncalese,basque,-2,43,f,f
+bqs,Basque (Sakana),basquesakana,basque,-2,42.5,f,f
+bso,Basque (Souletin),basquesouletin,basque,-1.5,43.5,f,f
+bqz,Basque (Zeberio),basquezeberio,basque,-3,42,f,f
+beg,Begak-Ida'an,begakidaan,northwestmalayopolynesian,118.833333333,5.25,f,f
+bhi,Bhili,bhili,indic,73,22,f,f
+bnm,Binumarien,binumarien,easternhighlands,146.083333333,-6.28333333333,f,f
+bgl,Buglere,buglere,guaymi,-81.25,8.5,f,f
+brj,Burji,burji,easterncushitic,37.8333333333,5.5,f,f
+bmr,Burum,burum,finisterrehuon,147.333333333,-6.5,f,f
+crj,Carijona,carijona,cariban,-73,1,f,f
+crq,Carrier,carrier,athapaskan,-123.5,53.75,f,f
+coi,Chortí,chorti,mayan,-89.25,14.8333333333,f,f
+cum,Chumburung,chumburung,kwa,0.25,7.75,f,f
+cla,Clallam,clallam,centralsalish,-123.75,48.0833333333,f,f
+cog,Cogui,cogui,aruak,-73.8333333333,11,f,f
+cup,Cupeño,cupeno,takic,-116.5,33.1666666667,f,f
+dbd,Dabida,dabida,bantoid,38.6666666667,-4,f,f
+dhu,Dhurga,dhurga,pamanyungan,150,-35.6666666667,f,f
+dou,Doutai,doutai,lakesplain,138.166666667,-3.33333333333,f,f
+dug,Dullay (Gollango),dullaygollango,easterncushitic,37.25,5.5,f,f
+dym,Dyimini,dyimini,gur,-4.41666666667,8.41666666667,f,f
+ena,Enga,enga,engan,143.666666667,-5.5,f,f
+ess,Esselen,esselen,esselen,-121.75,36.25,f,f
+fma,Fula (Mauritanian),fulamauritanian,northernatlantic,-13.75,16.5,f,f
+glp,Gaalpu,gaalpu,pamanyungan,136.75,-12.6666666667,f,f
+gay,Gayo,gayo,gayo,97.5,4.5,f,f
+gor,Gorowa,gorowa,southerncushitic,36.5,-4.5,f,f
+gun,Gunu,gunu,bantoid,11.25,4.58333333333,f,f
+hno,Haida (Northern),haidanorthern,haida,-132.5,54,f,f
+hlb,Halbi,halbi,indic,81,21,f,f
+hoa,Hoava,hoava,oceanic,157.5,-8.08333333333,f,f
+hok,Hokkien,hokkien,chinese,118,25,f,f
+htt,Huitoto,huitoto,huitoto,-74,-1,f,f
+iat,Iatmul,iatmul,middlesepik,143.25,-4.25,f,f
+iql,Inuktitut (Quebec-Labrador),inuktitutquebeclabrador,eskimo,-73,62,f,f
+ins,Inuktitut (Salluit),inuktitutsalluit,eskimo,-76,62,f,f
+ise,Isekiri,isekiri,defoid,5.5,5.66666666667,f,f
+jwr,Jarawara,jarawara,arauan,-65.5,-7.5,f,f
+jua,Juat,juat,pamanyungan,115.5,-31,f,f
+klp,Kalapuya,kalapuya,kalapuyan,-123,44.5,f,f
+kak,Kamano-Kafe,kamanokafe,easternhighlands,145.666666667,-6.25,f,f
+kmi,Kami,kami,bantoid,38,-6.75,f,f
+kra,Kara (in Papua New Guinea),karainpapuanewguinea,oceanic,151.116666667,-2.83333333333,f,f
+krm,Karaim,karaim,turkic,24.9166666667,54.6666666667,f,f
+krt,Karata,karata,avarandictsezic,46.3333333333,42.5833333333,f,f
+ksm,Kasem,kasem,gur,-1.25,11.25,f,f
+kaj,Kaure,kaure,kaure,140.083333333,-3.41666666667,f,f
+kmt,Kemtuik,kemtuik,nimboran,140.333333333,-2.66666666667,f,f
+ktn,Ketengban,ketengban,mek,140.5,-4.5,f,f
+kit,Kitsai,kitsai,caddoan,-96.5,31.8333333333,f,f
+kkz,Kokni,kokni,indic,73.5,20.75,f,f
+kkb,Konkomba,konkomba,gur,0.0833333333333,10,f,f
+kko,Koranko,koranko,westernmande,-11.25,9.33333333333,f,f
+kpo,Kposo,kposo,kwa,0.833333333333,7.5,f,f
+lno,Ladino,ladino,romance,33,40,f,f
+laf,Lafofa,lafofa,tegem,31.25,10.25,f,f
+lul,Lule,lule,lule,-64,-28,f,f
+mly,Malay,malay,malayic,102,3,f,f
+mmp,Mampruli,mampruli,gur,-0.666666666667,10.3333333333,f,f
+mem,Manem,manem,border,140.833333333,-3,f,f
+mnj,Mantjiltjara,mantjiltjara,pamanyungan,125.083333333,-22.6666666667,f,f
+mav,Maring,maring,chimbu,144.666666667,-5.5,f,f
+mwa,Martu Wangka,martuwangka,pamanyungan,126,-21.5,f,f
+mwc,Mawchi,mawchi,indic,73.6666666667,21.3333333333,f,f
+myy,Mayi-Yapi,mayiyapi,pamanyungan,141,-20,f,f
+mbg,Mbugu,mbugu,southerncushitic,38.1666666667,-4.33333333333,f,f
+mta,Mentuh Tapuh,mentuhtapuh,landdayak,111,1.25,f,f
+mey,Menya,menya,angan,146,-7.25,f,f
+mdu,Mündü,mundu,ubangi,30,4.5,f,f
+naf,Nafaanra,nafaanra,gur,-2.58333333333,8,f,f
+npu,Napu,napu,sulawesi,120.416666667,-1.33333333333,f,f
+nbe,Ngombe,ngombe,bantoid,23,3,f,f
+npi,Nigerian Pidgin,nigerianpidgin,creolesandpidgins,3.33333333333,6.5,f,f
+nin,Ningil,ningil,wapeipalei,142.25,-3.5,f,f
+nmd,Nomad,nomad,eaststrickland,142.25,-6.16666666667,f,f
+nkr,Nukuoro,nukuoro,oceanic,154.916666667,3.83333333333,f,f
+nbo,Nyambo,nyambo,bantoid,31.3333333333,-1,f,f
+obk,Obokuitai,obokuitai,lakesplain,138,-3,f,f
+ojm,Ojibwe (Minnesota),ojibweminnesota,algonquian,-92.5,47.6666666667,f,f
+olm,Oloh Mangtangai,olohmangtangai,barito,113,-0.833333333333,f,f
+orb,Oromo (Boraana),oromoboraana,easterncushitic,38.5,4.5,f,f
+ptp,Patpatar,patpatar,oceanic,152.5,-3.76666666667,f,f
+pem,Pemon,pemon,cariban,-62,5.33333333333,f,f
+pdp,Folopa,folopa,teberan,144.5,-7,f,f
+pkm,Pokomchí,pokomchi,mayan,-90.5,15.4166666667,f,f
+qec,Quechua (Ecuadorean),quechuaecuadorean,quechuan,-79,-1,f,f
+ria,Riantana,riantana,kolopom,138.5,-7.5,f,f
+rav,Romani (Ajia Varvara),romaniajiavarvara,indic,23.5833333333,38,f,f
+rnd,Rundi,rundi,bantoid,30,-3.5,f,f
+ski,Saami (Kildin),saamikildin,saami,37,67,f,f
+slr,Salar,salar,turkic,103,35,f,f
+say,Sayultec,sayultec,mixezoque,-95,17.8333333333,f,f
+sru,Selaru,selaru,centralmalayopolynesian,131,-8.2,f,f
+sly,Selayar,selayar,sulawesi,120.5,-6,f,f
+sey,Seychelles Creole,seychellescreole,creolesandpidgins,55.5,-4.75,f,f
+ssh,Shinassha,shinassha,northomotic,36.1666666667,10.4166666667,f,f
+skr,Sikaritai,sikaritai,lakesplain,138.25,-2.91666666667,f,f
+ssa,Sisaala,sisaala,gur,-2.66666666667,10.8333333333,f,f
+sto,Stoney,stoney,siouan,-116.5,53.75,f,f
+sva,Svan,svan,kartvelian,42.5,43,f,f
+tbr,Tabaru,tabaru,northhalmaheran,127.25,1.5,f,f
+tns,Tanna (Southwest),tannasouthwest,oceanic,169.333333333,-19.5666666667,f,f
+tgw,Tarangan (West),taranganwest,centralmalayopolynesian,134.166666667,-6.5,f,f
+trt,Ternate,ternate,northhalmaheran,127.25,0.833333333333,f,f
+tis,Tibetan (Shigatse),tibetanshigatse,bodic,89,29,f,f
+tif,Tifal,tifal,ok,141.333333333,-5,f,f
+til,Tillamook,tillamook,tillamook,-123.75,45.3333333333,f,f
+unm,Unami,unami,algonquian,-75.1666666667,40,f,f
+vas,Vasavi,vasavi,indic,71.5,24.5,f,f
+wlw,Warluwara,warluwara,pamanyungan,138.5,-22,f,f
+wrp,Waropen,waropen,southhalmaherawestnewguinea,136.583333333,-2.33333333333,f,f
+wur,Waurá,waura,arawakan,-53,-13,f,f
+wer,Weri,weri,goilalan,146.916666667,-7.75,f,f
+wet,Wetan,wetan,centralmalayopolynesian,128,-8.16666666667,f,f
+wob,Wobe,wobe,kru,-7.33333333333,7.41666666667,f,f
+wog,Wogamusin,wogamusin,uppersepik,142.333333333,-4.25,f,f
+wwr,Woiwurrung,woiwurrung,pamanyungan,145.5,-37.5,f,f
+ykn,Yakan,yakan,samabajaw,122,6.5,f,f
+yzv,Yazva,yazva,finnic,55,65,f,f
+ykp,Yukpa,yukpa,cariban,-72.75,10.1666666667,f,f
+ylb,Yulparija,yulparija,pamanyungan,124,-21,f,f
+ych,Yup'ik (Chevak),yupikchevak,eskimo,-165.75,61.5,f,f
+yun,Yup'ik (Norton Sound),yupiknortonsound,eskimo,-161,64,f,f
+ysl,Yupik (St. Lawrence Island),yupikstlawrenceisland,eskimo,-170.5,63.5,f,f
+zte,Zapotec (Texmelucan),zapotectexmelucan,zapotecan,-97.1666666667,16.5,f,f
+zim,Zimakani,zimakani,marindproper,141.433333333,-7.43333333333,f,f
+agr,Aguaruna,aguaruna,jivaroan,-78,-5,f,f
+ano,Anong,anong,nungish,98.75,27.3333333333,f,f
+bdc,Berbice Dutch Creole,berbicedutchcreole,creolesandpidgins,-58,5.33333333333,f,f
+bez,Bezhta,bezhta,avarandictsezic,46.1666666667,42.0833333333,f,f
+boq,Bokar,bokar,tani,94.6666666667,28.5,f,f
+bdk,Budukh,budukh,lezgic,48.4166666667,41.1666666667,f,f
+cpa,Campa Pajonal Asheninca,campapajonalasheninca,arawakan,-74.25,-10.6666666667,f,f
+cyg,Cayuga,cayuga,northerniroquoian,-76.75,42.75,f,f
+cvc,Chavacano,chavacano,creolesandpidgins,122.083333333,7,f,f
+col,Chol,chol,mayan,-92.5,17.75,f,f
+cul,Culina,culina,arauan,-70.5,-6,f,f
+dri,Dari,dari,iranian,66,35,f,f
+dob,Dobel,dobel,centralmalayopolynesian,134.666666667,-6.25,f,f
+dun,Duna,duna,duna,142.5,-5.5,f,f
+eko,Ekoti,ekoti,bantoid,39.5,-16.5,f,f
+gdb,Gutob,gutob,munda,83.6666666667,19,f,f
+gog,Gogodala,gogodala,gogodala,142.833333333,-8.08333333333,f,f
+hnn,Hanunóo,hanunoo,mesophilippine,121.25,12.3333333333,f,f
+hwc,Hawaiian Creole,hawaiiancreole,creolesandpidgins,-158,21.5,f,f
+her,Herero,herero,bantoid,19,-20.5833333333,f,f
+ifm,Ifumu,ifumu,bantoid,15.3333333333,-3.66666666667,f,f
+iga,Inga,inga,quechuan,-77,1,f,f
+jlu,Jur Luwo,jurluwo,nilotic,28,8,f,f
+kwe,Kanjobal (Western),kanjobalwestern,mayan,-91.8333333333,15.8333333333,f,f
+knp,Kanum (Ngkâlmpw),kanumngkalmpw,moreheadanduppermarorivers,140.916666667,-8.66666666667,f,f
+krq,Kerek,kerek,northernchukotkokamchatkan,175,62.25,f,f
+ksr,Kisar,kisar,centralmalayopolynesian,127.116666667,-8.08333333333,f,f
+koo,Kola,kola,centralmalayopolynesian,134.5,-5.5,f,f
+kfc,Kriol (Fitzroy Crossing),kriolfitzroycrossing,creolesandpidgins,125.583333333,-18.1666666667,f,f
+knq,Kriol (Ngukurr),kriolngukurr,creolesandpidgins,135,-14.8333333333,f,f
+kiu,Kui (in Indonesia),kuiinindonesia,greateralor,124.55,-8.43333333333,f,f
+kjn,Kunjen,kunjen,pamanyungan,142.5,-16.5,f,f
+kug,Kunming,kunming,chinese,102.75,25,f,f
+kwr,Kwamera,kwamera,oceanic,169.416666667,-19.5833333333,f,f
+lnw,Lonwolwol,lonwolwol,oceanic,168,-16.2166666667,f,f
+lov,Loven,loven,bahnaric,106.333333333,15,f,f
+mlc,Malacca Creole,malaccacreole,creolesandpidgins,102.25,2.2,f,f
+mnx,Manx,manx,celtic,-4.5,54.1666666667,f,f
+mil,Milang,milang,tani,95.25,28.5,f,f
+mcc,Mochica,mochica,chimuan,-79.3333333333,-7.5,f,f
+mop,Mopan,mopan,mayan,-88.6666666667,16.5833333333,f,f
+ngr,Ngarinyeri,ngarinyeri,pamanyungan,140,-36,f,f
+nbh,Nubian (Hill),nubianhill,nubian,31,12,f,f
+nyr,Nyangumarda,nyangumarda,pamanyungan,121,-20,f,f
+oka,Okanagan,okanagan,interiorsalish,-118.5,49.5,f,f
+olu,Olutec,olutec,mixezoque,-95,17.95,f,f
+orc,Oroch,oroch,tungusic,137.5,50.3333333333,f,f
+owc,Oromo (West-Central),oromowestcentral,easterncushitic,37,9,f,f
+pad,Padoe,padoe,sulawesi,121.333333333,-2.33333333333,f,f
+pta,Paita,paita,oceanic,166.5,-22.0833333333,f,f
+plr,Palor,palor,northernatlantic,-16.75,14.8333333333,f,f
+prd,Parji (Dravidian),parjidravidian,centraldravidian,82.5,19.5,f,f
+puq,Puquina,puquina,puquina,-68.5,-16.5,f,f
+rim,Rimi,rimi,bantoid,34.6666666667,-5,f,f
+swi,Sawai,sawai,southhalmaherawestnewguinea,128,0.5,f,f
+srr,Serrano,serrano,takic,-117,34.5,f,f
+shy,Shira Yughur,shirayughur,mongolic,99,38,f,f
+skm,Sukuma,sukuma,bantoid,32,-2.83333333333,f,f
+slg,Sulung,sulung,sulung,93.25,28.3333333333,f,f
+sur,Sursurunga,sursurunga,oceanic,152.766666667,-4,f,f
+tgp,Tanglapui,tanglapui,kolanatanglapui,125.083333333,-8.28333333333,f,f
+tsm,Tasmanian,tasmanian,tasmanian,146.5,-42.1666666667,f,f
+tet,Tetela,tetela,bantoid,24,-4,f,f
+tsn,Tsonga,tsonga,bantoid,32,-24,f,f
+tsw,Tswana,tswana,bantoid,26,-24,f,f
+tpr,Tupuri,tupuri,adamawa,14.75,10.1666666667,f,f
+tye,Tyeraity,tyeraity,northerndaly,130.333333333,-13,f,f
+uku,Upper Kuskokwim,upperkuskokwim,athapaskan,-157,63,f,f
+yli,Yali,yali,dani,139.333333333,-4,f,f
+ymd,Yamdena,yamdena,centralmalayopolynesian,131.5,-7.5,f,f
+yns,Yansi,yansi,bantoid,18,-3.83333333333,f,f
+yaz,Yazgulyam,yazgulyam,iranian,71.5,38.5,f,f
+zaq,Zapotec (Quiegolani),zapotecquiegolani,zapotecan,-96.0833333333,16.1666666667,f,f
+agl,Aghul,aghul,lezgic,47.6666666667,41.75,f,f
+atq,Alutiiq,alutiiq,eskimo,-157,57,f,f
+apa,Arabic (Palestinian),arabicpalestinian,semitic,35.25,32,f,f
+ari,Aribwatsa,aribwatsa,oceanic,147,-6.71666666667,f,f
+asu,Asuriní,asurini,tupiguarani,-49.5,-3.5,f,f
+atm,Atacameño,atacameno,kunza,-69,-23,f,f
+bwa,Bandjalang (Waalubal),bandjalangwaalubal,pamanyungan,152.583333333,-29.0833333333,f,f
+bgg,Banggai,banggai,sulawesi,123.166666667,-1.41666666667,f,f
+bnw,Baniwa,baniwa,arawakan,-66.8333333333,2.66666666667,f,f
+blu,Bena-Lulua,benalulua,bantoid,21,-6,f,f
+bse,Berber (Ayt Seghrouchen Middle Atlas),berberaytseghrouchenmiddleatlas,berber,-4.66666666667,33.3333333333,f,f
+bik,Biak,biak,southhalmaherawestnewguinea,136,-1,f,f
+big,Binga,binga,bongobagirmi,25,8,f,f
+bor,Bora,bora,boran,-72.3333333333,-2.16666666667,f,f
+boz,Bozo (Tigemaxo),bozotigemaxo,westernmande,-4,15,f,f
+crt,Chorote,chorote,matacoan,-62.5,-22.5,f,f
+cua,Cua,cua,bahnaric,108.5,15.25,f,f
+dak,Dakota,dakota,siouan,-93.5,45,f,f
+emc,Embera Chami,emberachami,choco,-76,5,f,f
+fio,Fiote,fiote,bantoid,14,-5.5,f,f
+fox,Fox,fox,algonquian,-83,43,f,f
+grn,Gurenne,gurenne,gur,-0.916666666667,10.8333333333,f,f
+hwr,Hawrami,hawrami,iranian,45.5,35.75,f,f
+hdi,Hdi,hdi,biumandara,13.7166666667,11.8666666667,f,f
+hmd,Hmong Daw,hmongdaw,hmongmien,105,26,f,f
+iha,Iha,iha,westbomberai,132.25,-2.91666666667,f,f
+jrw,Jarawa (in Andamans),jarawainandamans,southandamanese,92.5833333333,12,f,f
+krl,Karelian,karelian,finnic,32,64,f,f
+ksh,Kashaya,kashaya,pomoan,-123.333333333,38.6666666667,f,f
+klk,Koh (Lakka),kohlakka,adamawa,15.5,8,f,f
+kuq,Kumyk,kumyk,turkic,47.3333333333,43,f,f
+mmw,Mambwe,mambwe,bantoid,31.1666666667,-9.08333333333,f,f
+mzn,Mazanderani,mazanderani,iranian,52,36.5,f,f
+mir,Miriwung,miriwung,djeragan,129,-15.6666666667,f,f
+mbo,Monumbo,monumbo,monumbo,145,-4.25,f,f
+mmo,Mordvin (Moksha),mordvinmoksha,mordvin,44,54,f,f
+nmi,Nahuatl (Mecayapan Isthmus),nahuatlmecayapanisthmus,aztecan,-94.8333333333,18.25,f,f
+nvs,Nivkh (South Sakhalin),nivkhsouthsakhalin,nivkh,142.5,47,f,f
+nyh,Nyiha,nyiha,bantoid,33,-10,f,f
+occ,Occitan,occitan,romance,2,44,f,f
+ojs,Ojibwa (Severn),ojibwasevern,algonquian,-90,53,f,f
+pap,Papiamentu,papiamentu,creolesandpidgins,-69,12.25,f,f
+pil,Pileni,pileni,oceanic,166.216666667,-10.2166666667,f,f
+pin,Pintupi,pintupi,pamanyungan,129,-23,f,f
+pog,Pogoro,pogoro,bantoid,36.5,-8.75,f,f
+pop,Popoloca (Metzontla),popolocametzontla,popolocan,-97.5,18.1666666667,f,f
+que,Quechan,quechan,yuman,-114.333333333,32.8333333333,f,f
+sou,Sorbian (Upper),sorbianupper,slavic,14.5,51.8333333333,f,f
+spo,Spokane,spokane,interiorsalish,-117.75,47.6666666667,f,f
+tga,Tangga,tangga,oceanic,153.2,-3.46666666667,f,f
+thd,Thadou,thadou,kukichin,93.9166666667,24.4166666667,f,f
+tgo,Tsogo,tsogo,bantoid,11.3333333333,-1.5,f,f
+tua,Tuamotuan,tuamotuan,oceanic,-144,-17,f,f
+yyg,Yaygir,yaygir,pamanyungan,153,-29.6666666667,f,f
+zen,Zenaga,zenaga,berber,-16,17.3333333333,f,f
+abz,Abaza,abaza,northwestcaucasian,42,44,f,f
+amk,Amarakaeri,amarakaeri,harakmbet,-70.5,-12.5,f,f
+ami,Amis,amis,paiwanic,121.333333333,23.3333333333,f,f
+atu,Arabic (Tunisian),arabictunisian,semitic,10.25,36.75,f,f
+atc,Atchin,atchin,oceanic,167.333333333,-16,f,f
+awy,Awyi,awyi,border,140.583333333,-2.91666666667,f,f
+bgs,Baga Sitemu,bagasitemu,southernatlantic,-14.5,10.5,f,f
+bsi,Berber (Siwa),berbersiwa,berber,25.5,29.1666666667,f,f
+bnr,Bilinara,bilinara,pamanyungan,131.666666667,-16,f,f
+bok,Boko,boko,easternmande,3.5,10.5,f,f
+bro,Broken,broken,creolesandpidgins,143,-10.1666666667,f,f
+bub,Bubi,bubi,bantoid,8.66666666667,3.5,f,f
+cyn,Cheyenne,cheyenne,algonquian,-95,47,f,f
+crg,Chiriguano,chiriguano,tupiguarani,-64.3333333333,-23.6666666667,f,f
+crk,Creek,creek,muskogean,-85,34,f,f
+dok,Doko,doko,bantoid,23.0833333333,3,f,f
+frd,Fordata,fordata,centralmalayopolynesian,131.5,-6.75,f,f
+gag,Gagauz,gagauz,turkic,28.6666666667,46.3333333333,f,f
+gil,Gilaki,gilaki,iranian,50,37.3333333333,f,f
+jad,Jad,jad,bodic,79,30.8333333333,f,f
+kna,Karitiâna,karitiana,arikem,-64,-9.5,f,f
+kic,Kickapoo,kickapoo,algonquian,-84,42.25,f,f
+kus,Kusunda,kusunda,kusunda,84.6666666667,28,f,f
+kwm,Kwami,kwami,westchadic,11,10.4166666667,f,f
+lng,Lengua,lengua,mascoian,-59,-22.5,f,f
+loz,Lozi,lozi,bantoid,26,-17.8333333333,f,f
+mgh,Magahi,magahi,indic,85.5,23.5,f,f
+mkz,Makaa,makaa,bantoid,12.25,3.41666666667,f,f
+mrc,Marchha,marchha,bodic,79.5833333333,30.25,f,f
+mah,Mari (Hill),marihill,mari,58,57,f,f
+mid,Midob,midob,nubian,26.25,15.0833333333,f,f
+mii,Miisiirii,miisiirii,taman,22,13.5,f,f
+mcs,Miwok (Central Sierra),miwokcentralsierra,miwok,-120.333333333,38,f,f
+mwn,Miwok (Northern Sierra),miwoknorthernsierra,miwok,-120.666666667,38.3333333333,f,f
+mxa,Mixtec (Atatlahuca),mixtecatatlahuca,mixtecan,-97.75,17,f,f
+mpo,Mpongwe,mpongwe,bantoid,9.5,-1.25,f,f
+nde,Nande,nande,bantoid,29.1666666667,-0.0833333333333,f,f
+nke,Nkem,nkem,bantoid,8.58333333333,6.58333333333,f,f
+pmc,Pomo (Central),pomocentral,pomoan,-123.333333333,39,f,f
+qay,Quechua (Ayacucho),quechuaayacucho,quechuan,-74,-14,f,f
+qch,Quiché,quiche,mayan,-91.4166666667,15,f,f
+rmb,Rembarnga,rembarnga,rembarnga,134.583333333,-12.8333333333,f,f
+sec,Secoya,secoya,tucanoan,-76,-0.333333333333,f,f
+sko,Skou,skou,westernskou,140.916666667,-2.66666666667,f,f
+tba,Tabare,tabare,chimbu,145,-6.08333333333,f,f
+tmg,Tamagario,tamagario,kayagar,139.25,-6.41666666667,f,f
+tan,Tangale,tangale,westchadic,11.3333333333,9.75,f,f
+tem,Tem,tem,gur,0.5,8.66666666667,f,f
+toq,Toqabaqita,toqabaqita,oceanic,160.583333333,-8.41666666667,f,f
+tbb,Tübatulabal,tubatulabal,tubatulabal,-118.333333333,36,f,f
+tki,Tuki,tuki,bantoid,11.5,4.58333333333,f,f
+tum,Tumleo,tumleo,oceanic,142.416666667,-3.08333333333,f,f
+tnb,Tunebo,tunebo,chibchanproper,-72.25,6.75,f,f
+uli,Ulithian,ulithian,oceanic,139.583333333,9.91666666667,f,f
+vag,Vagla,vagla,gur,-2.41666666667,9.41666666667,f,f
+wlm,Walmatjari,walmatjari,pamanyungan,125.75,-19.5,f,f
+wn,Wik Ngathana,wikngathana,pamanyungan,141.5,-13.9166666667,f,f
+wnb,Winnebago,winnebago,siouan,-88.5,43.5,f,f
+ynk,Yankuntjatjara,yankuntjatjara,pamanyungan,132,-27,f,f
+zsq,Zapotec (San Lucas Quiaviní),zapotecsanlucasquiavini,zapotecan,-96.4666666667,16.9,f,f
+aba,Abau,abau,uppersepik,141.25,-4,f,f
+agw,Alagwa,alagwa,southerncushitic,35.75,-5.5,f,f
+arl,Arabic (Lebanese),arabiclebanese,semitic,36,34,f,f
+ats,Atsugewi,atsugewi,palaihnihan,-121,40.75,f,f
+brk,Berik,berik,tor,138.833333333,-2.25,f,f
+bun,Buin,buin,eastbougainville,155.75,-6.75,f,f
+cga,Chaga,chaga,bantoid,37,-3,f,f
+chb,Chambri,chambri,lowersepik,143.083333333,-4.16666666667,f,f
+chd,Chaudangsi,chaudangsi,bodic,80.25,30,f,f
+cch,Chocho,chocho,popolocan,-97.4166666667,17.6666666667,f,f
+cos,Costanoan,costanoan,costanoan,-122,37,f,f
+cuc,Cuica,cuica,timotecuica,-70.5,9,f,f
+dma,Duma,duma,bantoid,13,-0.95,f,f
+fue,Futuna (East),futunaeast,oceanic,-178.166666667,-14.3333333333,f,f
+ghr,Gahri,gahri,bodic,77,32.5,f,f
+foe,Foe,foe,kutubuan,143.5,-6.5,f,f
+hcr,Haitian Creole,haitiancreole,creolesandpidgins,-72.5,19,f,f
+jur,Jurchen,jurchen,tungusic,130,47,f,f
+ktu,Katu,katu,katuic,107.583333333,15.8333333333,f,f
+kei,Kei,kei,centralmalayopolynesian,132.916666667,-5.83333333333,f,f
+mks,Makassar,makassar,sulawesi,119.583333333,-5.41666666667,f,f
+mcr,Mauritian Creole,mauritiancreole,creolesandpidgins,57.5,-20.3333333333,f,f
+mhu,Mbalanhu,mbalanhu,bantoid,15,-17.5,f,f
+mnt,Mentawai,mentawai,sumatra,99,-1.5,f,f
+mic,Micmac,micmac,algonquian,-63,45,f,f
+mtg,Montagnais,montagnais,algonquian,-65,52,f,f
+mul,Mulao,mulao,kamtai,108,25,f,f
+mse,Munsee,munsee,algonquian,-74.6666666667,41.5,f,f
+nel,Nelemwa,nelemwa,oceanic,164.083333333,-20.25,f,f
+nto,Ntomba,ntomba,bantoid,18.3333333333,-2,f,f
+nus,Nusu,nusu,burmeselolo,99,26.75,f,f
+oir,Oirat,oirat,mongolic,93,37.5,f,f
+oix,Otomí (Ixtenco),otomiixtenco,otomian,-97.9166666667,19.0833333333,f,f
+pna,Pamona,pamona,sulawesi,120.833333333,-1.75,f,f
+png,Pangwa,pangwa,bantoid,34.75,-10,f,f
+pmn,Pomo (Northern),pomonorthern,pomoan,-123.5,39.3333333333,f,f
+qcu,Quechua (Cuzco),quechuacuzco,quechuan,-71,-14.5,f,f
+rik,Rikbaktsa,rikbaktsa,rikbaktsa,-57.5,-11.8333333333,f,f
+rti,Roti,roti,centralmalayopolynesian,123.25,-10.6666666667,f,f
+sea,Southeast Ambrym,southeastambrym,oceanic,168.216666667,-16.3,f,f
+sra,Sranan,sranan,creolesandpidgins,-55.3333333333,5.83333333333,f,f
+sug,Sungor,sungor,taman,21.5,13.75,f,f
+toj,Tojolabal,tojolabal,mayan,-91.5,16.3333333333,f,f
+uru,Uru,uru,uruchipaya,-69,-16.75,f,f
+wtm,Watam,watam,lowerramu,144.5,-3.91666666667,f,f
+wya,Wyandot,wyandot,northerniroquoian,-77.5,44.3333333333,f,f
+yav,Yavapai,yavapai,yuman,-113.333333333,34,f,f
+ahu,Aghu,aghu,awjudumut,140.166666667,-6.16666666667,f,f
+ayi,Anyi,anyi,kwa,-3.5,7,f,f
+ayr,Ayoreo,ayoreo,zamucoan,-59.25,-20.25,f,f
+blc,Baluchi,baluchi,iranian,62,28,f,f
+bsr,Basari,basari,northernatlantic,-13,12.6666666667,f,f
+bch,Berber (Chaouia),berberchaouia,berber,7,35,f,f
+bti,Betoi,betoi,betoi,-71.25,7.16666666667,f,f
+bhu,Bhumij,bhumij,munda,86.5,21.3333333333,f,f
+bol,Bolia,bolia,bantoid,18.3333333333,-1.25,f,f
+boj,Bori,bori,tani,94.75,28.3333333333,f,f
+csh,Cashinahua,cashinahua,panoan,-71.8333333333,-10.5,f,f
+cuu,Chuukese,chuukese,oceanic,151.75,7.33333333333,f,f
+des,Desano,desano,tucanoan,-69.8333333333,0.833333333333,f,f
+dhw,Dharawal,dharawal,pamanyungan,150.5,-34.5,f,f
+dhb,Dharumbal,dharumbal,pamanyungan,150.5,-22.75,f,f
+ebi,Ebira,ebira,nupoid,7,8.16666666667,f,f
+gdi,Godié,godie,kru,-5.83333333333,5.41666666667,f,f
+joh,Johari,johari,bodic,80,30.6666666667,f,f
+kbo,Kambot,kambot,botin,144.133333333,-4.25,f,f
+kbu,Kanembu,kanembu,westernsaharan,15,14,f,f
+knb,Kanum (Bädi),kanumbadi,moreheadanduppermarorivers,140.75,-8.83333333333,f,f
+kti,"Kati (in West Papua, Indonesia)",katiinwestpapuaindonesia,ok,140.916666667,-5.75,f,f
+kaz,Kazakh,kazakh,turkic,70,50,f,f
+kgi,Konyagi,konyagi,northernatlantic,-13.25,12.5,f,f
+mdr,Madurese,madurese,madurese,113.5,-7,f,f
+mkd,Makonde,makonde,bantoid,40,-11,f,f
+mrr,Maringarr,maringarr,westerndaly,130,-14.25,f,f
+mom,Mombum,mombum,mombum,138.75,-8.25,f,f
+mni,Moni,moni,wissellakeskemandoga,137,-3.66666666667,f,f
+mud,Mundani,mundani,bantoid,9.91666666667,5.66666666667,f,f
+nkk,Nakkara,nakkara,nakkara,134.416666667,-12.1166666667,f,f
+nbb,Nambas (Big),nambasbig,oceanic,167.2,-16.0833333333,f,f
+nau,Nauruan,nauruan,oceanic,166.916666667,-0.5,f,f
+ren,Rendille,rendille,easterncushitic,37.5,2,f,f
+saa,Sa'a,saa,oceanic,161.45,-9.61666666667,f,f
+sgl,Sengele,sengele,bantoid,17.3333333333,-1.83333333333,f,f
+sil,Sila,sila,daju,21.75,12.3333333333,f,f
+tal,Talinga,talinga,bantoid,29.6666666667,0.416666666667,f,f
+tor,Toratán,toratan,sulawesi,124.833333333,1.08333333333,f,f
+tup,Tupi,tupi,tupiguarani,-36,-6,f,f
+wrb,Warrnambool,warrnambool,pamanyungan,142.5,-38.25,f,f
+yao,Yao (in Malawi),yaoinmalawi,bantoid,35.5,-14.5,f,f
+yei,Yei,yei,moreheadanduppermarorivers,140.916666667,-7.91666666667,f,f
+ylm,Yelmek,yelmek,bulakariver,139.166666667,-7.66666666667,f,f
+zqo,Zoque (Ostuacan),zoqueostuacan,mixezoque,-93.3,17.4166666667,f,f
+agu,Aguacatec,aguacatec,mayan,-91.3333333333,15.4166666667,f,f
+als,Alsea,alsea,alsea,-123.916666667,44.6666666667,f,f
+ayo,Ayomán,ayoman,jirajaran,-69,11,f,f
+bgn,Bugun,bugun,westernarunachal,92.5833333333,27.5,f,f
+cme,Cham (Eastern),chameastern,malayic,108.5,11.3333333333,f,f
+cjo,Chichimeca-Jonaz,chichimecajonaz,chichimec,-100.5,21.6666666667,f,f
+cln,Cholón,cholon,cholon,-77.5,-8,f,f
+cri,Crimean Tatar,crimeantatar,turkic,34.0833333333,45,f,f
+edo,Edolo,edolo,bosavi,142.666666667,-6.16666666667,f,f
+esm,Esmeraldeño,esmeraldeno,tacame,-79.8333333333,0.333333333333,f,f
+hem,Hemba,hemba,bantoid,27.1666666667,-6.25,f,f
+hol,Holoholo,holoholo,bantoid,29.9166666667,-5.16666666667,f,f
+jbt,Jabutí,jabuti,jabuti,-62.25,-12.25,f,f
+jin,Jino,jino,burmeselolo,101,22,f,f
+jug,Jugli,jugli,northernnaga,96.3333333333,27.5,f,f
+kll,Kaluli,kaluli,bosavi,142.75,-6.5,f,f
+krj,Karadjeri,karadjeri,pamanyungan,122,-19,f,f
+kkw,Karankawa,karankawa,karankawa,-97,28,f,f
+khi,Khinalug,khinalug,lezgic,48.0833333333,41.1666666667,f,f
+kie,Kire,kire,mikarew,144.75,-4.25,f,f
+kui,Kui (in India),kuiinindia,southcentraldravidian,83.5,20,f,f
+lmb,Lamba,lamba,bantoid,28,-13,f,f
+mda,Mada (in Cameroon),madaincameroon,biumandara,14.1666666667,10.8333333333,f,f
+mgi,Magi,magi,mailuan,149.333333333,-10.3333333333,f,f
+mrs,Mairasi,mairasi,mairasitanahmerah,134,-3.5,f,f
+mkl,Maklew,maklew,bulakariver,139.416666667,-7.66666666667,f,f
+mto,Malto,malto,northerndravidian,87.3333333333,25,f,f
+mbl,Mbole,mbole,bantoid,24.6666666667,-0.666666666667,f,f
+moj,Mojave,mojave,yuman,-114.583333333,34.6666666667,f,f
+oks,Oksapmin,oksapmin,oksapmin,142.166666667,-5.16666666667,f,f
+ono,Ono,ono,finisterrehuon,147.583333333,-6.16666666667,f,f
+rga,Ronga,ronga,bantoid,32.5,-26,f,f
+rru,Runyoro-Rutooro,runyororutooro,bantoid,31.3333333333,1.5,f,f
+skn,Sikuani,sikuani,guahiban,-71.5,6.25,f,f
+spi,Spitian,spitian,bodic,78,32.25,f,f
+tho,Thompson,thompson,interiorsalish,-121.75,49.75,f,f
+wag,Wagiman,wagiman,wagiman,131.25,-14,f,f
+yqy,Yaqay,yaqay,marindproper,139.25,-6.58333333333,f,f
+zpr,Zaparo,zaparo,zaparoan,-76.3333333333,-2,f,f
+aja,Aja,aja,kresh,25.6666666667,7.33333333333,f,f
+ama,Amara,amara,oceanic,148.5,-5.66666666667,f,f
+aab,Arapesh (Abu),arapeshabu,kombioarapesh,142.95,-3.45,f,f
+bnk,Bankon,bankon,bantoid,9.58333333333,4.41666666667,f,f
+bia,Bira,bira,bantoid,28.75,1,f,f
+boa,Boazi,boazi,marindproper,141.333333333,-7,f,f
+bui,Buli (in Indonesia),buliinindonesia,southhalmaherawestnewguinea,128.5,1,f,f
+ctw,Catawba,catawba,siouan,-80.5,35.5,f,f
+cho,Chontal (Highland),chontalhighland,tequistlatecan,-95.75,16.25,f,f
+cve,Chuave,chuave,chimbu,145.116666667,-6.11666666667,f,f
+chj,Chuj,chuj,mayan,-91.5833333333,15.9166666667,f,f
+cin,Chumash (Ineseño),chumashineseno,chumash,-120.25,34.6666666667,f,f
+deu,Deuri,deuri,bodogaro,90.25,26,f,f
+dhi,Dhivehi,dhivehi,indic,73.5,4.16666666667,f,f
+far,Faroese,faroese,germanic,-7,62,f,f
+gwo,Gworok,gworok,platoid,8.16666666667,9.91666666667,f,f
+han,Hani,hani,burmeselolo,103,23,f,f
+heh,Hehe,hehe,bantoid,36,-8,f,f
+hmu,Huitoto (Muinane),huitotomuinane,huitoto,-71,-2.41666666667,f,f
+kbt,Kabatei,kabatei,iranian,49.4166666667,36.75,f,f
+kmw,Kamu,kamu,easterndaly,130.833333333,-13.5833333333,f,f
+kod,Kodava,kodava,southerndravidian,76.8333333333,12.1666666667,f,f
+klr,Koluri,koluri,iranian,48,37,f,f
+kjo,Konjo,konjo,sulawesi,120.333333333,-5.46666666667,f,f
+krh,Krahô,kraho,gekaingang,-48,-8,f,f
+kuk,Kukú,kuku,nilotic,31.6666666667,5.83333333333,f,f
+kwb,Kwerba,kwerba,kwerba,138.5,-2.25,f,f
+leb,Lebeo,lebeo,bantoid,25,1.75,f,f
+luc,Lucazi,lucazi,bantoid,20,-14,f,f
+mdl,Madngele,madngele,easterndaly,130.416666667,-13.8333333333,f,f
+mdk,Mandinka,mandinka,westernmande,-15.6666666667,13,f,f
+msh,Marshallese,marshallese,oceanic,171.05,7.11666666667,f,f
+mbe,Mbere,mbere,bantoid,14,-0.5,f,f
+mnv,Minaveha,minaveha,oceanic,150.466666667,-9.6,f,f
+mkh,Mongol (Khamnigan),mongolkhamnigan,mongolic,117,49,f,f
+mri,Moraori,moraori,moreheadanduppermarorivers,140.666666667,-8.58333333333,f,f
+nbk,Natügu,natugu,oceanic,165.866666667,-10.7833333333,f,f
+nnd,Nend,nend,madang,144.916666667,-5,f,f
+one,One,one,westwapei,141.916666667,-3.25,f,f
+ord,Ordos,ordos,mongolic,109,39,f,f
+put,Paiute (Southern),paiutesouthern,numic,-113.333333333,37.8333333333,f,f
+pis,Pisa,pisa,awjudumut,139.166666667,-5.16666666667,f,f
+rao,Rao,rao,annaberg,144.5,-4.75,f,f
+smt,Sahaptin (Umatilla),sahaptinumatilla,sahaptian,-118.5,45.6666666667,f,f
+skw,Shekhawati,shekhawati,indic,75.5,28,f,f
+tls,Talysh (Southern),talyshsouthern,iranian,49,37,f,f
+tat,Tatana',tatana,northwestmalayopolynesian,115.5,5.5,f,f
+tts,Tati (Southern),tatisouthern,iranian,49.6666666667,36,f,f
+tni,Tinani,tinani,bodic,77.1666666667,32.3333333333,f,f
+tsz,Tsez,tsez,avarandictsezic,45.75,42.25,f,f
+tai,Tuareg (Air),tuaregair,berber,9,19,f,f
+wor,Worora,worora,wororan,124.666666667,-15.6666666667,f,f
+yi,Yi,yi,burmeselolo,104,24,f,f
+yir,Yir Yiront,yiryiront,pamanyungan,141.833333333,-14.8333333333,f,f
+ach,Aché,ache,tupiguarani,-55.1666666667,-25.25,f,f
+aiz,Aizi,aizi,kru,-4.5,5.25,f,f
+ayw,Ayiwo,ayiwo,oceanic,166.25,-10.3333333333,f,f
+bfi,Bafia,bafia,bantoid,11.1666666667,5,f,f
+baf,Bafut,bafut,bantoid,9.91666666667,6.25,f,f
+blz,Balanta,balanta,northernatlantic,-15.3333333333,12.25,f,f
+bao,Bao'an,baoan,mongolic,102,35.5833333333,f,f
+brb,Bariba,bariba,gur,2.5,10,f,f
+bkt,Brokskat,brokskat,indic,76.5,35.3333333333,f,f
+bnu,Bularnu,bularnu,pamanyungan,138,-21,f,f
+chy,Chayahuita,chayahuita,cahuapanan,-77,-5.5,f,f
+coe,Coeur d'Alene,coeurdalene,interiorsalish,-116.5,47.25,f,f
+cui,Cuiba,cuiba,guahiban,-70,6.5,f,f
+dul,Dulong,dulong,nungish,98.3333333333,28,f,f
+emm,Emmi,emmi,westerndaly,130,-13.5,f,f
+gnd,Ga'anda,gaanda,biumandara,12.5833333333,10.3333333333,f,f
+gll,Galela,galela,northhalmaheran,128.333333333,2.41666666667,f,f
+guh,Guhu-Samane,guhusamane,binanderean,147.333333333,-8,f,f
+ido,Idoma,idoma,idomoid,7.5,6.91666666667,f,f
+idu,Idu,idu,digaroan,95.8333333333,29.3333333333,f,f
+ixi,Ixil,ixil,mayan,-91,15.5,f,f
+kby,Kabiyé,kabiye,gur,1.16666666667,9.66666666667,f,f
+kdw,Kadiwéu,kadiweu,guaicuruan,-57,-20,f,f
+kmr,Kamoro,kamoro,asmatkamoro,136,-4.33333333333,f,f
+kyp,Kayapó,kayapo,gekaingang,-52,-9,f,f
+khw,Khowar,khowar,indic,72,36,f,f
+koh,Kohumono,kohumono,crossriver,8.11666666667,6,f,f
+kyn,Koyukon,koyukon,athapaskan,-155,65,f,f
+kji,Kurmanji,kurmanji,iranian,42,38,f,f
+lgi,Langi,langi,bantoid,36,-4.5,f,f
+lrk,Larike,larike,centralmalayopolynesian,127.916666667,-3.75,f,f
+leg,Lega,lega,bantoid,27.1666666667,-2.83333333333,f,f
+lho,Lhomi,lhomi,bodic,87.4166666667,27.6666666667,f,f
+lun,Lungchang,lungchang,northernnaga,96.4166666667,27.5,f,f
+ma,Ma,ma,ubangi,28,3.5,f,f
+mch,Machiguenga,machiguenga,arawakan,-72.6666666667,-12,f,f
+mrn,Maranao,maranao,southernphilippines,124.25,7.83333333333,f,f
+mke,Mekeo,mekeo,oceanic,146.5,-8.33333333333,f,f
+mxm,Mixtec (Molinos),mixtecmolinos,mixtecan,-97.5833333333,17,f,f
+muu,Mundurukú,munduruku,munduruku,-58,-7,f,f
+ngj,Ngadjumaja,ngadjumaja,pamanyungan,123.833333333,-32.3333333333,f,f
+ngu,Nguna,nguna,oceanic,168.5,-16.9166666667,f,f
+nyk,Nyamkad,nyamkad,bodic,78.5,32,f,f
+ory,Orya,orya,orya,139.833333333,-2.75,f,f
+ptw,Patwin,patwin,wintuan,-122.333333333,39,f,f
+sab,Sa'ban,saban,northwestmalayopolynesian,115.666666667,3.66666666667,f,f
+srm,Saramaccan,saramaccan,creolesandpidgins,-55.5,4.5,f,f
+shh,Sharanahua,sharanahua,panoan,-70,-11,f,f
+svk,Slovak,slovak,slavic,20,49,f,f
+tap,Taiap,taiap,gapun,144.5,-4.08333333333,f,f
+tks,Teke (Southern),tekesouthern,bantoid,14.5,-2.33333333333,f,f
+tiv,Tiv,tiv,bantoid,9,7.5,f,f
+tsa,Tsakhur,tsakhur,lezgic,47.1666666667,41.6666666667,f,f
+wdo,Western Desert (Ooldea),westerndesertooldea,pamanyungan,132,-30.5,f,f
+wir,Wirangu,wirangu,pamanyungan,134,-32,f,f
+wom,Womo,womo,serrahills,141.833333333,-2.91666666667,f,f
+wuc,Wu (Changzhou),wuchangzhou,chinese,119.916666667,31.6666666667,f,f
+ald,Alladian,alladian,kwa,-4.33333333333,5.16666666667,f,f
+abo,Arbore,arbore,easterncushitic,36.75,5,f,f
+bac,Bachamal,bachamal,ansonbay,130.166666667,-13.1666666667,f,f
+bgv,Bagvalal,bagvalal,avarandictsezic,46.1666666667,42.5833333333,f,f
+bki,Bakairí,bakairi,cariban,-55,-14,f,f
+brd,Bardi,bardi,nyulnyulan,122.916666667,-16.5833333333,f,f
+bee,Beembe,beembe,bantoid,14.0833333333,-3.91666666667,f,f
+biu,Bisu,bisu,burmeselolo,100,19.75,f,f
+bob,Bobangi,bobangi,bantoid,17.3333333333,-1.33333333333,f,f
+bbf,Bobo Fing,bobofing,westernmande,-4.41666666667,11.8333333333,f,f
+brw,Bru (Western),bruwestern,katuic,104.75,16.75,f,f
+cad,Caddo,caddo,caddoan,-93.5,33.3333333333,f,f
+cqt,Chiquitano,chiquitano,chiquito,-60,-17.5,f,f
+coa,Coahuilteco,coahuilteco,coahuiltecan,-100,28,f,f
+dad,Dadibi,dadibi,teberan,144.583333333,-6.55,f,f
+ddf,Daju (Dar Fur),dajudarfur,daju,25.25,12.25,f,f
+dnw,Dangaléat (Western),dangaleatwestern,eastchadic,18.3333333333,12.1666666667,f,f
+dar,Darai,darai,indic,84,24,f,f
+det,Deti,deti,centralkhoisan,24.5,-20.5,f,f
+dts,Toro So,toroso,dogon,-3.25,14.4166666667,f,f
+ega,Ega,ega,kwa,-5.5,5.5,f,f
+fuz,Fuzhou,fuzhou,chinese,119.5,26,f,f
+gla,Gelao,gelao,kadai,105.5,22.9166666667,f,f
+gol,Gola,gola,southernatlantic,-10.8333333333,7.25,f,f
+gto,Guató,guato,guato,-58,-17,f,f
+had,Hadza,hadza,hadza,35.1666666667,-3.75,f,f
+hba,Hebrew (Modern Ashkenazic),hebrewmodernashkenazic,semitic,35.1666666667,31.75,f,f
+ird,Irish (Donegal),irishdonegal,celtic,-8,55,f,f
+iso,Isoko,isoko,edoid,6.25,5.5,f,f
+ivs,Ivatan (Southern),ivatansouthern,northernphilippines,121.833333333,20.3333333333,f,f
+jpr,Japreria,japreria,cariban,-73,10.5,f,f
+jom,Jomang,jomang,talodiproper,30.5,10.5833333333,f,f
+kzh,Kam (Zhanglu),kamzhanglu,kamtai,108.5,26,f,f
+kyr,Karkar-Yuri,karkaryuri,karkaryuri,141.083333333,-3.75,f,f
+ktc,Katcha,katcha,kadugli,29.6666666667,10.8333333333,f,f
+ked,Kedang,kedang,centralmalayopolynesian,123.75,-8.25,f,f
+kga,Kinga,kinga,bantoid,34,-9,f,f
+kss,Kisi (Southern),kisisouthern,southernatlantic,-10.25,8.5,f,f
+kpa,Kpan,kpan,platoid,10.1666666667,7.58333333333,f,f
+kwz,Kwazá,kwaza,kwaza,-60.6666666667,-12.5833333333,f,f
+lkk,Lakkia,lakkia,kadai,110.166666667,24.0833333333,f,f
+lam,Lamé,lame,masa,14.5,9,f,f
+laz,Laz,laz,kartvelian,41.5,41.5,f,f
+lua,Lua,lua,adamawa,17.75,9.75,f,f
+mya,Ma'ya,maya,southhalmaherawestnewguinea,130.916666667,-1.25,f,f
+mua,Makua,makua,bantoid,38.6666666667,-15,f,f
+mgk,Mungaka,mungaka,bantoid,10,5.91666666667,f,f
+nal,Nalik,nalik,oceanic,151.333333333,-2.95,f,f
+nne,Nengone,nengone,oceanic,168,-21.5,f,f
+nkt,Nyah Kur (Tha Pong),nyahkurthapong,monic,101.666666667,15.6666666667,f,f
+nyg,Nyangi,nyangi,kuliak,33.5833333333,3.41666666667,f,f
+ogb,Ogbia,ogbia,crossriver,6.25,4.66666666667,f,f
+puk,Parauk,parauk,palaungkhmuic,99.5,23.25,f,f
+phl,Phlong,phlong,karen,99,15,f,f
+poa,Po-Ai,poai,oceanic,164.833333333,-20.6666666667,f,f
+psj,Popoloca (San Juan Atzingo),popolocasanjuanatzingo,popolocan,-96.4166666667,18.1666666667,f,f
+pun,Pungupungu,pungupungu,ansonbay,130.416666667,-13.5,f,f
+rwa,Rawa,rawa,finisterrehuon,146,-5.83333333333,f,f
+rka,Romani (Kalderash),romanikalderash,indic,21,45,f,f
+rsc,Romansch (Scharans),romanschscharans,romance,9.5,46.75,f,f
+rtk,Rotokas,rotokas,westbougainville,155.166666667,-6,f,f
+scs,Saami (Central-South),saamicentralsouth,saami,16.75,64.6666666667,f,f
+svs,Savosavo,savosavo,savosavo,159.8,-9.13333333333,f,f
+sme,Seme,seme,kru,-4.91666666667,11,f,f
+shm,Shambala,shambala,bantoid,38.25,-4.25,f,f
+sim,Simeulue,simeulue,sumatra,96.25,2.5,f,f
+sod,Soddo,soddo,semitic,38.5,8.5,f,f
+sui,Sui,sui,kamtai,107.5,26,f,f
+tmp,Tampulma,tampulma,gur,-0.583333333333,10.4166666667,f,f
+tok,Tarok,tarok,platoid,10.0833333333,9,f,f
+tza,Tzeltal (Aguacatenango),tzeltalaguacatenango,mayan,-92.5,16.4166666667,f,f
+uma,Uma,uma,sulawesi,120,-1.83333333333,f,f
+umb,UMbundu,umbundu,bantoid,15,-12.5,f,f
+ven,Venda,venda,bantoid,30,-22,f,f
+wai,Wai Wai,waiwai,cariban,-59,1,f,f
+wnt,Wantoat,wantoat,finisterrehuon,146.5,-6.16666666667,f,f
+wps,Wapishana,wapishana,arawakan,-60,2.66666666667,f,f
+xia,Xiamen,xiamen,chinese,118.166666667,24.5,f,f
+zaz,Zazaki,zazaki,iranian,41,39,f,f
+acn,Achang,achang,burmeselolo,98.5,25,f,f
+aik,Aikaná,aikana,arawakan,-60.6666666667,-12.6666666667,f,f
+akw,Akawaio,akawaio,cariban,-59.5,6,f,f
+aea,Aleut (Eastern),aleuteastern,aleut,-164,54.75,f,f
+amx,Anamuxra,anamuxra,madang,145,-4.66666666667,f,f
+bal,Balinese,balinese,balisasak,115.25,-8.33333333333,f,f
+bas,Basaá,basaa,bantoid,10.5,3.91666666667,f,f
+bem,Bemba,bemba,bantoid,28.25,-10,f,f
+bon,Bongu,bongu,madang,145.916666667,-5.5,f,f
+bug,Bugis,bugis,sulawesi,120,-4,f,f
+cap,Capanahua,capanahua,panoan,-74,-7,f,f
+chu,Chulupí,chulupi,matacoan,-60.5,-23.5,f,f
+daw,Dâw,daw,nadahup,-67.0833333333,-0.25,f,f
+day,Day,day,adamawa,17.8333333333,8.75,f,f
+djn,Djinang,djinang,pamanyungan,134.833333333,-12.3333333333,f,f
+fef,Fe'fe',fefe,bantoid,10.1666666667,5.25,f,f
+fon,Fongbe,fongbe,kwa,2.16666666667,6.41666666667,f,f
+hhu,Hanga Hundi,hangahundi,middlesepik,142.916666667,-3.83333333333,f,f
+itz,Itzaj,itzaj,mayan,-89.8333333333,17,f,f
+jel,Jeli,jeli,westernmande,-5.66666666667,9.5,f,f
+kgr,Kaguru,kaguru,bantoid,37,-6.33333333333,f,f
+kef,Kefa,kefa,southomotic,36.25,7.25,f,f
+kil,Kiluba,kiluba,bantoid,26,-8,f,f
+ktk,Kotoko,kotoko,biumandara,15.3333333333,11.3333333333,f,f
+lu,Lü,lu,kamtai,100.666666667,22,f,f
+mag,Magar,magar,bodic,83,28,f,f
+mtb,Matuumbi,matuumbi,bantoid,39,-8.5,f,f
+mus,Mussau,mussau,oceanic,149.616666667,-1.45,f,f
+nah,Nahali,nahali,nahali,77.8333333333,19.75,f,f
+nap,Neo-Aramaic (Persian Azerbaijan),neoaramaicpersianazerbaijan,semitic,47,38,f,f
+ngg,Ngan'gityemerri,ngangityemerri,southerndaly,130.416666667,-14.25,f,f
+ngw,Ngawun,ngawun,pamanyungan,141.5,-19,f,f
+ngb,Ngbaka,ngbaka,ubangi,20,3.5,f,f
+nse,Nsenga,nsenga,bantoid,30.8333333333,-14.5,f,f
+nyn,Nyigina,nyigina,nyulnyulan,124.333333333,-18,f,f
+omh,Omaha,omaha,siouan,-97.25,42,f,f
+orm,Ormuri,ormuri,iranian,69.75,32.5,f,f
+pam,Pame,pame,pamean,-99.5,22,f,f
+rsu,Romansch (Sursilvan),romanschsursilvan,romance,8.83333333333,46.6666666667,f,f
+ron,Ron,ron,westchadic,8.75,9,f,f
+snd,Senadi,senadi,gur,-6.25,9.5,f,f
+shb,Shabo,shabo,shabo,35.4166666667,7.58333333333,f,f
+snn,Soninke,soninke,westernmande,-10.5,15,f,f
+tik,Tikar,tikar,bantoid,11.6666666667,5.83333333333,f,f
+wrs,Waris,waris,border,141,-3.16666666667,f,f
+wth,Wathawurrung,wathawurrung,pamanyungan,144,-38,f,f
+wau,Waunana,waunana,choco,-77,4,f,f
+xam,/Xam,xam,southernkhoisan,21,-31,f,f
+xav,Xavánte,xavante,gekaingang,-52.5,-15,f,f
+xok,Xokleng,xokleng,gekaingang,-50,-24.5,f,f
+yam,Yaminahua,yaminahua,panoan,-73,-8,f,f
+adn,Adynyamathanha,adynyamathanha,pamanyungan,139.5,-30.5,f,f
+ann,Anindilyakwa,anindilyakwa,anindilyakwa,136.5,-14,f,f
+bbl,Babole,babole,bantoid,17.25,1.08333333333,f,f
+bku,Bakueri,bakueri,bantoid,9.25,4.25,f,f
+byu,Bandjalang (Yugumbir),bandjalangyugumbir,pamanyungan,153,-27.9166666667,f,f
+bbu,Barambu,barambu,ubangi,27,3.5,f,f
+bno,Barasano (Northern),barasanonorthern,tucanoan,-70.25,0.333333333333,f,f
+bry,Baruya,baruya,angan,145.916666667,-6.91666666667,f,f
+bis,Bisa,bisa,easternmande,-0.5,11.5,f,f
+cac,Cacua,cacua,cacuanukak,-70,1.08333333333,f,f
+crp,Carapana,carapana,tucanoan,-70.75,0.833333333333,f,f
+dam,Damana,damana,aruak,-73.5,11,f,f
+gaa,Gaagudju,gaagudju,gaagudju,132.833333333,-12.5833333333,f,f
+ige,Igede,igede,idomoid,8.16666666667,7,f,f
+iwm,Iwam,iwam,uppersepik,142,-4.33333333333,f,f
+jeh,Jeh,jeh,bahnaric,107.833333333,15.1666666667,f,f
+kek,K'ekchí,kekchi,mayan,-89.8333333333,16,f,f
+kac,Kachari,kachari,bodogaro,91,26.5,f,f
+kae,Kaki Ae,kakiae,tate,145.833333333,-8,f,f
+kte,Kete,kete,bantoid,22.8333333333,-7,f,f
+kul,Kullo,kullo,northomotic,37.0833333333,6.75,f,f
+kyq,Kyuquot,kyuquot,southernwakashan,-127.166666667,50.1666666667,f,f
+mkg,Mandinka (Gambian),mandinkagambian,westernmande,-16,13.4166666667,f,f
+max,Maxakalí,maxakali,maxakali,-40,-18,f,f
+mdo,Mbodomo,mbodomo,ubangi,15.5,4.5,f,f
+mtp,Mixe (Totontepec),mixetotontepec,mixezoque,-96,17.25,f,f
+msm,Musom,musom,oceanic,147,-6.58333333333,f,f
+nya,Nyawaygi,nyawaygi,pamanyungan,146.166666667,-19,f,f
+ras,Rashad,rashad,rashad,31.05,11.8333333333,f,f
+sob,Sobei,sobei,oceanic,138.75,-1.91666666667,f,f
+srb,Sorbian,sorbian,slavic,14,51.5,f,f
+thn,Thangmi,thangmi,bodic,86,27.75,f,f
+trm,Tirmaga,tirmaga,surmic,35.25,5.75,f,f
+toa,Toaripi,toaripi,elemanproper,146.25,-8.33333333333,f,f
+tke,Tokelauan,tokelauan,oceanic,-172,-9,f,f
+toz,Tonga (in Zambia),tongainzambia,bantoid,27,-17,f,f
+trw,Torwali,torwali,indic,72,34.25,f,f
+wed,Wedau,wedau,oceanic,150.166666667,-10.1666666667,f,f
+ywr,Yawuru,yawuru,nyulnyulan,122.5,-18,f,f
+yey,Yeyi,yeyi,bantoid,23.5,-20,f,f
+afr,Afrikaans,afrikaans,germanic,22,-31,f,f
+agh,Aghem,aghem,bantoid,10,6.66666666667,f,f
+aht,Ahtna,ahtna,athapaskan,-145,62,f,f
+ble,Baule,baule,kwa,-5,7,f,f
+bni,Bini,bini,edoid,5.83333333333,6.41666666667,f,f
+bnb,Bunuba,bunuba,bunuban,125.75,-17.75,f,t
+cml,Camling,camling,bodic,86.6666666667,27,f,f
+cld,Chaldean (Modern),chaldeanmodern,semitic,43,36,f,f
+deg,Degema,degema,edoid,6.75,4.75,f,f
+dgo,Dongo,dongo,ubangi,30,3,f,f
+dmk,Dumaki,dumaki,indic,74,36.1666666667,f,f
+eya,Eyak,eyak,eyak,-145,60.5,f,f
+gnn,Gunin,gunin,wororan,126.666666667,-14.25,f,f
+grg,Gurr-goni,gurrgoni,burarran,134.416666667,-12.25,f,f
+hei,Heiltsuk,heiltsuk,northernwakashan,-127.5,52,f,f
+isa,I'saka,isaka,krisa,141.283333333,-2.83333333333,f,f
+jia,Jiarong,jiarong,rgyalrong,102,31.5,f,f
+kly,Kala Lagaw Ya,kalalagawya,pamanyungan,142.116666667,-10.1166666667,f,f
+kba,Kamba,kamba,bantoid,38,-1.5,f,f
+khk,Khakas,khakas,turkic,90,53,f,f
+knw,Konkow,konkow,maiduan,-121.5,39.5,f,f
+kot,Kota,kota,southerndravidian,77.1666666667,11.5,f,f
+kuu,Kuuku Ya'u,kuukuyau,pamanyungan,143.083333333,-12.5833333333,f,f
+ldo,Londo,londo,bantoid,9.16666666667,5,f,f
+lus,Lushootseed,lushootseed,centralsalish,-122,48,f,f
+mle,Maale,maale,northomotic,36.9166666667,6,f,f
+msk,Masakin,masakin,talodiproper,30,10.6666666667,f,f
+mtt,Massachusett,massachusett,algonquian,-71,42.5,f,f
+mzh,Mazatec (Huautla),mazatechuautla,popolocan,-96.8333333333,18.25,f,f
+mki,Mikasuki,mikasuki,muskogean,-85,32,f,f
+mof,Mofu-Gudur,mofugudur,biumandara,14,10.5,f,f
+mgo,Mongo,mongo,bantoid,21,0,f,f
+mdg,Mundang,mundang,adamawa,14.5,9.66666666667,f,f
+nnk,Nankina,nankina,finisterrehuon,146.45,-5.78333333333,f,f
+nkb,Ngalkbun,ngalkbun,gunwinygic,134.833333333,-13.5,f,f
+nob,Nobiin,nobiin,nubian,31,21,f,f
+pac,Pacoh,pacoh,katuic,107.083333333,16.4166666667,f,f
+pra,Prasuni,prasuni,indic,71,35.5,f,f
+pnu,Punu,punu,hmongmien,107,24,f,f
+qco,Quechua (Cochabamba),quechuacochabamba,quechuan,-66,-17.5,f,f
+ror,Roro,roro,oceanic,146.583333333,-8.75,f,f
+sle,Samba Leko,sambaleko,adamawa,12.5,8.5,f,f
+sav,Savi,savi,indic,71.5,35,f,f
+soq,Soqotri,soqotri,semitic,54,12.5,f,f
+stn,Sotho (Northern),sothonorthern,bantoid,29,-24,f,f
+tbw,Tabwa,tabwa,bantoid,29.5,-8,f,f
+taf,Taiof,taiof,oceanic,154.633333333,-5.53333333333,f,f
+thu,Thulung,thulung,bodic,86.5,27.4166666667,f,f
+tpi,Tok Pisin,tokpisin,creolesandpidgins,147.166666667,-9.5,f,f
+tou,Toussian,toussian,gur,-4.66666666667,11,f,f
+tgh,Tuareg (Ghat),tuaregghat,berber,10.1666666667,25,f,f
+tnk,Tungak,tungak,oceanic,150.25,-2.55,f,f
+vaf,Vafsi,vafsi,iranian,49.9166666667,34.6666666667,f,f
+wan,Wangkumara,wangkumara,pamanyungan,143,-27.3333333333,f,f
+yah,Yahgan,yahgan,yamana,-68,-55,f,f
+zqs,Zoque (Soteapan),zoquesoteapan,mixezoque,-95.1666666667,18.3333333333,f,f
+ady,Adyghe (Abzakh),adygheabzakh,northwestcaucasian,40.5833333333,45.2333333333,f,f
+all,Ala'ala,alaala,oceanic,146.75,-8.91666666667,f,f
+ant,Angaatiha,angaatiha,angan,146.25,-7.21666666667,f,f
+awe,Arrernte (Western),arrerntewestern,pamanyungan,132.5,-24,f,f
+bng,Baining,baining,baining,152,-4.58333333333,f,f
+bka,Baka (in Sudan),bakainsudan,bongobagirmi,29.25,4.83333333333,f,f
+bid,Bidiya,bidiya,eastchadic,18.75,11.9166666667,f,f
+bin,Binandere,binandere,binanderean,148,-8.25,f,f
+cck,Chickasaw,chickasaw,muskogean,-88,34,f,f
+cof,Cofán,cofan,cofan,-77.1666666667,0.166666666667,f,f
+cmx,Comox,comox,centralsalish,-125,50.1666666667,f,f
+dah,Dahalo,dahalo,southerncushitic,40.5,-2.33333333333,f,f
+dhr,Dhargari,dhargari,pamanyungan,114.916666667,-23.75,f,f
+dms,Dimasa,dimasa,bodogaro,93,25.5,f,f
+dja,Djabugay,djabugay,pamanyungan,145.583333333,-16.75,f,f
+dua,Duala,duala,bantoid,9.41666666667,4,f,f
+eja,Ejagham,ejagham,bantoid,8.66666666667,5.41666666667,f,f
+gal,Gallong,gallong,tani,94.6666666667,28.1666666667,f,f
+ghb,Guahibo,guahibo,guahiban,-69,5,f,f
+ggu,Gureng Gureng,gurenggureng,pamanyungan,151,-25.25,f,f
+kal,Kalami,kalami,indic,72.5,35.5,f,f
+kpw,Karen (Pwo),karenpwo,karen,99.1666666667,13,f,f
+kat,Kâte,kate,finisterrehuon,147.75,-6.5,f,f
+kkn,Konkani,konkani,indic,74,15.25,f,f
+kmn,Kuman,kuman,chimbu,145,-5.91666666667,f,f
+kum,Kumauni,kumauni,indic,80,30,f,f
+kur,Kurukh,kurukh,northerndravidian,85.5,22.8333333333,f,f
+lac,Lacandón,lacandon,mayan,-91.5,17,f,f
+lew,Lewo,lewo,oceanic,168.333333333,-16.75,f,f
+lou,Lou,lou,oceanic,147.316666667,-2.38333333333,f,f
+mds,Manadonese,manadonese,malayic,124.833333333,1.5,f,f
+mrh,Marrithiyel,marrithiyel,westerndaly,130,-13.8333333333,f,f
+myr,Matsés,matses,panoan,-73.25,-5.41666666667,f,f
+msc,Muisca,muisca,chibchanproper,-74,5,f,f
+mur,Mursi,mursi,surmic,36.0833333333,5.58333333333,f,f
+nze,Naga (Zeme),nagazeme,kukichin,93.5,25.1666666667,f,f
+nat,Natchez,natchez,natchez,-91.3333333333,31.75,f,f
+ndu,Ndumu,ndumu,bantoid,13.5833333333,-1.66666666667,f,f
+neh,Nehan,nehan,oceanic,154.2,-4.5,f,f
+nog,Noghay,noghay,turkic,46,44,f,f
+nku,Nubian (Kunuz),nubiankunuz,nubian,33,23,f,f
+pod,Podoko,podoko,biumandara,14.0833333333,11,f,f
+sgu,Sangu,sangu,bantoid,11.8333333333,-1.5,f,f
+smn,Seminole,seminole,muskogean,-84,33,f,f
+sha,Shan,shan,kamtai,98,22,f,f
+sht,Shatt,shatt,daju,30,10.8333333333,f,f
+she,Sherpa,sherpa,bodic,86.8333333333,27.75,f,f
+sir,Siar,siar,oceanic,152.916666667,-4.66666666667,f,f
+sud,Sudest,sudest,oceanic,153.45,-11.5,f,f
+trr,Tairora,tairora,easternhighlands,146,-6.5,f,f
+tao,Tarao,tarao,kukichin,94.1666666667,24.25,f,f
+tsg,Tausug,tausug,mesophilippine,121,6,f,f
+tig,Tigrinya,tigrinya,semitic,38.5,14.5,f,f
+try,Tiruray,tiruray,southmindanao,124.166666667,6.75,f,f
+tbt,Tobati,tobati,oceanic,140.666666667,-2.58333333333,f,f
+tgn,Tugun,tugun,centralmalayopolynesian,126.75,-7.71666666667,f,f
+uzn,Uzbek (Northern),uzbeknorthern,turkic,66.5,40.6666666667,f,f
+vot,Votic,votic,finnic,30,59.5,f,f
+adz,Adzera,adzera,oceanic,146.25,-6.25,f,f
+amz,Amuzgo,amuzgo,amuzgoan,-98,16.8333333333,f,f
+avo,Avokaya,avokaya,morumadi,30,4.66666666667,f,f
+azi,Azari (Iranian),azariiranian,turkic,47,37.5,f,f
+bus,Busa,busa,easternmande,4,9.66666666667,f,f
+cas,Cashibo,cashibo,panoan,-75.5,-8.5,f,f
+cav,Cavineña,cavinena,tacanan,-66.5,-13.3333333333,f,f
+cil,CiLuba,ciluba,bantoid,22,-6,f,f
+dha,Dhaasanac,dhaasanac,easterncushitic,36.3333333333,4.66666666667,f,f
+djm,Djambarrpuyngu,djambarrpuyngu,pamanyungan,135.5,-12.1666666667,f,f
+gav,Gavião,gaviao,monde,-62,-10.6666666667,f,f
+gmb,Guambiano,guambiano,barbacoan,-76.6666666667,2.5,f,f
+gnb,Gunbalang,gunbalang,gunwinygic,134,-12,f,f
+iwa,Iwaidja,iwaidja,iwaidjan,132.666666667,-11.5,f,f
+jar,Jarawa (in Nigeria),jarawainnigeria,bantoid,10.5,9.5,f,f
+kdz,Kadazan,kadazan,northwestmalayopolynesian,117.166666667,5.91666666667,f,f
+kel,Kele,kele,oceanic,147.083333333,-2.08333333333,f,f
+ksa,Keresan (Santa Ana),keresansantaana,keresan,-106.666666667,35.4166666667,f,f
+kir,Kirma,kirma,gur,-4.83333333333,10.25,f,f
+lml,Limilngan,limilngan,limilngan,131.916666667,-12.5,f,f
+myn,Ma'anyan,maanyan,barito,115,-2,f,f
+mmv,Mamvu,mamvu,mangbutuefe,29,3.25,f,f
+maz,Mazahua,mazahua,otomian,-99.9166666667,19.4166666667,f,f
+mek,Mekens,mekens,tupari,-61.5,-12.5,f,f
+mer,Meryam Mir,meryammir,westernfly,144.083333333,-9.91666666667,f,f
+mpu,Mpur,mpur,kebar,133.25,-0.75,f,f
+nax,Naxi,naxi,naxi,100,27.5,f,f
+omi,Ömie,omie,koiarian,148.083333333,-9.05,f,f
+ong,Onge,onge,southandamanese,92.4166666667,10.75,f,f
+ori,Orig,orig,rashad,30.8333333333,12.1666666667,f,f
+pnr,Panare,panare,cariban,-66,6.5,f,f
+pum,Pumi,pumi,qiangic,101,28,f,f
+sta,Santa,santa,mongolic,107.5,31.5,f,f
+sap,Sapuan,sapuan,bahnaric,106.833333333,15.1666666667,f,f
+sia,Siane,siane,easternhighlands,145.2,-6.08333333333,f,f
+sdh,Sindhi,sindhi,indic,69,26,f,f
+sgb,Sougb,sougb,eastbirdshead,134,-1.5,f,f
+sus,Susu,susu,westernmande,-13,10,f,f
+swt,Swati,swati,bantoid,31,-26.5,f,f
+thy,Kuuk Thaayorre,kuukthaayorre,pamanyungan,141.833333333,-14.5833333333,f,f
+tmc,Timucua,timucua,timucua,-82.5,30.25,f,f
+tpa,Totonac (Papantla),totonacpapantla,totonacan,-97.3333333333,20.3333333333,f,f
+wrm,Warembori,warembori,southhalmaherawestnewguinea,137.583333333,-1.66666666667,f,f
+bvi,Bali-Vitu,balivitu,oceanic,149.116666667,-4.9,f,f
+bzi,Bauzi,bauzi,eastgeelvinkbay,137.5,-2.5,f,f
+bet,Bété,bete,kru,-6.25,6.25,f,f
+chx,Chontal (Huamelultec Oaxaca),chontalhuamelultecoaxaca,tequistlatecan,-95.75,16,f,f
+cro,Crow,crow,siouan,-108,47,f,f
+drm,Darma,darma,bodic,79.75,30,f,f
+dim,Dime,dime,southomotic,36.25,6.16666666667,f,f
+ene,Enets,enets,samoyedic,86.5,67.5,f,f
+gam,Gamo,gamo,northomotic,37.25,6.66666666667,f,f
+gap,Gapapaiwa,gapapaiwa,oceanic,149.833333333,-9.75,f,f
+gbk,Gbaya Kara,gbayakara,ubangi,15,6,f,f
+gel,Gela,gela,oceanic,160.25,-9.08333333333,f,f
+git,Gitksan,gitksan,tsimshianic,-127.75,55.3333333333,f,f
+hil,Hiligaynon,hiligaynon,mesophilippine,123,10.25,f,f
+iau,Iau,iau,lakesplain,137.5,-3.16666666667,f,f
+ken,Kenga,kenga,bongobagirmi,18,12,f,f
+kje,Koreguaje,koreguaje,tucanoan,-75.5,1,f,f
+lmh,Lamaholot,lamaholot,centralmalayopolynesian,122.916666667,-8.25,f,f
+mts,Matis,matis,panoan,-70.25,-4.41666666667,f,f
+mbi,Mbili,mbili,bantoid,10.2,6.11666666667,f,f
+mco,Mixe (Coatlán),mixecoatlan,mixezoque,-95.6666666667,16.9166666667,f,f
+mov,Movima,movima,movima,-65.6666666667,-13.8333333333,f,f
+nad,Nadëb,nadeb,nadahup,-66.5,-1,f,f
+nag,Nagatman,nagatman,yale,141.5,-3.75,f,f
+nim,Nimboran,nimboran,nimboran,140.166666667,-2.5,f,f
+nsn,Nisenan,nisenan,maiduan,-121,39,f,f
+nza,Nzakara,nzakara,ubangi,23,5,f,f
+oya,Oriya,oriya,indic,85,21,f,f
+osa,Osage,osage,siouan,-94,37,f,f
+plg,Palaung,palaung,palaungkhmuic,96.6666666667,22.6666666667,f,f
+pre,Pare,pare,bantoid,36.5,-4,f,f
+pat,Patep,patep,oceanic,146.583333333,-6.91666666667,f,f
+rov,Roviana,roviana,oceanic,157.333333333,-8.25,f,f
+stl,Santali,santali,munda,87,24.5,f,f
+teh,Tehuelche,tehuelche,chonproper,-68,-48,f,f
+tny,Tenyer,tenyer,gur,-4.5,10.6666666667,f,f
+tgl,Tshangla,tshangla,bodic,92.1666666667,27.8333333333,f,f
+tte,Tutelo,tutelo,siouan,-78.75,37.6666666667,f,f
+tuy,Tuyuca,tuyuca,tucanoan,-70.0833333333,0.5,f,f
+udi,Udi,udi,lezgic,48,41,f,f
+usr,Usarufa,usarufa,easternhighlands,145.583333333,-6.41666666667,f,f
+yal,Yale (Kosarek),yalekosarek,mek,139.5,-4.08333333333,f,f
+yan,Yana,yana,yana,-122,40.5,f,f
+yaw,Yawa,yawa,yawa,136.25,-1.75,f,f
+amn,Amanab,amanab,border,141.25,-3.58333333333,f,f
+aml,Ambae (Lolovoli Northeast),ambaelolovolinortheast,oceanic,167.883333333,-15.4166666667,f,f
+apw,Apache (Western),apachewestern,athapaskan,-110,33.75,f,f
+ams,Arabic (Modern Standard),arabicmodernstandard,semitic,42,25,f,f
+awa,Awa,awa,easternhighlands,145.75,-6.66666666667,f,f
+blt,Balti,balti,bodic,76,35,f,f
+bnn,Banoni,banoni,oceanic,155.25,-6.41666666667,f,f
+bsh,Bushoong,bushoong,bantoid,21.5,-4.5,f,f
+can,Candoshi,candoshi,candoshi,-77,-4.16666666667,f,f
+cku,Chinook (Upper),chinookupper,chinookan,-122.5,45.5,f,f
+cea,Cree (Eastern),creeeastern,algonquian,-74,51,f,f
+dom,Domari,domari,indic,35,32,f,f
+gah,Gahuku,gahuku,easternhighlands,145.416666667,-6,f,f
+gug,Gugada,gugada,pamanyungan,134,-30,f,f
+gku,Gününa Küne,gununakune,puelche,-67,-41,f,f
+hya,Haya,haya,bantoid,31.5,-2,f,f
+hid,Hidatsa,hidatsa,siouan,-102.5,47,f,f
+ho,Ho,ho,munda,86,22,f,f
+idn,Iduna,iduna,oceanic,150.25,-9.33333333333,f,f
+ila,Ila,ila,bantoid,26.5,-15.5833333333,f,f
+klq,Kalam,kalam,madang,144.583333333,-5.25,f,f
+khr,Kharia,kharia,munda,84.3333333333,22.5,f,f
+knn,Kinnauri,kinnauri,bodic,78,31.5,f,f
+kta,Koita,koita,koiarian,147.083333333,-9.33333333333,f,f
+kop,Komi-Permyak,komipermyak,permic,54.5,59.5,f,f
+kni,Konni,konni,gur,-1.58333333333,10.25,f,f
+lag,Lagwan,lagwan,biumandara,14.8333333333,11.5,f,f
+mla,Mambila,mambila,bantoid,11.5,6.75,f,f
+mmb,Mangap-Mbula,mangapmbula,oceanic,148.083333333,-5.66666666667,f,f
+mas,Masa,masa,masa,15.5,10.5,f,f
+mbb,Mbabaram,mbabaram,pamanyungan,145,-17.1666666667,f,f
+mea,Meyah,meyah,eastbirdshead,133.5,-1.16666666667,f,f
+mga,Mondunga,mondunga,ubangi,21.5,2.25,f,f
+mwe,Mwera,mwera,bantoid,39,-9,f,f
+noc,Nocte,nocte,northernnaga,95.5,27,f,f
+ork,Orok,orok,tungusic,143.5,49.5,f,f
+pwn,Pawnee,pawnee,caddoan,-98.6666666667,41,f,f
+pia,Piaroa,piaroa,piaroa,-67,5,f,f
+qia,Qiang,qiang,qiangic,102.666666667,32,f,f
+shp,Sahaptin (Northern),sahaptinnorthern,sahaptian,-120,46.5,f,f
+saw,Sawu,sawu,centralmalayopolynesian,121.916666667,-11.5,f,f
+sho,Shoshone,shoshone,numic,-114,41,f,f
+tak,Takia,takia,oceanic,146,-4.66666666667,f,f
+tnc,Tanacross,tanacross,athapaskan,-143.5,63.5,f,f
+thk,Thakali,thakali,bodic,83.75,29,f,f
+tob,Toba,toba,guaicuruan,-59,-26.5,f,f
+tkm,Turkmen,turkmen,turkic,58,40,f,f
+wrw,Warrwa,warrwa,nyulnyulan,123.5,-17.5,f,f
+zya,Zapotec (Yatzachi),zapotecyatzachi,zapotecan,-96.2,17.2,f,f
+zar,Zarma,zarma,songhay,2.16666666667,13.8333333333,f,f
+arb,Arabela,arabela,zaparoan,-75.1666666667,-2,f,f
+alk,Arop-Lokep,aroplokep,oceanic,147.05,-5.38333333333,f,f
+awn,Awngi,awngi,centralcushitic,36.6666666667,10.8333333333,f,f
+bgr,Bagiro,bagiro,bongobagirmi,20.5833333333,4.33333333333,f,f
+baq,Baure,baure,arawakan,-64.1666666667,-13.0833333333,f,f
+cde,Carib (De'kwana),caribdekwana,cariban,-65,5.5,f,f
+chl,Chehalis (Upper),chehalisupper,tsamosan,-123,46.5833333333,f,f
+gid,Gidabal,gidabal,pamanyungan,152.416666667,-28.4166666667,f,f
+goe,Goemai,goemai,westchadic,9.75,8.66666666667,f,f
+hma,Hmar,hmar,kukichin,93,24.1666666667,f,f
+ilo,Ilocano,ilocano,northernphilippines,121,16,f,f
+kms,Kamass,kamass,samoyedic,92,52,f,f
+kar,Kara (in Central African Republic),karaincentralafricanrepublic,bongobagirmi,23,10,f,f
+klw,Kiliwa,kiliwa,yuman,-115.666666667,31.3333333333,f,f
+kla,Klao,klao,kru,-8.75,4.75,f,f
+kmo,Koiali (Mountain),koialimountain,koiarian,147.5,-9,f,f
+kun,Kuna,kuna,kuna,-77.3333333333,8,f,f
+kxo,Kxoe,kxoe,centralkhoisan,22.5,-17.5,f,f
+laa,Laal,laal,laal,17.6666666667,10,f,f
+lot,Lotha,lotha,kukichin,94.25,26.5,f,f
+mdm,Madimadi,madimadi,pamanyungan,143.5,-34.5,f,f
+mpr,Maipure,maipure,arawakan,-67.5,5.5,f,f
+mbt,Mangbetu,mangbetu,mangbetu,26.5,2.5,f,f
+mbr,Mbara,mbara,biumandara,15.4166666667,11,f,f
+mxj,Mixtec (Jicaltepec),mixtecjicaltepec,mixtecan,-98,16.3333333333,f,f
+mxy,Mixtec (Yosondúa),mixtecyosondua,mixtecan,-97.5833333333,16.9166666667,f,f
+mlm,Mlabri (Minor),mlabriminor,palaungkhmuic,101,18.5,f,f
+ngn,Ngandi,ngandi,ngandi,135,-13.8333333333,f,f
+oca,Ocaina,ocaina,huitoto,-71.75,-2.75,f,f
+oro,Orokaiva,orokaiva,binanderean,148.25,-8.83333333333,f,f
+orw,Oromo (Waata),oromowaata,easterncushitic,39.8333333333,-3.33333333333,f,f
+sba,Sáliba (in Colombia),salibaincolombia,saliba,-70,6,f,f
+sna,Shina,shina,indic,74,36,f,f
+tbl,Tabla,tabla,sentani,140.416666667,-2.45,f,f
+ura,Ura,ura,oceanic,169.083333333,-18.6666666667,f,f
+wak,Wakhi,wakhi,iranian,72,36.5,f,f
+yok,Yokuts (Yaudanchi),yokutsyaudanchi,yokuts,-119.083333333,36.0833333333,f,f
+aar,Aari,aari,southomotic,36.5833333333,6,f,f
+aga,Agarabi,agarabi,easternhighlands,146,-6.16666666667,f,f
+agt,Anguthimri,anguthimri,pamanyungan,141.833333333,-12.3333333333,f,f
+bdm,Badimaya,badimaya,pamanyungan,118,-27.6666666667,f,f
+bkl,Bikol,bikol,mesophilippine,123.5,13.3333333333,f,f
+bmb,Bimoba,bimoba,gur,0,10.5,f,f
+bgo,Bongo,bongo,bongobagirmi,28.5,7.5,f,f
+bum,Buma,buma,oceanic,166.833333333,-11.6333333333,f,f
+buu,Buru,buru,centralmalayopolynesian,126.5,-3.5,f,f
+cai,Chai,chai,surmic,35.3333333333,5.33333333333,f,f
+drg,Dargwa,dargwa,lakdargwa,47.4166666667,42.25,f,f
+eud,Eudeve,eudeve,cahita,-109.666666667,29.1666666667,f,f
+fri,Frisian,frisian,germanic,5,53,f,f
+gln,Golin,golin,chimbu,144.75,-6.33333333333,f,f
+gul,Gula (in Central African Republic),gulaincentralafricanrepublic,bongobagirmi,22.5,9.5,f,f
+irx,Iranxe,iranxe,arawakan,-58,-13,f,f
+jam,Jaminjung,jaminjung,jaminjungan,130.5,-15.0833333333,f,f
+kad,Kadugli,kadugli,kadugli,29.6666666667,11,f,f
+kau,Kaulong,kaulong,oceanic,149.666666667,-6.16666666667,f,f
+kim,Kimaghama,kimaghama,kolopom,138.5,-8,f,f
+koe,Koegu,koegu,surmic,36.0833333333,7,f,f
+kkt,Kokota,kokota,oceanic,159.133333333,-8,f,f
+kyk,Kyaka,kyaka,engan,144.083333333,-5.55,f,f
+lar,Laragia,laragia,laragiyan,130.833333333,-12.6666666667,f,f
+lis,Lisu,lisu,burmeselolo,98,26,f,f
+mlu,Maleu,maleu,oceanic,148.416666667,-5.71666666667,f,f
+mmn,Mamanwa,mamanwa,mesophilippine,125.5,9.41666666667,f,f
+mru,Maru,maru,burmeselolo,98.5,23.5,f,f
+mno,Mono (in United States),monoinunitedstates,numic,-119,38,f,f
+mwo,Mwotlap,mwotlap,oceanic,167.583333333,-13.5833333333,f,f
+ngo,Ngoni,ngoni,bantoid,36,-11,f,f
+nha,Nhanda,nhanda,pamanyungan,114.166666667,-27,f,f
+ptt,Pattani,pattani,bodic,76.75,32.75,f,f
+pok,Poko-Rawo,pokorawo,serrahills,141.583333333,-2.83333333333,f,f
+prk,Purki,purki,bodic,76,34.6666666667,f,f
+rit,Ritharngu,ritharngu,pamanyungan,135.5,-12.8333333333,f,f
+rwe,Romani (Welsh),romaniwelsh,indic,-4,52,f,f
+rum,Rumu,rumu,turamakikorian,144.25,-7.16666666667,f,f
+run,Runga,runga,maban,21,10.3333333333,f,f
+srd,Sardinian,sardinian,romance,9,40,f,f
+see,Seediq,seediq,atayalic,121.416666667,24.1666666667,f,f
+sor,Sora,sora,munda,84.3333333333,20,f,f
+tlo,Tobelo,tobelo,northhalmaheran,128.5,1.5,f,f
+ycn,Yucuna,yucuna,arawakan,-71,-0.75,f,f
+akh,Akha,akha,burmeselolo,99.8333333333,21.8333333333,f,f
+ang,Anggor,anggor,senagi,141.166666667,-3.75,f,f
+arq,Arabic (Iraqi),arabiciraqi,semitic,44,33,f,f
+ass,Assamese,assamese,indic,93,26,f,f
+cak,Cakchiquel,cakchiquel,mayan,-91,14.5,f,f
+cya,Chatino (Yaitepec),chatinoyaitepec,zapotecan,-97.25,16.25,f,f
+gon,Gondi,gondi,southcentraldravidian,81,19,f,f
+hlp,Hualapai,hualapai,yuman,-113.75,35.5,f,f
+hnd,Hunde,hunde,bantoid,28.8333333333,-1.16666666667,f,f
+hpd,Hup,hup,nadahup,-69.25,0.166666666667,f,f
+jva,Javaé,javae,karaja,-50.3333333333,-10,f,f
+ktl,Katla,katla,katlatima,29.3333333333,11.8333333333,f,f
+kwn,Kwangali,kwangali,bantoid,19.5,-18,f,f
+ldu,Lendu,lendu,lendu,30.5,2,f,f
+let,Leti,leti,centralmalayopolynesian,127.666666667,-8.2,f,f
+mae,Mae,mae,oceanic,167.25,-16,f,f
+mot,Motuna,motuna,eastbougainville,155.416666667,-6.61666666667,f,f
+mrw,Muruwari,muruwari,pamanyungan,147,-28.75,f,f
+nma,Naga (Mao),nagamao,kukichin,94.3333333333,25.5,f,f
+nhm,Nahuatl (Michoacán),nahuatlmichoacan,aztecan,-103,18.5,f,f
+nph,Nar-Phu,narphu,bodic,84.25,28.6666666667,f,f
+paa,Pa'a,paa,westchadic,9.25,11,f,f
+pkt,Pokot,pokot,nilotic,35.5,1.5,f,f
+rny,Runyankore,runyankore,bantoid,30.5,-0.5,f,f
+sak,Sakao,sakao,oceanic,167.083333333,-15.1666666667,f,f
+shs,Shasta,shasta,shasta,-122.666666667,41.8333333333,f,f
+sis,Sisiqa,sisiqa,oceanic,156.833333333,-7,f,f
+son,Sonsorol-Tobi,sonsoroltobi,oceanic,132.25,5.33333333333,f,f
+sti,Stieng,stieng,bahnaric,106.75,11.8333333333,f,f
+tmo,Tibetan (Modern Literary),tibetanmodernliterary,bodic,91.5,29.8333333333,f,f
+tso,Tsou,tsou,tsouic,120.75,23.5,f,f
+wrn,Warndarang,warndarang,maran,135.583333333,-14.4166666667,f,f
+yct,Yucatec,yucatec,mayan,-89,20,f,f
+zay,Zayse,zayse,northomotic,37.3333333333,5.91666666667,f,f
+apt,Apatani,apatani,tani,93.75,27.5,f,f
+blr,Belorussian,belorussian,slavic,28,54,f,f
+bil,Bilua,bilua,bilua,156.666666667,-7.75,f,f
+bii,Biri,biri,pamanyungan,146.5,-20.5,f,f
+chg,Chang,chang,northernnaga,94.75,26.3333333333,f,f
+cmr,Chin (Mara),chinmara,kukichin,93.1666666667,23,f,f
+chs,Chin (Siyin),chinsiyin,kukichin,94,23.8333333333,f,f
+der,Dla (Proper),dlaproper,senagi,141,-3.58333333333,f,f
+gan,Great Andamanese,greatandamanese,greatandamanese,92.6666666667,12,f,f
+grj,Guarijío,guarijio,tarahumaran,-108.666666667,27.75,f,f
+juk,Jukun,jukun,platoid,10.4166666667,6.91666666667,f,f
+kbl,Kabyle,kabyle,berber,5,36.5,f,f
+kls,Kalispel,kalispel,interiorsalish,-117,48,f,f
+kaa,Karó (Arára),karoarara,ramarama,-62,-10.3333333333,f,f
+kem,Kemant,kemant,centralcushitic,37.4166666667,12.6666666667,f,f
+kin,Kinyarwanda,kinyarwanda,bantoid,30,-2,f,f
+maj,Majang,majang,surmic,35,6.75,f,f
+mlg,Malgwa,malgwa,biumandara,13.75,11.5,f,f
+man,Mano,mano,easternmande,-9,7,f,f
+mwb,Manobo (Western Bukidnon),manobowesternbukidnon,southernphilippines,124.75,7.66666666667,f,f
+mee,Me'en,meen,surmic,37,5,f,f
+moa,Mono-Alu,monoalu,oceanic,155.75,-7.05,f,f
+nhh,Nahuatl (Huasteca),nahuatlhuasteca,aztecan,-99,22,f,f
+nev,Nevome,nevome,tepiman,-112.5,31,f,f
+nwd,Newar (Dolakha),newardolakha,bodic,86,27.3333333333,f,f
+ntj,Ngaanyatjarra,ngaanyatjarra,pamanyungan,126.5,-26,f,f
+nkn,Nkonya,nkonya,kwa,0.25,7.16666666667,f,f
+nym,Nyamwezi,nyamwezi,bantoid,33,-5,f,f
+ocu,Ocuilteco,ocuilteco,otomian,-99.6666666667,18.9166666667,f,f
+pnn,Pangasinan,pangasinan,northernphilippines,120.333333333,15.9166666667,f,f
+sdw,Sandawe,sandawe,sandawe,35,-5,f,f
+sar,Sare,sare,sepikhill,143.166666667,-4.5,f,f
+skk,Sikkimese,sikkimese,bodic,88.5,27.8333333333,f,f
+tlf,Telefol,telefol,ok,141.75,-5,f,f
+tug,Tuareg (Ahaggar),tuaregahaggar,berber,6,23,f,f
+uld,Uldeme,uldeme,biumandara,14.1166666667,10.95,f,f
+uyg,Uyghur,uyghur,turkic,80,40,f,f
+wal,Walman,walman,wapeipalei,142.5,-3.21666666667,f,f
+yng,Yingkarta,yingkarta,pamanyungan,114.833333333,-25.1666666667,f,f
+zch,Zoque (Chimalapa),zoquechimalapa,mixezoque,-94.75,16.75,f,f
+acg,Achagua,achagua,arawakan,-72.25,4.41666666667,f,f
+abm,Alabama,alabama,muskogean,-87.4166666667,32.3333333333,f,f
+ale,Aleut,aleut,aleut,-166,54,f,f
+amq,Ambai,ambai,southhalmaherawestnewguinea,136.5,-1.83333333333,f,f
+bho,Bhojpuri,bhojpuri,indic,84,26,f,f
+btk,Bontok,bontok,northernphilippines,120.916666667,17.0833333333,f,f
+cam,Camsá,camsa,camsa,-77,1.16666666667,f,f
+ckl,Chinook (Lower),chinooklower,chinookan,-123.5,46.25,f,f
+duk,Duka,duka,kainji,5.08333333333,11.1666666667,f,f
+eno,Enggano,enggano,sumatra,102.25,-5.41666666667,f,f
+gok,Gokana,gokana,crossriver,7.33333333333,4.58333333333,f,f
+gjj,Guajajara,guajajara,tupiguarani,-46,-5,f,f
+hal,Halia,halia,oceanic,154.666666667,-5.25,f,f
+hmr,Hamer,hamer,southomotic,36.5,5,f,f
+hui,Huichol,huichol,corachol,-104,22,f,f
+ifu,Ifugao (Batad),ifugaobatad,northernphilippines,121.083333333,16.8333333333,f,f
+kbw,Karen (Bwe),karenbwe,karen,97,19.5,f,f
+kok,Kokborok,kokborok,bodogaro,92.5,24.3333333333,f,f
+kre,Kresh,kresh,kresh,24.5,8.5,f,f
+kuv,Kuvi,kuvi,southcentraldravidian,82.6666666667,18.75,f,f
+lgu,Longgu,longgu,oceanic,160.666666667,-9.75,f,f
+msg,Mising,mising,tani,94.8333333333,28.5,f,f
+mut,Mutsun,mutsun,costanoan,-121.5,36.8333333333,f,f
+nam,Namia,namia,yellowriver,141.75,-3.83333333333,f,f
+ndb,Ndebele (in South Africa),ndebeleinsouthafrica,bantoid,29,-25.3333333333,f,f
+ngd,Ngad'a,ngada,centralmalayopolynesian,121,-8.83333333333,f,f
+olo,Olo,olo,wapeipalei,142,-3.41666666667,f,f
+pga,Pilagá,pilaga,guaicuruan,-60,-25,f,f
+qaf,Qafar,qafar,easterncushitic,42,12,f,f
+seb,Sebei,sebei,nilotic,34.5833333333,1.33333333333,f,f
+teo,Teop,teop,oceanic,155,-5.66666666667,f,f
+tim,Timugon,timugon,northwestmalayopolynesian,116,5,f,f
+xho,Xhosa,xhosa,bantoid,27,-32,f,f
+yay,Yay,yay,kamtai,104.75,22.4166666667,f,f
+zap,Zapotec (Mitla),zapotecmitla,zapotecan,-96.25,16.8,f,f
+adi,Adioukrou,adioukrou,kwa,-4.58333333333,5.41666666667,f,f
+agc,Agta (Central),agtacentral,northernphilippines,121.833333333,17.9666666667,f,f
+agm,Angami,angami,kukichin,94.5,25.6666666667,f,f
+atk,Atakapa,atakapa,atakapa,-93.5,30,f,f
+bak,Baka (in Cameroon),bakaincameroon,ubangi,13.5833333333,2.58333333333,f,f
+brf,Berber (Rif),berberrif,berber,-4,34.5,f,f
+bra,Brao,brao,bahnaric,107.5,14.1666666667,f,f
+chn,Chantyal,chantyal,bodic,83.4166666667,28.5833333333,f,f
+cpn,Chepang,chepang,bodic,84.75,27.6666666667,f,f
+for,Fore,fore,easternhighlands,145.5,-6.75,f,f
+gur,Gurung,gurung,bodic,84.3333333333,28.3333333333,f,f
+hak,Hakka,hakka,chinese,116,25,f,f
+izi,Izi,izi,igboid,8,6.33333333333,f,f
+khg,Khaling,khaling,bodic,86.6666666667,27.5,f,f
+krw,Korowai,korowai,awjudumut,140,-5.25,f,f
+lmg,Lamang,lamang,biumandara,13.5833333333,11.25,f,f
+lil,Lillooet,lillooet,interiorsalish,-122,50.75,f,f
+mcd,Macedonian,macedonian,slavic,21.75,41.6666666667,f,f
+mny,Margany,margany,pamanyungan,144.5,-27,f,f
+mik,Mikir,mikir,kukichin,93.5,26.3333333333,f,f
+mxo,Mixtec (Ocotepec),mixtecocotepec,mixtecan,-97.75,17.1666666667,f,f
+mui,Muinane,muinane,boran,-72.5,-1,f,f
+nab,Nabak,nabak,finisterrehuon,147,-6.41666666667,f,f
+nai,Nanai,nanai,tungusic,137,49.5,f,f
+pba,Pima Bajo,pimabajo,tepiman,-111,29,f,f
+tma,Tama,tama,taman,22,14.5,f,f
+tce,Tarahumara (Central),tarahumaracentral,tarahumaran,-107.5,27.5,f,f
+tmn,Temein,temein,temein,29.4166666667,11.9166666667,f,f
+tep,Tepehua (Tlachichilco),tepehuatlachichilco,totonacan,-98.25,20.5833333333,f,f
+tir,Tiriyo,tiriyo,cariban,-55.75,3.25,f,f
+tsf,Tsafiki,tsafiki,barbacoan,-79.3333333333,-1,f,f
+tnn,Tunen,tunen,bantoid,10.6666666667,4.75,f,f
+tzo,Tzotzil,tzotzil,mayan,-92.6666666667,16.5,f,f
+wat,Watjarri,watjarri,pamanyungan,117.5,-26,f,f
+way,Wayampi,wayampi,tupiguarani,-52,1,f,f
+wly,Wolaytta,wolaytta,northomotic,37.75,6.83333333333,f,f
+yny,Yanyuwa,yanyuwa,pamanyungan,137.166666667,-16.4166666667,f,f
+aln,Alune,alune,centralmalayopolynesian,128.333333333,-3,f,f
+ane,Anêm,anem,anem,149.083333333,-5.58333333333,f,f
+abn,Arabana,arabana,pamanyungan,136.25,-28.25,f,f
+bnj,Bandjalang,bandjalang,pamanyungan,153,-28.75,f,f
+cem,Cèmuhî,cemuhi,oceanic,165.166666667,-20.8333333333,f,f
+chh,Chaha,chaha,semitic,37.93267,8.112935,f,f
+dga,Dagaare,dagaare,gur,-2.66666666667,10.5,f,f
+efi,Efik,efik,crossriver,8.5,4.91666666667,f,f
+ga,Gã,ga,kwa,-0.166666666667,5.66666666667,f,f
+gmz,Gumuz,gumuz,gumuz,35.8333333333,12.5,f,f
+ign,Ignaciano,ignaciano,arawakan,-65.4166666667,-15.1666666667,f,f
+kpm,Kapampangan,kapampangan,northernphilippines,120.5,15.3333333333,f,f
+kkp,Karakalpak,karakalpak,turkic,60,43,f,f
+kri,Kipea,kipea,kariri,-37,-10,f,f
+lal,Lalo,lalo,burmeselolo,100.25,25,f,f
+lmn,Lamani,lamani,indic,77,17,f,f
+lbu,Lunda,lunda,bantoid,24,-10.6666666667,f,f
+mog,Moghol,moghol,mongolic,62,35,f,f
+mor,Mor,mor,southhalmaherawestnewguinea,135.75,-2.95,f,f
+ngt,Naga (Tangkhul),nagatangkhul,kukichin,94.5,25,f,f
+ndj,Ndjébbana,ndjebbana,ndjebbana,134.116666667,-12.1666666667,f,f
+nyu,Nyulnyul,nyulnyul,nyulnyulan,122.833333333,-17,f,f
+obg,Ogbronuagum,ogbronuagum,crossriver,6.86666666667,4.75,f,f
+tbo,Tboli,tboli,southmindanao,124.5,6.16666666667,f,f
+ten,Tennet,tennet,surmic,32.5,4.41666666667,f,f
+tes,Teso,teso,nilotic,33.8333333333,1.83333333333,f,f
+woi,Woisika,woisika,greateralor,124.833333333,-8.25,f,f
+wlo,Wolio,wolio,sulawesi,122.75,-5.5,f,f
+acl,Acholi,acholi,nilotic,32.6666666667,3,f,f
+adk,Andoke,andoke,andoke,-72,-0.666666666667,f,f
+ath,Athpare,athpare,bodic,87.3333333333,27,f,f
+chi,Chimariko,chimariko,chimariko,-123,41,f,f
+cpl,Chinantec (Palantla),chinantecpalantla,chinantecan,-96.75,18.8333333333,f,f
+dmi,Dumi,dumi,bodic,86.6666666667,27.25,f,f
+fua,Fula (Cameroonian),fulacameroonian,northernatlantic,13.5,9.16666666667,f,f
+ful,Fulniô,fulnio,yate,-37.5,-8,f,f
+iqu,Iquito,iquito,zaparoan,-74,-3.25,f,f
+ito,Itonama,itonama,itonama,-64.3333333333,-12.8333333333,f,f
+jav,Javanese,javanese,javanese,111,-7,f,f
+khl,Khalaj,khalaj,turkic,50,35,f,f
+kik,Kikuyu,kikuyu,bantoid,36.75,-0.75,f,f
+koi,Koiari,koiari,koiarian,147.333333333,-9.5,f,f
+msn,Maisin,maisin,oceanic,149.166666667,-9.5,f,f
+mdn,Mandan,mandan,siouan,-102.5,46.5,f,f
+maw,Maninka (Western),maninkawestern,westernmande,-11,13,f,f
+mzc,Mazatec (Chiquihuitlán),mazatecchiquihuitlan,popolocan,-96.9166666667,17.75,f,f
+mba,Mba,mba,ubangi,25,1,f,f
+mon,Mon,mon,monic,100.5,14.8333333333,f,f
+mou,Moru,moru,morumadi,29.75,4.75,f,f
+mgu,Musgu,musgu,biumandara,14.9166666667,10.8333333333,f,f
+nnc,Nancowry,nancowry,nicobarese,93.5,8.05,f,f
+nue,Nuer,nuer,nilotic,32,8.33333333333,f,f
+pkn,Paakantyi,paakantyi,pamanyungan,142.5,-32.5,f,f
+pny,Panyjima,panyjima,pamanyungan,118.416666667,-22.8333333333,f,f
+pul,Puluwat,puluwat,oceanic,149.333333333,7.33333333333,f,f
+shl,Shilluk,shilluk,nilotic,31.75,9.66666666667,f,f
+sng,Sinaugoro,sinaugoro,oceanic,147.833333333,-9.83333333333,f,f
+tps,Tepehuan (Southeastern),tepehuansoutheastern,tepiman,-104.5,23,f,f
+tus,Tuscarora,tuscarora,northerniroquoian,-77.5,36,f,f
+url,Urak Lawoi',uraklawoi,malayic,98.3333333333,8,f,f
+ywl,Yawelmani,yawelmani,yokuts,-119,35.4166666667,f,f
+amb,Ambulas,ambulas,middlesepik,143,-3.83333333333,f,f
+amo,Amo,amo,kainji,8.66666666667,10.3333333333,f,f
+amu,Amuesha,amuesha,arawakan,-75.4166666667,-10.5,f,f
+bln,Bilin,bilin,centralcushitic,38.5,15.75,f,f
+bua,Burarra,burarra,burarran,134.583333333,-12.25,f,f
+chw,Cham (Western),chamwestern,malayic,105.5,12,f,f
+cmy,Chontal Maya,chontalmaya,mayan,-92.5833333333,18.1666666667,f,f
+coc,Cocama,cocama,tupiguarani,-74.5,-5,f,f
+did,Didinga,didinga,surmic,33.5,4.5,f,f
+dig,Digaro,digaro,digaroan,96,28.4166666667,f,f
+fas,Fasu,fasu,fasu,143.333333333,-6.58333333333,f,f
+gim,Gimira,gimira,northomotic,35.75,7,f,f
+guj,Gujarati,gujarati,indic,72,23,f,f
+jmo,Jur Mödö,jurmodo,bongobagirmi,30,6,f,f
+krr,Kairiru,kairiru,oceanic,143.583333333,-3.33333333333,f,f
+knc,Kugu Nganhcara,kugunganhcara,pamanyungan,142,-14.4166666667,f,f
+mng,Manggarai,manggarai,centralmalayopolynesian,120.333333333,-8.5,f,f
+mra,Mara,mara,maran,135.166666667,-15,f,f
+mka,Mauka,mauka,westernmande,-7.5,8.33333333333,f,f
+mtu,Motu,motu,oceanic,147,-9.33333333333,f,f
+ngk,Ngankikurungkurr,ngankikurungkurr,southerndaly,130.5,-14,f,f
+nyi,Nyimang,nyimang,nyimang,29.3333333333,12.1666666667,f,f
+plh,Paulohi,paulohi,centralmalayopolynesian,128.75,-3.25,f,f
+pme,Pomo (Eastern),pomoeastern,pomoan,-122.666666667,39,f,f
+src,Sarcee,sarcee,athapaskan,-116,52.5,f,f
+sin,Siona,siona,tucanoan,-76.25,0.333333333333,f,f
+tul,Tulu,tulu,southerndravidian,75.3333333333,12.75,f,f
+any,Anywa,anywa,nilotic,33.5,8,f,f
+aro,Arosi,arosi,oceanic,161.333333333,-10.25,f,f
+baj,Bajau (Sama),bajausama,samabajaw,123,-4.33333333333,f,f
+blx,Biloxi,biloxi,siouan,-88.6666666667,30.5,f,f
+cic,Chichewa,chichewa,bantoid,34,-14,f,f
+cba,Chumash (Barbareño),chumashbarbareno,chumash,-120.25,34.5,f,f
+don,Dong,dong,kamtai,109,27,f,f
+emb,Embera,embera,choco,-77.1666666667,6.83333333333,f,f
+gds,Gadsup,gadsup,easternhighlands,146,-6.25,f,f
+god,Godoberi,godoberi,avarandictsezic,46.0833333333,42.6666666667,f,f
+igs,Ingessana,ingessana,easternjebel,34,11.5,f,f
+krn,Korana,korana,centralkhoisan,20.5,-29.5,f,f
+kpe,Kpelle,kpelle,westernmande,-10,7,f,f
+mbm,Mbum,mbum,adamawa,13.1666666667,7.75,f,f
+meh,Mehri,mehri,semitic,51.5,17,f,f
+ngm,Ngambay,ngambay,bongobagirmi,16,8.66666666667,f,f
+sem,Sema,sema,kukichin,94.5,26,f,f
+ses,Sesotho,sesotho,bantoid,27,-28,f,f
+sio,Sio,sio,oceanic,147.333333333,-5.95,f,f
+twe,Tarahumara (Western),tarahumarawestern,tarahumaran,-108,27.5,f,f
+tic,Ticuna,ticuna,ticuna,-70.5,-4,f,f
+tvl,Tuvaluan,tuvaluan,oceanic,179.166666667,-8.5,f,f
+uby,Ubykh,ubykh,northwestcaucasian,39.6666666667,43.6666666667,f,f
+urd,Urdu,urdu,indic,67,25,f,f
+wry,Waray (in Australia),warayinaustralia,waray,131.25,-13.1666666667,f,f
+wrg,Warrgamay,warrgamay,pamanyungan,146.083333333,-18.5833333333,f,f
+wmu,Wik Munkan,wikmunkan,pamanyungan,141.75,-13.9166666667,f,f
+yin,Yindjibarndi,yindjibarndi,pamanyungan,117.916666667,-21.75,f,f
+au,Au,au,wapeipalei,142.083333333,-3.58333333333,f,f
+bfg,Berber (Figuig),berberfiguig,berber,-1.5,32.5,f,f
+kmj,Karimojong,karimojong,nilotic,34.1666666667,3,f,f
+moo,Mooré,moore,gur,-1.25,12.8333333333,f,f
+moe,Mordvin (Erzya),mordvinerzya,mordvin,45.5,53,f,f
+nup,Nupe,nupe,nupoid,5.41666666667,9.16666666667,f,f
+paw,Pawaian,pawaian,pawaian,145.083333333,-7,f,f
+pec,Pech,pech,paya,-85.5,15,f,f
+slb,Saliba (in Papua New Guinea),salibainpapuanewguinea,oceanic,150.716666667,-10.5833333333,f,f
+slo,Slovene,slovene,slavic,15,46,f,f
+taj,Tajik,tajik,iranian,70,38.6666666667,f,f
+tmr,Temiar,temiar,aslian,101.5,5,f,f
+twn,Tiwa (Northern),tiwanorthern,kiowatanoan,-105.5,36.5,f,f
+tno,Tondano,tondano,sulawesi,125,1.25,f,f
+tot,Totonac (Misantla),totonacmisantla,totonacan,-96.9166666667,19.9166666667,f,f
+wem,Wembawemba,wembawemba,pamanyungan,144,-35.3333333333,f,f
+wik,Wikchamni,wikchamni,yokuts,-119.083333333,36.4166666667,f,f
+bud,Buduma,buduma,biumandara,14.5,13.5,f,f
+crn,Cornish,cornish,celtic,-5,50.3333333333,f,f
+egn,Engenni,engenni,edoid,6.38333333333,5.16666666667,f,f
+ese,Ese Ejja,eseejja,tacanan,-66,-11,f,f
+grf,Garífuna,garifuna,arawakan,-88,15.6666666667,f,f
+hmi,Huitoto (Minica),huitotominica,huitoto,-74,-0.333333333333,f,t
+kom,Komo,komo,koman,33.75,8.75,f,f
+kku,Korku,korku,munda,78.5,22.5,f,f
+kmp,Kunimaipa,kunimaipa,goilalan,146.833333333,-8,f,f
+lmp,Lampung,lampung,lampungic,105,-5,f,f
+llm,Lelemi,lelemi,kwa,0.5,7.33333333333,f,f
+lin,Lingala,lingala,bantoid,18.5,2,f,f
+ndo,Ndonga,ndonga,bantoid,17,-18,f,f
+naj,Neo-Aramaic (Arbel Jewish),neoaramaicarbeljewish,semitic,35,31.75,f,f
+nsg,Nisgha,nisgha,tsimshianic,-130,55,f,f
+nis,Nishi,nishi,tani,93.5,27.5,f,f
+par,Päri,pari,nilotic,32.5,5,f,f
+raw,Rawang,rawang,nungish,97.5,27.5,f,f
+rut,Rutul,rutul,lezgic,47.4166666667,41.5,f,f
+tar,Tariana,tariana,arawakan,-69.1666666667,1,f,f
+yar,Yareba,yareba,yareban,148.5,-9.5,f,f
+yes,Yessan-Mayo,yessanmayo,tamasepik,142.583333333,-4.16666666667,f,f
+yus,Yupik (Siberian),yupiksiberian,eskimo,-173,65,f,f
+yuw,Yuwaalaraay,yuwaalaraay,pamanyungan,148,-29.5,f,f
+zai,Zapotec (Isthmus),zapotecisthmus,zapotecan,-95,16.416667,f,f
+arw,Armenian (Western),armenianwestern,armenian,43.5,38.5,f,f
+baa,Barai,barai,koiarian,148.083333333,-9.33333333333,f,f
+ceb,Cebuano,cebuano,mesophilippine,124,10,f,f
+cti,Chin (Tiddim),chintiddim,kukichin,93.6666666667,23.3333333333,f,f
+cor,Cora,cora,corachol,-104.833333333,22.1666666667,f,f
+djr,Djaru,djaru,pamanyungan,128,-18.75,f,f
+hay,Hayu,hayu,bodic,86,27.25,f,f
+jab,Jabêm,jabem,oceanic,147.783333333,-6.58333333333,f,f
+kma,Kamaiurá,kamaiura,tupiguarani,-52.5833333333,-12.0833333333,f,f
+kuo,Kuot,kuot,kuot,151.5,-3.05,f,f
+lda,Luganda,luganda,bantoid,32.1666666667,0.5,f,f
+nak,Nakanai,nakanai,oceanic,150.583333333,-5.58333333333,f,f
+plk,Palikur,palikur,arawakan,-51,3,f,f
+sro,Siroi,siroi,madang,146,-5.5,f,f
+sul,Sulka,sulka,sulka,151.916666667,-5.08333333333,f,f
+txj,Totonac (Xicotepec de Juárez),totonacxicotepecdejuarez,totonacan,-97.8333333333,20.4166666667,f,f
+tri,Trique (Copala),triquecopala,mixtecan,-97.9166666667,17.1666666667,f,f
+xoo,!Xóõ,xoo,southernkhoisan,21.5,-24,f,f
+yul,Yulu,yulu,bongobagirmi,25.25,8.5,f,f
+anj,Anejom,anejom,oceanic,169.8,-20.2,f,f
+asy,Arabic (Syrian),arabicsyrian,semitic,38,34,f,f
+bel,Belhare,belhare,bodic,87.3,26.9666666667,f,f
+brn,Burunge,burunge,southerncushitic,36,-5.33333333333,f,f
+ccm,Chinantec (Comaltepec),chinanteccomaltepec,chinantecan,-96.4166666667,17.5833333333,f,f
+ctm,Chitimacha,chitimacha,chitimacha,-91,29.6666666667,f,f
+gmw,Gumawana,gumawana,oceanic,150.833333333,-9.25,f,f
+kng,Kaingang,kaingang,gekaingang,-52,-26,f,f
+kmk,Kalmyk,kalmyk,mongolic,83,44,f,f
+krc,Karachay-Balkar,karachaybalkar,turkic,42,43.5,f,f
+mad,Ma'di,madi,morumadi,31.5,3.25,f,f
+mnm,Manam,manam,oceanic,145,-4,f,f
+ndt,Ndut,ndut,northernatlantic,-16.9166666667,14.9166666667,f,f
+nga,Nganasan,nganasan,samoyedic,93,71,f,f
+obo,Obolo,obolo,crossriver,7.83333333333,4.58333333333,f,f
+udm,Udmurt,udmurt,permic,52.5,57.5,f,f
+wbn,Wambon,wambon,awjudumut,140.416666667,-5.5,f,f
+wol,Woleaian,woleaian,oceanic,143.833333333,7.33333333333,f,f
+ytu,Yukaghir (Tundra),yukaghirtundra,yukaghir,155,69,f,f
+amc,Amahuaca,amahuaca,panoan,-72.5,-10.5,f,f
+bai,Bai,bai,bai,100,26,f,f
+bya,Byansi,byansi,bodic,80.5,30.1666666667,f,f
+cay,Cayapa,cayapa,barbacoan,-79,0.666666666667,f,f
+chp,Chipewyan,chipewyan,athapaskan,-106,59,f,f
+dji,Djingili,djingili,westbarkly,134,-17.75,f,f
+kmh,Kham,kham,bodic,82.75,28.5,f,f
+kol,Kolami,kolami,centraldravidian,78.5,20,f,f
+kry,Koryak,koryak,northernchukotkokamchatkan,167,61,f,f
+min,Minangkabau,minangkabau,malayic,101,-1,f,f
+mxp,Mixtec (Peñoles),mixtecpenoles,mixtecan,-96.9166666667,17.0833333333,f,f
+moh,Mohawk,mohawk,northerniroquoian,-74.25,43.5,f,f
+mos,Mosetén,moseten,mosetenan,-67.8333333333,-14.75,f,f
+nua,Nuaulu,nuaulu,centralmalayopolynesian,129.166666667,-3.25,f,f
+ute,Ute,ute,numic,-109,39,f,f
+acm,Achumawi,achumawi,palaihnihan,-121,41.5,f,f
+anc,Angas,angas,westchadic,9.5,9.5,f,f
+api,Apinayé,apinaye,gekaingang,-48,-5.5,f,f
+bod,Bodo,bodo,bodogaro,92,26.8333333333,f,f
+chq,Chinantec (Quiotepec),chinantecquiotepec,chinantecan,-96.6666666667,17.5833333333,f,f
+dan,Dan,dan,easternmande,-8,7.5,f,f
+diz,Dizi,dizi,northomotic,36.5,6.16666666667,f,f
+gud,Gude,gude,biumandara,13.4166666667,10.4166666667,f,f
+irr,Irarutu,irarutu,southhalmaherawestnewguinea,133.5,-3,f,f
+koy,Koya,koya,southcentraldravidian,81.3333333333,17.5,f,f
+men,Menomini,menomini,algonquian,-88.3333333333,45.5,f,f
+mie,Mien,mien,hmongmien,111,25,f,f
+nia,Nias,nias,sumatra,97.75,1,f,f
+ppi,Pitta Pitta,pittapitta,pamanyungan,140,-22.8333333333,f,f
+rem,Remo,remo,munda,82,18,f,f
+rot,Rotuman,rotuman,oceanic,177.066666667,-12.5,f,f
+slp,Selepet,selepet,finisterrehuon,147.166666667,-6.16666666667,f,f
+shi,Shiriana,shiriana,yanomam,-62.8333333333,3.5,f,f
+tol,Tol,tol,tol,-87,14.6666666667,f,f
+tbu,Tubu,tubu,westernsaharan,15,16,f,f
+tuc,Tucano,tucano,tucanoan,-69.1666666667,0.5,f,f
+ani,//Ani,ani,centralkhoisan,21.9166666667,-18.9166666667,f,f
+bla,Blackfoot,blackfoot,algonquian,-112.666666667,50,f,f
+ccp,Cocopa,cocopa,yuman,-115,32.3333333333,f,f
+fut,Futuna-Aniwa,futunaaniwa,oceanic,170.216666667,-19.5333333333,f,f
+hum,Huitoto (Murui),huitotomurui,huitoto,-73.5,-1,f,f
+jiv,Jivaro,jivaro,jivaroan,-78,-2.5,f,f
+kam,Kambera,kambera,centralmalayopolynesian,120.166666667,-9.83333333333,f,f
+kzy,Komi-Zyrian,komizyrian,permic,55,65,f,f
+lao,Lao,lao,kamtai,103,18,f,f
+lnd,Linda,linda,ubangi,20.75,6.5,f,f
+mai,Maithili,maithili,indic,86,26,f,f
+msl,Masalit,masalit,maban,22,13.3333333333,f,f
+nhn,Nahuatl (North Puebla),nahuatlnorthpuebla,aztecan,-98.25,20,f,f
+syu,Salt-Yui,saltyui,chimbu,145.033333333,-6.28333333333,f,f
+ser,Seri,seri,seri,-112,29,f,f
+shn,Shona,shona,bantoid,31,-18,f,f
+sre,Sre,sre,bahnaric,108,11.5,f,f
+tng,Tongan,tongan,oceanic,-175.166666667,-21.1666666667,f,f
+vai,Vai,vai,westernmande,-11.25,6.91666666667,f,f
+wrl,Warlpiri,warlpiri,pamanyungan,132.333333333,-20,f,f
+gum,Gumbaynggir,gumbaynggir,pamanyungan,152.5,-30.1666666667,f,f
+gwa,Gwari,gwari,nupoid,7,9.5,f,f
+kws,Kawaiisu,kawaiisu,numic,-117.5,36,f,f
+kgz,Kirghiz,kirghiz,turkic,75,42,f,f
+kmb,Kombai,kombai,awjudumut,140,-5.58333333333,f,f
+lon,Loniu,loniu,oceanic,147.333333333,-2.06666666667,f,f
+mde,Mende,mende,westernmande,-11.5,7.83333333333,f,f
+nbr,Ngäbere,ngabere,guaymi,-82,8.66666666667,f,f
+niu,Niuean,niuean,oceanic,-170.116666667,-19.05,f,f
+noo,Noon,noon,northernatlantic,-16.8333333333,14.8333333333,f,f
+pno,Paiute (Northern),paiutenorthern,numic,-118,42,f,f
+sal,Salinan,salinan,salinan,-121,36,f,f
+aly,Alyawarra,alyawarra,pamanyungan,135,-22.5,f,f
+cbo,Chácobo,chacobo,panoan,-66.75,-12.1666666667,f,f
+kan,Kana,kana,crossriver,7.41666666667,4.75,f,f
+kiw,Kiwai,kiwai,kiwaian,143.5,-8,f,f
+kwo,Kwoma,kwoma,middlesepik,142.75,-4.16666666667,f,f
+mnc,Manchu,manchu,tungusic,127.5,49.5,f,f
+non,Noni,noni,bantoid,10.5833333333,6.41666666667,f,f
+per,Pero,pero,westchadic,11,9.58333333333,f,f
+taw,Tawala,tawala,oceanic,150.666666667,-10.3333333333,f,f
+bco,Bella Coola,bellacoola,bellacoola,-126.666666667,52.5,f,f
+ber,Berta,berta,berta,34.6666666667,10.3333333333,f,f
+cso,Chatino (Sierra Occidental),chatinosierraoccidental,zapotecan,-97.3333333333,16.25,f,f
+cmh,Chemehuevi,chemehuevi,numic,-115.166666667,34.3333333333,f,f
+ewo,Ewondo,ewondo,bantoid,12,4,f,f
+ksg,Karen (Sgaw),karensgaw,karen,97,18,f,f
+kwk,Kwakw'ala,kwakwala,northernwakashan,-127,51,f,f
+mlt,Maltese,maltese,semitic,14.4166666667,35.9166666667,f,f
+miz,Mizo,mizo,kukichin,92.8333333333,23.1666666667,f,f
+ruk,Rukai,rukai,tsouic,120.833333333,22.8333333333,f,f
+wah,Wahgi,wahgi,chimbu,144.716666667,-5.83333333333,f,f
+wrk,Warekena,warekena,arawakan,-67.5,1.5,f,f
+ata,Atayal,atayal,atayalic,121.333333333,24.5,f,f
+aze,Azerbaijani,azerbaijani,turkic,48.5,40.5,f,f
+bae,Baré,bare,arawakan,-67,1,f,f
+bar,Bari,bari,nilotic,31.6666666667,5,f,f
+ben,Bengali,bengali,indic,90,24,f,f
+but,Buriat,buriat,mongolic,108,52,f,f
+chc,Chechen,chechen,nakh,45.8333333333,43.25,f,f
+err,Erromangan,erromangan,oceanic,169.166666667,-18.8333333333,f,f
+hua,Hua,hua,easternhighlands,145.333333333,-6.33333333333,f,f
+iba,Iban,iban,malayic,112,2,f,f
+jeb,Jebero,jebero,cahuapanan,-76.5,-5.41666666667,f,f
+jng,Jingpho,jingpho,jinghpo,97,25.4166666667,f,f
+mme,Mari (Meadow),marimeadow,mari,48,57,f,f
+mby,Mbay,mbay,bongobagirmi,17.5,8.25,f,f
+mpa,Murrinh-Patha,murrinhpatha,murrinhpatha,129.666666667,-14.6666666667,f,f
+new,Newari (Kathmandu),newarikathmandu,bodic,85.5,27.6666666667,f,f
+sno,Saami (Northern),saaminorthern,saami,24,69,f,f
+ukr,Ukrainian,ukrainian,slavic,33,49,f,f
+was,Washo,washo,washo,-120,39.25,f,f
+yuk,Yukulta,yukulta,tangkic,138.833333333,-17.3333333333,f,f
+kkv,Kaliai-Kove,kaliaikove,oceanic,149.666666667,-5.58333333333,f,f
+kya,Kuku-Yalanji,kukuyalanji,pamanyungan,145,-16,f,f
+sah,Sahu,sahu,northhalmaheran,127.5,1.16666666667,f,f
+skp,Selkup,selkup,samoyedic,82,65,f,f
+ttu,Tsova-Tush,tsovatush,nakh,45.5,42.5,f,f
+wsk,Waskia,waskia,madang,146,-4.5,f,f
+alw,Alawa,alawa,maran,134.25,-15.1666666667,f,f
+ao,Ao,ao,kukichin,94.6666666667,26.5833333333,f,f
+apl,Apalaí,apalai,cariban,-54,0,f,f
+bbw,Bininj Gun-Wok,bininjgunwok,gunwinygic,133.75,-12.5,f,f
+fye,Fyem,fyem,platoid,9.33333333333,9.58333333333,f,f
+grr,Garrwa,garrwa,garrwan,137.166666667,-17.0833333333,f,f
+kgu,Kalkatungu,kalkatungu,pamanyungan,139.5,-21,f,f
+lai,Lai,lai,kukichin,93.6666666667,22.6666666667,f,f
+mro,Moro,moro,heiban,30.1666666667,11,f,f
+nar,Nara (in Ethiopia),narainethiopia,nara,37.5833333333,15.0833333333,f,f
+tam,Tamang,tamang,bodic,85.25,28,f,f
+tvo,Tatar,tatar,turkic,49.5,56,f,f
+tpn,Tepehuan (Northern),tepehuannorthern,tepiman,-107,26.3333333333,f,f
+tib,Tibetan (Standard Spoken),tibetanstandardspoken,bodic,91,30,f,f
+tlp,Tlapanec,tlapanec,subtiabatlapanec,-99,17.0833333333,f,f
+udh,Udihe,udihe,tungusic,136.25,47.6666666667,f,f
+zan,Zande,zande,ubangi,26,4,f,f
+cct,Choctaw,choctaw,muskogean,-88.5,32.25,f,f
+cop,Coptic,coptic,egyptiancoptic,32,26,f,f
+dgb,Dagbani,dagbani,gur,-0.5,9.58333333333,f,f
+dum,Dumo,dumo,westernskou,141.3,-2.68333333333,f,f
+kos,Kosraean,kosraean,oceanic,163,5.3,f,f
+nuu,Nuuchahnulth,nuuchahnulth,southernwakashan,-126.666666667,49.6666666667,f,f
+oss,Ossetic,ossetic,iranian,44,43,f,f
+snh,Sinhala,sinhala,indic,80.5,7,f,f
+tas,Tashlhiyt,tashlhiyt,berber,-5,31,f,f
+trb,Teribe,teribe,talamanca,-82.6666666667,9.33333333333,f,f
+tja,Tiipay (Jamul),tiipayjamul,yuman,-116.5,32.1666666667,f,f
+tla,Tolai,tolai,oceanic,152.083333333,-4.25,f,f
+yel,Yelî Dnye,yelidnye,yele,154.166666667,-11.3666666667,f,f
+amr,Arabic (Moroccan),arabicmoroccan,semitic,-6,34,f,f
+ara,Arawak,arawak,arawakan,-55.1666666667,5.5,f,f
+bto,Batak (Toba),bataktoba,sumatra,99,2.5,f,f
+bir,Birom,birom,platoid,8.83333333333,9.66666666667,f,f
+din,Dinka,dinka,nilotic,28,8.5,f,f
+evn,Even,even,tungusic,130,68,f,f
+goa,Goajiro,goajiro,arawakan,-72,12,f,f
+mgg,Mangghuer,mangghuer,mongolic,102,36,f,f
+oji,Ojibwa (Eastern),ojibwaeastern,algonquian,-80,46,f,f
+res,Resígaro,resigaro,arawakan,-71.5,-2.41666666667,f,f
+snc,Seneca,seneca,northerniroquoian,-77.5,42.5,f,f
+srn,Sirionó,siriono,tupiguarani,-64,-15.5833333333,f,f
+tah,Tahitian,tahitian,oceanic,-149.583333333,-17.6666666667,f,f
+tkl,Takelma,takelma,takelma,-123,42.5,f,f
+uhi,Uradhi,uradhi,pamanyungan,142.416666667,-11.9166666667,f,f
+che,Cherokee,cherokee,southerniroquoian,-83.5,35.5,f,f
+cze,Czech,czech,slavic,15,50,f,f
+dsh,Danish,danish,germanic,10,56,f,f
+hup,Hupa,hupa,athapaskan,-123.666666667,41.0833333333,f,f
+ite,Itelmen,itelmen,southernchukotkokamchatkan,157.5,57,f,f
+kab,Kabardian,kabardian,northwestcaucasian,43.5,43.5,f,f
+knk,Kanakuru,kanakuru,westchadic,12,10,f,f
+kwa,Kwaio,kwaio,oceanic,161,-8.95,f,f
+lel,Lele,lele,eastchadic,15.5833333333,9.08333333333,f,f
+shu,Shuswap,shuswap,interiorsalish,-120,52,f,f
+so,So,so,kuliak,34.75,2.58333333333,f,f
+tne,Temne,temne,southernatlantic,-13.0833333333,8.66666666667,f,f
+ctl,Catalan,catalan,romance,2,41.75,f,f
+fni,Fula (Nigerian),fulanigerian,northernatlantic,10.5,8.16666666667,f,f
+lui,Luiseño,luiseno,takic,-117.166666667,33.3333333333,f,f
+nmb,Nambikuára,nambikuara,nambikuaran,-59,-13,f,f
+nas,Nasioi,nasioi,eastbougainville,155.583333333,-6.33333333333,f,f
+por,Portuguese,portuguese,romance,-8,39,f,f
+siu,Siuslaw,siuslaw,siuslawan,-124,44,f,f
+sun,Sundanese,sundanese,sundanese,107,-7,f,f
+chr,Chrau,chrau,bahnaric,107.5,10.75,f,f
+est,Estonian,estonian,finnic,26,59,f,f
+gae,Gaelic (Scots),gaelicscots,celtic,-4,57,f,f
+guu,Guugu Yimidhirr,guuguyimidhirr,pamanyungan,144.833333333,-15,f,f
+hop,Hopi,hopi,hopi,-110,36,f,f
+mis,Miskito,miskito,misumalpan,-83.6666666667,14,f,f
+mum,Mumuye,mumuye,adamawa,11.6666666667,9,f,f
+tac,Tacana,tacana,tacanan,-68,-13.5,f,f
+ter,Tera,tera,biumandara,11.8333333333,11,f,f
+wma,West Makian,westmakian,northhalmaheran,127.583333333,0.5,f,f
+wiy,Wiyot,wiyot,wiyot,-124.166666667,40.8333333333,f,f
+abu,Abun,abun,northcentralbirdshead,132.5,-0.5,f,f
+bab,Babungo,babungo,bantoid,10.4166666667,6.11666666667,f,f
+brr,Bororo,bororo,bororo,-57,-16,f,f
+djp,Djapu,djapu,pamanyungan,136,-12.6666666667,f,f
+doy,Doyayo,doyayo,adamawa,13.0833333333,8.66666666667,f,f
+krd,Kurdish (Central),kurdishcentral,iranian,44,36,f,f
+len,Lenakel,lenakel,oceanic,169.25,-19.45,f,f
+mam,Mam,mam,mayan,-91.8333333333,15,f,f
+nca,Nicobarese (Car),nicobaresecar,nicobarese,93,9,f,f
+qaw,Qawasqar,qawasqar,alacalufan,-75,-49,f,t
+ttn,Tetun,tetun,centralmalayopolynesian,126,-9,f,f
+tid,Tidore,tidore,northhalmaheran,127.5,0.75,f,f
+ygr,Yagaria,yagaria,easternhighlands,145.416666667,-6.33333333333,f,f
+arg,Arabic (Gulf),arabicgulf,semitic,49,26,f,f
+cub,Cubeo,cubeo,tucanoan,-70.5,1.33333333333,f,f
+dgr,Dagur,dagur,mongolic,124,48,f,f
+htc,Huastec,huastec,mayan,-99.3333333333,22.0833333333,f,f
+ik,Ik,ik,kuliak,34.1666666667,3.75,f,f
+nun,Nung (in Vietnam),nunginvietnam,kamtai,106.416666667,21.9166666667,f,f
+pae,Páez,paez,paezan,-76,2.66666666667,f,f
+sed,Sedang,sedang,bahnaric,108,14.8333333333,f,f
+bsk,Bashkir,bashkir,turkic,58,53,f,f
+mlk,Malakmalak,malakmalak,northerndaly,130.416666667,-13.4166666667,f,f
+mns,Mansi,mansi,ugric,62,62,f,f
+mna,Muna,muna,sulawesi,122.5,-5,f,f
+mup,Mupun,mupun,westchadic,8.83333333333,9.5,f,f
+ngl,Ngalakan,ngalakan,ngalakan,134,-14.25,f,f
+scr,Serbian-Croatian,serbiancroatian,slavic,19,44,f,f
+tin,Tinrin,tinrin,oceanic,165.75,-21.6666666667,f,f
+arc,Archi,archi,lezgic,46.8333333333,42,f,f
+ava,Avar,avar,avarandictsezic,46.5,42.5,f,f
+gbb,Gbeya Bossangoa,gbeyabossangoa,ubangi,17.5,6.66666666667,f,f
+lim,Limbu,limbu,bodic,87.75,27.1666666667,f,f
+miy,Miya,miya,westchadic,9.66666666667,10.9166666667,f,f
+ngz,Ngizim,ngizim,westchadic,10.9166666667,12.0833333333,f,f
+poh,Pohnpeian,pohnpeian,oceanic,158.25,6.88333333333,f,f
+tna,Turkana,turkana,nilotic,35.5,3,f,f
+uzb,Uzbek,uzbek,turkic,66,39,f,f
+hve,Huave (San Mateo del Mar),huavesanmateodelmar,huavean,-95,16.2166666667,f,f
+kty,Khanty,khanty,ugric,65,65,f,f
+mym,Malayalam,malayalam,southerndravidian,76.5,10,f,f
+tel,Telugu,telugu,southcentraldravidian,79,16,f,f
+ykt,Yakut,yakut,turkic,130,62,f,f
+awt,Awtuw,awtuw,ram,142,-3.58333333333,f,f
+klm,Klamath,klamath,klamathmodoc,-121.5,42.5,f,f
+nep,Nepali,nepali,indic,85,28,f,f
+tgr,Tigré,tigre,semitic,38.5,16.5,f,f
+tuv,Tuvan,tuvan,turkic,95,52,f,f
+hat,Hatam,hatam,hatam,134,-1,f,f
+mok,Mokilese,mokilese,oceanic,159.75,6.66666666667,f,f
+nor,Norwegian,norwegian,germanic,8,61,f,f
+qui,Quileute,quileute,chimakuan,-124.25,47.9166666667,f,f
+ret,Retuarã,retuara,tucanoan,-70.6666666667,-0.5,f,f
+tau,Tauya,tauya,madang,145.333333333,-5.75,f,f
+bre,Breton,breton,celtic,-3,48,f,f
+ijo,Ijo (Kolokuma),ijokolokuma,ijoid,5.66666666667,4.91666666667,f,f
+luo,Luo,luo,nilotic,34.75,-0.5,f,f
+pal,Palauan,palauan,palauan,134.583333333,7.5,f,f
+psh,Pashto,pashto,iranian,67,33,f,f
+sam,Samoan,samoan,oceanic,-171.833333333,-13.9166666667,f,f
+sel,Selknam,selknam,chonproper,-70,-53,f,t
+wao,Waorani,waorani,waorani,-76.5,-1,f,f
+wap,Wappo,wappo,wappo,-122.5,38.5,f,f
+win,Wintu,wintu,wintuan,-122.5,41,f,f
+akn,Akan,akan,kwa,-1.25,6.5,f,f
+bri,Bribri,bribri,talamanca,-83,9.41666666667,f,t
+kis,Kisi,kisi,southernatlantic,-10.1666666667,8.83333333333,f,f
+cax,Campa (Axininca),campaaxininca,arawakan,-74,-12,f,f
+kon,Kongo,kongo,bantoid,15,-5,f,t
+lug,Lugbara,lugbara,morumadi,30.9166666667,3.08333333333,f,f
+maa,Maasai,maasai,nilotic,36,-3,f,f
+tsh,Tümpisa Shoshone,tumpisashoshone,numic,-117,37,f,f
+wel,Welsh,welsh,celtic,-3,52,f,f
+yap,Yapese,yapese,yapese,138.166666667,9.58333333333,f,f
+iaa,Iaai,iaai,oceanic,166.583333333,-20.4166666667,f,f
+jaq,Jaqaru,jaqaru,aymaran,-76,-13,f,f
+tgk,Tigak,tigak,oceanic,150.8,-2.71666666667,f,f
+ton,Tonkawa,tonkawa,tonkawa,-96.75,30.25,f,f
+mhi,Marathi,marathi,indic,76,19,f,f
+pip,Pipil,pipil,aztecan,-89.5833333333,13.8333333333,f,f
+tzu,Tzutujil,tzutujil,mayan,-91.3333333333,14.6666666667,f,f
+amp,Arrernte (Mparntwe),arrerntemparntwe,pamanyungan,136,-24,f,f
+die,Diegueño (Mesa Grande),dieguenomesagrande,yuman,-116.166666667,32.6666666667,f,f
+diy,Diyari,diyari,pamanyungan,139,-28,f,f
+ice,Icelandic,icelandic,germanic,-17,65,f,f
+pan,Panjabi,panjabi,indic,74,31,f,f
+lak,Lak,lak,lakdargwa,47.1666666667,42.1666666667,f,t
+mne,Maidu (Northeast),maidunortheast,maiduan,-120.666666667,40,f,f
+eka,Ekari,ekari,wissellakeskemandoga,135.5,-3.83333333333,f,t
+ham,Hamtai,hamtai,angan,146.25,-7.5,f,t
+mrg,Margi,margi,biumandara,13,11,f,f
+nan,Nandi,nandi,nilotic,35,0.25,f,f
+mac,Macushi,macushi,cariban,-60,4,f,f
+mrd,Marind,marind,marindproper,140.166666667,-7.83333333333,f,t
+abi,Abipón,abipon,guaicuruan,-61,-29,f,t
+mab,Maba,maba,maban,20.8333333333,13.75,f,t
+swe,Swedish,swedish,germanic,15,60,f,f
+wlf,Wolof,wolof,northernatlantic,-16,15.25,f,f
+ace,Acehnese,acehnese,malayic,95.5,5.5,f,f
+chv,Chuvash,chuvash,turkic,47.5,55.5,f,f
+dut,Dutch,dutch,germanic,6,52.5,f,f
+kas,Kashmiri,kashmiri,indic,76,34,f,f
+pur,Purépecha,purepecha,tarascan,-101.666666667,19.5,f,f
+una,Una,una,mek,140,-4.66666666667,f,t
+dyi,Dyirbal,dyirbal,pamanyungan,145.583333333,-17.8333333333,f,f
+haw,Hawaiian,hawaiian,oceanic,-155.5,19.5833333333,f,f
+ita,Italian,italian,romance,12,43,f,f
+kch,Koyra Chiini,koyrachiini,songhay,-3,17,f,f
+lit,Lithuanian,lithuanian,baltic,24,55,f,f
+ood,O'odham,oodham,tepiman,-112,32,f,f
+rom,Romanian,romanian,romance,25,46,f,f
+tml,Tamil,tamil,southerndravidian,78.5,11,f,f
+bul,Bulgarian,bulgarian,slavic,25,42.5,f,f
+lah,Lahu,lahu,burmeselolo,98.1666666667,20,f,f
+yuc,Yuchi,yuchi,yuchi,-86.75,35.75,f,t
+pso,Pomo (Southeastern),pomosoutheastern,pomoan,-122.5,39,f,t
+zun,Zuni,zuni,zuni,-108.833333333,35.0833333333,f,f
+snt,Sentani,sentani,sentani,140.583333333,-2.58333333333,f,t
+krb,Kiribati,kiribati,oceanic,173,1.33333333333,f,t
+som,Somali,somali,easterncushitic,45,3,f,f
+ypk,Yup'ik (Central),yupikcentral,eskimo,-160,59.5,f,t
+cnt,Cantonese,cantonese,chinese,113,23,f,f
+fur,Fur,fur,fur,25,13.5,f,t
+pol,Polish,polish,slavic,20,52,f,f
+ker,Kera,kera,eastchadic,15.0833333333,9.83333333333,f,t
+lad,Ladakhi,ladakhi,bodic,78,34,f,t
+lep,Lepcha,lepcha,lepcha,88.5,27.1666666667,f,t
+tli,Tlingit,tlingit,tlingit,-135,59,f,t
+wam,Wambaya,wambaya,westbarkly,135.75,-18.6666666667,f,t
+alb,Albanian,albanian,albanian,20,41,f,f
+bam,Bambara,bambara,westernmande,-7.5,12.5,f,t
+kyl,Kayah Li (Eastern),kayahlieastern,karen,97.5,19,f,t
+nti,Ngiti,ngiti,lendu,30.25,1.33333333333,f,t
+car,Carib,carib,cariban,-56,5.5,f,t
+mak,Makah,makah,southernwakashan,-124.666666667,48.3333333333,t,t
+tsi,Tsimshian (Coast),tsimshiancoast,tsimshianic,-129,52.5,f,t
+tun,Tunica,tunica,tunica,-91,32.6666666667,f,t
+sue,Suena,suena,binanderean,147.55,-7.75,f,t
+mku,Maranungku,maranungku,westerndaly,130,-13.6666666667,f,t
+mrl,Murle,murle,surmic,33.5,6.5,f,t
+psm,Passamaquoddy-Maliseet,passamaquoddymaliseet,algonquian,-67,45,f,t
+pit,Pitjantjatjara,pitjantjatjara,pamanyungan,130,-26,f,t
+amh,Amharic,amharic,semitic,38,10,f,f
+ana,Araona,araona,tacanan,-67.75,-12.3333333333,f,t
+cyv,Cayuvava,cayuvava,cayuvava,-65.5,-13.5,f,t
+dio,Diola-Fogny,diolafogny,northernatlantic,-16.25,13,f,t
+arm,Armenian (Eastern),armenianeastern,armenian,45,40,f,t
+aym,Aymara,aymara,aymaran,-69,-17,f,t
+baw,Bawm,bawm,kukichin,92.25,22.5,f,t
+nbd,Nubian (Dongolese),nubiandongolese,nubian,30.75,18.25,f,t
+wrd,Wardaman,wardaman,yangmanic,131,-15.5,f,t
+hai,Haida,haida,haida,-132,53,f,t
+kmu,Khmu',khmu,palaungkhmuic,102,21,f,t
+usa,Usan,usan,madang,145.166666667,-4.83333333333,f,t
+pai,Paiwan,paiwan,paiwanic,120.833333333,22.5,t,t
+ung,Ungarinjin,ungarinjin,wororan,126,-16.3333333333,f,t
+bej,Beja,beja,beja,36,18,f,t
+dre,Drehu,drehu,oceanic,167.25,-21,f,t
+gar,Garo,garo,bodogaro,90.5,25.6666666667,f,t
+pms,Paamese,paamese,oceanic,168.25,-16.5,f,t
+mss,Miwok (Southern Sierra),miwoksouthernsierra,miwok,-120,37.5,f,t
+sml,Semelai,semelai,aslian,103,3,f,t
+yur,Yurok,yurok,yurok,-124,41.3333333333,f,t
+dag,Daga,daga,dagan,149.333333333,-10,t,t
+otm,Otomí (Mezquital),otomimezquital,otomian,-99.1666666667,20.1666666667,t,t
+igb,Igbo,igbo,igboid,7.33333333333,6,f,t
+nez,Nez Perce,nezperce,sahaptian,-116,46,f,t
+brh,Brahui,brahui,northerndravidian,67,28.5,f,t
+cah,Cahuilla,cahuilla,takic,-116.25,33.5,f,t
+cle,Chinantec (Lealao),chinanteclealao,chinantecan,-95.9166666667,17.3333333333,f,t
+knm,Kunama,kunama,kunama,37,14.5,f,t
+nav,Navajo,navajo,athapaskan,-108,36.1666666667,f,t
+zqc,Zoque (Copainalá),zoquecopainala,mixezoque,-93.25,17,t,t
+bkr,Batak (Karo),batakkaro,sumatra,98.25,3.25,f,t
+cmn,Comanche,comanche,numic,-101.5,33.5,f,t
+iri,Irish,irish,celtic,-8,53,f,t
+nko,Nkore-Kiga,nkorekiga,bantoid,29.8333333333,-0.916666666667,f,t
+squ,Squamish,squamish,centralsalish,-123.166666667,49.6666666667,f,t
+tru,Trumai,trumai,trumai,-53.5833333333,-11.9166666667,f,t
+dni,Dani (Lower Grand Valley),danilowergrandvalley,dani,138.833333333,-4.33333333333,t,t
+nen,Nenets,nenets,samoyedic,72,69,f,t
+urk,Urubú-Kaapor,urubukaapor,tupiguarani,-46.5,-2.33333333333,f,t
+coo,Coos (Hanis),cooshanis,coosan,-124.166666667,43.5,f,t
+cre,Cree (Plains),creeplains,algonquian,-110,54,t,t
+nht,Nahuatl (Tetelcingo),nahuatltetelcingo,aztecan,-99,19.6666666667,f,t
+yim,Yimas,yimas,lowersepik,143.55,-4.66666666667,f,t
+ika,Ika,ika,aruak,-73.75,10.6666666667,f,t
+kse,Koyraboro Senni,koyraborosenni,songhay,0,16,t,t
+mun,Mundari,mundari,munda,84.6666666667,23,f,t
+yid,Yidiny,yidiny,pamanyungan,145.75,-17,f,t
+krk,Karok,karok,karok,-123,41.6666666667,t,t
+brs,Barasano,barasano,tucanoan,-70.6666666667,-0.166666666667,t,t
+tab,Taba,taba,southhalmaherawestnewguinea,127.5,0,f,t
+aco,Acoma,acoma,keresan,-107.583333333,34.9166666667,t,t
+pau,Paumarí,paumari,arauan,-64,-6,f,t
+arp,Arapesh (Mountain),arapeshmountain,kombioarapesh,143.166666667,-3.46666666667,t,t
+ond,Oneida,oneida,northerniroquoian,-75.6666666667,43,t,t
+asm,Asmat,asmat,asmatkamoro,138.5,-5.5,t,t
+ewe,Ewe,ewe,kwa,0.416666666667,6.33333333333,f,t
+grb,Grebo,grebo,kru,-8,5,t,t
+hmo,Hmong Njua,hmongnjua,hmongmien,105,28,t,t
+khs,Khasi,khasi,khasian,92,25.5,f,t
+khm,Khmer,khmer,khmer,105,12.5,f,t
+kio,Kiowa,kiowa,kiowatanoan,-99,37,t,t
+wic,Wichita,wichita,caddoan,-97.3333333333,33.3333333333,t,t
+juh,Ju|'hoan,juhoan,northernkhoisan,21,-19,f,t
+klv,Kilivila,kilivila,oceanic,151.083333333,-8.5,f,t
+nug,Nunggubuyu,nunggubuyu,nunggubuyu,135.666666667,-13.75,f,t
+irq,Iraqw,iraqw,southerncushitic,35.5,-4,f,t
+kew,Kewa,kewa,engan,143.833333333,-6.5,t,t
+snm,Sanuma,sanuma,yanomam,-64.6666666667,4.5,t,t
+shk,Shipibo-Konibo,shipibokonibo,panoan,-75,-7.5,f,t
+epe,Epena Pedee,epenapedee,choco,-77,3,f,t
+ket,Ket,ket,yeniseian,87,64,f,t
+koa,Koasati,koasati,muskogean,-85.1666666667,34.8333333333,t,t
+luv,Luvale,luvale,bantoid,22,-12,t,t
+san,Sango,sango,ubangi,18,5,t,t
+bag,Bagirmi,bagirmi,bongobagirmi,16,11.6666666667,t,t
+hzb,Hunzib,hunzib,avarandictsezic,46.25,42.1666666667,f,t
+ing,Ingush,ingush,nakh,45.0833333333,43.1666666667,f,t
+mau,Maung,maung,iwaidjan,133.5,-11.9166666667,t,t
+kfe,Koromfe,koromfe,gur,-0.916666666667,14.25,f,t
+qim,Quechua (Imbabura),quechuaimbabura,quechuan,-78,0.333333333333,t,t
+ram,Rama,rama,rama,-83.75,11.75,t,t
+wch,Wichí,wichi,matacoan,-62.5833333333,-22.5,t,t
+yag,Yagua,yagua,pebayaguan,-72,-3.5,t,t
+niv,Nivkh,nivkh,nivkh,142,53.3333333333,f,t
+apu,Apurinã,apurina,arawakan,-67,-9,t,t
+bma,Berber (Middle Atlas),berbermiddleatlas,berber,-5,33,t,t
+wra,Warao,warao,warao,-61.6666666667,9.33333333333,t,t
+imo,Imonda,imonda,border,141.166666667,-3.33333333333,t,t
+awp,Awa Pit,awapit,barbacoan,-78.25,1.5,f,t
+kob,Kobon,kobon,madang,144.333333333,-5.16666666667,f,t
+lat,Latvian,latvian,baltic,24,57,f,t
+mar,Maricopa,maricopa,yuman,-113.166666667,33.1666666667,t,t
+ala,Alamblak,alamblak,sepikhill,143.333333333,-4.66666666667,t,t
+goo,Gooniyandi,gooniyandi,bunuban,126.333333333,-18.3333333333,t,t
+kut,Kutenai,kutenai,kutenai,-116,49.5,t,t
+mxc,Mixtec (Chalcatongo),mixtecchalcatongo,mixtecan,-97.5833333333,17.05,t,t
+lav,Lavukaleve,lavukaleve,lavukaleve,159.2,-9.08333333333,t,t
+rap,Rapanui,rapanui,oceanic,-109.366666667,-27.1166666667,t,t
+ain,Ainu,ainu,ainu,143,43,f,t
+jak,Jakaltek,jakaltek,mayan,-91.6666666667,15.6666666667,t,t
+lkt,Lakhota,lakhota,siouan,-101.833333333,43.8333333333,t,t
+mrt,Martuthunira,martuthunira,pamanyungan,116.5,-20.8333333333,t,t
+prh,Pirahã,piraha,mura,-62,-7,t,t
+war,Wari',wari,chapacurawanham,-65,-11.3333333333,t,t
+gua,Guaraní,guarani,tupiguarani,-56,-26,t,t
+kho,Khoekhoe,khoekhoe,centralkhoisan,18,-25.5,t,t
+mei,Meithei,meithei,kukichin,94,24.75,t,t
+ngi,Ngiyambaa,ngiyambaa,pamanyungan,145.5,-31.75,t,t
+brm,Burmese,burmese,burmeselolo,96,21,t,t
+kro,Krongo,krongo,kadugli,30,10.5,t,t
+myi,Mangarrayi,mangarrayi,mangarrayi,133.5,-14.6666666667,t,t
+tiw,Tiwi,tiwi,tiwian,131,-11.5,t,t
+knr,Kanuri,kanuri,westernsaharan,13,12,f,t
+kay,Kayardild,kayardild,tangkic,139.5,-17.05,t,t
+map,Mapudungun,mapudungun,araucanian,-72,-38,t,t
+yor,Yoruba,yoruba,defoid,4.33333333333,8,t,t
+yko,Yukaghir (Kolyma),yukaghirkolyma,yukaghir,150.833333333,65.75,f,t
+may,Maybrat,maybrat,northcentralbirdshead,132.5,-1.33333333333,t,t
+tuk,Tukang Besi,tukangbesi,sulawesi,123.5,-5.5,t,t
+bur,Burushaski,burushaski,burushaski,74.5,36.5,t,t
+cha,Chamorro,chamorro,chamorro,144.75,13.45,t,t
+chk,Chukchi,chukchi,northernchukotkokamchatkan,-173,67,t,t
+fij,Fijian,fijian,oceanic,178,-17.8333333333,t,t
+heb,Hebrew (Modern),hebrewmodern,semitic,34.8333333333,31.5,t,t
+lan,Lango,lango,nilotic,33,2.16666666667,t,t
+orh,Oromo (Harar),oromoharar,easterncushitic,42,9,t,t
+tha,Thai,thai,kamtai,101,16,t,t
+yaq,Yaqui,yaqui,cahita,-110.25,27.5,t,t
+zul,Zulu,zulu,bantoid,30,-30,t,t
+sla,Slave,slave,athapaskan,-125,67,t,t
+aeg,Arabic (Egyptian),arabicegyptian,semitic,31,30,t,t
+grw,Greenlandic (West),greenlandicwest,eskimo,-51,64,t,t
+hix,Hixkaryana,hixkaryana,cariban,-59,-1,t,t
+swa,Swahili,swahili,bantoid,39,-6.5,t,t
+vie,Vietnamese,vietnamese,vietmuong,106.5,10.5,t,t
+hin,Hindi,hindi,indic,77,25,t,t
+ckr,Canela-Krahô,canelakraho,gekaingang,-46,-6,t,t
+tag,Tagalog,tagalog,mesophilippine,121,15,t,t
+geo,Georgian,georgian,kartvelian,44,42,t,t
+knd,Kannada,kannada,southerndravidian,76,14,t,t
+kha,Khalkha,khalkha,mongolic,105,47,t,t
+mal,Malagasy,malagasy,barito,47,-20,t,t
+sup,Supyire,supyire,gur,-5.58333333333,11.5,t,t
+hau,Hausa,hausa,westchadic,7,12,t,t
+mao,Maori,maori,oceanic,176,-40,f,t
+bsq,Basque,basque,basque,-3,43,t,t
+abk,Abkhaz,abkhaz,northwestcaucasian,41,43.0833333333,t,t
+eve,Evenki,evenki,tungusic,125,56,f,t
+kor,Korean,korean,korean,128,37.5,t,t
+prs,Persian,persian,iranian,54,32,t,t
+ame,Amele,amele,madang,145.583333333,-5.25,t,t
+ger,German,german,germanic,10,52,t,t
+grk,Greek (Modern),greekmodern,greek,22,39,t,t
+lez,Lezgian,lezgian,lezgic,47.8333333333,41.6666666667,t,t
+jpn,Japanese,japanese,japanese,140,37,t,t
+mnd,Mandarin,mandarin,chinese,110,34,t,t
+hun,Hungarian,hungarian,ugric,20,47,f,t
+ind,Indonesian,indonesian,malayic,106,0,t,t
+fin,Finnish,finnish,finnic,25,62,t,t
+rus,Russian,russian,slavic,38,56,t,t
+spa,Spanish,spanish,romance,-4,40,t,t
+tur,Turkish,turkish,turkic,35,39,t,t
+fre,French,french,romance,2,48,t,t
+eng,English,english,germanic,0,52,t,t
+gdk,Gadaba (Kondekor),gadabakondekor,centraldravidian,83.5,18.75,f,f
+csk,Diola-Kasa,diolakasa,northernatlantic,-16.75,12.5,f,f
+hli,Halkomelem (Island),halkomelemisland,centralsalish,-123,49.2,f,f
+hlu,Halkomelem (Upriver),halkomelemupriver,centralsalish,-121.916666667,49.25,f,f
+dds,Donno So,donnoso,dogon,-3.58333333333,14.3333333333,f,f
+tms,Tommo So,tommoso,dogon,-3,15,f,f
+bly,Balyku,balyku,pamanyungan,120,-22,f,f
+bxj,Bayungu,bayungu,pamanyungan,114,-23,f,f
+dhl,Dhalandji,dhalandji,pamanyungan,115,-22.08,f,f
+ggd,Gugadj,gugadj,pamanyungan,140.5,-18.5,f,f
+guf,Gupapuyngu,gupapuyngu,pamanyungan,136,-12,f,f
+vka,Kariera,kariera,pamanyungan,118.5,-20.5,f,f
+kyt,Kaytej,kaytej,pamanyungan,134,-21,f,f
+lnj,Linngithig,linngithig,pamanyungan,142.83,-12.5,f,f
+mrj,Mirniny,mirniny,pamanyungan,129,-31,f,f
+nlr,Ngarla,ngarla,pamanyungan,119,-20,f,f
+nly,Nyamal,nyamal,pamanyungan,119,-21,f,f
+ump,Umpila,umpila,pamanyungan,143.5,-13.5,f,f
+wkw,Wagawaga,wagawaga,pamanyungan,152.5,-26.5,f,f
+wgg,Wangkangurru,wangkangurru,pamanyungan,137,-27,f,f
+wbt,Wanman,wanman,pamanyungan,123,-22,f,f
+wru,Warumungu,warumungu,pamanyungan,134.5,-19.5,f,f
+ylr,Yalarnnga,yalarnnga,pamanyungan,140,-22,f,f
+agb,Leggbó,leggbo,crossriver,8,6,f,f
+wec,Welsh (Colloquial),welshcolloquial,celtic,-3.5833,52.75,f,f
+tia,Tima,tima,katlatima,29.25,11.6666666667,f,f
+wna,Wan,wan,easternmande,-5.86666666667,7.83333333333,f,f
+ddj,Dadjriwalé,dadjriwale,kru,-5.66666666667,5.25,f,f
+ney,Neyo,neyo,kru,-6,5,f,f
+jms,Jamsay,jamsay,dogon,-2.5,14.4166666667,f,f
+nrg,Nanerge,nanerge,gur,-5,11.75,f,f
+wwa,Waama,waama,gur,1.66666666667,10.5833333333,f,f
+ncm,Ncàm,ncam,gur,0.666666666667,9.33333333333,f,f
+xsm,Kàsim,kasim,gur,-1.33333333333,11,f,f
+mmi,Mambai,mambai,adamawa,14,9.66666666667,f,f
+myg,Mayogo,mayogo,ubangi,29,3,f,f
+mnz,Munzumbo,munzumbo,ubangi,18.4166666667,3,f,f
+ajg,Ajagbe,ajagbe,kwa,1.75,7,f,f
+guw,Gungbe,gungbe,kwa,2.5,6.5,f,f
+avk,Avikam,avikam,kwa,-5.5,5.16666666667,f,f
+mkq,Mankon,mankon,bantoid,10.1666666667,6,f,f
+mdw,Mbosi,mbosi,bantoid,15.5,-1.25,f,f
+bdu,Budu,budu,bantoid,28,2,f,f
+vif,Vili,vili,bantoid,14,-5.5,f,f
+kwy,Iwoyo,iwoyo,bantoid,12.25,-5.5,f,f
+sku,Suku,suku,bantoid,17.6666666667,-6,f,f
+bgm,Bangime,bangime,bangime,-3.83333333333,14.9166666667,f,f
+zag,Beria,beria,easternsaharan,23,16,f,f
+mgq,Mango,mango,bongobagirmi,17,8.75,f,f
+tsk,Tamashek,tamashek,berber,-2,20,f,f
+hna,Mina,mina,biumandara,13.8333333333,10.3333333333,f,f
+sid,Sidaama,sidaama,easterncushitic,38.5,6.66666666667,f,f
+arj,Arabic (Kuwaiti),arabickuwaiti,semitic,47.5,29.5,f,f
+ryu,Shuri,shuri,japanese,127.5,26.5,f,f
+bkb,Betta Kurumba,bettakurumba,southerndravidian,76.75,11.5,f,f
+rji,Raji,raji,munda,82.75,28,f,f
+ksn,Kasong,kasong,pearic,102.116666667,12.75,f,f
+nmm,Manange,manange,bodic,84,28.5833333333,f,f
+tbx,Tangbe,tangbe,bodic,83.75,28.9166666667,f,f
+tdi,Tibetan (Dingri),tibetandingri,bodic,86.5,28.5,f,f
+tdr,Tibetan (Drokpa),tibetandrokpa,bodic,81.25,32.25,f,f
+kgy,Kyirong,kyirong,bodic,85.3333333333,28.4166666667,f,f
+amt,Amdo (Themchen),amdothemchen,bodic,98,38,f,f
+shg,Shigatse,shigatse,bodic,89,29,f,f
+rpa,Rang Pas,rangpas,bodic,79.3333333333,30.3333333333,f,f
+knz,Kham (Tibetan) (Nangchen),khamtibetannangchen,bodic,96.5,32.5,f,f
+khd,Kham (Dege),khamdege,bodic,98.5833333333,31.8333333333,f,f
+xns,Kanashi,kanashi,bodic,77.25,32.0833333333,f,f
+wme,Wambule,wambule,bodic,85.9166666667,29.25,f,f
+ybi,Yamphu,yamphu,bodic,87.3333333333,27.5833333333,f,f
+gyc,Gyarong (Cogtse),gyarongcogtse,rgyalrong,102,31.5,f,f
+rgc,rGyalrong (Caodeng),rgyalrongcaodeng,rgyalrong,101.75,31.6666666667,f,f
+tvt,Tutsa,tutsa,northernnaga,96.5,27.5,f,f
+ral,Ralte,ralte,kukichin,92.75,23.75,f,f
+mhl,Miri (Hill):,mirihill,tani,93.8333333333,27.9166666667,f,f
+lic,Hlai (Baoding),hlaibaoding,hlai,109.5,19,f,f
+khn,Khün,khun,kamtai,100,21,f,f
+smp,Shompen,shompen,shompen,93.75,7,f,f
+agd,Agta (Dupaningan),agtadupaningan,northernphilippines,122.083333333,18,f,f
+bgz,Banggi,banggi,mesophilippine,117.166666667,7.25,f,f
+bwc,Bajau (West Coast),bajauwestcoast,samabajaw,116.333333333,6.33333333333,f,f
+ttd,Tetun Dili,tetundili,centralmalayopolynesian,125.583333333,-8.58333333333,f,f
+lab,Labu,labu,oceanic,146.916666667,-6.75,f,f
+vnm,Vinmavis,vinmavis,oceanic,167.416666667,-16.1666666667,f,f
+psw,Port Sandwich,portsandwich,oceanic,167.75,-16.5,f,f
+lmu,Lamen,lamen,oceanic,168.166666667,-16.5833333333,f,f
+erk,Efate (South),efatesouth,oceanic,168.416666667,-17.75,f,f
+ndr,Nadroga,nadroga,oceanic,177.416666667,-18.0833333333,f,f
+mxe,Ifira-Mele,ifiramele,oceanic,168.25,-17.75,f,f
+mqf,Momuna,momuna,momuna,139.25,-4.83333333333,f,f
+mpt,Mian,mian,ok,141.5,-4.75,f,f
+mkj,Makasae,makasae,makasaefatalukuoirata,126.5,-8.66666666667,f,f
+abv,Abui,abui,greateralor,124.666666667,-8.25,f,f
+adg,Adang,adang,greateralor,124,-8.2,f,f
+bdw,Baham,baham,westbomberai,132.666666667,-3.16666666667,f,f
+dlm,Dla (Menggwa),dlamenggwa,senagi,141.033333333,-3.55,f,f
+brp,Barupu,barupu,warapu,142.083333333,-3.08333333333,f,f
+fqs,Momu,momu,fas,141.583333333,-3,f,f
+kwt,Kwomtari,kwomtari,kwomtari,141.5,-3.5,f,f
+bio,Nai,nai,kwomtari,141.266666667,-3.71666666667,f,f
+amm,Ama,ama,leftmay,141.616666667,-4.21666666667,f,f
+owi,Owininga,owininga,leftmay,141.75,-4.5,f,f
+urt,Urat,urat,wapeipalei,142.833333333,-3.66666666667,f,f
+xbi,Kombio,kombio,kombioarapesh,142.75,-3.5,f,f
+aoj,Mufian,mufian,kombioarapesh,143,-3.5,f,f
+kmz,Kamasau,kamasau,marienberg,143.666666667,-3.91666666667,f,f
+inn,Innamincka,innamincka,pamanyungan,140.75,-27.75,f,f
+msq,Musqueam,musqueam,centralsalish,-123,49.1666666667,f,f
+tee,Tepehua (Huehuetla),tepehuahuehuetla,totonacan,-98,20.5,f,f
+mxx,Mixe (Ayutla),mixeayutla,mixezoque,-96.0833333333,17.0833333333,f,f
+qum,Sipakapense,sipakapense,mayan,-91.75,15.25,f,f
+lec,Leko,leko,leko,-67.9166666667,-15,f,f
+eme,Émérillon,emerillon,tupiguarani,-52.4166666667,3.16666666667,f,f
+kyz,Kayabí,kayabi,tupiguarani,-55.5,-11,f,f
+kno,Kanoê,kanoe,kapixana,-61,-13.25,f,f
+cpy,Chipaya,chipaya,uruchipaya,-67.8333333333,-18.75,f,f
+kkq,Kuikúro,kuikuro,cariban,-53.0833333333,-12.4166666667,f,f
+pnx,Panará,panara,gekaingang,-55,-10,f,f
+kqq,Krenak,krenak,botocudo,-41,-15.5,f,f
+huc,=|Hoan,hoan,hoan,25,-25.5,f,f
+urn,Urarina,urarina,urarina,-75.5,-4.5,f,f
+tsr,Taushiro,taushiro,taushiro,-75.5,-3.25,f,f
+acu,Achuar,achuar,jivaroan,-76,-2.66667,f,f
+qhu,Quechua (Huallaga),quechuahuallaga,quechuan,-75.5,-9.5,f,f
+pir,Piro,piro,arawakan,-73.5,-11,f,f
+mcv,Mocoví,mocovi,guaicuruan,-60.5,-28,f,f
+ndy,Ndyuka,ndyuka,creolesandpidgins,-54.5,4.5,f,t

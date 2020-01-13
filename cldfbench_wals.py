@@ -1,12 +1,44 @@
-import gzip
+import re
 import pathlib
-import sqlite3
 import itertools
 
 from cldfbench import Dataset as BaseDataset
 from cldfbench import CLDFSpec, Metadata
 from pycldf.sources import Source, Reference
 from pybtex.database import parse_string
+
+"""
+altname.csv
+	altname_language.csv
+	area.csv
+	author.csv
+	author_chapter.csv
+	author_supplement.csv
+	chapter.csv
+	chapter_olacsubject.csv
+	chapter_reference.csv
+	country.csv
+	country_language.csv
+	datapoint.csv
+	datapoint_reference.csv
+	example.csv
+	example_feature.csv
+	example_reference.csv
+	family.csv
+	feature.csv
+	genus.csv
+	igt.csv
+	isolanguage.csv
+	isolanguage_language.csv
+	language.csv
+	olacsubject.csv
+	reference.csv
+	reference_supplement.csv
+	rmmodified.py
+	supplement.csv
+	tocsv.sh
+	value.csv
+"""
 
 
 class MetadataWithTravis(Metadata):
@@ -24,6 +56,11 @@ class MetadataWithTravis(Metadata):
         return '\n'.join(lines)
 
 
+def fid_key(fid):
+    i = re.search('[A-Z]', fid).start()
+    return (int(fid[:i]), fid[i:])
+
+
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "wals"
@@ -35,10 +72,6 @@ class Dataset(BaseDataset):
         pass
 
     def cmd_makecldf(self, args):
-        dbpath = self.raw_dir / 'wals2008.sqlite'
-        with gzip.open(str(self.raw_dir / 'wals2008.sqlite.gz'), 'rb') as f:
-            dbpath.write_bytes(f.read())
-
         gl_by_iso = {lang.iso: lang.id for lang in args.glottolog.api.languoids()}
 
         args.writer.cldf.add_component(
@@ -48,6 +81,7 @@ class Dataset(BaseDataset):
                 'separator': ' ',
             },
             'Area',
+            'Chapter',
         )
         args.writer.cldf.add_component('CodeTable')
         args.writer.cldf.add_component(
@@ -58,6 +92,16 @@ class Dataset(BaseDataset):
             {
                 'name': 'ISO_codes',
                 'separator': ' ',
+            },
+            {
+                'name': 'Samples_100',
+                'datatype': 'boolean',
+                'dc:description': "https://wals.info/chapter/s1#3.1._The_WALS_samples",
+            },
+            {
+                'name': 'Samples_200',
+                'datatype': 'boolean',
+                'dc:description': "https://wals.info/chapter/s1#3.1._The_WALS_samples",
             },
         )
         args.writer.cldf.add_table(
@@ -81,51 +125,45 @@ class Dataset(BaseDataset):
 
         sources = parse_string(
             self.raw_dir.joinpath('source.bib').read_text(encoding='utf8'), 'bibtex')
-        db = sqlite3.connect(str(dbpath))
 
         refs = []
-        for row in db.execute('select datapoint_id, reference_id, note from datapoint_reference order by datapoint_id, reference_id, note'):
-            if row[1] in sources.entries:
-                refs.append((row[0], row[1], row[2]))
+        for row in self.raw_dir.read_csv('datapoint_reference.csv', dicts=True):
+            if row['reference_id'] in sources.entries:
+                refs.append(list(row.values()))
         srcids = set(r[1] for r in refs)
         args.writer.cldf.add_sources(
             *[Source.from_entry(id_, e) for id_, e in sources.entries.items() if id_ in srcids])
 
-        for row in db.execute("select id, name from author order by id"):
-            args.writer.objects['contributors.csv'].append({
-                'ID': row[0],
-                'Name': row[1],
-            })
+        for row in sorted(self.raw_dir.read_csv('author.csv', dicts=True), key=lambda r: r['id']):
+            args.writer.objects['contributors.csv'].append({'ID': row['id'], 'Name': row['name']})
 
         cc = {
-            fid: [r[1] for r in rows]
+            fid: [r['author_id'] for r in rows]
             for fid, rows in itertools.groupby(
-                db.execute(
-                    "select feature_id, author_id, `order` from feature_author order by feature_id, `order`"),
-                lambda r: r[0])
+                self.raw_dir.read_csv('author_chapter.csv', dicts=True),
+                lambda r: r['chapter_id'])
         }
+        area = {r['id']: r['name'] for r in self.raw_dir.read_csv('area.csv', dicts=True)}
+        chapter = {
+            r['id']: (r['name'], area[r['area_id']])
+            for r in self.raw_dir.read_csv('chapter.csv', dicts=True)}
 
-        for row in db.execute("""\
-select
-    f.id, f.name, f.area_id
-from
-    feature as f
-order by
-    cast(f.id as int)
-"""):
+        for row in sorted(self.raw_dir.read_csv('feature.csv', dicts=True), key=lambda d: fid_key(d['id'])):
+            a, c = chapter[row['chapter_id']]
             args.writer.objects['ParameterTable'].append({
-                'ID': row[0],
-                'Name': row[1],
-                'Area': row[2],
-                'Contributor_ID': cc[row[0]],
+                'ID': row['id'],
+                'Name': row['name'],
+                'Area': a,
+                'Chapter': c,
+                'Contributor_ID': cc[row['chapter_id']],
             })
 
-        for row in db.execute('select numeric, feature_id, description, long_description from value order by feature_id, numeric'):
+        for row in sorted(self.raw_dir.read_csv('value.csv', dicts=True), key=lambda d: (fid_key(d['feature_id']), int(d['numeric']))):
             args.writer.objects['CodeTable'].append({
-                'ID': '{0}-{1}'.format(row[1], row[0]),
-                'Parameter_ID': row[1],
-                'Name': row[2],
-                'Description': row[3],
+                'ID': '{0}-{1}'.format(row['feature_id'], row['numeric']),
+                'Parameter_ID': row['feature_id'],
+                'Name': row['description'],
+                'Description': row['long_description'],
             })
 
         refs = {
@@ -137,64 +175,60 @@ order by
             ]
             for dpid, refs_ in itertools.groupby(refs, lambda r: r[0])}
 
-        for row in db.execute('select id, language_id, feature_id, value_numeric, source from datapoint order by language_id, feature_id'):
+        for row in sorted(self.raw_dir.read_csv('datapoint.csv', dicts=True), key=lambda d: (d['language_id'], fid_key(d['feature_id']))):
             args.writer.objects['ValueTable'].append({
-                'ID': row[0],
-                'Language_ID': row[1],
-                'Parameter_ID': row[2],
-                'Value': row[3],
-                'Code_ID': '{0}-{1}'.format(row[2], row[3]),
-                'Comment': row[4],
-                'Source': refs.get(row[0], []),
+                'ID': row['id'],
+                'Language_ID': row['language_id'],
+                'Parameter_ID': row['feature_id'],
+                'Value': row['value_numeric'],
+                'Code_ID': '{0}-{1}'.format(row['feature_id'], row['value_numeric']),
+                'Comment': row['source'],
+                'Source': refs.get(row['id'], []),
             })
         iso = {
-            lid: [r[1] for r in rows]
+            lid: [r['isolanguage_id'] for r in rows]
             for lid, rows in itertools.groupby(
-                db.execute(
-                    "select language_id, iso_language_id from language_iso_language order by language_id, iso_language_id"),
-                lambda r: r[0])
+                sorted(self.raw_dir.read_csv('isolanguage_language.csv', dicts=True), key=lambda d: tuple(d.values())),
+                lambda r: r['language_id'])
+        }
+        family = {
+            r['id']: r['name']
+            for r in self.raw_dir.read_csv('family.csv', dicts=True)
+        }
+        genus = {
+            r['id']: (r['name'], r['subfamily'], family[r['family_id']])
+            for r in self.raw_dir.read_csv('genus.csv', dicts=True)
         }
 
-        for row in db.execute("""\
-select 
-    l.code, l.name, l.latitude, l.longitude, g.name, g.subfamily, f.name
-from 
-    language as l, genus as g, family as f
-where
-    l.genus_id = g.id and g.family_id = f.id
-"""):
-            id, name, lat, lon, genus, subfamily, family = row
-            if name == genus == family:
+        for row in sorted(self.raw_dir.read_csv('language.csv', dicts=True), key=lambda d: d['id']):
+            id = row['id']
+            genus_, subfamily, family = genus[row['genus_id']]
+            if row['name'] == genus_ == family:
                 # an isolate!
-                genus = family = None
+                genus_ = family = None
             args.writer.objects['LanguageTable'].append({
                 'ID': id,
-                'Name': name,
+                'Name': row['name'],
                 'ISO639P3code': iso[id][0] if len(iso.get(id, [])) == 1 else None,
                 'Glottocode': gl_by_iso.get(iso[id][0]) if len(iso.get(id, [])) == 1 else None,
                 'ISO_codes': iso.get(id, []),
-                'Latitude': lat,
-                'Longitude': lon,
-                'Genus': genus,
+                'Latitude': row['latitude'],
+                'Longitude': row['longitude'],
+                'Genus': genus_,
                 'Subfamily': subfamily,
                 'Family': family,
+                'Samples_100': row['samples_100'] == 't',
+                'Samples_200': row['samples_200'] == 't',
             })
 
-        for np in ['other', 'ruhlen', 'routledge']:
-            for row in db.execute("""\
-select
-    t.name, group_concat(r.language_id, ' ')
-from
-    {0}name as t, {0}name_language as r
-where t.name = r.{0}name_id
-group by t.name""".format(np)):
-                args.writer.objects['language_names.csv'].append({
-                    'Language_ID': sorted(row[1].split()),
-                    'Name': row[0],
-                    'Provider': np,
-                })
-        args.writer.objects['language_names.csv'] = sorted(
-            args.writer.objects['language_names.csv'],
-            key=lambda d: (d['Provider'], d['Name'])
-        )
-        dbpath.unlink()
+        for (type, name), rows in itertools.groupby(
+            sorted(
+                self.raw_dir.read_csv('altname_language.csv', dicts=True),
+                key=lambda d: (d['altname_type'], d['altname_name'], d['language_id'])),
+            lambda d: (d['altname_type'], d['altname_name'])
+        ):
+            args.writer.objects['language_names.csv'].append({
+                'Language_ID': [r['language_id'] for r in rows],
+                'Name': name,
+                'Provider': type,
+            })

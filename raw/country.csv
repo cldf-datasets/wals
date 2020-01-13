@@ -1,0 +1,192 @@
+id,name,continent
+AF,Afghanistan,Asia
+AL,Albania,Europe
+DZ,Algeria,Africa
+AS,American Samoa,Australia & Oceania
+AO,Angola,Africa
+AR,Argentina,South America
+AM,Armenia,Asia
+AU,Australia,Australia & Oceania
+AT,Austria,Europe
+AZ,Azerbaijan,Asia
+BH,Bahrain,Asia
+BD,Bangladesh,Asia
+BY,Belarus,Europe
+BE,Belgium,Europe
+BZ,Belize,North America
+BJ,Benin,Africa
+BT,Bhutan,Asia
+BO,Bolivia,South America
+BA,Bosnia-Herzegovina,Europe
+BW,Botswana,Africa
+BR,Brazil,South America
+BG,Bulgaria,Europe
+BF,Burkina Faso,Africa
+BI,Burundi,Africa
+KH,Cambodia,Asia
+CM,Cameroon,Africa
+CA,Canada,North America
+CF,Central African Republic,Africa
+TD,Chad,Africa
+CL,Chile,South America
+CN,China,Asia
+CO,Colombia,South America
+KM,Comoros Islands,Africa
+CG,Congo,Africa
+CR,Costa Rica,North America
+HR,Croatia,Europe
+CY,Cyprus,Europe
+CZ,Czech Republic,Europe
+CI,Côte d'Ivoire,Africa
+CD,Democratic Republic of Congo,Africa
+DK,Denmark,Europe
+DJ,Djibouti,Africa
+DM,Dominica,North America
+TL,East Timor,Asia
+EC,Ecuador,South America
+EG,Egypt,Africa
+SV,El Salvador,North America
+GQ,Equatorial Guinea,Africa
+ER,Eritrea,Africa
+EE,Estonia,Europe
+ET,Ethiopia,Africa
+FJ,Fiji,Australia & Oceania
+FI,Finland,Europe
+FR,France,Europe
+GF,French Guiana,South America
+PF,French Polynesia,Australia & Oceania
+GA,Gabon,Africa
+GM,Gambia,Africa
+GE,Georgia,Asia
+DE,Germany,Europe
+GH,Ghana,Africa
+GR,Greece,Europe
+GL,Greenland,Europe
+GD,Grenada,North America
+GP,Guadeloupe,Australia & Oceania
+GU,Guam,Australia & Oceania
+GT,Guatemala,North America
+GN,Guinea,Africa
+GW,Guinea-Bissau,Africa
+GY,Guyana,South America
+HT,Haiti,North America
+HN,Honduras,North America
+HU,Hungary,Europe
+IS,Iceland,Europe
+IN,India,Asia
+ID,Indonesia,Asia
+IR,Iran,Asia
+IQ,Iraq,Asia
+IE,Ireland,Europe
+IL,Israel,Asia
+IT,Italy,Europe
+JM,Jamaica,North America
+JP,Japan,Asia
+JO,Jordan,Asia
+KZ,Kazakhstan,Asia
+KE,Kenya,Africa
+KI,Kiribati,Australia & Oceania
+KW,Kuwait,Asia
+KG,Kyrgyzstan,Asia
+LA,Laos,Asia
+LV,Latvia,Europe
+LB,Lebanon,Asia
+LS,Lesotho,Africa
+LR,Liberia,Africa
+LY,Libya,Africa
+LT,Lithuania,Europe
+LU,Luxembourg,Europe
+MK,Macedonia,Europe
+MG,Madagascar,Africa
+MW,Malawi,Africa
+MY,Malaysia,Asia
+MV,Maldives,Asia
+ML,Mali,Africa
+MT,Malta,Europe
+MH,Marshall Islands,Australia & Oceania
+MQ,Martinique,North America
+MR,Mauritania,Africa
+MU,Mauritius,Africa
+YT,Mayotte,Africa
+MX,Mexico,North America
+FM,Micronesia,Australia & Oceania
+MD,Moldova,Europe
+MN,Mongolia,Asia
+MA,Morocco,Africa
+MZ,Mozambique,Africa
+MM,Myanmar,Asia
+NA,Namibia,Africa
+NR,Nauru,Australia & Oceania
+NP,Nepal,Asia
+NL,Netherlands,Europe
+AN,Netherlands Antilles,North America
+NC,New Caledonia,Australia & Oceania
+NZ,New Zealand,Australia & Oceania
+NI,Nicaragua,North America
+NE,Niger,Africa
+NG,Nigeria,Africa
+KP,North Korea,Asia
+MP,Northern Mariana Islands,Australia & Oceania
+NO,Norway,Europe
+OM,Oman,Asia
+PK,Pakistan,Asia
+PW,Palau,Australia & Oceania
+PS,Palestinian West Bank and Gaza,Asia
+PA,Panama,South America
+PG,Papua New Guinea,Australia & Oceania
+PY,Paraguay,South America
+PE,Peru,South America
+PH,Philippines,Asia
+PL,Poland,Europe
+PT,Portugal,Europe
+QA,Qatar,Asia
+RO,Romania,Europe
+RU,Russia,Eurasia
+RW,Rwanda,Africa
+WS,Samoa,Australia & Oceania
+SA,Saudi Arabia,Asia
+SN,Senegal,Africa
+RS,Serbia and Montenegro,Europe
+SC,Seychelles,Africa
+SL,Sierra Leone,Africa
+SK,Slovakia,Europe
+SI,Slovenia,Europe
+SB,Solomon Islands,Australia & Oceania
+SO,Somalia,Africa
+ZA,South Africa,Africa
+KR,South Korea,Asia
+ES,Spain,Europe
+LK,Sri Lanka,Asia
+LC,St. Lucia,North America
+SD,Sudan,Africa
+SR,Suriname,South America
+SZ,Swaziland,Africa
+SE,Sweden,Europe
+CH,Switzerland,Europe
+SY,Syria,Asia
+ST,São Tomé e Príncipe,Africa
+TW,Taiwan,Asia
+TJ,Tajikistan,Asia
+TZ,Tanzania,Africa
+TH,Thailand,Asia
+TG,Togo,Africa
+TK,Tokelau,Australia & Oceania
+TO,Tonga,Australia & Oceania
+TT,Trinidad and Tobago,North America
+TN,Tunisia,Africa
+TR,Turkey,Eurasia
+TM,Turkmenistan,Asia
+TV,Tuvalu,Australia & Oceania
+UG,Uganda,Africa
+UA,Ukraine,Asia
+AE,United Arab Emirates,Asia
+GB,United Kingdom,Europe
+US,United States,North America
+UZ,Uzbekistan,Asia
+VU,Vanuatu,Australia & Oceania
+VR,Venezuela,South America
+VN,Vietnam,Asia
+WF,Wallis and Futuna,Australia & Oceania
+YE,Yemen,Asia
+ZM,Zambia,Africa
+ZW,Zimbabwe,Africa

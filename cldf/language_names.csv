@@ -469,13 +469,13 @@ tye,Djeraidy,other
 ndy,Djuka,other
 doy,Doayo,other
 dts,"Dogon, Toro So dialect",other
-dog,Dogoso,other
+dds,Dogoso,other
 eud,Dohema,other
 nwd,Dolakha Newari,other
 don,Dong (Southern),other
 nbd,Dongola,other
 nbd,Dongolese Nubian,other
-dog,Donno So Dogon,other
+dds,Donno So Dogon,other
 doy,Dooyaangyo,other
 doy,Dooyaayo,other
 dua,Douala,other
@@ -669,7 +669,7 @@ kir,Gwe,other
 kth,Gwich'in,other
 lai,Haka,other
 hak,"Hakka, Moi-yan dialect",other
-hlk,Halkomelem (Upriver),other
+hlu,Halkomelem (Upriver),other
 hmr,Hamar,other
 ham,Hamtai (=Kapau),other
 hal,Hanahan,other
@@ -1859,7 +1859,7 @@ siu,Umpqua (Lower),other
 hlp,Upland Yuman,other
 cku,Upper Chinook,other
 sou,Upper Lusatian,other
-hlk,Upriver Halkomelem,other
+hlu,Upriver Halkomelem,other
 moj,Upriver Yuman,other
 wll,Uvea (East),other
 tnb,Uw Cuwa,other
@@ -2934,6 +2934,7 @@ xun,!Kung,ruhlen
 krn,!Ora,ruhlen
 arx,'Are'are,ruhlen
 tmu,(Tati),ruhlen
+adg ajg amt guw kno ksn kwy kyz mgq mhl ney nrg smp tbx tvt wme ybi,--,ruhlen
 xam,/Xam,ruhlen
 apk,A-Pucikwar,ruhlen
 aba,Abau,ruhlen
@@ -2943,6 +2944,7 @@ abw,Abenaki (Western),ruhlen
 abd,Abiji,ruhlen
 abi,Abipon,ruhlen
 abk,Abkhaz,ruhlen
+abv,Abui,ruhlen
 acg,Achagua,ruhlen
 acn,Achang,ruhlen
 aci,Achi,ruhlen
@@ -2991,6 +2993,7 @@ aln,Alune,ruhlen
 atq,Alutiiq,ruhlen
 aly,Alyawarra,ruhlen
 alu,Alyutor,ruhlen
+amm,Ama,ruhlen
 ma,Amadi,ruhlen
 amc,Amahuaca,ruhlen
 amn,Amanab,ruhlen
@@ -3024,7 +3027,7 @@ api,Apinaye,ruhlen
 apu,Apurina,ruhlen
 abn,Arabana,ruhlen
 arb,Arabela,ruhlen
-abe abh aeg ako anl apa arg arh arl arq ars arv asy,Arabic (Eastern),ruhlen
+abe abh aeg ako anl apa arg arh arj arl arq ars arv asy,Arabic (Eastern),ruhlen
 abb ael amr arn atu,Arabic (Western),ruhlen
 ark,Araki,ruhlen
 naa naj nap,Aramaic,ruhlen
@@ -3032,6 +3035,7 @@ amp arr awe,Aranda,ruhlen
 ard,Arandai,ruhlen
 ana,Araona,ruhlen
 aho,Arapaho,ruhlen
+aoj,Arapesh (Southern),ruhlen
 kaa,Arara (Tupi),ruhlen
 ara,Arawak,ruhlen
 abo,Arbore,ruhlen
@@ -3055,6 +3059,7 @@ awt,Autu,ruhlen
 auy usr,Auyana,ruhlen
 ava,Avar,ruhlen
 avt,Avatime,ruhlen
+avk,Avikam,ruhlen
 avo,Avukaya,ruhlen
 awa,Awa,ruhlen
 awd,Awadhi,ruhlen
@@ -3077,6 +3082,7 @@ baf,Bafut,ruhlen
 bgs,Baga Sitemu,ruhlen
 bag,Bagirmi,ruhlen
 bgv,Bagulal,ruhlen
+bdw,Baham,ruhlen
 bhn,Bahinemo,ruhlen
 bpb,Bahnar,ruhlen
 bng mli,Baining,ruhlen
@@ -3097,6 +3103,7 @@ bnd,Bandi,ruhlen
 bca bnj bwa byu gid,Bandjalang,ruhlen
 bgg,Banggai,ruhlen
 bnl,Banggarla,ruhlen
+bgz,Banggi,ruhlen
 bnw,Baniva,ruhlen
 lmn,Banjari,ruhlen
 bnk,Bankon,ruhlen
@@ -3111,7 +3118,7 @@ bar kuk,Bari,ruhlen
 brb,Bariba,ruhlen
 bry,Baruya,ruhlen
 bas,Basaa,ruhlen
-bsr,Basari,ruhlen
+bsr ncm,Basari,ruhlen
 kal,Bashkarik,ruhlen
 bsk,Bashkir,ruhlen
 bqb bqg bqh bqi bql bqn bqo bqr bqs bqz bso bsq,Basque,ruhlen
@@ -3122,6 +3129,7 @@ ble,Baule,ruhlen
 baq,Baure,ruhlen
 bzi,Bauzi,ruhlen
 bys,Bayso,ruhlen
+bxj,Bayungu,ruhlen
 edo,Beami,ruhlen
 gmz,Bega,ruhlen
 bej,Beja,ruhlen
@@ -3143,6 +3151,7 @@ bhi,Bhili,ruhlen
 bho,Bhojpuri,ruhlen
 bfd,Biafada,ruhlen
 bik,Biak,ruhlen
+bio,Biaka,ruhlen
 bit,Biatah,ruhlen
 bid,Bidiyo,ruhlen
 biq,Bilaan (Cotabato),ruhlen
@@ -3166,7 +3175,7 @@ bla,Blackfoot,ruhlen
 boa,Boazi,ruhlen
 bob,Bobangi,ruhlen
 bbf,Bobo-Fing,ruhlen
-bod,Bodo,ruhlen
+bdu bod,Bodo,ruhlen
 boi,Boiken,ruhlen
 blq,Bole,ruhlen
 bgo,Bongo,ruhlen
@@ -3176,6 +3185,7 @@ bor,Bora,ruhlen
 ssh,Boro (Omotic),ruhlen
 brr,Bororo,ruhlen
 brc,Borunca,ruhlen
+kqq,Botocudo,ruhlen
 boz,Bozo,ruhlen
 brh,Brahui,ruhlen
 bra,Brao,ruhlen
@@ -3276,6 +3286,7 @@ mcc,Chimu,ruhlen
 ccm chq cle cpl csc csf cte,Chinantec,ruhlen
 ckl,Chinook (Lower),ruhlen
 cku,Chinook (Upper),ruhlen
+cpy,Chipaya,ruhlen
 chp,Chipewyan,ruhlen
 cqt,Chiquito,ruhlen
 ctm,Chitimacha,ruhlen
@@ -3355,6 +3366,7 @@ den,Deni,ruhlen
 der,Dera,ruhlen
 des,Desano,ruhlen
 det,Deti,ruhlen
+dhl,Dhalandji,ruhlen
 glp,Dhangu,ruhlen
 dhw,Dharawal,ruhlen
 dhm,Dhimal,ruhlen
@@ -3376,7 +3388,7 @@ djn,Djinang,ruhlen
 dji,Djingili,ruhlen
 ndy,Djuka,ruhlen
 dob,Dobel,ruhlen
-dog dts,Dogon,ruhlen
+dds dts,Dogon,ruhlen
 dgi,Dogri,ruhlen
 dol,Dolgan,ruhlen
 dgo,Dongo,ruhlen
@@ -3401,12 +3413,14 @@ dyu,Dyula,ruhlen
 ahs,Eastern Arabic,ruhlen
 ebi,Ebira,ruhlen
 ngu,Efate (North),ruhlen
+erk,Efate (South),ruhlen
 efi,Efik,ruhlen
 eip,Eipo,ruhlen
 eja,Ejagham,ruhlen
 eka,Ekagi,ruhlen
 ora,Emai,ruhlen
 emb,Embera,ruhlen
+eme,Emerillon,ruhlen
 ene,Enets,ruhlen
 ena kyk,Enga,ruhlen
 egn,Engenni,ruhlen
@@ -3426,6 +3440,7 @@ eya,Eyak,ruhlen
 plr,Falor,ruhlen
 far,Faroese,ruhlen
 dri prs,Farsi,ruhlen
+fqs,Fas,ruhlen
 fas,Fasu,ruhlen
 fef,Fe'fe,ruhlen
 fij fiw,Fijian,ruhlen
@@ -3514,6 +3529,7 @@ nbr,Guaymi,ruhlen
 gud,Gude,ruhlen
 gdf,Guduf,ruhlen
 gue,Guere,ruhlen
+ggd,Gugadj,ruhlen
 kya,Gugu Yalandyi,ruhlen
 guh,Guhu-Semane,ruhlen
 guj,Gujarati,ruhlen
@@ -3541,7 +3557,7 @@ hsl,Haisla,ruhlen
 lai,Haka,ruhlen
 hln,Halang,ruhlen
 hal,Halia,ruhlen
-hlk,Halkomelem,ruhlen
+hlu,Halkomelem,ruhlen
 hmr,Hamar,ruhlen
 ham,Hamtai,ruhlen
 han,Hani,ruhlen
@@ -3561,6 +3577,7 @@ her,Herero,ruhlen
 hia,Hianacoto,ruhlen
 hid,Hidatsa,ruhlen
 hil,Hiligaynon,ruhlen
+hna,Hina,ruhlen
 hin,Hindi,ruhlen
 hnk,Hinux,ruhlen
 hix,Hishkariana,ruhlen
@@ -3655,6 +3672,7 @@ daa kli,Kaili,ruhlen
 kng,Kaingang,ruhlen
 rum,Kairi,ruhlen
 krr,Kairiru,ruhlen
+kyt,Kaititj,ruhlen
 kaw,Kaiwa,ruhlen
 kly,Kala Lagaw Ya,ruhlen
 klq,Kalam,ruhlen
@@ -3669,6 +3687,7 @@ don kzh,Kam,ruhlen
 mij,Kaman,ruhlen
 kak,Kamano,ruhlen
 kms,Kamas,ruhlen
+kmz,Kamasau,ruhlen
 kma,Kamayura,ruhlen
 kba,Kamba,ruhlen
 kbo,Kambot,ruhlen
@@ -3677,6 +3696,7 @@ kmi,Kami,ruhlen
 kmr,Kamoro,ruhlen
 kan,Kana,ruhlen
 knk,Kanakuru,ruhlen
+xns,Kanashi,ruhlen
 knn,Kanauri,ruhlen
 kbu,Kanembu,ruhlen
 kea kwe,Kanjobal,ruhlen
@@ -3704,9 +3724,10 @@ kao,Karaw,ruhlen
 krl,Karelian,ruhlen
 kdg,Karipuna,ruhlen
 kna,Karitiana,ruhlen
+vka,Kariyarra,ruhlen
 bkr,Karo Batak,ruhlen
 krk,Karok,ruhlen
-ksm,Kasem,ruhlen
+ksm xsm,Kasem,ruhlen
 ksh,Kashaya,ruhlen
 kas,Kashmiri,ruhlen
 ksu svc,Kashubian,ruhlen
@@ -3753,6 +3774,7 @@ kmu,Khmu',ruhlen
 khw,Khowar,ruhlen
 khu,Khumi,ruhlen
 hyo,Khyang,ruhlen
+khn,Khün,ruhlen
 tki,Ki,ruhlen
 kik,Kikuyu,ruhlen
 klb,Kilba,ruhlen
@@ -3790,6 +3812,7 @@ kln,Kolana,ruhlen
 ijo,Kolokuma,ruhlen
 kou,Kom,ruhlen
 kni,Koma,ruhlen
+xbi,Kombio,ruhlen
 kzy yzv,Komi,ruhlen
 kom,Komo,ruhlen
 kda,Konda,ruhlen
@@ -3813,6 +3836,7 @@ kyn,Koyukon,ruhlen
 kpa,Kpan,ruhlen
 kpe,Kpelle,ruhlen
 kpo,Kposo,ruhlen
+pnx,Kreen-Akarore,ruhlen
 kre,Kresh,ruhlen
 isa,Krisa,ruhlen
 kro,Krongo,ruhlen
@@ -3826,6 +3850,7 @@ kuq,Kumyk,ruhlen
 knm,Kunama,ruhlen
 kmp,Kunimaipa,ruhlen
 atm,Kunza,ruhlen
+bkb,Kurumba,ruhlen
 kfe,Kurumfe,ruhlen
 kur,Kurux,ruhlen
 kus,Kusunda,ruhlen
@@ -3843,6 +3868,8 @@ gro,Kweni,ruhlen
 kwb,Kwerba,ruhlen
 bku,Kwiri,ruhlen
 kwo,Kwoma,ruhlen
+kwt,Kwomtari,ruhlen
+lab,Labu,ruhlen
 lac,Lacandon,ruhlen
 ldn,Ladin,ruhlen
 ari,Lae,ruhlen
@@ -3868,17 +3895,21 @@ lau,Lau,ruhlen
 tnk,Lavongai,ruhlen
 lav,Lavukaleve,ruhlen
 laz,Laz,ruhlen
+lec,Leco,ruhlen
 leg,Lega,ruhlen
+agb,Legbo,ruhlen
 lel,Lele,ruhlen
 len,Lenakel,ruhlen
 lep,Lepcha,ruhlen
 wet,Letri Lgona,ruhlen
 lew,Lewo,ruhlen
 lez,Lezgi,ruhlen
+lic,Li,ruhlen
 lil,Lillooet,ruhlen
 lim,Limbu,ruhlen
 lml,Limilngan,ruhlen
 lnd,Linda,ruhlen
+lnj,Linngithigh,ruhlen
 lis,Lisu,ruhlen
 lit,Lithuanian,ruhlen
 liv,Livonian,ruhlen
@@ -3947,6 +3978,7 @@ mai,Maithili,ruhlen
 maj,Majang,ruhlen
 mkz,Makaa,ruhlen
 mak,Makah,ruhlen
+mkj,Makasai,ruhlen
 mks,Makassarese,ruhlen
 tab,Makian (East),ruhlen
 mkl,Maklew,ruhlen
@@ -3973,6 +4005,7 @@ mmp,Mampelle,ruhlen
 mmv,Mamvu,ruhlen
 mnm,Manam,ruhlen
 mbu,Manambu,ruhlen
+nmm,Manang,ruhlen
 mnc,Manchu,ruhlen
 mdn,Mandan,ruhlen
 mnr,Mandar,ruhlen
@@ -3981,11 +4014,13 @@ mdk mkg,Mandinka,ruhlen
 mem,Manem,ruhlen
 mmb,Mangap,ruhlen
 myi,Mangarayi,ruhlen
+mmi,Mangbai,ruhlen
 mbt,Mangbetu,ruhlen
 mng,Manggarai,ruhlen
 maw mnk,Maninka,ruhlen
 mjk,Manjaku,ruhlen
 mkn,Mankan,ruhlen
+mkq,Mankon,ruhlen
 man,Mano,ruhlen
 mns,Mansi,ruhlen
 sgb,Mantion,ruhlen
@@ -4023,6 +4058,7 @@ mtb,Matumbi,ruhlen
 mau,Maung,ruhlen
 mya,Maya (South Halmahera),ruhlen
 yes,Mayo,ruhlen
+myg,Mayogo,ruhlen
 maz,Mazahua,ruhlen
 mzn,Mazanderani,ruhlen
 mzc mzh,Mazatec,ruhlen
@@ -4033,6 +4069,7 @@ eml,Mbaloh,ruhlen
 mbz,Mbe,ruhlen
 mbe,Mbede,ruhlen
 mbl,Mbole,ruhlen
+mdw,Mboshi,ruhlen
 mbg,Mbugu,ruhlen
 mbm,Mbum,ruhlen
 mee,Me'en,ruhlen
@@ -4042,6 +4079,7 @@ mid,Meidob,ruhlen
 mei,Meithei,ruhlen
 mke,Mekeo,ruhlen
 mel,Melanau,ruhlen
+mxe,Mele,ruhlen
 mde,Mende,ruhlen
 hmi,Meneca,ruhlen
 men,Menominee,ruhlen
@@ -4049,6 +4087,7 @@ mnt,Mentawai,ruhlen
 mey,Menya,ruhlen
 mer,Meriam,ruhlen
 msl,Mesalit,ruhlen
+mpt,Mianmin,ruhlen
 hmd hmo,Miao,ruhlen
 mic,Micmac,ruhlen
 idu,Midu,ruhlen
@@ -4095,6 +4134,7 @@ mni,Moni,ruhlen
 mno moa,Mono,ruhlen
 tgl,Monpa,ruhlen
 mbo,Monumbo,ruhlen
+mnz,Monzombo,ruhlen
 mop,Mopan,ruhlen
 mor,Mor,ruhlen
 mri,Moraori,ruhlen
@@ -4149,6 +4189,7 @@ naf,Nafana,ruhlen
 nag,Nagatman,ruhlen
 nah,Nahali,ruhlen
 nhc nhh nhm nhn nhp nht nhu nhx nmi nmp npa nsz,Nahuatl,ruhlen
+kkq,Nahukwa,ruhlen
 nkk,Nakkara,ruhlen
 nal,Nalik,ruhlen
 kho,Nama,ruhlen
@@ -4184,7 +4225,7 @@ nar,Nera,ruhlen
 new nwd,Newari,ruhlen
 nez,Nez Perce,ruhlen
 ngd,Ngada,ruhlen
-ngj,Ngadjunmaya,ruhlen
+mrj ngj,Ngadjunmaya,ruhlen
 ngl,Ngalakan,ruhlen
 yli,Ngalik,ruhlen
 nkb,Ngalkbon,ruhlen
@@ -4192,6 +4233,7 @@ nga,Nganasan,ruhlen
 ngn,Ngandi,ruhlen
 bnr ngy,Ngarinman,ruhlen
 ngr,Ngarinyeri,ruhlen
+nlr,Ngarla,ruhlen
 ngb,Ngbaka,ruhlen
 ndi,Ngbandi,ruhlen
 ngg ngk,Ngenkikurrunggur,ruhlen
@@ -4230,8 +4272,10 @@ ano nun,Nung,ruhlen
 nug,Nunggubuyu,ruhlen
 nnn,Nuni,ruhlen
 nup,Nupe,ruhlen
+wna,Nwa,ruhlen
 nkt,Nyah Kur,ruhlen
 ddf,Nyala,ruhlen
+nly,Nyamal,ruhlen
 nym,Nyamwezi,ruhlen
 nng,Nyanga,ruhlen
 nyr,Nyangumarta,ruhlen
@@ -4279,6 +4323,7 @@ orb orh orw owc,Oromo,ruhlen
 osa,Osage,ruhlen
 oss,Ossetic,ruhlen
 oix osm otm,Otomi,ruhlen
+owi,Owiniga,ruhlen
 way,Oyampi,ruhlen
 kjn,Oykangand,ruhlen
 paa,Pa'a,ruhlen
@@ -4353,6 +4398,7 @@ pso,Pomo (Southeastern),ruhlen
 poh,Ponapean,ruhlen
 pop psj psv,Popoloc,ruhlen
 zqs,Popoluca (Sierra),ruhlen
+psw,Port Sandwich,ruhlen
 por,Portuguese,ruhlen
 pot,Potawatomi,ruhlen
 pow,Powhatan,ruhlen
@@ -4369,6 +4415,8 @@ qui,Quileute,ruhlen
 juh xun,Qxû,ruhlen
 rag,Raga,ruhlen
 rgn,Raglai (North),ruhlen
+rji,Raji,ruhlen
+ral,Ralte,ruhlen
 ram,Rama,ruhlen
 tni,Rangloi,ruhlen
 rao,Rao,ruhlen
@@ -4488,6 +4536,7 @@ shu,Shuswap,ruhlen
 sia,Siane,ruhlen
 sir,Siar,ruhlen
 ysl,Siberian Yupik,ruhlen
+sid,Sidamo,ruhlen
 err,Sie,ruhlen
 sik,Sikka,ruhlen
 sil,Sila,ruhlen
@@ -4497,6 +4546,7 @@ sdh,Sindhi,ruhlen
 snh,Sinhalese,ruhlen
 sio,Sio,ruhlen
 sin,Siona,ruhlen
+qum,Sipacapa,ruhlen
 sry,Siraya,ruhlen
 ysi,Sirenik,ruhlen
 sri,Siriano,ruhlen
@@ -4537,6 +4587,7 @@ sub,Subia,ruhlen
 sue,Suena,ruhlen
 sui,Sui,ruhlen
 suk,Suki,ruhlen
+sku,Suku,ruhlen
 skm,Sukuma,ruhlen
 sul,Sulka,ruhlen
 kam,Sumbanese (East),ruhlen
@@ -4572,6 +4623,7 @@ mii tma,Tama,ruhlen
 tmg,Tamagario,ruhlen
 tai tug,Tamahaq,ruhlen
 tam,Tamang,ruhlen
+tsk,Tamasheq,ruhlen
 bma bse,Tamazight,ruhlen
 tml tsp,Tamil,ruhlen
 tmp,Tampulma,ruhlen
@@ -4651,6 +4703,7 @@ tbe tgr,Tigre,ruhlen
 tig,Tigrinya,ruhlen
 tik,Tikar,ruhlen
 til,Tillamook,ruhlen
+tia,Tima,ruhlen
 tse,Timorese,ruhlen
 tmc,Timucua,ruhlen
 tim,Timugon,ruhlen
@@ -4726,12 +4779,14 @@ udm,Udmurt,ruhlen
 uyg,Uighur,ruhlen
 ukr,Ukrainian,ruhlen
 uli,Ulithian,ruhlen
+ump,Umpila,ruhlen
 unm,Unami,ruhlen
 ung,Ungarinjin,ruhlen
 uku,Upper Kuskokwim,ruhlen
 ura,Ura,ruhlen
 url,Urak Lawoi',ruhlen
 urn,Urarina,ruhlen
+urt,Urat,ruhlen
 urd,Urdu,ruhlen
 urh,Urhobo,ruhlen
 ory,Uria,ruhlen
@@ -4751,11 +4806,13 @@ ved,Vedda,ruhlen
 ven,Venda,ruhlen
 vep,Vepsian,ruhlen
 vie,Vietnamese,ruhlen
+vnm,Vinmavis,ruhlen
 bvi,Vitu,ruhlen
 vot,Votic,ruhlen
 pte,Vuite,ruhlen
 wat,Wadjari,ruhlen
 bac,Wadjiginy,ruhlen
+wkw,Waga,ruhlen
 wag,Wagiman,ruhlen
 wah,Wahgi,ruhlen
 har,Waibuk,ruhlen
@@ -4764,6 +4821,7 @@ lrk,Wakasihu,ruhlen
 wak,Wakhi,ruhlen
 hlp,Walapai,ruhlen
 wlm,Walmajarri,ruhlen
+wwa,Wama,ruhlen
 wam,Wambaya,ruhlen
 wbn,Wambon,ruhlen
 kmb,Wanggom,ruhlen
@@ -4784,8 +4842,10 @@ gnb,Warlang,ruhlen
 wrl,Warlpiri,ruhlen
 wlw,Warluwara,ruhlen
 wrn,Warndarang,ruhlen
+wbt,Warnman,ruhlen
 wrp,Waropen,ruhlen
 wrg,Warrgamay,ruhlen
+wru,Warumungu,ruhlen
 wrw,Warwa,ruhlen
 was,Washo,ruhlen
 pra,Wasi-weri,ruhlen
@@ -4796,7 +4856,7 @@ wau,Waunana,ruhlen
 wur,Waura,ruhlen
 wyn,Wayana,ruhlen
 wed,Wedau,ruhlen
-wel,Welsh,ruhlen
+wec wel,Welsh,ruhlen
 wem,Wemba Wemba,ruhlen
 wer,Weri,ruhlen
 wma,West Makian,ruhlen
@@ -4839,6 +4899,7 @@ yak,"Yaka (Bantu, Zone H)",ruhlen
 ykn,Yakan,ruhlen
 ykm,Yakoma,ruhlen
 ykt,Yakut,ruhlen
+ylr,Yalarnnga,ruhlen
 nyl,Yalayu,ruhlen
 jmm jwr,Yamamadi,ruhlen
 yah,Yamana,ruhlen
@@ -4848,6 +4909,7 @@ ymd,Yamdena,ruhlen
 ymi,Yami,ruhlen
 yam,Yaminahua,ruhlen
 yan,Yana,ruhlen
+inn,Yandruwandha,ruhlen
 ynm,Yanomami,ruhlen
 yny,Yanyuwa,ruhlen
 yns,Yanzi,ruhlen
@@ -4877,6 +4939,7 @@ yng,Yinggarda,ruhlen
 yir,Yir Yiront,ruhlen
 wik ywl,Yokuts (Valley),ruhlen
 yok,Yokutsan,ruhlen
+vif,Yombe,ruhlen
 yor,Yoruba,ruhlen
 tbt,Yotafa,ruhlen
 yyo,Yotayota,ruhlen
@@ -4896,6 +4959,7 @@ yrm,Yurimangui,ruhlen
 yur,Yurok,ruhlen
 jrn,Yuruna,ruhlen
 yrt,Yuruti,ruhlen
+zag,Zagawa,ruhlen
 zan,Zande,ruhlen
 zpr,Zaparo,ruhlen
 zai zaj zam zap zaq zpi zsq zte zya zzo,Zapotec,ruhlen
@@ -4910,4 +4974,19 @@ zim,Zimakani,ruhlen
 zch zfl zqc zqo zqr,Zoque,ruhlen
 zno zso zul,Zulu,ruhlen
 zun,Zuni,ruhlen
+agd,d Agta,ruhlen
+dlm,d Dera,ruhlen
+jms,d Dogon,ruhlen
+ndr,d Fijian,ruhlen
+ddj,d Godie,ruhlen
+gyc rgc,d Gyarung,ruhlen
+msq,d Halkomelem,ruhlen
+lmu,d Lewo,ruhlen
+mxx,d Mixe,ruhlen
+ryu,d Ryukyuan,ruhlen
+tee,d Tepehua,ruhlen
+ttd,d Tetun,ruhlen
+rpa shg tdi tdr,d Tibetan (Central),ruhlen
+brp,d Warapu,ruhlen
+huc,|=HÍ,ruhlen
 omi,Ömie,ruhlen

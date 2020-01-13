@@ -2,7 +2,7 @@ appdirs==1.4.3
 atomicwrites==1.1.5
 certifi==2018.4.16
 chardet==3.0.4
--e git+https://github.com/cldf/cldfbench.git@421c08ca150f9e4d9929971caefe111db8d58f96#egg=cldfbench
+-e git+https://github.com/cldf/cldfbench.git@72fc2a97c6d271a3debb2b44ecc38d97405f7755#egg=cldfbench
 -e git+https://github.com/cldf/cldfcatalog.git@f26c9ac38c1ab111a55682ae83f4ac1cb03333c3#egg=cldfcatalog
 clldutils==3.5.0
 colorlog==3.1.4
