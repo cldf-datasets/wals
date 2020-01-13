@@ -143,6 +143,7 @@ order by
                 'Language_ID': row[1],
                 'Parameter_ID': row[2],
                 'Value': row[3],
+                'Code_ID': '{0}-{1}'.format(row[2], row[3]),
                 'Comment': row[4],
                 'Source': refs.get(row[0], []),
             })
