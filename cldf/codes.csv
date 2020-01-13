@@ -1,0 +1,660 @@
+ID,Parameter_ID,Name,Description
+1-1,1,Small,Small
+1-2,1,Moderately small,Moderately small
+1-3,1,Average,Average
+1-4,1,Moderately large,Moderately large
+1-5,1,Large,Large
+2-1,2,Small (2-4),Small vowel inventory (2-4)
+2-2,2,Average (5-6),Average vowel inventory (5-6)
+2-3,2,Large (7-14),Large vowel inventory (7-14)
+3-1,3,Low,Low
+3-2,3,Moderately low,Moderately low
+3-3,3,Average,Average
+3-4,3,Moderately high,Moderately high
+3-5,3,High,High
+4-1,4,No voicing constrast,No voicing contrast
+4-2,4,In plosives alone,Voicing contrast in plosives alone
+4-3,4,In fricatives alone,Voicing contrast in fricatives alone
+4-4,4,In both plosives and fricatives,Voicing contrast in both plosives and fricatives
+5-1,5,Other,Other
+5-2,5,None missing in /p t k b d g/,/p t k b d g/
+5-3,5,Missing /p/,Missing /p/
+5-4,5,Missing /g/,Missing /g/
+5-5,5,Both missing,Both missing
+6-1,6,None,No uvulars
+6-2,6,Uvular stops only,Uvular stops only
+6-3,6,Uvular continuants only,Uvular continuants only
+6-4,6,Uvular stops and continuants,Uvular stops and continuants
+7-1,7,No glottalized consonants,No glottalized consonants
+7-2,7,Ejectives only,Ejectives only
+7-3,7,Implosives only,Implosives only
+7-4,7,Glottalized resonants only,Glottalized resonants only
+7-5,7,Ejectives and implosives,Ejectives and implosives
+7-6,7,Ejectives and glottalized resonants,Ejectives and glottalized resonants
+7-7,7,Implosives and glottalized resonants,Implosives and glottalized resonants
+7-8,7,"Ejectives, implosives, and glottalized resonants","Ejectives, implosives and glottalized resonants"
+8-1,8,No laterals,No laterals
+8-2,8,"/l/, no obstruent laterals","/l/, no obstruent laterals"
+8-3,8,"Laterals, but no /l/, no obstruent laterals","Laterals, but no /l/, no obstruent lateral"
+8-4,8,/l/ and lateral obstruent,/l/ and lateral obstruents
+8-5,8,"No /l/, but lateral obstruents","No /l/, but lateral obstruents"
+9-1,9,Initial velar nasal,"Velar nasal, also initially"
+9-2,9,No initial velar nasal,"Velar nasal, but not initially"
+9-3,9,No velar nasal,No velar nasal
+10-1,10,Contrast present,Contrastive nasal vowels present
+10-2,10,Contrast absent,Contrastive nasal vowels absent
+11-1,11,None,None
+11-2,11,High and mid,High and mid
+11-3,11,High only,High only
+11-4,11,Mid only,Mid only
+12-1,12,Simple,Simple syllable structure
+12-2,12,Moderately complex,Moderately complex syllable structure
+12-3,12,Complex,Complex syllable structure
+13-1,13,No tones,No tones
+13-2,13,Simple tone system,Simple tone system
+13-3,13,Complex tone system,Complex tone system
+14-1,14,No fixed stress,No fixed stress (mostly weight-sensitive stress)
+14-2,14,Initial,Initial: stress is on the first syllable
+14-3,14,Second,Second: stress is on the second syllable
+14-4,14,Third,Third: stress is on the third syllable
+14-5,14,Antepenultimate,Antepenultimate: stress is on the antepenultimate (third from the right) syllable
+14-6,14,Penultimate,Penultimate: stress is on the penultimate (second from the right) syllable
+14-7,14,Ultimate,Ultimate: stress is on the ultimate (last) syllable
+15-1,15,Left-edge: First or second,Left-edge: Stress is on the first or second syllable
+15-2,15,Left-oriented: One of the first three,Left-oriented: The third syllable is involved
+15-3,15,Right-edge: Ultimate or penultimate,Right-edge: Stress on ultimate or penultimate syllable
+15-4,15,Right-oriented: One of the last three,Right-oriented: The antepenultimate is involved
+15-5,15,Unbounded: Stress can be anywhere,Unbounded: Stress can be anywhere in the word
+15-6,15,Combined: Right-edge and unbounded,Combined: Both Right-edge and unbounded
+15-7,15,Not predictable,Not predictable
+15-8,15,Fixed stress (no weight-sensitivity),Fixed stress (no weight-sensitivity)
+16-1,16,No weight,"No weight, or weight factor unknown"
+16-2,16,Long vowel,Long vowel: long vowels are heavy for stress
+16-3,16,Coda consonant,Coda consonant: closed syllables are heavy for stress
+16-4,16,Long vowel or coda consonant,Long vowel + Coda: long vowels or closed syllables
+16-5,16,Prominence,Prominence: other factors are heavy for stress
+16-6,16,Lexical stress,"Lexical: lexical stress, diacritic weight"
+16-7,16,Combined,Combined: two of the above factors determine weight
+17-1,17,Trochaic,Trochaic: left-hand syllable in the foot is strong
+17-2,17,Iambic,Iambic: right-hand syllable in the foot is strong
+17-3,17,Dual: both trochaic and iambic,Dual: system has both trochaic and iambic feet
+17-4,17,Undetermined,Undetermined: no clear foot type
+17-5,17,No rhythmic stress,Absent: no rhythmic stress
+18-1,18,All present,All present
+18-2,18,No bilabials,No bilabials
+18-3,18,No fricatives,No fricatives
+18-4,18,No nasals,No nasals
+18-5,18,No bilabials or nasals,No bilabials or nasals
+18-6,18,No fricatives or nasals,No fricatives or nasals
+19-1,19,None,None
+19-2,19,Clicks,Clicks
+19-3,19,Labial-velars,Labial-velars
+19-4,19,Pharyngeals,Pharyngeals
+19-5,19,'Th' sounds,'Th' sounds
+19-6,19,"Clicks, pharyngeals, and 'th'","Clicks, pharyngeals, and 'th'"
+19-7,19,"Pharyngeals and ""th""",Pharyngeals and 'th'
+20-1,20,Exclusively concatenative,Exclusively concatenative
+20-2,20,Exclusively isolating,Exclusively isolating
+20-3,20,Exclusively tonal,Exclusively tonal
+20-4,20,Tonal/isolating,Tonal/isolating
+20-5,20,Tonal/concatenative,Tonal/concatenative
+20-6,20,Ablaut/concatenative,Ablaut/concatenative
+20-7,20,Isolating/concatenative,Isolating/concatenative
+21-1,21,Monoexponential case,Monoexponential case
+21-2,21,Case + number,Case + number
+21-3,21,Case + referentiality,Case + referentiality
+21-4,21,Case + TAM,Case + TAM (tense-aspect-mood)
+21-5,21,No case,No case
+22-1,22,0-1 category per word,0-1 category per word
+22-2,22,2-3 categories per word,2-3 categories per word
+22-3,22,4-5 categories per word,4-5 categories per word
+22-4,22,6-7 categories per word,6-7 categories per word
+22-5,22,8-9 categories per word,8-9 categories per word
+22-6,22,10-11 categories per word,10-11 categories per word
+22-7,22,12-13 categories per word,12-13 categories per word
+23-1,23,Head marking,P is head-marked
+23-2,23,Dependent marking,P is dependent-marked
+23-3,23,Double marking,P is double-marked
+23-4,23,No marking,P has no marking
+23-5,23,Other,Other types
+24-1,24,Head marking,Possessor is head-marked
+24-2,24,Dependent marking,Possessor is dependent-marked
+24-3,24,Double marking,Possessor is double-marked
+24-4,24,No marking,Possessor has no marking
+24-5,24,Other,Other types
+25-1,25,Head-marking,Consistently head-marking
+25-2,25,Dependent-marking,Consistently dependent-marking
+25-3,25,Double-marking,Consistently double-marking
+25-4,25,Zero-marking,Consistently zero-marking
+25-5,25,Inconsistent or other,Inconsistent marking or other type
+26-1,26,Little affixation,Little or no inflectional morphology
+26-2,26,Strongly suffixing,Predominantly suffixing
+26-3,26,Weakly suffixing,Moderate preference for suffixing
+26-4,26,Equal prefixing and suffixing,Approximately equal amounts of suffixing and prefixing
+26-5,26,Weakly prefixing,Moderate preference for prefixing
+26-6,26,Strong prefixing,Predominantly prefixing
+27-1,27,Productive full and partial reduplication,Productive full and partial reduplication
+27-2,27,Full reduplication only,Full reduplication only
+27-3,27,No productive reduplication,No productive reduplication
+28-1,28,No case marking,Inflectional case marking is absent or minimal
+28-2,28,Core cases only,Inflectional case marking is syncretic for core cases only
+28-3,28,Core and non-core,Inflectional case marking is syncretic for core and non-core cases
+28-4,28,No syncretism,Inflectional case marking is never syncretic
+29-1,29,No subject person/number marking,No subject person/number marking
+29-2,29,Syncretic,Subject person/number marking is syncretic
+29-3,29,Not syncretic,Subject person/number marking is never syncretic
+30-1,30,None,None
+30-2,30,Two,Two
+30-3,30,Three,Three
+30-4,30,Four,Four
+30-5,30,Five or more,Five or more
+31-1,31,No gender,No gender system
+31-2,31,Sex-based,Sex-based gender system
+31-3,31,Non-sex-based,Non-sex-based gender system
+32-1,32,No gender,No gender system
+32-2,32,Semantic,Semantic assignment
+32-3,32,Semantic and formal,Semantic and formal assignment
+33-1,33,Plural prefix,Plural prefix
+33-2,33,Plural suffix,Plural suffix
+33-3,33,Plural stem change,Plural stem change
+33-4,33,Plural tone,Plural tone
+33-5,33,Plural complete reduplication,Plural by complete reduplication of stem
+33-6,33,Mixed morphological plural,Morphological plural with no method primary
+33-7,33,Plural word,Plural word
+33-8,33,Plural clitic,Plural clitic
+33-9,33,No plural,No plural
+34-1,34,No nominal plural,No nominal plural
+34-2,34,"Only human nouns, optional","Plural only in human nouns, optional"
+34-3,34,"Only human nouns, obligatory","Plural only in human nouns, obligatory"
+34-4,34,"All nouns, always optional","Plural in all nouns, always optional"
+34-5,34,"All nouns, optional in inanimates","Plural in all nouns, optional in inanimates"
+34-6,34,"All nouns, always obligatory","Plural in all nouns, always obligatory"
+35-1,35,No independent subject pronouns,No independent subject pronouns
+35-2,35,Number-indifferent pronouns,Number-indifferent pronouns
+35-3,35,Person-number affixes,Person-number affixes
+35-4,35,Person-number stem,Person-number stem
+35-5,35,Person-number stem + pronominal plural affix,Person-number stem with a pronominal plural affix
+35-6,35,Person-number stem + nominal plural affix,Person-number stem with a nominal plural affix
+35-7,35,Person stem + pronominal plural affix,Person stem with a pronominal plural affix
+35-8,35,Person stem + nominal plural affix,Person stem with a nominal plural affix
+36-1,36,Associative same as additive plural,Associative plural marker also used for additive plurals
+36-2,36,Unique affixal associative plural,Special bound associative plural marker
+36-3,36,Unique periphrastic associative plural,Special non-bound associative plural marker
+36-4,36,No associative plural,Associative plural absent
+37-1,37,Definite word distinct from demonstrative,Definite word distinct from demonstrative
+37-2,37,Demonstrative word used as definite article,Demonstrative word used as marker of definiteness
+37-3,37,Definite affix,Definite affix on noun
+37-4,37,"No definite, but indefinite article",No definite article but indefinite article
+37-5,37,No definite or indefinite article,Neither definite nor indefinite article
+38-1,38,Indefinite word distinct from 'one',Indefinite word distinct from numeral for 'one'
+38-2,38,Indefinite word same as 'one',Numeral for 'one' is used as indefinite article
+38-3,38,Indefinite affix,Indefinite affix on noun
+38-4,38,"No indefinite, but definite article",No indefinite article but definite article
+38-5,38,No definite or indefinite article,Neither indefinite nor definite
+39-1,39,No 'we',No grammaticalised marking at all
+39-2,39,'We' the same as 'I','We' and 'I' identical
+39-3,39,No inclusive/exclusive,No inclusive/exclusive opposition
+39-4,39,Only inclusive,Only inclusive differentiated
+39-5,39,Inclusive/exclusive,Inclusive and exclusive differentiated
+40-1,40,No person marking,No person marking at all
+40-2,40,'We' the same as 'I','We' and 'I' identical
+40-3,40,No inclusive/exclusive,No inclusive/exclusive opposition
+40-4,40,Only inclusive,Only inclusive differentiated
+40-5,40,Inclusive/exclusive,Inclusive and exclusive differentiated
+41-1,41,No distance contrast,No distance contrast
+41-2,41,Two-way contrast,Two-way contrast
+41-3,41,Three-way contrast,Three-way contrast
+41-4,41,Four-way contrast,Four-way contrast
+41-5,41,Five (or more)-way contrast,Five (or more)-way contrast
+42-1,42,Identical,Same forms
+42-2,42,Different stem,Different stems
+42-3,42,Different inflection,Different inflectional features
+43-1,43,Unrelated,Third person pronouns and demonstratives are unrelated to demonstratives
+43-2,43,Related for all demonstratives,Third person pronouns and demonstratives are related to all demonstratives
+43-3,43,Related to remote demonstratives,Third person pronouns and demonstratives are related to remote demonstratives
+43-4,43,Related to non-remote demonstratives,Third person pronouns and demonstratives are related to non-remote demonstratives
+43-5,43,Related by gender markers,Third person pronouns and demonstratives are related by gender markers
+43-6,43,Related for non-human reference,Third person pronouns and demonstratives are related for non-human reference
+44-1,44,In 3rd person + 1st and/or 2nd person,Gender distinctions in 3rd person plus 1st and/or 2nd person
+44-2,44,"3rd person only, but also non-singular","Gender distinctions in 3rd person only, but in both singular and non-singular"
+44-3,44,3rd person singular only,Gender distinctions in 3rd person singular only
+44-4,44,1st or 2nd person but not 3rd,Gender distinctions in 1st or 2nd person but not 3rd
+44-5,44,3rd person non-singular only,Gender distinctions in 3rd person non-singular only
+44-6,44,No gender distinctions,No gender distinctions
+45-1,45,No politeness distinction,Second person pronouns encode no politeness distinction
+45-2,45,Binary politeness distinction,Second person pronouns encode a binary politeness distinction
+45-3,45,Multiple politeness distinctions,Second person pronouns encode multiple politeness distinctions
+45-4,45,Pronouns avoided for politeness,Second person pronouns are dominantly avoided for politeness reasons
+46-1,46,Interrogative-based,Interrogative-based indefinites
+46-2,46,Generic-noun-based,Generic-noun-based indefinites
+46-3,46,Special,Special indefinites
+46-4,46,Mixed,Mixed indefinites
+46-5,46,Existential construction,Existential construction
+47-1,47,Identical,Intensifiers and reflexive pronouns are formally identical
+47-2,47,Differentiated,Intensifiers and reflexive pronouns are formally differentiated
+48-1,48,No adpositions,No adpositions
+48-2,48,No person marking,Adpositions without person marking
+48-3,48,Pronouns only,Person marking for pronouns only
+48-4,48,Pronouns and nouns,Person marking for pronouns and nouns
+49-1,49,No morphological case-marking,No morphological case-marking
+49-2,49,2 cases,2 case categories
+49-3,49,3 cases,3 case categories
+49-4,49,4 cases,4 case categories
+49-5,49,5 cases,5 case categories
+49-6,49,6-7 cases,6-7 case categories
+49-7,49,8-9 cases,8-9 case categories
+49-8,49,10 or more cases,10 or more case categories
+49-9,49,Exclusively borderline case-marking,Exclusively borderline morphological case-marking
+50-1,50,No case-marking,No morphological case-marking
+50-2,50,Symmetrical,Symmetrical case-marking
+50-3,50,Additive-quantitatively asymmetrical,Additive-quantitatively asymmetrical case-marking
+50-4,50,Subtractive-quantitatively asymmetrical,Subtractive-quantitatively asymmetrical case-marking
+50-5,50,Qualitatively asymmetrical,Qualitatively asymmetrical case-marking
+50-6,50,Syncretism in relevant NP-types,Syncretism in relevant NP-types
+51-1,51,Case suffixes,Case suffixes
+51-2,51,Case prefixes,Case prefixes
+51-3,51,Case tone,Case coded by tone
+51-4,51,Case stem change,Case coded by changes within noun stem
+51-5,51,Mixed morphological case,Mixed morphological case strategies with none primary
+51-6,51,Postpositional clitics,Postpositional clitics
+51-7,51,Prepositional clitics,Prepositional clitics
+51-8,51,Inpositional clitics,Inpositional clitics
+51-9,51,No case affixes or adpositional clitics,Neither case affixes nor adpositional clitics
+52-1,52,Identity,Identity
+52-2,52,Differentiation,Differentiation
+52-3,52,Mixed,Mixed
+53-1,53,None,Zero: Ordinal numerals do not exist
+53-2,53,"One, two, three",One: No distinction of cardinal and ordinal numerals
+53-3,53,"First, two, three",First: Cardinal and ordinal numerals are identical except for 'one' and 'first'
+53-4,53,"One-th, two-th, three-th",One-th: One-th: Ordinal numerals are derived from cardinal numerals
+53-5,53,"First/one-th, two-th, three-th",First/One-th: All ordinal numerals are derived from cardinal numerals with different allomorphs for 'first' one of which is morphologically independent of 'one'
+53-6,53,"First, two-th, three-th","Two-th: Two-th: Ordinal numerals from 'two' upwards are derived from cardinal numerals, 'first' is suppletive"
+53-7,53,"First, second, three-th",Second: 'First' and a small set of consecutive higher ordinal numerals are suppletive
+53-8,53,Various,Variou-th: Other solutions
+54-1,54,No distributive numerals,No distributive numerals
+54-2,54,Marked by reduplication,Marked by reduplication
+54-3,54,Marked by prefix,Marked by prefix
+54-4,54,Marked by suffix,Marked by suffix
+54-5,54,Marked by preceding word,Marked by preceding word
+54-6,54,Marked by following word,Marked by following word
+54-7,54,Marked by mixed or other strategies,Marked by mixed or other strategies
+55-1,55,Absent,Numeral classifiers are absent
+55-2,55,Optional,Numeral classifiers are optional
+55-3,55,Obligatory,Numeral classifiers are obligatory
+56-1,56,Formally different,Formally different
+56-2,56,"Formally similar, without interrogative","Formally similar, not involving interrogative expression"
+56-3,56,"Formally similar, with interrogative","Formally similar, involving interrogative expression"
+57-1,57,Possessive prefixes,Possessive prefixes
+57-2,57,Possessive suffixes,Possessive suffixes
+57-3,57,Prefixes and suffixes,"Both possessive prefixes and possessive suffixes, with neither primary"
+57-4,57,No possessive affixes,No possessive affixes
+58-1,58,Exists,Obligatorily possessed nouns exist
+58-2,58,Absent,No obligatorily possessed nouns
+59-1,59,No possessive classification,No possessive classification
+59-2,59,Two classes,Two classes
+59-3,59,Three to five classes,Three to five classes
+59-4,59,More than five classes,More than five classes
+60-1,60,Weakly differentiated,Weakly differentiated
+60-2,60,Genitives and adjectives collapsed,"Moderately differentiated, with genitives and adjectives collapsed"
+60-3,60,Genitives and relative clauses collapsed,"Moderately differentiated, with genitives and relative clauses collapsed"
+60-4,60,Adjectives and relative clauses collapsed,"Moderately differentiated, with adjectives and relative clauses collapsed"
+60-5,60,Moderately differentiated in other ways,Moderately differentiated; other
+60-6,60,Highly differentiated,Highly differentiated
+61-1,61,Not without noun,Adjective may not occur without noun
+61-2,61,Without marking,"Adjective may occur without noun, and without marking"
+61-3,61,Marked by prefix,"Adjective may occur without noun, obligatorily marked by prefix"
+61-4,61,Marked by suffix,"Adjective may occur without noun, obligatorily marked by suffix"
+61-5,61,Marked by preceding word,"Adjective may occur without noun, obligatorily marked by preceding word"
+61-6,61,Marked by following word,"Adjective may occur without noun, obligatorily marked by following word"
+61-7,61,Marked by mixed or other strategies,"Adjective may occur without noun, obligatorily marked by mixed or other strategies"
+62-1,62,Sentential,"Sentential: dependent-marking of the finite clause is retained for S, A and P"
+62-2,62,Possessive-Accusative,"Possessive-Accusative: S/A treated as possessors, P retains sentential marking"
+62-3,62,Ergative-Possessive,"Ergative-Possessive: S/P treated as possessors, A treated differently"
+62-4,62,Double-Possessive,Double-Possessive: All major arguments treated as possessors
+62-5,62,Other,Other: Minor patterns
+62-6,62,Mixed,Mixed: Several patterns in the same language
+62-7,62,Restricted,Not both A and P in the same construction
+62-8,62,No action nominals,No action nominals
+63-1,63,'And' different from 'with',AND-languages: 'and' and 'with' are not identical
+63-2,63,'And' identical to 'with',WITH-languages: 'and' and 'with' are identical
+64-1,64,Identity,Nominal and verbal conjunction are largely identical
+64-2,64,Differentiation,Nominal and verbal conjunction are different
+64-3,64,Both expressed by juxtaposition,Nominal and verbal conjunction are primarily expressed by juxtaposition
+65-1,65,Grammatical marking,Grammatical marking of perfective/imperfective distinction
+65-2,65,No grammatical marking,No grammatical marking of perfective/imperfective distinction
+66-1,66,"Present, no remoteness distinctions",Past/non-past distinction marked; no remoteness distinction
+66-2,66,"Present, 2-3 remoteness distinctions",Past/non-past distinction marked; 2-3 degrees of remoteness distinguished
+66-3,66,"Present, 4 or more remoteness distinctions",Past/non-past distinction marked; at least 4 degrees of remoteness distinguished
+66-4,66,No past tense,No grammatical marking of past/non-past distinction
+67-1,67,Inflectional future exists,Inflectional marking of future/non-future distinction
+67-2,67,No inflectional future,No inflectional marking of future/non-future distinction
+68-1,68,From possessive,Perfect of the 'have'-type (derived from a possessive construction)
+68-2,68,"From 'finish', 'already'",Perfect derived from word meaning 'finish' or 'already'
+68-3,68,Other perfect,Other perfect
+68-4,68,No perfect,No perfect
+69-1,69,Tense-aspect prefixes,Tense-aspect prefixes
+69-2,69,Tense-aspect suffixes,Tense-aspect suffixes
+69-3,69,Tense-aspect tone,Tense-aspect tone
+69-4,69,Mixed type,Combination of tense-aspect strategies with none primary
+69-5,69,No tense-aspect inflection,No tense-aspect inflection
+70-1,70,Second singular and second plural,The language has morphologically dedicated second singular as well as second plural imperatives
+70-2,70,Second singular,The language has morphologically dedicated second singular imperatives but no morphologically dedicated second plural imperatives
+70-3,70,Second plural,The language has morphologically dedicated second plural imperatives but no morphologically dedicated second singular imperatives
+70-4,70,Second person number-neutral,The language has morphologically dedicated second person imperatives that do not distinguish between singular and plural
+70-5,70,No second-person imperatives,The language has no morphologically dedicated second-person imperatives at all
+71-1,71,Normal imperative + normal negative,The prohibitive uses the verbal construction of the second singular imperative and a sentential negative strategy found in (indicative) declaratives
+71-2,71,Normal imperative + special negative,The prohbitive uses the verbal construction of the second singular imperative and a sentential negative strategy not found in (indicative) declaratives
+71-3,71,Special imperative + normal negative,The prohibitive uses a verbal construction other than the second singular imperative and a sentential negative strategy found in (indicative) declaratives
+71-4,71,Special imperative + special negative,The prohibitive uses a verbal construction other than the second singular imperative and a sentential negative strategy not found in (indicative) declaratives
+72-1,72,Maximal system,"The language has a maximal system, but not a minimal one"
+72-2,72,Minimal system,"The language has a minimal system, but not a maximal one"
+72-3,72,Both types of system,The language has both a maximal and a minimal system
+72-4,72,Neither type of system,The language has neither a maximal nor a minimal system
+73-1,73,Inflectional optative present,Inflectional optative present
+73-2,73,Inflectional optative absent,Inflectional optative absent
+74-1,74,Affixes on verbs,The language can express situational possibility with affixes on verbs
+74-2,74,Verbal constructions,"The language cannot express situational possibility with affixes on verbs, but with verbal constructions"
+74-3,74,Other kinds of markers,"The language cannot express situational possibility with affixes on verbs or with verbal constructions, but with other kinds of markers"
+75-1,75,Verbal constructions,The language can express epistemic possibility with verbal constructions
+75-2,75,Affixes on verbs,"The language cannot express epistemic possibility with verbal constructions, but with affixes on verbs"
+75-3,75,Other,"The language cannot express epistemic possibility with verbal constructions or with affixes on verbs, but with other kinds of markers"
+76-1,76,Overlap for both possibility and necessity,"The language has markers that can code both situational and epistemic modality, both for possibility and necessity"
+76-2,76,Overlap for either possibility or necessity,"The language has markers that can code both situational and epistemic modality, but only for possibility or for necessity"
+76-3,76,No overlap,The language has no markers that can code both situational and epistemic modality
+77-1,77,No grammatical evidentials,No grammatical evidentials
+77-2,77,Indirect only,Only indirect evidentials
+77-3,77,Direct and indirect,Both direct and indirect evidentials
+78-1,78,No grammatical evidentials,No grammatical evidentials
+78-2,78,Verbal affix or clitic,Verbal affix or clitic
+78-3,78,Part of the tense system,Part of the tense system
+78-4,78,Separate particle,Separate particle
+78-5,78,Modal morpheme,Modal morpheme
+78-6,78,Mixed,Mixed systems
+79-1,79,Tense,Suppletion according to tense
+79-2,79,Aspect,Suppletion according to aspect
+79-3,79,Tense and aspect,Suppletion in both tense and aspect
+79-4,79,None,No suppletion in tense or aspect
+80-1,80,None,No singular-(dual)-plural pairs/triples
+80-2,80,"Singular-plural pairs, no suppletion","Singular-plural pairs, no suppletion"
+80-3,80,"Singular-plural pairs, suppletion","Singular-plural pairs, suppletion"
+80-4,80,"Singular-dual-plural triples, no suppletion","Singular-dual-plural triples, no suppletion"
+80-5,80,"Singular-dual-plural triples, suppletion","Singular-dual-plural triples, suppletion"
+81-1,81,SOV,Subject-object-verb (SOV)
+81-2,81,SVO,Subject-verb-object (SVO)
+81-3,81,VSO,Verb-subject-object (VSO)
+81-4,81,VOS,Verb-object-subject (VOS)
+81-5,81,OVS,Object-verb-subject (OVS)
+81-6,81,OSV,Object-subject-verb (OSV)
+81-7,81,No dominant order,Lacking a dominant word order
+82-1,82,SV,Subject precedes verb (SV)
+82-2,82,VS,Subject follows verb (VS)
+82-3,82,No dominant order,Both orders with neither order dominant
+83-1,83,OV,Object precedes verb (OV)
+83-2,83,VO,Object follows verb (VO)
+83-3,83,No dominant order,Both orders with neither order dominant
+84-1,84,VOX,Verb-object-oblique (VOX)
+84-2,84,XVO,Oblique-verb-object (XVO)
+84-3,84,XOV,Oblique-object-verb (XOV)
+84-4,84,OXV,Object-oblique-verb (OXV)
+84-5,84,OVX,Object-verb-oblique (OVX)
+84-6,84,No dominant order,More than one order with none dominant
+85-1,85,Postpositions,Postpositions
+85-2,85,Prepositions,Prepositions
+85-3,85,Inpositions,Inpositions
+85-4,85,No dominant order,More than one adposition type with none dominant
+85-5,85,No adpositions,No adpositions
+86-1,86,Genitive-Noun,Genitive-noun (GenN)
+86-2,86,Noun-Genitive,Noun-genitive (NGen)
+86-3,86,No dominant order,Both orders occur with neither order dominant
+87-1,87,Adjective-Noun,Modifying adjective precedes noun (AdjN)
+87-2,87,Noun-Adjective,Modifying adjective follows noun (NAdj)
+87-3,87,No dominant order,"Both orders of noun and modifying adjective occur, with neither dominant"
+87-4,87,Only internally-headed relative clauses,"Adjectives do not modify nouns, occurring as predicates in internally headed relative clauses"
+88-1,88,Demonstrative-Noun,Demonstrative word precedes noun (DemN)
+88-2,88,Noun-Demonstrative,Demonstrative word follows noun (NDem)
+88-3,88,Demonstrative prefix,Demonstrative prefix on noun
+88-4,88,Demonstrative suffix,Demonstrative suffix on noun
+88-5,88,Demonstrative before and after Noun,Demonstrative simultaneously before and after noun
+88-6,88,Mixed,Two or more of above types with none dominant
+89-1,89,Numeral-Noun,Numeral precedes noun (NumN)
+89-2,89,Noun-Numeral,Numeral follows noun (NNum)
+89-3,89,No dominant order,Both orders of numeral and noun with neither order dominant
+89-4,89,Numeral only modifies verb,Numeral only modifies verb
+90-1,90,Noun-Relative clause,Relative clause follows noun (NRel)
+90-2,90,Relative clause-Noun,Relative clause precedes noun (RelN)
+90-3,90,Internally headed,Internally-headed relative clause
+90-4,90,Correlative,Correlative relative clause
+90-5,90,Adjoined,Adjoined relative clause
+90-6,90,Doubly headed,Double-headed relative clause
+90-7,90,Mixed,Mixed types of relative clause with none dominant
+91-1,91,Degree word-Adjective,Degree word precedes adjective (DegAdj)
+91-2,91,Adjective-Degree word,Degree word follows adjective (AdjDeg)
+91-3,91,No dominant order,Both orders occur with neither order dominant
+92-1,92,Initial,Question particle at beginning of sentence
+92-2,92,Final,Question particle at end of sentence
+92-3,92,Second position,Question particle in second position in sentence
+92-4,92,Other position,Question particle with other position
+92-5,92,In either of two positions,Question particle in either of two positions
+92-6,92,No question particle,No question particle
+93-1,93,Initial interrogative phrase,Interrogative phrases obligatorily initial
+93-2,93,Not initial interrogative phrase,Interrogative phrases not obligatorily initial
+93-3,93,Mixed,"Mixed, some interrogative phrases obligatorily initial, some not"
+94-1,94,Initial subordinator word,Adverbial subordinators which are separate words and which appear at the beginning of the subordinate clause
+94-2,94,Final subordinator word,Adverbial subordinators which are separate words and which appear at the end of the subordinate clause
+94-3,94,Internal subordinator word,Clause-internal adverbial subordinators
+94-4,94,Subordinating suffix,Suffixal adverbial subordinators
+94-5,94,Mixed,More than one type of adverbial subordinators with none dominant
+95-1,95,OV and Postpositions,Object-verb and postpositional (OV&Postp)
+95-2,95,OV and Prepositions,Object-verb and prepositional (OV&Prep)
+95-3,95,VO and Postpositions,Verb-object and postpositional (VO&Postp)
+95-4,95,VO and Prepositions,Verb-object and prepositional (VO&Prep)
+95-5,95,Other,Languages not falling into one of the preceding four types
+96-1,96,OV and RelN,Object-verb and relative clause-noun (OV&RelN)
+96-2,96,OV and NRel,Object-verb and noun-relative clause (OV&NRel)
+96-3,96,VO and RelN,Verb-object and relative clause-noun (VO&RelN)
+96-4,96,VO and NRel,Verb-object and noun-relative clause (VO&NRel)
+96-5,96,Other,Languages not falling into one of the preceding four types
+97-1,97,OV and AdjN,Object-verb and adjective-noun (OV&AdjN)
+97-2,97,OV and NAdj,Object-verb and noun-adjective (OV&NAdj)
+97-3,97,VO and AdjN,Verb-object and adjective-noun (VO&AdjN)
+97-4,97,VO and NAdj,Verb-object and noun-adjective (VO&NAdj)
+97-5,97,Other,Languages not falling into one of the preceding four types
+98-1,98,Neutral,Neutral
+98-2,98,Nominative - accusative (standard),Nominative - accusative (standard)
+98-3,98,Nominative - accusative (marked nominative),Nominative - accusative (marked nominative)
+98-4,98,Ergative - absolutive,Ergative - absolutive
+98-5,98,Tripartite,Tripartite
+98-6,98,Active-inactive,Active - inactive
+99-1,99,Neutral,Neutral
+99-2,99,Nominative - accusative (standard),Nominative - accusative (standard)
+99-3,99,Nominative - accusative (marked nominative),Nominative - accusative (marked nominative)
+99-4,99,Ergative - absolutive,Ergative - absolutive
+99-5,99,Tripartite,Tripartite
+99-6,99,Active - inactive,Active - inactive
+99-7,99,None,None
+100-1,100,Neutral,Neutral alignment (no verbal person marking)
+100-2,100,Accusative,Accusative alignment
+100-3,100,Ergative,Ergative alignment
+100-4,100,Active,Active alignment
+100-5,100,Hierarchical,Hierarchical alignment
+100-6,100,Split,Split alignment
+101-1,101,Obligatory pronouns in subject position,Pronominal subjects are expressed by pronouns in subject position that are normally if not obligatorily present
+101-2,101,Subject affixes on verb,Pronominal subjects are expressed by affixes on verbs
+101-3,101,Subject clitics on variable host,Pronominal subjects are expressed by clitics with variable host
+101-4,101,Subject pronouns in different position,Pronominal subjects are expressed by subject pronouns that occur in a different syntactic position from full noun phrase subjects
+101-5,101,Optional pronouns in subject position,"Pronominal subjects are expressed only by pronouns in subject position, but these pronouns are often left out"
+101-6,101,Mixed,More than one of the above types with none dominant
+102-1,102,No person marking,No person marking of any argument
+102-2,102,Only the A argument,Person marking of only the A argument
+102-3,102,Only the P argument,Person marking of only the P argument
+102-4,102,A or P argument,Person marking of the A or P argument
+102-5,102,Both the A and P arguments,Person marking of both the A and P arguments
+103-1,103,No person marking,No person marking of the S
+103-2,103,No zero realization,No zero realization of third person S forms
+103-3,103,Zero in some 3sg forms,Zero realization of some third person singular forms
+103-4,103,Zero in all 3sg forms,Zero realization of all third person singular S forms
+103-5,103,Zero in all 3rd person forms,Zero realization of all third person forms/No third person S forms
+103-6,103,Zero only in 3rd nonsingular,Zero realization only of third person non-singular
+104-1,104,A and P do not or do not both occur on the verb,A and P do not or do not both occur on the verb
+104-2,104,A precedes P,A precedes P
+104-3,104,P precedes A,P precedes A
+104-4,104,Both orders of A and P occur,Both orders of A and P occur
+104-5,104,A and P are fused,A and P are fused
+105-1,105,Indirect-object construction,Indirect-object construction
+105-2,105,Double-object construction,Double-object construction
+105-3,105,Secondary-object construction,Secondary-object construction
+105-4,105,Mixed,Mixed
+106-1,106,No reciprocals,There are no non-iconic reciprocal constructions.
+106-2,106,Distinct from reflexive,All reciprocal constructions are formally distinct from reflexive constructions.
+106-3,106,Mixed,There are both reflexive and non-reflexive reciprocal constructions.
+106-4,106,Identical to reflexive,The reciprocal and reflexive constructions are formally identical.
+107-1,107,Present,There is a passive construction
+107-2,107,Absent,There is no passive construction
+108-1,108,Implicit patient,Antipassive with patient-like argument left implicit
+108-2,108,Oblique patient,Antipassive with patient-like argument expressed as oblique complement
+108-3,108,No antipassive,No antipassive
+109-1,109,Benefactive object; both bases,Benefactive object only; both bases
+109-2,109,Benefactive object; only transitive,Benefactive object only; transitive base only
+109-3,109,Benefactive and other; both bases,Benefactive and other; both bases
+109-4,109,Benefactive and other; only transitive,Benefactive and other; transitive base only
+109-5,109,Non-benefactive object; both bases,Non-benefactive object only; both bases
+109-6,109,Non-benefactive object; only transitive,Non-benefactive object only; transitive base only
+109-7,109,Non-benefactive object; only intransitive,Non-benefactive object only; intransitive base only
+109-8,109,No applicative construction,No applicative construction
+110-1,110,Sequential but no purposive,Sequential type but no purposive type
+110-2,110,Purposive but no sequential,Purposive type but no sequential type
+110-3,110,Both,Both sequential type and purposive type
+111-1,111,Neither,No morphological type or compound type
+111-2,111,Morphological but no compound,Morphological type but no compound type
+111-3,111,Compound but no morphological,Compound type but no morphological type
+111-4,111,Both,Both morphological type and compound type
+112-1,112,Negative affix,Negative affix
+112-2,112,Negative particle,Negative auxiliary verb
+112-3,112,Negative auxiliary verb,Negative particle
+112-4,112,"Negative word, unclear if verb or particle","Negative word, unclear if verb or particle"
+112-5,112,Variation between negative word and affix,Variation between negative word and affix
+112-6,112,Double negation,Double negation
+113-1,113,Symmetric,Symmetric standard negation only: Type Sym
+113-2,113,Asymmetric,Asymmetric standard negation only: Type Asy
+113-3,113,Both,Symmetric and asymmetric standard negation: Type SymAsy
+114-1,114,A/Fin,In finiteness: Subtype A/Fin
+114-2,114,A/NonReal,In reality status: Subtype A/NonReal
+114-3,114,A/Cat,In other grammatical categories: Subtype A/Cat
+114-4,114,A/Fin and A/NonReal,In finiteness and reality status: Subtypes A/Fin and A/NonReal
+114-5,114,A/Fin and A/Cat,In finiteness and other grammatical categories: Subtypes A/Fin and A/Cat
+114-6,114,A/NonReal and A/Cat,In reality status and other grammatical categories: Subtypes A/NonReal and A/Cat
+114-7,114,Non-assignable,Non-assignable (no asymmetry found)
+115-1,115,Predicate negation also present,Negative indefinites co-occur with predicate negation
+115-2,115,No predicate negation,Negative indefinites preclude predicate negation
+115-3,115,Mixed behaviour,Negative indefinites show mixed behaviour
+115-4,115,Negative existential construction,Negative existential construction
+116-1,116,Question particle,Question particle
+116-2,116,Interrogative verb morphology,Interrogative verb morphology
+116-3,116,Mixture of previous two types,Question particle and interrogative verb morphology
+116-4,116,Interrogative word order,Interrogative word order
+116-5,116,Absence of declarative morphemes,Absence of declarative morphemes
+116-6,116,Interrogative intonation only,Interrogative intonation only
+116-7,116,No interrogative-declarative distinction,No interrogative-declarative distinction
+117-1,117,Locational,Locational Possessive
+117-2,117,Genitive,Genitive Possessive
+117-3,117,Topic,Topic Possessive
+117-4,117,Conjunctional,Conjunctional Possessive
+117-5,117,'Have',Have-Possessive
+118-1,118,Verbal encoding,Predicative adjectives have verbal encoding
+118-2,118,Nonverbal encoding,Predicative adjectives have nonverbal encoding
+118-3,118,Mixed,Predicative adjectives have mixed encoding
+119-1,119,Different,Split (i.e. different) encoding of nominal and locational predication
+119-2,119,Identical,Shared (i.e. identical) encoding of nominal and locational predication
+120-1,120,Impossible,Zero copula is impossible
+120-2,120,Possible,Zero copula is possible
+121-1,121,Locational,Locational Comparative
+121-2,121,Exceed,Exceed Comparative
+121-3,121,Conjoined,Conjoined Comparative
+121-4,121,Particle,Particle Comparative
+122-1,122,Relative pronoun,Relative pronoun
+122-2,122,Non-reduction,Non-reduction
+122-3,122,Pronoun-retention,Pronoun-retention
+122-4,122,Gap,Gap
+123-1,123,Relative pronoun,Relative Pronoun Strategy
+123-2,123,Non-reduction,Non-Reduction Strategy
+123-3,123,Pronoun-retention,Pronoun-Retention Strategy
+123-4,123,Gap,Gap Strategy
+123-5,123,Not possible,Not possible
+124-1,124,Subject is left implicit,The complement subject is left implicit
+124-2,124,Subject is expressed overtly,The complement subject is expressed overtly
+124-3,124,Both construction types exist,Both construction types exist
+124-4,124,Desiderative verbal affix,'Want' is expressed as a desiderative verbal affix
+124-5,124,Desiderative particle,'Want' is expressed as an uninflected desiderative particle
+125-1,125,Balanced,Balanced
+125-2,125,Balanced/deranked,Balanced/deranked
+125-3,125,Deranked,Deranked
+126-1,126,Balanced,Balanced
+126-2,126,Balanced/deranked,Balanced/deranked
+126-3,126,Deranked,Deranked
+127-1,127,Balanced,Balanced
+127-2,127,Balanced/deranked,Balanced/deranked
+127-3,127,Deranked,Deranked
+128-1,128,Balanced,Balanced
+128-2,128,Balanced/deranked,Balanced/deranked
+128-3,128,Deranked,Deranked
+129-1,129,Identical,Identity: a single word denotes both 'hand' and 'arm'
+129-2,129,Different,"Differentiation: one word denotes 'hand' and another, different word denotes 'arm'"
+130-1,130,Identical,Identity: a single word denotes both 'hand' and 'finger' and/or 'fingers'
+130-2,130,Different,"Differentiation: one word denotes 'hand' and another, different word denotes 'finger' (or, very rarely, 'fingers')"
+131-1,131,Decimal,Decimal
+131-2,131,Hybrid vigesimal-decimal,Hybrid vigesimal-decimal
+131-3,131,Pure vigesimal,Pure vigesimal
+131-4,131,Other base,Other base
+131-5,131,Extended body-part system,Extended body-part system
+131-6,131,Restricted,Restricted
+132-1,132,3,3 categories
+132-2,132,3.5,Between 3 and 4 categories
+132-3,132,4,4 categories
+132-4,132,4.5,Between 4 and 5 categories
+132-5,132,5,5 categories
+132-6,132,5.5,Between 5 and 6 categories
+132-7,132,6,6 categories
+133-1,133,3-4,"3, between 3 and 4, or 4 categories"
+133-2,133,4.5-5.5,"Between 4 and 5, 5, or between 5 and 6 categories"
+133-3,133,6-6.5,6 or between 6 and 7 categories
+133-4,133,7-7.5,7 or between 7 and 8 categories
+133-5,133,8-8.5,8 or between 8 and 9 categories
+133-6,133,9-10,"9, between 9 and 10, or 10 categories"
+133-7,133,11,More than 10 categories
+134-1,134,Green vs. blue,Green and blue
+134-2,134,Green/blue,Green-or-blue ('grue')
+134-3,134,Black/green/blue,Black-or-green-or-blue
+134-4,134,Black/blue vs. green,Black-or-blue and green
+134-5,134,Yellow/green/blue,Yellow-or-green-or-blue
+134-6,134,Yellow/green vs. blue,Yellow-or-green and blue
+134-7,134,None,Green and blue not both encoded in any basic color term
+135-1,135,Red vs. yellow,Red and yellow
+135-2,135,Red/yellow,Red-or-yellow
+135-3,135,Yellow/green/blue vs. red,Red and yellow-or-green-or-blue
+135-4,135,Yellow/green vs. red,Red and yellow-or-green
+135-5,135,None,Red and yellow not both encoded in any basic color term
+136-1,136,No M-T pronouns,No M-T pronouns
+136-2,136,"M-T pronouns, paradigmatic","M-T pronouns, paradigmatic"
+136-3,136,"M-T pronouns, non-paradigmatic","M-T pronouns, non-paradigmatic"
+137-1,137,No N-M pronouns,No N-M pronouns
+137-2,137,"N-M pronouns, paradigmatic","N-M pronouns, paradigmatic"
+137-3,137,"N-M pronouns, non-paradigmatic","N-M pronouns, non-paradigmatic"
+138-1,138,Words derived from Sinitic cha,Words derived from Sinitic cha
+138-2,138,Words derived from Min Nan Chinese te,Words derived from Min Nan Chinese te
+138-3,138,Others,Others
+139-1,139,None,No irregular negatives
+139-2,139,One,One irregular negative
+139-3,139,Some (2-5),Some irregular negatives (2-5)
+139-4,139,Many (more than 5),Many irregular negatives (more than 5)
+140-1,140,None,No question particle
+140-2,140,One,One question particle
+140-3,140,More than one,More than one question particle
+141-1,141,Alphabetic,Alphabetic
+141-2,141,Consonantal,Consonantal
+141-3,141,Alphasyllabic,Alphasyllabic
+141-4,141,Syllabic,Syllabic
+141-5,141,Logographic,Logographic
+141-6,141,Mixed logographic–syllabic,Mixed logographic–syllabic
+142-1,142,Logical meanings,Clicks may express logical meanings ('yes' and/or 'no')
+142-2,142,Affective meanings,Clicks may express affective but not logical meanings
+142-3,142,Other or none,Clicks may express neither affective nor logical meanings

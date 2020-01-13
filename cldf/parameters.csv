@@ -1,0 +1,143 @@
+ID,Name,Description,Contributor_ID,Area
+1,Consonant Inventories,,maddiesoni,Phonology
+2,Vowel Quality Inventories,,maddiesoni,Phonology
+3,Consonant-Vowel Ratio,,maddiesoni,Phonology
+4,Voicing in Plosives and Fricatives,,maddiesoni,Phonology
+5,Voicing and Gaps in Plosive Systems,,maddiesoni,Phonology
+6,Uvular Consonants,,maddiesoni,Phonology
+7,Glottalized Consonants,,maddiesoni,Phonology
+8,Lateral Consonants,,maddiesoni,Phonology
+9,The Velar Nasal,,andersongds,Phonology
+10,Vowel Nasalization,,hajekj,Phonology
+11,Front Rounded Vowels,,maddiesoni,Phonology
+12,Syllable Structure,,maddiesoni,Phonology
+13,Tone,,maddiesoni,Phonology
+14,Fixed Stress Locations,,goedemansr vanderhulsth,Phonology
+15,Weight-Sensitive Stress,,goedemansr vanderhulsth,Phonology
+16,Weight Factors in Weight-Sensitive Stress Systems,,goedemansr vanderhulsth,Phonology
+17,Rhythm Types,,goedemansr vanderhulsth,Phonology
+18,Absence of Common Consonants,,maddiesoni,Phonology
+19,Presence of Uncommon Consonants,,maddiesoni,Phonology
+20,Fusion of Selected Inflectional Formatives,,bickelb nicholsj,Morphology
+21,Exponence of Selected Inflectional Formatives,,bickelb nicholsj,Morphology
+22,Inflectional Synthesis of the Verb,,bickelb nicholsj,Morphology
+23,Locus of Marking in the Clause,,nicholsj bickelb,Morphology
+24,Locus of Marking in Possessive Noun Phrases,,nicholsj bickelb,Morphology
+25,Locus of Marking: Whole-language Typology,,nicholsj bickelb,Morphology
+26,Prefixing vs. Suffixing in Inflectional Morphology,,dryerms,Morphology
+27,Reduplication,,rubinoc,Morphology
+28,Case Syncretism,,baermanm brownd,Morphology
+29,Syncretism in Verbal Person/Number Marking,,baermanm brownd,Morphology
+30,Number of Genders,,corbettgg,Nominal Categories
+31,Sex-based and Non-sex-based Gender Systems,,corbettgg,Nominal Categories
+32,Systems of Gender Assignment,,corbettgg,Nominal Categories
+33,Coding of Nominal Plurality,,dryerms,Nominal Categories
+34,Occurrence of Nominal Plurality,,haspelmathm,Nominal Categories
+35,Plurality in Independent Personal Pronouns,,danielm,Nominal Categories
+36,The Associative Plural,,danielm moravcsike,Nominal Categories
+37,Definite Articles,,dryerms,Nominal Categories
+38,Indefinite Articles,,dryerms,Nominal Categories
+39,Inclusive/Exclusive Distinction in Independent Pronouns,,cysouwm,Nominal Categories
+40,Inclusive/Exclusive Distinction in Verbal Inflection,,cysouwm,Nominal Categories
+41,Distance Contrasts in Demonstratives,,diesselh,Nominal Categories
+42,Pronominal and Adnominal Demonstratives,,diesselh,Nominal Categories
+43,Third Person Pronouns and Demonstratives,,bhatdns,Nominal Categories
+44,Gender Distinctions in Independent Personal Pronouns,,siewierskaa,Nominal Categories
+45,Politeness Distinctions in Pronouns,,helmbrechtj,Nominal Categories
+46,Indefinite Pronouns,,haspelmathm,Nominal Categories
+47,Intensifiers and Reflexive Pronouns,,konige siemundp toppers,Nominal Categories
+48,Person Marking on Adpositions,,bakkerd,Nominal Categories
+49,Number of Cases,,iggesenoa,Nominal Categories
+50,Asymmetrical Case-Marking,,iggesenoa,Nominal Categories
+51,Position of Case Affixes,,dryerms,Nominal Categories
+52,Comitatives and Instrumentals,,stolzt strohc urdzea,Nominal Categories
+53,Ordinal Numerals,,stolzt veselinovaln,Nominal Categories
+54,Distributive Numerals,,gild,Nominal Categories
+55,Numeral Classifiers,,gild,Nominal Categories
+56,Conjunctions and Universal Quantifiers,,gild,Nominal Categories
+57,Position of Pronominal Possessive Affixes,,dryerms,Nominal Categories
+58,Obligatory Possessive Inflection,,bickelb nicholsj,Nominal Syntax
+59,Possessive Classification,,nicholsj bickelb,Nominal Syntax
+60,"Genitives, Adjectives and Relative Clauses",,gild,Nominal Syntax
+61,Adjectives without Nouns,,gild,Nominal Syntax
+62,Action Nominal Constructions,,koptjevskajatammm,Nominal Syntax
+63,Noun Phrase Conjunction,,stassenl,Nominal Syntax
+64,Nominal and Verbal Conjunction,,haspelmathm,Nominal Syntax
+65,Perfective/Imperfective Aspect,,dahlo velupillaiv,Verbal Categories
+66,The Past Tense,,dahlo velupillaiv,Verbal Categories
+67,The Future Tense,,dahlo velupillaiv,Verbal Categories
+68,The Perfect,,dahlo velupillaiv,Verbal Categories
+69,Position of Tense-Aspect Affixes,,dryerms,Verbal Categories
+70,The Morphological Imperative,,vanderauweraj lejeunel pappuswamyu goussevv,Verbal Categories
+71,The Prohibitive,,vanderauweraj lejeunel goussevv,Verbal Categories
+72,Imperative-Hortative Systems,,vanderauweraj dobrushinan goussevv,Verbal Categories
+73,The Optative,,dobrushinan vanderauweraj goussevv,Verbal Categories
+74,Situational Possibility,,vanderauweraj ammanna,Verbal Categories
+75,Epistemic Possibility,,vanderauweraj ammanna,Verbal Categories
+76,Overlap between Situational and Epistemic Modal Marking,,vanderauweraj ammanna,Verbal Categories
+77,Semantic Distinctions of Evidentiality,,dehaanf,Verbal Categories
+78,Coding of Evidentiality,,dehaanf,Verbal Categories
+79,Suppletion According to Tense and Aspect,,veselinovaln,Verbal Categories
+80,Verbal Number and Suppletion,,veselinovaln,Verbal Categories
+81,"Order of Subject, Object and Verb",,dryerms,Word Order
+82,Order of Subject and Verb,,dryerms,Word Order
+83,Order of Object and Verb,,dryerms,Word Order
+84,"Order of Object, Oblique, and Verb",,dryerms genslerod,Word Order
+85,Order of Adposition and Noun Phrase,,dryerms,Word Order
+86,Order of Genitive and Noun,,dryerms,Word Order
+87,Order of Adjective and Noun,,dryerms,Word Order
+88,Order of Demonstrative and Noun,,dryerms,Word Order
+89,Order of Numeral and Noun,,dryerms,Word Order
+90,Order of Relative Clause and Noun,,dryerms,Word Order
+91,Order of Degree Word and Adjective,,dryerms,Word Order
+92,Position of Polar Question Particles,,dryerms,Word Order
+93,Position of Interrogative Phrases in Content Questions,,dryerms,Word Order
+94,Order of Adverbial Subordinator and Clause,,dryerms,Word Order
+95,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,,dryerms,Word Order
+96,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,,dryerms,Word Order
+97,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,,dryerms,Word Order
+98,Alignment of Case Marking of Full Noun Phrases,,comrieb,Simple Clauses
+99,Alignment of Case Marking of Pronouns,,comrieb,Simple Clauses
+100,Alignment of Verbal Person Marking,,siewierskaa,Simple Clauses
+101,Expression of Pronominal Subjects,,dryerms,Simple Clauses
+102,Verbal Person Marking,,siewierskaa,Simple Clauses
+103,Third Person Zero of Verbal Person Marking,,siewierskaa,Simple Clauses
+104,Order of Person Markers on the Verb,,siewierskaa,Simple Clauses
+105,Ditransitive Constructions: The Verb 'Give',,haspelmathm,Simple Clauses
+106,Reciprocal Constructions,,maslovae nedjalkovvp,Simple Clauses
+107,Passive Constructions,,siewierskaa,Simple Clauses
+108,Antipassive Constructions,,polinskym,Simple Clauses
+109,Applicative Constructions,,polinskym,Simple Clauses
+110,Periphrastic Causative Constructions,,songjj,Simple Clauses
+111,Nonperiphrastic Causative Constructions,,songjj,Simple Clauses
+112,Negative Morphemes,,dryerms,Simple Clauses
+113,Symmetric and Asymmetric Standard Negation,,miestamom,Simple Clauses
+114,Subtypes of Asymmetric Standard Negation,,miestamom,Simple Clauses
+115,Negative Indefinite Pronouns and Predicate Negation,,haspelmathm,Simple Clauses
+116,Polar Questions,,dryerms,Simple Clauses
+117,Predicative Possession,,stassenl,Simple Clauses
+118,Predicative Adjectives,,stassenl,Simple Clauses
+119,Nominal and Locational Predication,,stassenl,Simple Clauses
+120,Zero Copula for Predicate Nominals,,stassenl,Simple Clauses
+121,Comparative Constructions,,stassenl,Simple Clauses
+122,Relativization on Subjects,,comrieb kutevat,Complex Sentences
+123,Relativization on Obliques,,comrieb kutevat,Complex Sentences
+124,'Want' Complement Subjects,,haspelmathm,Complex Sentences
+125,Purpose Clauses,,cristofaros,Complex Sentences
+126,'When' Clauses,,cristofaros,Complex Sentences
+127,Reason Clauses,,cristofaros,Complex Sentences
+128,Utterance Complement Clauses,,cristofaros,Complex Sentences
+129,Hand and Arm,,brownch,Lexicon
+130,Finger and Hand,,brownch,Lexicon
+131,Numeral Bases,,comrieb,Lexicon
+132,Number of Non-Derived Basic Colour Categories,,kayp maffil,Lexicon
+133,Number of Basic Colour Categories,,kayp maffil,Lexicon
+134,Green and Blue,,kayp maffil,Lexicon
+135,Red and Yellow,,kayp maffil,Lexicon
+136,M-T Pronouns,,nicholsj petersonda,Lexicon
+137,N-M Pronouns,,nicholsj petersonda,Lexicon
+138,Tea,,dahlo,Lexicon
+139,Irregular Negatives in Sign Languages,,zeshanu,Sign Languages
+140,Question Particles in Sign Languages,,zeshanu,Sign Languages
+141,Writing Systems,,comrieb,Other
+142,Para-Linguistic Usages of Clicks,,gild,Other

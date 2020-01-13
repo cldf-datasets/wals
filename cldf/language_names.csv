@@ -1,0 +1,4913 @@
+Language_ID,Name,Provider
+xun,!Khung,other
+xoo,!Xo,other
+xoo,!Xo'o~,other
+juh xun,!Xu,other
+juh,!Xu (Ju/'hoan),other
+xun,!Xun,other
+xoo,!Xóõ (Lone Tree),other
+xoo,"!Xóõ, Lone Tree dialect",other
+haw,'Olelo Hawai'i,other
+brm,(Colloquial) Burmese,other
+tod,(s)Tod,other
+abz,Abazin,other
+ayn,Abdal,other
+amb,Abelam,other
+amb,Abulas,other
+ady,Abzakh,other
+ady,Abzax,other
+kwe,Acatec,other
+ach,Ache,other
+acu,Achual,other
+acl,Acooli,other
+fua,Adamawa (Fula),other
+fua,Adamawa Fulani,other
+hrr,Adare,other
+bni,Addo,other
+afr,Afrikaans (Standard),other
+awn bln kem,Agaw,other
+ayi,Agni,other
+ayi,Agni',other
+agc,Agta,other
+agu,Aguatec Maya,other
+agu,Aguateca,other
+agl,Agul,other
+run,Aiki,other
+run,Aiki (Runga),other
+ain,Ainu (Hokkaido),other
+ain,"Ainu, Hokkaido dialect",other
+kwb,Air Mati,other
+kwb,Airmati,other
+aji,Ajie,other
+apk,Aka-Bojígíab,other
+akc,Aka-Charíar,other
+ktl,Akalak,other
+akl,Aklan,other
+acl,Akoli,other
+alu,Al'utor,other
+tlb,Alabugat Tatar-Nogai,other
+qaw,Alacaluf,other
+kyn,Alaska,other
+alb,"Albanian, Tosk dialect",other
+ale,"Aleut, Eastern",other
+aly,Alyawarre,other
+ma,Amadi,other
+amo,Amap,other
+aml,Ambae (Lolovoli),other
+lnw,Ambrym,other
+lnw,Ambrym (Lonwolwol),other
+sea,Ambrym (Southeast),other
+amd,Amdo Tibetan,other
+asl,Ameslan,other
+niv,Amur,other
+akb akc akk apk gan,Andamanese,other
+gan,Andamanese (Great Andaman),other
+gan,Andamanese (Great),other
+gan,"Andamanese, Great Andaman dialect",other
+obo,Andoni,other
+npi,Anglo-Nigerian Pidgin,other
+awn,Angwi Agaw,other
+fut,Aniwa,other
+any,Anuak,other
+yny,Anyula,other
+omi,Aomie,other
+apw,Apache (San Carlos),other
+apj,"Apache, Jicarilla",other
+apc,"Apache, Mescalero",other
+saa,Apae'aa,other
+kap,Apoze,other
+gpz,Appenzel,other
+apu,Apurina,other
+abn,Arabana-Wangkangurru,other
+aeg,Arabic (Cairene Egyptian Colloquial),other
+aeg,Arabic (Cairene),other
+abb,Arabic (Chadian),other
+aeg,Arabic (Colloquial Egyptian),other
+ael,Arabic (Cyrenaican Libyan),other
+ael,Arabic (East Libyan),other
+ams,Arabic (Modern Literary),other
+ars,Arabic (North Yemen),other
+ars,Arabic (Northern Yemeni),other
+ars,Arabic (Sanaani Spoken),other
+atu,Arabic (Tunis),other
+arh,"Arabic, Bedouin-Hijazi ",other
+asy,"Arabic, Damascene",other
+arv,"Arabic, Negev Bedouin",other
+naa,Aramaic (Amadia),other
+naa,Aramaic (Amadiya),other
+naj,Aramaic (Arbel Jewish),other
+arr,Aranda,other
+awe,Aranda (Western) ,other
+awe,"Aranda, Western",other
+map,Araucana,other
+ara,Arawak (Lokono Dian),other
+ara,Arawak (Lokono),other
+ara,Arawak (Surinam),other
+pir,Arawakan (Piro),other
+naj,Arbel Jewish Aramaic,other
+naj,Arbili Neo Aramaic,other
+arx,Areare,other
+tew,Arizona Tewa,other
+mik,Arleng Alam,other
+arm,Armenian (East),other
+arw,Armenian (West),other
+amp,Arrernte (Eastern),other
+akn,Asante,other
+cax,Asheninca (Campa),other
+asm,Asmat (Flamingo Bay),other
+nsy,Assyrian,other
+nsy,Assyrian Neo-Aramaic,other
+mxa,Atatlahuca Mixtec,other
+tes,Ateso,other
+ati,Attikamek,other
+adn,Atynyamatana,other
+adn,Atynyamathanha,other
+wao,Auca,other
+wao,"Auca, Huao",other
+ahu,Auju,other
+bch,Aurès (Ait Frah),other
+awt,Autu,other
+ava,"Avar, Khunza dialect",other
+avo,Avukaya,other
+awp,Awa-Kwaiker,other
+awn,Awiya,other
+awy,Awji,other
+ahu,Awju,other
+agt,Awngthim,other
+hwr,Awroman,other
+cax,Axininca Campa,other
+chu,Axluslay,other
+chu,Axluxlay,other
+ayo,Ayaman,other
+ayo,Ayamán,other
+mxt,Ayutla Mixtec,other
+mxt,Ayutla Mixteco,other
+zan,Azande,other
+brd,Baadi,other
+pkn,Baagandji,other
+bak,Babinga,other
+obk,Baburiwa,other
+ngj,Badonjunga,other
+kuu,Bagadji,other
+pkn,Bagandji,other
+arq,Bagdahdi Arabic,other
+bgr,Bagero,other
+bgv,Bagwalal,other
+bjs,Bajau Asli,other
+bak,Baka (Cameroon),other
+sng,Balawaia,other
+ldu,Baledha,other
+les,Balese,other
+bal,Bali,other
+blc,Balochi,other
+lnd,Banda Linda,other
+lnd,Banda-Linda,other
+byu,Bandjalang (Yugambeh),other
+tnn,Banen,other
+ben,Bangla,other
+bnw,Baniwa (Icana),other
+bnw,Baniwa of Icana,other
+bnw,Baniwa-Kurripako,other
+lmn,Banjuri,other
+wah,Banz,other
+ble,Baoule,other
+kac,Bara,other
+ttb,Baraba Tatar,other
+brl,Baragaon,other
+kbr,Baram Kayan,other
+brs,Barasano (Southern),other
+cba,Barbareno Chumash,other
+cba,Barbareño Chumash,other
+bae,Bare,other
+pna,Bare'e,other
+nar,Barea,other
+nar,"Barea, Barya, Nera",other
+bua,Barera,other
+ber,Barta,other
+bry,Barua,other
+nar,Barya,other
+bas,Basa,other
+ktz,Bashgali,other
+bsk,Bashkir (Bashqort),other
+bsk,Bashqort,other
+bsq,Basque (Central),other
+bqb,"Basque, Bidasoa Valley ",other
+bqg,"Basque, Gernica ",other
+bqh,"Basque, Hondarribia ",other
+bql,"Basque, Lekeitio ",other
+bqn,"Basque, Northern High Navarrese",other
+bqo,"Basque, Oñati ",other
+bqr,"Basque, Roncalese",other
+bqs,"Basque, Sakana",other
+bso,"Basque, Souletin",other
+bqz,"Basque, Zeberio ",other
+bsq,"Basque, central",other
+ifu,Batad,other
+ifu,Batad Ifugao,other
+ttu,Batsbi,other
+ign,Baure (Ignaciano),other
+knm,Baza,other
+bej,Bedauye,other
+bee,Beembe (H.11),other
+beg,Begak-Idaan,other
+blr,Belarusan,other
+bco,Bella-Coola,other
+beb,Bena-Bena,other
+gim,Bencho,other
+bec,"Bengali, Chittagong",other
+bma,Berber (Ayt Ayache Middle Atlas),other
+bma,Berber (Ayt Ndhir Middle Atlas),other
+tgh,Berber (Ghat),other
+zen,Berber (Mauritania),other
+zen,Berber (Mauritanian),other
+bou,Berber (Ouargla),other
+bdc,Berbice Creole Dutch,other
+bar,Beri,other
+brk,Berik (Tor),other
+bsm,Bichelamar,other
+bkl,Bicolano (Central),other
+ppi,Bidhbidha,other
+nbb,Big Nambas,other
+sho,Big Smokey Valley Shoshoni,other
+mai,Bihari,other
+nak,Bileki,other
+bur,Biltum,other
+bia,Bira,other
+ceb,Bisaya Cebuano,other
+bej,Bischari,other
+mei,Bishnupriya,other
+buj,Bisio,other
+bsm,Bislaman,other
+grf,Black Carib,other
+bla,Blackfeet,other
+bnk,Bo,other
+apk,Bogijiab,other
+baw,Bom,other
+btk,Bontoc,other
+bor,Bora-Miranya,other
+orb,Boraana,other
+orb,Borana,other
+bod,Boro,other
+kll,Bosavi,other
+kbo,Botin,other
+fij,Boumaa Fijian,other
+nkb,Boun,other
+may,Brat,other
+bri,Bribri (Katsi),other
+bkt,Brok-skad,other
+brc,Brunka,other
+brw,"Bruu, Western",other
+pat,Buang,other
+bdk,Buduk,other
+bdk,Budux,other
+bug,Buginese,other
+rbu,Bugurdz,other
+rbu,Bugurdzi,other
+bun,Buin,other
+bkd mwb,Bukidnon,other
+arp,Bukiyip,other
+bsh,Bukuba,other
+bui,Buli (Indonesian),other
+buw,Bulu (Cameroon),other
+buw,Bulu (in Cameroon),other
+bum,Buma (Solomon Islands),other
+bum,Buma (in Solomon Islands),other
+ghr,Bunan,other
+bnj,Bundjalung,other
+bgo,Bungu,other
+mab,Bura-Mabang,other
+brm,Burmese (Colloquial),other
+bur,Burushaski (Yasin),other
+but,Buryat,other
+bus,Busa (in Nigeria),other
+bus,Busa-Bisa,other
+bsh,Bushona,other
+bsh,Bushonga,other
+snt,Buyaka,other
+zhn,Buyi,other
+kbw,Bwe Karen,other
+blr,Byelorussian,other
+mcs,C Sierra Miwok,other
+cab,Cabecar,other
+kun,Caiman Nuevo,other
+kng,Caingang,other
+efi,Calabar,other
+khm,Cambodian,other
+cax,Campa,other
+cax,Campa (Asheninca),other
+cax,Campa Ashaninca,other
+cam,Camsa,other
+xar,Canala,other
+cnm,Canamari,other
+ckr,Canela-Kraho,other
+sht,Caning,other
+cnt,Cantonese Chinese,other
+bro,Cape York Creole,other
+nca,Car,other
+nca,Car Nicobarese,other
+grf,Carib (Hopkins Island),other
+car,Carib (Suriname),other
+kri,Cariri,other
+kri,"Cariri, Kipea",other
+crq,Carrier (Central),other
+crq,"Carrier, Central",other
+ctl,"Catalan, Eastern",other
+cku,"Cathlamet, Wishram, Wasco-Wishram",other
+cas,Caxinyo,other
+ceb,Cebuano Visayan,other
+omh,Cegiha,other
+cem,Cemuhi,other
+agc,Central Agta,other
+nhc,Central Aztec ,other
+btk,Central Bontok,other
+agc,Central Cagayan,other
+pmc,Central Pomo,other
+mcs,Central Sierra Miwok,other
+tce,Central Tarahumara,other
+ynm,Central Waica,other
+cic,Cewa,other
+abb,Chad Arabic,other
+abb,Chadian Arabic,other
+chh,Chaha Gurage,other
+khl,Chaladsch,other
+mxc,Chalcatongo Mixtec,other
+cld,Chaldean,other
+ese,Chama,other
+ese,Chama (Tiatinagua),other
+ptt,Chamba,other
+wuc,Changzhou,other
+qay,Chanka,other
+chz,Chaozhou Chinese,other
+pre,Chasu,other
+xav,Chavante,other
+jeb,Chebero,other
+gud,Cheke,other
+mme,Cheremis (Eastern),other
+mme,Cheremis (Low),other
+che,"Cherokee, North Carolina",other
+cic,Chewa,other
+qia,Chiang,other
+cjo,Chichimec,other
+cjo,Chichimeco,other
+cck,"Chickasaw, Oklahoma",other
+lai,Chin (Lai),other
+cti,Chin (Tedim),other
+chq,"Chinantec, Highland, Quiotepec dialect",other
+csf,"Chinantec, San Felipe Usila",other
+chz cnt fuz hak hok kug mnd taq wuc xia,Chinese,other
+cnt,Chinese (Cantonese),other
+chz,Chinese (Chaozhou),other
+hok,Chinese (Hokkien),other
+kug,Chinese (Kunming),other
+mnd,Chinese (Mandarin),other
+ngo,Chingoni,other
+jng,Chingpaw,other
+jng,"Chingpaw, Jingphaw",other
+jin,Chino,other
+ckl,Chinook,other
+nse,Chinsenga,other
+apc,Chiricahua Apache,other
+bec,Chittagonian Bengali,other
+oto,Chiwere,other
+cmy,Chontal (Mayan),other
+cmy,Chontal (Tabasco),other
+coi,Chorti,other
+chk,Chukchee,other
+idu,Chulikata,other
+chu,Chulup,other
+cly,Chulym Turkic,other
+cba,Chumash (Barbareno),other
+cin,Chumash (Ineseno),other
+cum,Chumburu,other
+deu,Chutiya,other
+cil,CiLuba (L 31a),other
+bem,Cibemba,other
+nko,Ciga,other
+mmw,Cimambwe,other
+nse,Cinsenga,other
+kab,Circassian (East),other
+adt ady ash,Circassian (West),other
+pme,Clear Lake Pomo,other
+tsi,Coast Tsimshian,other
+mco,Coatlan Mixe,other
+mxz,Coatzospan Mixtec,other
+mxz,Coatzospan Mixteco,other
+qco,Cochabamba Quechua,other
+kun,Columbia Cuna,other
+oka,Colville-Okanagan,other
+ccm,Comaltepec Chinantec,other
+coo,Coos,other
+zqc,Copainalá Zoque,other
+tri,Copala Trique,other
+tri,Copala-Trique,other
+aht,Copper River,other
+cop,Coptic (Sahidic),other
+kje,Coreguaja,other
+mxj,Costal Mixteco,other
+tso,Cou,other
+apw,Coyotero,other
+krh,Craho,other
+bdc,Creole (Berbice Dutch),other
+hcr,Creole (Haitian),other
+hwc,Creole (Hawaiian),other
+jcr,Creole (Jamaican),other
+mcr,Creole (Mauritian),other
+gbc,Crioulo (Guinea Bissau),other
+scr,Croatian,other
+awp,Cuaiquer,other
+cui,Cuiva,other
+cul,Culina (Madija),other
+kun,Cuna,other
+nis,Dafla,other
+dga,Dagare,other
+dgb,Dagomba,other
+ddf,"Daju, Dar Fur dialect",other
+crq,Dakelh,other
+crq,Dakelh (Nak'albun/Dzinghubun),other
+msk,Daloka,other
+dnw,"Dangaleat, Western",other
+ga,Dangme,other
+dni,Dani,other
+ddf,Dar Fur Daju,other
+mid,Darfur-Nubian,other
+drg,Dargi,other
+drg,Darginski,other
+drg,Dargva,other
+dri,Dari (in Afghanistan),other
+emb,Darien,other
+emb,Darien Embera,other
+drm,Darma Lwo,other
+msk,Darra,other
+dha,Dasenech,other
+dat,Datoga,other
+kul,Dawuro,other
+tbu,Dazaga,other
+cde,De'kwana Carib,other
+gmz,Debuga,other
+dre,Dehu,other
+mse unm,Delaware,other
+ccp,Delta River Yuman,other
+chp,Dene,other
+den,Deni,other
+deu,Deori,other
+dha,Dhaasanac,other
+omh,Dhegiha,other
+omh,Dhegiha (Ponca),other
+luo,Dholuo,other
+djp,Dhuwal,other
+djp,Dhuwala,other
+tja,Diegueño (Jamul),other
+die,"Diegueño, Mesa Grande dialect",other
+dig,Digaro Mishmi,other
+dim,Dima,other
+zaz,Dimili,other
+dio,Diola Fogny,other
+gim,Dizu,other
+djm,Djambarbwingu,other
+djp,Djapu Yolngu,other
+tye,Djeraidy,other
+ndy,Djuka,other
+doy,Doayo,other
+dts,"Dogon, Toro So dialect",other
+dog,Dogoso,other
+eud,Dohema,other
+nwd,Dolakha Newari,other
+don,Dong (Southern),other
+nbd,Dongola,other
+nbd,Dongolese Nubian,other
+dog,Donno So Dogon,other
+doy,Dooyaangyo,other
+doy,Dooyaayo,other
+dua,Douala,other
+dul,Drung,other
+pta,Drùbea,other
+duk,Dukawa,other
+dug,Dullay,other
+sta,Dunsyan,other
+ygd,Duru,other
+zar,Dyerma,other
+dio,Dyola,other
+wlf,Dyolof,other
+ndy,Dyuka,other
+jad,Dzad,other
+bob,Dzamba,other
+dng,Dzing,other
+amp,E Aranda,other
+arm,E Armenian,other
+kyl,E Kayah,other
+mag,E Magar,other
+tab,E Makian,other
+mge,E Mnong,other
+oji,E Ojibwa,other
+pme,E Pomo,other
+wll,E Uvea,other
+arm,E. Armenian,other
+amp,E. Arrernte,other
+mme,E. Cheremis,other
+mag,E. Magar,other
+tab,E. Makian,other
+mge,E. Mnong,other
+oji,E. Ojibwa,other
+pme,E. Pomo,other
+wll,E. Uvea,other
+toa,East Elema,other
+gre,East Greenlandic,other
+tab,East Makian,other
+wll,East Uvea,other
+tex,East/Central Xorasan Turkic,other
+rap,Easter Island,other
+arm,Eastern Armenian,other
+brr,Eastern Bororo,other
+mme,Eastern Cheremis,other
+cea,Eastern Cree,other
+kyl,Eastern Kayah,other
+kyl,Eastern Kayah Li,other
+hem,Eastern Luba,other
+mag,Eastern Magar,other
+mxp,Eastern Mixteco,other
+mge,Eastern Mnong,other
+oji,Eastern Ojibwa,other
+orh,Eastern Oromo,other
+pme,Eastern Pomo,other
+egn,Egene,other
+aeg,Egyptian Arabic,other
+aeg,Egyptian Colloquial Arabic,other
+eka,Ekagi,other
+gus,Ekegusii,other
+tvl,Ellice,other
+cat,Embera-Catio,other
+epe,Embera-Saija,other
+nze,Empeo,other
+emb,Empera,other
+mae,Emwae,other
+kyk,Enga (Kyaka),other
+mce,English (Mískito Coast Creole),other
+eng,English (Standard Southern British),other
+ann,Enindhilyagwa,other
+knp,Enkelembu,other
+err,Erromanga,other
+moe,Erza-Mordvin,other
+ese,Ese-ejja,other
+ese,Eseejja,other
+ysi,Eskimo (Sirenik),other
+ese,Essejja,other
+yuc,Euchee,other
+akn,Fante,other
+akn,Fante Akan,other
+akn,"Fante, Twi",other
+akn,Fanti,other
+blg,Farangao,other
+mrs,Faranyao,other
+prs,Farsi,other
+fas,Fasu (Namo Me),other
+fef,Fe?fe?,other
+ttn,Fehan,other
+kar,Fer,other
+bfg,Figuig,other
+fij,Fijian (Boumaa),other
+fij,"Fijian, Boumaa",other
+fij,"Fijian, Boumaa dialect",other
+tag,Filipino,other
+kfc,Fitzroy Crossing Kriol,other
+duz,Flemish (Zeeuws),other
+dio,Fogny,other
+fon,Fon,other
+fuz,Foochow,other
+lcr,French (Lesser Antillean Creole),other
+sey,French (Seychelles Creole),other
+fea,Frisian (Saterland),other
+kfy,Fu-Yu Kirghiz,other
+kfy,Fu-Yu Kyrgyz,other
+fuz,Fuchow,other
+fua,Fulani (Adamawa),other
+fbf,Fulfulde (Burkina Faso),other
+fua,Fulfulde (Cameroonian),other
+fma,Fulfulde (Mauritanian),other
+ful,Fulnio,other
+fut,Futua,other
+fue,Futunan (East),other
+gdk,Gadaba (Pottangi Ollar),other
+aga,Gadsup (Agarabi),other
+gae,Gaelic (Scottish),other
+irm,"Gaelic, Munster",other
+gaa,Gagudju,other
+gay,Gajo,other
+ngm,Gambai,other
+mkg,Gambian Mandinka,other
+kmw,Gamor,other
+kmw,Gamu,other
+bnq,Gan,other
+lda,Ganda,other
+tap,Gapun,other
+krj,Garadjari,other
+gav,Gaviao,other
+gdf,Gavoko,other
+kay,Gayardilt,other
+bet,Gbadi,other
+bir,Gbang,other
+gbk,Gbaya Kaka,other
+gbk,Gbaya Kara 'Bodoe,other
+gbb,Gbeya,other
+gbb,Gbeya-Bossangoa,other
+gad,Gede,other
+dha,Geleba,other
+itg,Genovese,other
+gue,Gere,other
+lge,German (Low),other
+gtg,German (Swiss Thürgau),other
+gtg,German (Thürgau Swiss),other
+tgh,Ghat,other
+gid,Gidabul,other
+niv nvs,Gilyak,other
+hnk,Ginux,other
+dan,Gio,other
+kie,Giri,other
+kis,Gizi,other
+gdi,Godie,other
+nkn,Gonja,other
+grm,Gourmanchema,other
+grm,Gourmantche,other
+gro,Gouro,other
+dni,Grand Valley Dani,other
+gan,Great Andamanese,other
+aba,Green River,other
+gre,"Greenlandic, East",other
+gso,"Greenlandic, South",other
+ann,Groote Eylandt,other
+geo,Gruzinski,other
+gdl,Guadeloupean,other
+gdl,Guadeloupean Creole,other
+goa,Guajiro,other
+nkn,Guang,other
+gua,Guarani (Paraguayan),other
+crg,Guaraní (Eastern Bolivian),other
+wra,Guarau,other
+tpt,Guarayu (Paraguay),other
+tpt,Guarayú,other
+ach,Guayakí,other
+nbr,Guaymi,other
+nbr,Guaymí (Ngäbere),other
+kpe,Guerze,other
+kya,Gugu Yalanji,other
+guu,Gugu Yimijir,other
+kya,Gugu-Yalanji,other
+gfr,Guianese (French),other
+arg,Gulf Arabic,other
+gum,Gumbainggar,other
+gum,Gumbainggir,other
+wrb,Gunditjmara,other
+goo,Guniyan,other
+mny,Gunya,other
+chh,Gurage (Central West),other
+chh,Gurage (Chaha),other
+nep,Gurkhali,other
+grm,"Gurma (Gourma, Gourmantche, Gourmanch(ma)",other
+bad,Gusha Bade,other
+grg,Gutjertabia,other
+gjj,Gwazazara,other
+kir,Gwe,other
+kth,Gwich'in,other
+lai,Haka,other
+hak,"Hakka, Moi-yan dialect",other
+hlk,Halkomelem (Upriver),other
+hmr,Hamar,other
+ham,Hamtai (=Kapau),other
+hal,Hanahan,other
+kor,Hanguohua,other
+coo,Hanis,other
+coo,Hanis Coos,other
+orh,Harar,other
+orh,Harar Oromo,other
+hrr,Harari,other
+sla,Hare,other
+saw,Havunese,other
+knd,Havyaka,other
+hwc,Hawaiian Creole English,other
+hba,Hebrew (modern Ashkenazic),other
+hdi,Hedi,other
+eud,Heve,other
+jur,Hezhen,other
+umu,Hianacoto-Umaua ,other
+nhh,Hidalgo Nahuatl,other
+lug,High Lugbara,other
+chq,Highland Chinanteco,other
+cho,Highland Chontal,other
+mxl,Highland Guerrero Mixteco,other
+zqs,Highland Popoluca,other
+mie,Highland Yao,other
+hid,Hiraca,other
+mki,Hitchiti,other
+hmd,Hmong (White),other
+hmd,Hmong Dao,other
+wnb,Hochunk,other
+hok,Hokkien Chinese,other
+kho,Hottentot,other
+aji,Houailou,other
+hre,Hrey,other
+qhu,Huallaga Quechua,other
+chx,Huamelultec Oaxaca Chontal,other
+wao,Huao,other
+aik,Huari,other
+nhh,Huasteca Aztec,other
+nhh,Huasteca Nahuatl,other
+htc,Huasteco,other
+hve,Huave,other
+ess,Huelel,other
+hmu,Huitoto Muinane,other
+hnd,Hunde,other
+wya,Huron,other
+iaa,Iai,other
+ful,Iate,other
+ful,"Iate, Yatê",other
+igb,Ibo,other
+ika,Ica,other
+bem,Ichibemba,other
+btk,Igorot,other
+btk,Igorot Bontok,other
+ijo,Ijo (Central Western),other
+ijo,Ijo (North-Central),other
+ijo,"Ijo, North-Central",other
+ika,Ika (Colombia),other
+klz,Ikalanga,other
+kpo,Ikposso,other
+ill,Illinois (Wea),other
+hil,Ilonggo,other
+qim,Imbabura Quechua,other
+ipi,Indo-Pakistani Sign Language,other
+iir,Indonesian (Irianese),other
+cin,Ineseno Chumash,other
+cin,Ineseño,other
+cin,Ineseño Chumash,other
+dgx,Ingalik,other
+ann,Ingura,other
+grw,"Inuktitut, West Greenlandic",other
+inu,Inupiaq,other
+inu,Inupiat,other
+apu,Ipurina,other
+apu,Ipurinã,other
+lgi,Irangi,other
+irx,Irantxe,other
+arq,Iraqi Arabic,other
+iri,Irish Gaelic,other
+ird,"Irish, Donegal dialect",other
+gir,Iro,other
+sgu,Isangu,other
+zul,IsiZulu,other
+grf,Island Carib,other
+grf,"Island Carib, Carib (Island)",other
+tws,Isleta,other
+iso,"Isoko, Uzere dialect",other
+kiq,Issyk-Kul Kalmyk,other
+nmi,Isthumus Nahuatl,other
+ita,Italian (Roman),other
+ite,Itel'men,other
+itz,Itza,other
+itz,Itza Maya,other
+itz,Itzaj Maya,other
+syu,Iui,other
+ivs,"Ivatan, Southern",other
+iwa,Iwaidji,other
+inu,Iñupiat,other
+mii,Jabaal,other
+jab,Jabem,other
+jbt,Jabuti,other
+jak,Jacaltec,other
+mja,Jamiltepec Mixtec,other
+tja,Jamul Diegueño,other
+tja,Jamul Tiipay,other
+djn,Jandijinung,other
+yny,Janjula,other
+yqy,Jaqai,other
+jar,Jaranchi,other
+yei,Jei,other
+ylm,Jelmek,other
+jem,Jemez (Towa),other
+jem,Jemez Towa,other
+jia,Jiarong,other
+jiv,Jibaro,other
+mxj,Jicaltepec Mixtec,other
+tol,Jicaque,other
+pam,Jiliapan Pame,other
+jng,Jinghpo,other
+dji,Jingulu,other
+jin,Jinuo,other
+iwa,Jiwadja,other
+lov,Jruq,other
+juh,Ju'hoan,other
+nai,Juchen,other
+lno,Judeo Spanish,other
+lno,Judeo-Espagnol,other
+lno,Judeo-Spanish,other
+yug,Jug,other
+agt,Jupangati,other
+hpd,Jupda,other
+jlu,Jur,other
+juh,Ju|'hoan,other
+kab,Kabardino-Cherkes,other
+kbl,Kabyl,other
+nze,Kachcha Naga,other
+jng,Kachin,other
+moc,Kafa (Mo...a dialect),other
+kbu,Kaidi-Kanembu,other
+gbk,Kaka,other
+cak,Kakchiquel,other
+mou,Kala Moru,other
+klt,Kalabit,other
+kim,Kaladdarsch,other
+tay,Kaldosh,other
+nan,Kalenjin,other
+kkv,Kaliai,other
+kkv,Kaliai Kove,other
+car,Kalihna,other
+kzh,"Kam, Zhanglu dialect",other
+kma,Kamaiura,other
+mij,Kaman,other
+kma,Kamayura,other
+kba,Kamba (Bantu),other
+kba,Kamba (in Kenya),other
+ite,Kamchadal,other
+cam,Kame.ntzá,other
+cti,Kamhau,other
+kmu,Kammu,other
+knd,Kanarese,other
+knn,Kanauri,other
+kkv,Kandoka-Lusi,other
+cnl,Kanela,other
+kbu,Kanembu,other
+kgt,Kangiryuarmiut Eskimo,other
+mrs,Kaniran,other
+ham,Kapau,other
+eka,Kapauku,other
+sar,Kapriman,other
+bez,Kapuch,other
+kar,Kara (in Central African Rep),other
+tny,Karaboro,other
+krc,Karachay,other
+nok,Karagash Nogai,other
+nok,Karagash Nogay,other
+jva,Karaja,other
+kmj,Karamojong,other
+krg,Karanga (Central),other
+krt,Karatay,other
+mik,Karbi,other
+ksg,Karen,other
+kyl,Karen (Red),other
+kdg,Karipuná do Guaporé,other
+kri,Kariri,other
+bkr,Karo Batak,other
+bkr,Karo-Batak,other
+rwa,Karo/Rawa,other
+geo,Kartuli,other
+ksh,Kashaya (Southwestern Pomo),other
+ksh,Kashaya Pomo,other
+ksm,Kassena,other
+kti,Kate,other
+kti,Kate [sic],other
+cku,Kathlamet,other
+new,Kathmandu Newari,other
+ktz,Kativiri,other
+qaw,Kawesqar,other
+kyl,Kayah Li,other
+kyp,Kayapo,other
+kaz,Kazax,other
+kei,Keiese,other
+kel,Kele (Papua New Guinea),other
+kel,Kele (in Papua New Guinea),other
+mom,Kemelom,other
+keo,Keo,other
+ksa,Keres (Santa Ana Pueblo),other
+skm,Kesukuma,other
+arg,Khaliji,other
+kha,Khalkha Mongolian,other
+khu,Khami,other
+mkh,Khamnigan Mongol,other
+kty,Khanty (Northern),other
+kty,Khanty (Obdorsk),other
+kmu,Khmu,other
+kmu,"Khmu?, Northern",other
+bgn,Khoa,other
+kho,Khoekhoe,other
+kho,Khoekhoegowab,other
+hyo,Khyang,other
+kon,KiKongo,other
+swa,KiSwahili,other
+bir,Kibo,other
+laf,Kidie,other
+hnd,Kihunde,other
+kij,Kija,other
+kon,Kikongo,other
+ski,Kildin,other
+ski,Kildin Lappish,other
+ski,Kildin Saami,other
+hem,Kiluba-Hemba,other
+mtb,Kimatumbi,other
+mtb,Kimatuumbi,other
+nde,Kinande,other
+mbt,Kingbetu,other
+nbo,Kinyambo,other
+nym,Kinyamwezi,other
+kri,Kipea,other
+kri,Kipea Kiriri,other
+kri,Kipeá,other
+krb,Kiribatese,other
+kpn,Kirinit,other
+klv,Kiriwina,other
+rnd,Kirundi,other
+kss,"Kisi, Southern dialect",other
+sge,Kisonge,other
+tal,Kitalinga,other
+kiw,"Kiwai, Island dialect",other
+dob,Kobroor,other
+cog,Kogi,other
+cog,Kogui,other
+kal,Kohistani,other
+sre,Koho,other
+koy,Koi,other
+kwa,Koio,other
+coc,Kokama,other
+guu,Koko Imudji,other
+kuu,Koko-Ja'o,other
+mun,Kolh,other
+clc,"Koligian, Koladgin, Caligun, Coligan",other
+ijo,Kolokuma,other
+ijo,Kolokuma Ijo,other
+yko,Kolyma,other
+kom,Koma,other
+kop kzy,Komi,other
+bim,Komodo,other
+kjo,Kondjo,other
+kut,Kootenai,other
+wal,Koruon,other
+kot,Kota (in India),other
+lag,Kotoko-Logone,other
+kfe,Kouroumba,other
+hln,Koyong,other
+kch,Koyra Chiini Songhay,other
+kch,Koyra-Chiini,other
+kse,Koyraboro Senni Songhay,other
+kyn,Koyukon (Central),other
+kre,Kpala,other
+kpe,Kpele,other
+mcr,Kreol (Mauritian),other
+knq,Kriol (Roper River),other
+mlc,Kristang,other
+kla,Kru,other
+krz,Kryc,other
+bsh,Kuba,other
+bjs,Kubang,other
+kuk,Kuku (Bari),other
+knc,Kuku Nganhcara,other
+kya,Kuku Yalanji,other
+thp,Kuku-thaypan,other
+kuk,Kukú (d. of Bari),other
+pkn,Kula,other
+ynk,Kulpantja,other
+non,Kumaju,other
+die,Kumeyaay,other
+kun,Kuna de la Frontiera,other
+bkn,Kundu,other
+juh,Kung,other
+bur,Kunjut,other
+nku,Kunuz Nubian,other
+yin,Kurama,other
+kji,Kurdish (Kurmanji),other
+kji,Kurdish (Northern),other
+kku,Kurku,other
+kfe,Kurumfe,other
+kro,Kurungu,other
+kos,Kusaiean,other
+ypk,Kuskokwim Eskimo,other
+kus,Kusundu,other
+kuv,Kuwi,other
+kwk,Kwakwala,other
+kwo,Kwoma,other
+kyk,Kyaka Enga,other
+kgz,Kyrgyz,other
+kbu,Káidi-Kanembú,other
+cog,"Köggaba, Kágaba",other
+sre,Köho,other
+iql,Labrador Inuktitut,other
+iql,Labrador Inuttut,other
+lad,"Ladakhi, dialect of Leh",other
+lai,Lai (in Burma),other
+lai,Lai (in Myanmar),other
+lai,Lai Chin,other
+cmr,Lakher,other
+lkt,Lakhota (Teton),other
+lkt,Lakota,other
+lkt,Lakota (Teton),other
+lkt,"Lakota, Dakota, Teton",other
+all,Lala,other
+all,"Lala, Pokau",other
+evn,Lamut,other
+lao,Laotian,other
+sno,Lappish,other
+lav,Laube,other
+lje,Laudje,other
+tnk,Lavongai,other
+lha,Laxa,other
+cle,Lealao Chinantec,other
+arl,Lebanese Arabic,other
+arl,Lebanese-Syrian Arabic,other
+kli,Ledo,other
+dji,Lee,other
+ldu,Lendu (North),other
+arl,Levantine Arabic,other
+lez,Lezgi,other
+wet,Lgona,other
+dre,Lifu,other
+nbe,Lingombe,other
+fli,Liptaako-Dori Fula,other
+fli,Liptako Ful,other
+wet,Literi Lagona,other
+liv,Livonian,other
+lob,Lobiri,other
+lug,Logbara,other
+lma,Logoma,other
+lag,Logone,other
+ara,Lokono,other
+ara,Lokono Dian,other
+par,Lokoro,other
+yi,Lolo,other
+mbl,Lombole,other
+mgo,Lomongo,other
+nto,Lomtomba,other
+ama,Longa,other
+nto,Lontomba,other
+pop,Los Reyes Metzontla,other
+lin,Losengo,other
+ckl,Lower Chinook,other
+dni,Lower Grand Valley Dani,other
+pso,Lower Lake Pomo,other
+siu,Lower Umpqua,other
+siu,"Lower Umpqua, Umpqua",other
+mxj,Lowland Jicaltepec Mixteco,other
+kil,Luba,other
+kil,Luba-Shaba,other
+lu,Lue,other
+lug,"Lugbara, Western",other
+luy,Luhya,other
+lui,Luiseno,other
+lbu,Lunda-Ndembu,other
+nun,Lungchow,other
+pin,Luritja,other
+miz,Lushai,other
+miz,Lushai (Mizo),other
+jlu,Luwo,other
+luv,Lwena,other
+lu,Ly,other
+mbg,Ma'a,other
+mad,Ma'adi,other
+mad,Ma'diti,other
+mya,"Ma'ya, Salawati dialect",other
+myi,MaNrayi,other
+maa man,Maa,other
+myn,Maanyan,other
+mab,Mabang,other
+kly,Mabuiag,other
+nuk,Macusa,other
+mac,Macuxi,other
+mag,Magar (Tanahu),other
+mag,Magari,other
+mup,Maghavul,other
+amr,Maghrebi Arabic,other
+mgn,Magindanaw,other
+meh,Mahri,other
+may,Mai Brat,other
+mne,Maidu (Moutain),other
+nsn,Maidu (Southern),other
+tab,Makian (East),other
+wma,Makian (West),other
+mac,Makuchi,other
+mlm,Malabri (Minor),other
+toq,Malaita (North),other
+mlk,Malak-Malak,other
+mds,Malay (Eastern),other
+atc,Malekula,other
+mli,Mali-Baining,other
+maw,Malinke,other
+mie,Man,other
+mkn,Mancagne,other
+ktk,Mandagué,other
+mma,Mandaic,other
+mny,Mandandanji,other
+mnd,Mandarin Chinese,other
+mjk,Mandyak,other
+mmb,Mangap Mbula,other
+mei,Manipuri,other
+mea,Mansibaber,other
+yqy,Mapi,other
+gud,Mapodi,other
+map,Mapuche,other
+map,"Mapuche, Araucanian",other
+map,Mapudungu,other
+cmr,Mara,other
+isn,Maragat,other
+ami,Maran,other
+mku,Maranunggu,other
+mrd,Marind (Eastern),other
+ckh,Maring,other
+akm,Marma,other
+mri,Marori,other
+thk,Marphatan Thakali,other
+mrq,"Marquesan, North",other
+mrq,"Marquesan, South",other
+mrq,Marquisien,other
+mqc,Martiniquais,other
+mwa,Martu-Wangka,other
+maa,Masai,other
+lng,Maskoy,other
+hno,Masset Haida,other
+wch,Mataco,other
+mdm,Mathimathi,other
+mdl,Matngala,other
+mdl,Matngele,other
+mch,Matsigenga,other
+mka,Mau,other
+wlw,Maula,other
+mcr,Mauritian French Creole,other
+man,Mawe,other
+mkd,Mawiha,other
+bbw,Mayali,other
+bbw,Mayali (Gun-Djeihmi),other
+may,Maybrat (Ayawasi),other
+may,"Maybrat, Mayhapeh dialect of Ayawasi village",other
+yes,Mayo,other
+myr,Mayoruna,other
+mzc,Mazatec (Chiquihuitlan),other
+mba,Mbane,other
+mby,Mbaye,other
+irq,Mbulu,other
+umb,Mbundu,other
+mea,Meah,other
+nmi,Mecayapan Isthumus Nahuatl,other
+aht,Mednovskiy,other
+mee,Meen,other
+mgl,Megrelian,other
+mid,Meidob,other
+mid,Meidob Nubian,other
+mke,Mekeo-Kovio,other
+gmz,Mendeya,other
+mta,Mentu,other
+mer,Mer,other
+mur,Merdu,other
+dha,Merille,other
+mir,Merong,other
+msl,Mesalit,other
+otm,Mezquital,other
+otm,Mezquital Otomi,other
+pis,Miaro,other
+nhm,Michoacan Nahuatl,other
+nhm,Michoacán Aztec,other
+mid,Midob (Darfur Nubian),other
+mid,Midob Nubian,other
+mie,Mien,other
+mni,Migani,other
+shb,Mikeyir,other
+mil,Milan,other
+mii,Mileere,other
+bai,Minchia,other
+hid,Minitari,other
+ojm,Minnesota Ojibwe,other
+msg,Miri,other
+mer,Miriam,other
+dig,Mishmi (Digaro),other
+zap,Mitla Zapotec,other
+mkb,Miwok (Bodega),other
+mss,Miwok (Southern Sierra),other
+mco,Mixe (Coatlan),other
+mco,Mixe (San José El Paraiso),other
+mco,"Mixe, Coatlan",other
+mth,"Mixe, Tlahuitoltepec",other
+mtp,"Mixe, Totontepec",other
+mtp,"Mixe, Totontepec dialect",other
+mxy,Mixtec (Yosundua),other
+mxc,"Mixtec, Chalcatongo (Western Alta)",other
+mjc,"Mixtec, San Juan Colorado",other
+mxg,"Mixtec, San Miguel",other
+mxt,Mixteco (Ayutla),other
+mxz,Mixteco (Coatzospan),other
+mxg,Mixteco (San Miguel el Grande),other
+mxy,Mixteco (Yosundúa),other
+mie,Mjen,other
+bmb,Moba,other
+mcv,Mocovi,other
+cld,Modern Chaldean,other
+grk,Modern Greek,other
+heb,Modern Hebrew,other
+ams,Modern Literary Arabic,other
+mma,Modern Mandaic,other
+mof,Mofu-Sud,other
+mog,Mogol',other
+mko,Mokulu,other
+mon,Mon (Burmese),other
+mno,Monache,other
+hmo,Mong Njua,other
+mgo,Mongo,other
+mgo,Mongo-Nkundu,other
+kha,Mongolian,other
+kha,"Mongolian, Khalkha ",other
+mgg,Mongor,other
+mgg,Monguor,other
+mgg,"Monguor, Minxe dialect",other
+moa,Mono Alu,other
+tgl,Monpa,other
+tgl,Monpa (Central),other
+moo,Moore,other
+moe,"Mordva, Erzya",other
+moe,Mordvin (Erza),other
+moe,Mordvin (Erzja),other
+pad,Mori,other
+amr,Moroccan Arabic,other
+jmo,Morokodo,other
+moo,Moré,other
+mos,Moseteno,other
+mis,Mosquito,other
+ykp,Motilone (Carib),other
+mti,Motilone (Chibchan),other
+ykp,Motilone (Northern),other
+ykp,Motilón (Northern),other
+toa,Motumotu,other
+kmo,Mountain Koiali,other
+kmo,Mountain Koiari,other
+mne,Mountain Maidu,other
+ign,Moxo,other
+agt,Mpakwithi,other
+agt,Mpakwithi Anguthimri,other
+amp,Mparntwe Arrernte,other
+mpo,Mpongwée,other
+mdb,Mudbarra,other
+mlk,Mullukmulluk,other
+mgu,Mulwi,other
+mdu,Mundu,other
+gnb,Muralidban,other
+mrw,Murawari,other
+prh,Mure-Pirahã,other
+mpa,Murinhpatha,other
+mpa,Murinpatha,other
+mpa,Murinypata,other
+tam,Murma,other
+tim,Murut,other
+mrw,Muruwurri,other
+mur,Murzi,other
+mdm,Muthimuthi,other
+mup,Mwaghavul (Mupun),other
+bmz,Mzab,other
+lse,Mímica,other
+mce,Mískito Coast Creole English,other
+jmo,Mödö,other
+ldu,N Lendu,other
+pno,N Paiute,other
+pmn,N Pomo,other
+nhn,N Puebla Nahuatl,other
+sno,N Saami,other
+tmr,N Sakai,other
+mwn,N Sierra Miwok,other
+tpn,N Tepehuan,other
+ldu,N. Lendu,other
+pno,N. Paiute,other
+pmn,N. Pomo,other
+nhn,N. Puebla Nahuatl,other
+tmr,N. Sakai,other
+tpn,N. Tepehuan,other
+twn,N. Tiwa,other
+mne,N.E. Maidu,other
+mne,NE Maidu,other
+nad,Nadeb,other
+ngt,Naga,other
+nze,Naga (Kachcha),other
+nhh,Nahuatl (Eastern Huasteca),other
+nmi,Nahuatl (Isthmus),other
+nmi,Nahuatl (Mecayapan),other
+nhu,"Nahuatl, Huauchinango",other
+npa,"Nahuatl, Pajapan",other
+nsz,"Nahuatl, Sierra de Zacapoaxtla",other
+nhx,"Nahuatl, Xalitla",other
+kho,Nama,other
+kho,Nama (Khoekhoe),other
+nmb,Nambiquara,other
+nmb,Nambiquara (Southern),other
+nha,Nanda,other
+ngr,Narinjari,other
+nrm,Narum,other
+git,Nass-Gitksan,other
+mtt,Natick,other
+nau,Nauru,other
+nav,Navaho,other
+dom,Nawar,other
+nax,"Naxi, Western dialect",other
+ndb,Ndebele (South Africa),other
+mga,Ndunga,other
+dli,Nederlands,other
+naj,Neo-Aramaic (Arbel),other
+nyk,Nesang,other
+new,"Newari, Kathmandu dialect",other
+ngd,Ngada,other
+ngd,Ngadha,other
+ngj,Ngadju,other
+olm plp,"Ngaju, Dayak (Ngaju)",other
+ngl,Ngalakgan,other
+ung,Ngarinjin,other
+egn,Ngene,other
+ngk,Ngenkikurunggkur,other
+knp,Ngkalmpw Kanum,other
+bab,Ngo,other
+knq,Ngukurr Kriol,other
+buj,Ngumba,other
+nia,Nias Selatan,other
+nnc,Nicobarese,other
+nnc,Nicobarese (Nancowry),other
+npi,Nigerian Pidgin English,other
+nsn,Nisenan (Central Hill),other
+neh,Nissan,other
+chu,Nivacle,other
+chu,Nivaklé,other
+nog,Nogay,other
+bln,North Agaw,other
+ldu,North Lendu,other
+nhn,North Puebla Aztec,other
+nhn,North Puebla Nahuatl,other
+nhn,North Puebla Sierra Nahuatl,other
+aml,North-East Ambae (Lolovoli),other
+mne,Northeast Maidu,other
+kji,Northern Kurdish,other
+pno,Northern Paiute,other
+pmn,Northern Pomo,other
+sno,Northern Saami,other
+kgr,Northern Sagara,other
+tmr,Northern Sakai,other
+mwn,Northern Sierra Miwok,other
+stn,Northern Sotho,other
+sst,Northern Straits Salish (Samish),other
+tpn,Northern Tepehuan,other
+twn,Northern Tiwa,other
+nor,Norwegian (Bokmal),other
+nku,Nubian (Aswan),other
+nob,Nubian (Mahas),other
+mid,Nubian (Meidob),other
+nbd,"Nubian, Dongolese",other
+nob,"Nubian, Mahas dialect",other
+nkr,Nuguor,other
+nkr,Nukoro,other
+nkr,Nukuoru,other
+bik,Numfor,other
+nun,Nung Fan Slihng,other
+dom,Nuri,other
+nuu,Nuuchahnulth (Tseshaht),other
+nuu,"Nuuchahnutlh (Tseshaht, Tsishaath)",other
+bco,Nuxalk,other
+nkt,"Nyah Kur, Tha Pong dialect",other
+nyk,Nyam-Kad,other
+nym,Nyamwezi,other
+rny,Nyankole,other
+nyl,Nyelâyu,other
+nyi,Nyima,other
+ood,O'odham,other
+chx,Oaxaca Chontal,other
+sou,Obersorbisch,other
+obk,Obogwitai,other
+her,Ochiherero,other
+mxo,Ocotepec Mixtec,other
+cos,Ohlone,other
+aso,Oirot,other
+oji,Ojibwa,other
+ojm,Ojibwa (Southwestern),other
+ojm,Ojibwe (Southwestern),other
+tgk,Omo,other
+sel,Ona-Selknam,other
+lga,Ongtong Java,other
+mmu,Orang Negeri,other
+orm,"Ormuri, Logari dialect",other
+orc,Orochi,other
+orh,Oromo (Dirre Dawa Harar),other
+owc,Oromo (Mechaa),other
+owc,Oromo (Western),other
+orh,"Oromo, Harar of Dirre Dawa town",other
+ndo,Oshidonga,other
+ndo,"Oshinonga, Oshiwambo",other
+ndo,Oshiwambo,other
+tur,Osmanli,other
+kty,Ostjak,other
+zqo,Ostuacan Zoque,other
+kty,Ostyak,other
+kty,Ostyak (Northern),other
+skp,Ostyak Samoyed,other
+uhi,Otati,other
+qim,Otavalo Quichua,other
+tet,Otetela,other
+her,Otjiherero,other
+otm,Otomi,other
+osm,"Otomi, Santiago Mexquititlan",other
+ots,"Otomi, Sierra",other
+bse,Oum Jeniba Tamazight,other
+bni,Oviedo,other
+way,Oyampi,other
+paa,Pa'anci,other
+sah,Pa'disua,other
+pms,Paamese of Vanuatu,other
+paa,Paanci,other
+pod,Padoko,other
+pae,Paez,other
+put,"Paiute, Southern",other
+pai,"Paiwan, Kulalao dialect",other
+pkt,Pakot,other
+ptp,Pala,other
+ptp,Pala (Papua NG),other
+cpl,Palantla Chinantec,other
+apa,Palestinian Arabic,other
+apa,Palestinian-Jordanic Arabic,other
+sah,Palisua,other
+kli,Palu,other
+gku,Pampa,other
+kpm,Pampangan,other
+tsh,Panamint,other
+pny,Panyima,other
+ood,Papago,other
+ood,Papago-Pima,other
+mlc,Papia Kristang,other
+pap,Papiamento,other
+par,Pari,other
+bnl,Parnkala,other
+bnl,Parnkalla,other
+par,Parï,other
+psm,Passamaquoddy-Malecite,other
+psm,Passamaquoddy-Maliseet,other
+pau,Paumari,other
+pno,Paviotso,other
+paw,"Pawaian, Oyobe dialect",other
+pec,Paya,other
+pec,Paya (Culmí),other
+pec,"Paya, Culmí dialect",other
+kun,Paya-Pucuro Kuna,other
+sla,Peaux de Lièvre,other
+pen,Pengu,other
+yct,Peninsular Maya,other
+kop,Permian,other
+kop,Permyak,other
+nap,Persian Azerbaijan Jewish Aramaic,other
+mxp,Peñoles Mixtec,other
+twn,Picuris,other
+bla,Pikanii,other
+ood,Pima,other
+pba,Pima (Lower),other
+pba,Pima Bajo,other
+sin,Pioje,other
+sin,Pioje-Sioni,other
+pir,Piro Arawakan,other
+pis,Pisa,other
+pit,Pitjantjara = Western Desert,other
+ppi,Pitta-Pitta,other
+pkm,Pocomchi,other
+pkm,Poconchi,other
+all,Pokau,other
+pok,Poko,other
+ksh,Pomo (Kashaya),other
+ksh,Pomo (Southwestern),other
+poh,Ponape Proper,other
+poh,Ponapean,other
+mpo,Pongoué,other
+psj,Popoloca (San Juan Atzingo Puebla),other
+pop,Popoloca De Metzontla,other
+psj,"Popoloca, San Juan Atzingo",other
+psv,"Popoloca, San Vicente Coyotepec",other
+olu,"Popoluca, Oluta",other
+pcm,Poqomam,other
+kda,Porja,other
+pum,Primi,other
+pum,Primmi,other
+pum,Prinmi,other
+pnu,Pu Nu,other
+pan,Punjabi,other
+kek,Q'eqchi',other
+qaw,Qawasqar,other
+kem,Qemant,other
+iql,Quebec-Labrador Inuktitut,other
+qan,"Quechua, Ancash",other
+qca,"Quechua, Cajamarca",other
+qco,"Quechua, Cochabamba",other
+qec,"Quechua, Ecuadorean",other
+chq,Quiotepec Chinantec,other
+cas,Ra-txa Hu-ni-ku-i,other
+tni,Rangloi,other
+mrc,Rangpa,other
+jug,Rangpang,other
+trd,Rantepao,other
+bug,Rappang Buginese,other
+rnn,Rennellese-Bellonese,other
+ret,Retuarã,other
+rmc,Rhaeto-Romansch,other
+rsc,Rhaeto-Romansch (Scharans),other
+rsc,"Rhaeto-Romansch, Scharans dialect",other
+brf,Rif,other
+trg,Rio Grande Tewa,other
+moj,River Yuman,other
+twe,Rocoroibo,other
+mge,Rolom,other
+rse,Romani (Sepec*ides),other
+rka,Romani (Vlach),other
+rka,Romani (Wallachian),other
+rmc,Romansch,other
+rwe,Romany (Welsh),other
+tmn,Rone,other
+lep,Rong,other
+tmn,Ronge,other
+knq,Roper River Kriol,other
+rti,Rotinese,other
+rti,Rottinese,other
+kin,Ruanda,other
+sno,Ruija,other
+ruk,"Rukai, Tanan dialect",other
+rom,Rumanian,other
+run,Runga,other
+tbw,Rungu,other
+lav,Russell Island,other
+kin,Rwanda,other
+brs,S Barasano,other
+gso,S Greenlandic,other
+nsn,S Maidu,other
+mmz,S Mam,other
+mss,S Sierra Miwok,other
+ses,S Sotho,other
+tws,S Tiwa,other
+brs,S. Barasano,other
+gso,S. Greenlandic,other
+nsn,S. Maidu,other
+nmb,S. Nambiquara,other
+put,S. Paiute,other
+tts,S. Tati,other
+tws,S. Tiwa,other
+pso,S.E. Pomo,other
+pso,SE Pomo,other
+tps,SE Tepehuan,other
+saa,Saa,other
+sno,Saami (North),other
+ami,Sabari,other
+trd,Sadan,other
+cop,Sahidic,other
+cop,Sahidic Coptic,other
+epe,Saija,other
+tmr,Sakai,other
+sak,Sakau,other
+slb,Saliba (PNG),other
+sba,Saliva,other
+syu,Salt,other
+syu,Salt (Yui),other
+baj,Sama Bajau,other
+emb,Sambú,other
+sss,Samish,other
+nen,Samoyed,other
+apw,San Carlos Apache,other
+mxa,San Esteban Atatláhuca Mixteco,other
+cle,San Juan Chinanteco Lealao,other
+zam,San Juan Mixtepec Zapoteco,other
+sdw,Sandaui,other
+sgr,Sangihé,other
+sgr,Sangirese,other
+snm,Sanima,other
+ksa,Santa Ana Keresan,other
+ksa,Santa Ana Pueblo,other
+dak,Santee,other
+mxo,Santo Tomás Ocotepec Mixteco,other
+seb,Sapiny,other
+ngm,Sara-Ngambay,other
+srd,Sardinian (Campidanese),other
+mzn,Sari,other
+syg,Saryg-Uygur,other
+sav,Sau,other
+saw,Savu,other
+say,Sayula Popoluca,other
+gae,Scots Gaelic,other
+gae,Scottish Gaelic,other
+see,Sedik,other
+lno,Sefardi,other
+skp,Sel'kup,other
+sly,Selayarese,other
+tut,Selkirk,other
+sel,Selknam (Central),other
+sel,"Selknam, Central",other
+sel,"Selknam, Central dialect",other
+bjs,Semporna Bajau,other
+smj,Senoi,other
+lno,Sephardic,other
+scr,Serbian,other
+scr,Serbo-Croat,other
+bos,Serbo-Croatian (Bosnian),other
+scr,Serbo-Croatian (Croatian),other
+scr,Serbocroat,other
+tsw,Sestwana,other
+tsw,Setswana,other
+sey,Seychellois,other
+ksg,Sgaw Karen,other
+shm,Shambaa,other
+tsn,Shangaan,other
+shh,Sharanawa,other
+she,Sharpa,other
+xer,Sherente,other
+sil,Shila,other
+tas,Shilha,other
+tas,Shilha/Tashlhiyt,other
+ssh,Shinassha (Boro),other
+shk,Shipibo,other
+shk,Shipibo-Conibo,other
+xok,Shokleng,other
+tsh,Shoshone (Tumpisa),other
+tsh,Shoshone (Tümpisa),other
+shl,Shulla,other
+nih,Shuwa,other
+swt,SiSwati,other
+tha,Siamese,other
+yus,Siberian Yup'ik,other
+yus,Siberian Yupik,other
+skl,Sichule,other
+mss,"Sierra Miwok, Southern",other
+zqs,Sierra Popoluca,other
+mxs,Silacayoapan Mixtec,other
+loz,Silozi,other
+sim,Simalur,other
+snh,Sinhalese,other
+sin,Sioni,other
+dak,Sioux,other
+ysi,Sirenik,other
+ysi,Sirenik Eskimo,other
+swt,Siswati,other
+jiv,Siurra,other
+siu,Siuslawan,other
+bsi,Siwa,other
+jiv,Siwora,other
+chs,Siyin Chin,other
+sko,Skou,other
+sla,"Slave, Hare dialect",other
+csc,Sochiapan Chinantec,other
+soq,Socotri,other
+yqy,Sohur,other
+lmh,Solor,other
+kse,Songhai (Gao),other
+kse,Songhai (Koyraboro Senni),other
+kse,"Songhai, Gao dialect",other
+kch,Songhay (Koyra Chiini),other
+kse,Songhay (Koyraboro Senni),other
+kch,"Songhay, Koyra Chiini",other
+kch,"Songhay, Koyra Chiini dialect",other
+mxa,South Central Tlaxiaco Mixteco,other
+gso,South Greenlandic,other
+saa,South Malaita,other
+tps,Southeast Tepehuan,other
+mco,Southeastern Mixe,other
+pso,Southeastern Pomo,other
+tps,Southeastern Tepehuan,other
+pkn,Southern Baagandji,other
+brs,Southern Barasano,other
+bbl,Southern Bomitaba,other
+nsn,Southern Maidu,other
+mmz,Southern Mam,other
+lud,Southern Murut,other
+put,Southern Paiute,other
+mss,Southern Sierra Miwok,other
+ses,Southern Sotho,other
+tts,Southern Tati,other
+tws,Southern Tiwa,other
+ksh,Southwestern Pomo,other
+spa,Spanish (Peninsular Castilian),other
+lse,Spanish Sign Language,other
+spi,Spiti,other
+squ,Squamish (Sqxwu7mish),other
+sre,Srê,other
+sre,Srê (Köho),other
+lil,St'at'imcets,other
+ysl,St. Lawrence Island Eskimo,other
+tod,Stod,other
+dak,Stoney,other
+sst,Straits Salish,other
+slb,Suau,other
+pkt,Suk,other
+tsg,Suluk,other
+tet,Sungu,other
+sup,Supyire (Kampwo),other
+sup,"Supyire, Kampwo dialect",other
+mup,Sura,other
+swt,Swazi,other
+msy,Syangja Magar,other
+err,Sye,other
+cld,Syriac,other
+asy,Syrian Arabic,other
+trd,Ta'e,other
+tab,"Taba, Waikyon dialect",other
+cmy,Tabasco Chontal,other
+igs,Tabi,other
+igs,Tabi (Ingessana),other
+tas,Tachelhait,other
+taj,Tadzhik,other
+trd,Tae',other
+tbo,Tagabili,other
+sha,Tai Shan,other
+tap,Taiap (Gapun),other
+sha,Taishan,other
+sra,Taki-Taki,other
+tld,Talaut,other
+tld,Talodda,other
+tug,Tamachek',other
+tmm,Tamambo,other
+tug,Tamasheq (Tahaggart),other
+bma,Tamazight (Ayt Ndhir),other
+bma,Tamazight (Middle Atlas),other
+bse,Tamazight (Oum Jeniba),other
+nhh,Tamazunchale Nahuatl,other
+tma,Tamok,other
+tga,Tanga,other
+ngt,Tangkhul Naga,other
+ret,Tanimuca,other
+len,Tanna,other
+twn,Taos,other
+twn,"Taos, Picuris",other
+eka,Tapiro,other
+tce,Tarahumara,other
+tce,Tarahumara-Cent,other
+dig,"Taraon, Mishmi",other
+pur,Tarascan,other
+tar,Tariâna,other
+tas,Tashelhit Berber,other
+tat,Tatana,other
+tat,Tatanaq,other
+cri,Tatar (Crimean),other
+tvo,Tatar (Volga),other
+yta,Tatar (Yurt),other
+tlb,Tatar-Nogai (Alabugat),other
+tts,"Tati, Southern",other
+ngj,Tchaakalaaga,other
+tbu,Tebu,other
+tbu,Teda,other
+tbu,Teda-Daza,other
+tbu,Tedaga,other
+cti,Tedim Chin,other
+laf,Tegem,other
+tks,Teke (Kukuya),other
+tks,"Teke, Kukuya dialect",other
+tks,"Teke, Southern",other
+bun,Telei,other
+nih,Temane,other
+tne,Temen,other
+kyn,Ten'a,other
+kyn,Tena,other
+ten,Tenet,other
+gjj,Tenetehara ,other
+mmv,Tengo,other
+tps,Tepehuan (Southeast),other
+so,Tepes,other
+so,Tepeth,other
+cho,Tequistlatec,other
+ter,"Tera, Wuyo dialect",other
+nht,Tetelcingo Aztec,other
+nht,Tetelcingo Nahuatl,other
+lkt,Teton,other
+ttn,Tetum,other
+ttn,Tetun (Fehan),other
+ik,Teuso,other
+tha,"Thai, Standard",other
+thk,Thakali Marphatan,other
+dhr,Thargari,other
+dhu,Thaua,other
+tho,Thompson River Salish,other
+ese,Tiatinagua,other
+amd,Tibetan (Amdo),other
+tib,Tibetan (Lhasa),other
+tib,"Tibetan, Lhasa dialect",other
+cti,Tiddim Chin,other
+tne,Timne,other
+cuc,Timote-Cuica,other
+tmc,Timucua (Mocama dial.),other
+lje,Tinombo,other
+tin,Tiri (Grand Couli),other
+cha,Tjamoro,other
+dji,Tjingilu,other
+tlp,Tlapanec (Malinaltepec),other
+tlp,Tlapaneca,other
+tlp,Tlapaneco,other
+tlp,Tlapaneco (Malinaltepec),other
+nhc,Tlaxcala-Puebla Náhuatl,other
+toq,To'aba'ita,other
+toq,Toabaita,other
+bto,Toba Batak,other
+tof,Tofalar,other
+ood,Tohono O'odham,other
+did,Toi,other
+dou,Tolitai,other
+tnt,Tompakewa,other
+toz,Tonga (Zambia),other
+ngu,Tongoa,other
+trd,Toradja,other
+trd,Toraja Sa'dan,other
+txj,Totonac (Xicotepec),other
+tpa,"Totonac, Papantla dialect",other
+txj,"Totonac, Xicotepec",other
+txj,Totonaca (Xicotepec de Juaréz),other
+cem,Touho,other
+jem,Towa,other
+mca,Towolhi,other
+kok,Tripuri,other
+trc,Trique (de Chicahuaxtla),other
+cuu,Truk,other
+cuu,Trukese,other
+dul,Trung,other
+tsf,Tsafiki,other
+che,Tsalagi,other
+shk,Tschama,other
+cil,Tshiluba,other
+ven,Tshivenda,other
+mos,Tsimane,other
+tsi,"Tsimshian, Coast, Hartley Bay dialect",other
+ttu,Tsova-Tush (Batsbi),other
+tug,Tuareg,other
+tug,Tuareg (Tahaggart Tamahaq),other
+tug,Tuareg (Tahaggart),other
+tbu,Tubu (Daza),other
+tic,Tucuna,other
+tuk,"Tukang Besi, Wanci dialect",other
+tuc,Tukano,other
+dul,Tulung,other
+tsh,Tumpisa Shoshone,other
+tmc,Tumucua,other
+ytu,Tundra Yukaghir,other
+tnb,Tunebo (Central),other
+don,Tung,other
+don,Tung-Chia,other
+atu,Tunisian,other
+atu,Tunisian Arabic,other
+ori,Turjok,other
+tex,Turkic (East/Central Xorasan),other
+ifi,Tuscan,other
+nnm,Tuvaluan (North),other
+tuv,Tuvinian,other
+akn,Twi,other
+snd,Tyebaara Senoufo,other
+tuv,Tyvan,other
+tza,"Tzeltal, Aguacatenango dialect",other
+tzb,"Tzeltal, Bachajón",other
+tzt,"Tzeltal, Tenejapa",other
+tzs,Tzotzil (San Andres),other
+tzz,Tzotzil (Zinacanteco),other
+tsh,Tümpisa Panamint Shoshone,other
+hpd,"Ubde-Nehern, Macú, Makú",other
+uby,Ubyx,other
+udh,Udekhe,other
+gor,Ufromi,other
+uyg,Uighur,other
+uyg,Uigur,other
+ulc,Ul'cha,other
+saa,Ulawa,other
+mmu,Ulu Muar Malay,other
+siu,Umpqua (Lower),other
+hlp,Upland Yuman,other
+cku,Upper Chinook,other
+sou,Upper Lusatian,other
+hlk,Upriver Halkomelem,other
+moj,Upriver Yuman,other
+wll,Uvea (East),other
+tnb,Uw Cuwa,other
+syg,Uygur (Saryg),other
+uzn,"Uzbek, Tashkent dialect",other
+vai,Vai (Mande),other
+hay,Vayu,other
+bil,Vella la Vella,other
+pow,Virginia Algonquian,other
+vla,Vlaams Gebarentaal,other
+mns,Vogul,other
+tvo,Volga Tatar,other
+udm,Votyak,other
+apw,W Apache,other
+arw,W Armenian,other
+grw,W Greenlandic,other
+wma,W Makian,other
+twe,W Tarahumara,other
+apw,W. Apache,other
+arw,W. Armenian,other
+wdo,"W. Desert, as spoken at Ooldea",other
+fut,W. Futuna-Aniwa,other
+grw,W. Greenlandic,other
+wma,W. Makian,other
+twe,W. Tarahumara,other
+puk,Wa,other
+orw,Waata,other
+orw,Waata Oromo,other
+yny,Wadiri,other
+wat,Wadjeri,other
+wag,Wageman,other
+lmg,Waha,other
+heh,Wahehe,other
+ynm,Waica,other
+ynm,Waica (Central),other
+adn,Wailpi,other
+ror,Waima,other
+kmi,Wakami,other
+lrk,Wakasihu,other
+hlp,Walapai,other
+wrl,Walbiri,other
+wrl,Waljbiri,other
+wll,Wallisien,other
+wal,Walman,other
+wlw,Walookera,other
+wlw,Waluwara,other
+usa,Wanuma,other
+pog,Wapogoro,other
+wra,Warau,other
+wry,Waray (Australia),other
+wwy,Waray (Philippines),other
+wwy,Waray Waray,other
+wrk,Warekena (Anamoim),other
+wrg,Wargamay,other
+bou,Wargla,other
+war,Wari,other
+war,Wari' (Chapacuva),other
+cku,Wasco-Wishram,other
+kwo,Washkuk,other
+wau,Waumeo,other
+wur,Waura,other
+way,Wayampi,other
+way,Wayapi,other
+way,Wayãpi,other
+ill,Wea,other
+swi,Weda,other
+rwe,Welsh Romany,other
+wem,Wemba Wemba,other
+sou,Wendish,other
+swi,Were,other
+arw,West Armenian,other
+frw,West Frisian,other
+fut,West Futuna-Aniwa,other
+grw,West Greenlandic,other
+twx,West Khorasani Turkic,other
+fio,West Kongo,other
+twx,West Quchani,other
+hhu,West Wosera,other
+twx,West Xorasan Turkic,other
+arw,Western Armenian,other
+brw,Western Bru,other
+mwb,Western Bukidnon Manobo,other
+cre,Western Cree,other
+dbw,Western Dan,other
+ntj,Western Desert,other
+fut,Western Futuna,other
+mxj,Western Jamiltepec Mixteco,other
+msy,Western Magar,other
+twe,Western Tarahumara,other
+tmi,Western Tatar,other
+lal,Western Yi,other
+gwe,Westfaelisch,other
+ber,Wetawit,other
+wch,Wichí Lhamtés,other
+wmu,Wik-Munkan,other
+wik,Wikchamni (Yokuts),other
+swr,Wind River Shoshone,other
+win,Wintun,other
+cku,Wishram,other
+htt,Witoto,other
+hmi,Witoto (Minica),other
+hum,Witoto (Murui),other
+hmi,Witoto Meneca,other
+hmu,Witoto Muinane,other
+hum,Witoto Murui,other
+hum,"Witoto, Murui dialect",other
+dam,Wiwa,other
+pia,Wo'tiheh,other
+wob,Wobé,other
+bac,Wogait,other
+wlf,Wolof (Dakar),other
+ngi,Wongaibon,other
+wan,Wongkumara,other
+uld,Wuzlam,other
+gue,Wè,other
+khk,Xakas,other
+kty,Xanty,other
+xar,Xaracuu,other
+did,Xaroxa,other
+hdi,Xdi,other
+jeb,Xebero,other
+khi,Xinalug,other
+twx,Xorasan,other
+tex,Xorasan Turkic,other
+juh,Xu,other
+khv,Xvarshik,other
+kuu,Ya'o,other
+jab,Yabim,other
+dan,Yacouba,other
+nag,Yade,other
+yah,Yagan,other
+yah,"Yagan, Jagan",other
+ygr,"Yagaria, Move dialect",other
+yak,Yaka (in Democratic Republic of Congo),other
+ynk,Yankunytjatjara,other
+yns,Yans,other
+yny,Yanyula,other
+yny,"Yanyula, Anyula",other
+pnu,Yao,other
+yqy,Yaqay,other
+yok,Yaudanchi,other
+yok,Yaudanchi Yokuts,other
+ewo,Yaunde,other
+ywl,Yawelmani Yokuts,other
+brs,Yebamasa,other
+yyg,Yegir,other
+yel,Yeletnye,other
+ket,Yenisey Ostyak,other
+ene,Yenisey Samoyed,other
+yes,Yessan-Mayo,other
+bud,Yidena,other
+yid,Yidin,other
+yid,Yidinj,other
+abu,Yimbun,other
+yir,Yir Yoront,other
+yir,Yir-Yiront,other
+cmy,Yocot'an,other
+jug,Yogli,other
+wik,Yokuts (Valley),other
+wik,Yokuts (Wikchamni),other
+ywl,Yokuts (Yawelmani),other
+djp,Yolngu,other
+djp,Yolngu (Djapu),other
+mxy,Yosundua Mixtec,other
+yct,Yucateco,other
+yug,Yug,other
+byu,Yugambeh,other
+syg,Yughur (Saryg),other
+ytu,"Yukaghir, Tundra dialect",other
+yct,Yukatek,other
+ylb,Yulboridja,other
+que,Yuma,other
+ccp,Yuman (Delta River),other
+hlp,Yuman (Upland),other
+moj,Yuman (Upriver),other
+wlw,Yunnalinka,other
+ypk,Yup'ik (Central Alaskan),other
+yna,Yup'ik (Naukan),other
+atq,Yup'ik (Pacific Gulf),other
+ysi,Yup'ik (Sirenik),other
+ypk,Yupik,other
+yus,Yupik (Siberian),other
+ych,"Yupik, Chevak",other
+yna,"Yupik, Naukan",other
+nen,Yurak Samoyed,other
+kyr,Yuri,other
+kyr,Yuri (Karkar),other
+glp,Yuulngu,other
+nyl,Yâlayu,other
+tbw,Zabwa,other
+zsq,Zapotec (San Lucas),other
+zam,"Zapotec, Mixtepec",other
+zaz,Zaza,other
+nze,Zeliangrong,other
+nze,Zeme Naga,other
+zar,Zerma,other
+mum,Zing,other
+zch,Zoque (San Miguel Chimalapa),other
+zfl,"Zoque, Francisco Leon",other
+zqr,"Zoque, Rayon",other
+dom,Zutt,other
+zun,Zuñi,other
+kzy,Zyrian,other
+ksa,d Eastern Keres Pueblo,other
+ylt,d Judeo German,other
+gzu,d Schwyzerdütsch,other
+ayw,Äiwo,other
+tet,Òtètèla,other
+uzn,Özbek,other
+xam,!Kham,routledge
+xoo,!Khong,routledge
+xun,!Khung,routledge
+krn,!Ora,routledge
+dgo,'Dongo,routledge
+sle,(Samba) Leko,routledge
+amb,Abelam,routledge
+abd,Abiji,routledge
+tgb,Aborlan-Tagbanwa,routledge
+abk,Abxaz,routledge
+boj boq gal mil,Adi,routledge
+adt ady ash,Adyghe,routledge
+adz,Adzera (Mari),routledge
+qaf,Afar,routledge
+agc,Agta,routledge
+skr,Aikwakai,routledge
+aym,Aimara,routledge
+adi,Ajukru,routledge
+kpo,Akposo,routledge
+ald,Aladian,routledge
+alx,Alas-Kluet,routledge
+aea,Aleut,routledge
+aso,Altai (Oirot),routledge
+alc,Alyentiyak,routledge
+ma,Amadi,routledge
+amc,Amawaka,routledge
+mpu,Amberbaken,routledge
+amu,Amoesha,routledge
+amz,Amusgo,routledge
+anj,Aneityum,routledge
+ant,Angaataha,routledge
+nnd,Angaua,routledge
+leb,Angba,routledge
+ano,Anung,routledge
+aml,Aoban (Northeast),routledge
+arb,Arabela-Andoa,routledge
+akm,Arakanese,routledge
+naa naj nap,Aramaic,routledge
+amp arr,Aranda (Eastern),routledge
+arm arw arz,Armenian,routledge
+arr awe,Arranda (Western),routledge
+pre,Asu/ Pare,routledge
+awt,Autu,routledge
+usr,Auyana,routledge
+avo,Avukaya,routledge
+agu,Awakateko,routledge
+agr,Awaruna,routledge
+bch,Awras,routledge
+azi,Azerbaijani,routledge
+pkn,Baagandji (Southern),routledge
+obk,Baburiwa,routledge
+bdm,Badimay,routledge
+bgv,Bagval,routledge
+bpb,Bahnar,routledge
+abh,Bahrayn,routledge
+mli,Baining,routledge
+bka,Baka,routledge
+lur,Bakhtiari,routledge
+blg,Balangaw,routledge
+ldu,Bale,routledge
+lou,Baluan-Lou-Pam,routledge
+mbi,Bambili,routledge
+bmn,Bamun (Shupamon),routledge
+bca bwa byu gid,Bandjalang,routledge
+bnw,Baniva,routledge
+bao,Bao-an,routledge
+kbr,Baram Kayan,routledge
+bbu,Baramba,routledge
+bag,Barma,routledge
+bno,Bará-Tuyuka,routledge
+mti,Barí (Chibchan),routledge
+bqb bqg bqh bqi bql bqn bqo bqr bqs bqz bso,Basque,routledge
+ttu,Bats,routledge
+ble,Baule-Ando,routledge
+edo,Beami,routledge
+bee,Bembe (Congo),routledge
+bnq,Ben (Gan),routledge
+gim,Bench,routledge
+bec,Bengali,routledge
+inu,Bering Strait,routledge
+mhm,Besisi,routledge
+bez,Bezhti,routledge
+skk,Bhotia,routledge
+bsm,Bichelamar,routledge
+mgh,Bihari,routledge
+biq,Blaan,routledge
+bbf,Bobo,routledge
+bgl,Bokotá,routledge
+mgd,Bola'ang-Mongodow,routledge
+bor,Bora Miranya,routledge
+mui,Bora-Muinane,routledge
+orb,Boraan,routledge
+bod,Boro,routledge
+brc,Boruka,routledge
+tuy,Borá-Tuyuka,routledge
+bth,Botahari,routledge
+boz,Bozo,routledge
+may,Brat,routledge
+bru,Bru/Vankieu,routledge
+mta,Bukar Sadong,routledge
+bui buy,Buli,routledge
+pnu,Bunu,routledge
+bpa,Bura,routledge
+bsh,Bushong,routledge
+zhn,Buyi,routledge
+brz,Bviri,routledge
+ssh,Bworo,routledge
+yaq,Cahita,routledge
+kto,Cahto,routledge
+dca,Casiguran Dumagat,routledge
+cku,Cathlamet,routledge
+krg,Central Karanga,routledge
+mxl,Central Misteko,routledge
+cga,Chag(g)a,routledge
+anu,Chakosi,routledge
+cht cso ctt cya,Chatino,routledge
+chy,Chayawita,routledge
+cjo,Chichimeco,routledge
+cqt,Chikitano,routledge
+gln kmn tba,Chimbu,routledge
+baw lai,Chin (Central),routledge
+chs cti,Chin (North),routledge
+thd,Chin (North)/Thado,routledge
+hyo,Chin (South),routledge
+ccm chq cle cpl csc csf cte,Chinanteko,routledge
+cpw,Chippewa,routledge
+khw klh,Chitrali,routledge
+cch,Chocho Proper,routledge
+sis,"Choiseul, Central-Eastern",routledge
+cho chx cmy,Chontal,routledge
+chk,Chukchee,routledge
+cba cin,Chumashan,routledge
+cum,Chumburung (Yeji),routledge
+cbo,Chákobo,routledge
+shl,Colo (Shilluk),routledge
+cwe,Columbia,routledge
+cmc,Comecrudan,routledge
+mut,Costanoan,routledge
+ako,Cypriot Arabic Kormakiti,routledge
+dad,"Dadibi (Daribi, Mikaru)",routledge
+nis,Dafla,routledge
+dga,Dagaari,routledge
+day,Dai,routledge
+sil,Daju,routledge
+nkb,Dalabon,routledge
+dbw,Dan,routledge
+dnw,Dangla,routledge
+dni,Dani (Grand Valley),routledge
+dhb,Darambal,routledge
+drg,Dargva,routledge
+dha,Dasenech,routledge
+dat,Datoga,routledge
+def,Defaka-Nkooro,routledge
+dgx,Deg Xinag,routledge
+dre,Dehu,routledge
+knk,Dera,routledge
+des sri,Desana-Siriana,routledge
+glp,Dhaangu,routledge
+dda djp,Dhuwal,routledge
+gmt,Dhuwala,routledge
+tsz,Dido (Tsez),routledge
+die tja,Diegueno,routledge
+ygd,Dii,routledge
+jam,Djamindjung,routledge
+cnm,Djapá,routledge
+ndj,Djeebbana,routledge
+dts,Dogon,routledge
+nbd nku,Dongolawi,routledge
+sta,Donxiang,routledge
+doy,Dooyaa(ng)yo,routledge
+nti,Dru,routledge
+yem,Dschang,routledge
+pta,Dubea,routledge
+dug,Dullay,routledge
+tye,Dyeraidy,routledge
+cea,East Cree,routledge
+shy,East Yugur,routledge
+rap,Easter Island,routledge
+mcs mss mwn mwp,Eastern Division,routledge
+psj,Eastern Popoloka,routledge
+bni,Edo,routledge
+ngu,Efate (North),routledge
+egn,Egene,routledge
+eip,Eipo-Mek,routledge
+eka,Ekagi,routledge
+emb,Emberá (North),routledge
+epe,Emberá (South),routledge
+mus,Emira-Mussau,routledge
+kyk,Enga,routledge
+egn,Engene,routledge
+ann,Enindhilyagwa,routledge
+moe,Erzya Mordvin,routledge
+ese,Ese'eha,routledge
+ets,Etsako (Yekhee),routledge
+ewa,Ewe,routledge
+far,Faeroese,routledge
+kar,Fer,routledge
+lur,Feyli,routledge
+bfg,Fiqiq,routledge
+fon,Fon,routledge
+lcr sey,French Creole,routledge
+frw,Frisian (West),routledge
+fea,"Frisian, East",routledge
+fno,"Frisian, North",routledge
+fum,Ful (East Maasina),routledge
+fum,Ful (West Maasina),routledge
+fbf fgo fgu fma fni fua fus,Ful(ani),routledge
+ifm,Fumu,routledge
+bgr,Furu,routledge
+fye,Fyam,routledge
+poa,Fûai,routledge
+gnd,Ga'ana,routledge
+igs,Gaam,routledge
+gdk,Gadaba,routledge
+aga,Gadsup,routledge
+gae,Gaelic,routledge
+gaa,Gagudju,routledge
+gah,Gahuku-Asaro,routledge
+kgu,Galgadungu,routledge
+glc,Galician (only written direcly on the map),routledge
+yuw,Gamilaraay,routledge
+mwc,Gamti,routledge
+gap,"Gapapaiwa (Paiwa, Manape)",routledge
+tap,Gapun,routledge
+krj,Garadyari,routledge
+grr,Garawa,routledge
+gdf,Gavoko (Guduf),routledge
+kay,Gayardilt,routledge
+gbb,Gbeya,routledge
+kel,Gele (Ere-Lele-Gele-Kuruti),routledge
+gau gba gbe gbl gha gma gos gpz grp gtg gth gti gvi gwe gzu lux,German,routledge
+tgh,Ghat,routledge
+kik,Gikuyu,routledge
+krb,Gilbertese,routledge
+niv nvs,Gilyak,routledge
+dan,Gio,routledge
+kie,Giri,routledge
+una,Goliath,routledge
+gcy grk,Greek,routledge
+gre,Greenland Eskimo (East),routledge
+grw,Greenland Eskimo (West),routledge
+tpt,Guarayú,routledge
+ach,Guayakí,routledge
+kya,Gugu Yalandyi,routledge
+gul,Gula (Gele),routledge
+gmw,Gumasi (Domdom),routledge
+goo,Guniyan,routledge
+bbw,Gunwinygu,routledge
+grg,Guragone,routledge
+gut,Gurma,routledge
+gdb,Gutob,routledge
+kgl,Hagen,routledge
+kha,Halh,routledge
+ham,Hamtai (Kapau),routledge
+coo,Hanis,routledge
+ahs,Hassaniyya,routledge
+hat,Hattam,routledge
+hia,Hianakoto,routledge
+qim,HighlanKichua,routledge
+hix,Hishkariana,routledge
+ych,Hooper Bay - Chevak Yupik,routledge
+hve,Huave,routledge
+tst,Huihui,routledge
+wya,Huron,routledge
+acu,Hívaro,routledge
+beg,Ida'an,routledge
+ifu,Ifugao,routledge
+nyg,Ik,routledge
+iqu,Ikito-Kawarano,routledge
+amx,Ikundun,routledge
+ilo,Ilokano,routledge
+inj,Indon esian,routledge
+iir,Indonesian,routledge
+iql,Inuit of Quebec,routledge
+irr,Irahutu,routledge
+irx,Iranshe,routledge
+ird irm,Irish,routledge
+gir,Iro Gula,routledge
+hba heb,Israeli Hebrew,routledge
+ifi itb itg itn itu,Italian,routledge
+itz,Itzá,routledge
+ivs,Ivatan,routledge
+jar,Jarawa,routledge
+jah,Jehai,routledge
+jel,Jeri,routledge
+din,Jieng (Dinka),routledge
+jng,Jingphaw,routledge
+mig,Jonkor,routledge
+jun,Juang (in India),routledge
+kab,Kabardo-Cherkessian,routledge
+kby,Kabre,routledge
+kbl,Kabylia,routledge
+cab,Kabékar,routledge
+kgm,Kagoma (Gyong),routledge
+daa,Kaili,routledge
+kaw,Kaingwá,routledge
+rum,Kairi (Dumu),routledge
+cac,Kakua,routledge
+klp,Kalapuyan,routledge
+kiq,Kalmyk,routledge
+don kzh,Kam,routledge
+kak,Kamano,routledge
+kma,Kamayurá,routledge
+kbo,Kambot (Keram),routledge
+ite,Kamchadal,routledge
+cax cpa,Kampa,routledge
+cam,Kamsá,routledge
+daw,Kamán,routledge
+knn ptt,Kanauri,routledge
+can,Kandoshi,routledge
+kky,Kankanaey,routledge
+knb knp,Kanum,routledge
+cap,Kapanawa,routledge
+akw,Kapong,routledge
+sar,Kapriman,routledge
+cak,Kaqchikel,routledge
+kra,Kara,routledge
+tny,Karaboro,routledge
+kmj,Karamojong,routledge
+crp,Karapaná,routledge
+kao,Karaw,routledge
+car,Kari'nya,routledge
+crj,Karihona,routledge
+kdg,Karipuna,routledge
+bkr,Karo Batak,routledge
+cas,Kashibo,routledge
+csh,Kashinawa,routledge
+gna,Kaskihá,routledge
+gwo,Katab,routledge
+ktu,Katu / Kantu,routledge
+kaj,Kaurne,routledge
+cav,Kavinenya,routledge
+qaw,Kawéskar,routledge
+cay,Kayapa,routledge
+cyv,Kayuvava,routledge
+taw,Kehelala,routledge
+frd kei,Kei-Fordata,routledge
+hak,Kejia (Hakka),routledge
+kap,Kela,routledge
+kmt,Kemtuk,routledge
+ksa,Keresan (Eastern),routledge
+aco,Keresan (Western),routledge
+kty,Khanty (Ostyak),routledge
+kmu,Khmu,routledge
+kxo,Khoe,routledge
+tex twx,Khorasani Turkish,routledge
+khv,Khvarsh,routledge
+qch,Kiché,routledge
+ksp,Kim,routledge
+kfy,Kirg(h)iz,routledge
+kss,Kisi,routledge
+kow,Ko,routledge
+awp,Koaiker,routledge
+kod,Kodagu/Coorg,routledge
+cof,Kofán,routledge
+cog,Kogi,routledge
+sre,Koho,routledge
+kmo,Koiari (Mountain),routledge
+coc,Kokama-Kokamilya,routledge
+kkz,Kokna,routledge
+ski,Kola Saame,routledge
+uku,Kolchan,routledge
+ijo,Kolokuma,routledge
+kzy yzv,Komi-Zyryan,routledge
+fio,Kongo,routledge
+atq,Koniaq,routledge
+cor,Kora,routledge
+kje,Korewahe,routledge
+yal,Kosarek,routledge
+eko,Koti,routledge
+ore,Koto,routledge
+kkv,Kove-Kaliai,routledge
+kpe,Kpel(l)e,routledge
+isa,Krisa,routledge
+bsh,Kuba,routledge
+cub,Kubewa,routledge
+knc,Kugu-Uwanh,routledge
+kiu kui,Kui,routledge
+mnv,Kukuya,routledge
+tks,Kukwa,routledge
+gir,Kulaal,routledge
+cul,Kulina,routledge
+nel,Kumak,routledge
+atm,Kunsa,routledge
+klk oku,Kuo,routledge
+kko,Kuranko,routledge
+kji krd,Kurdish,routledge
+kfe,Kurumba,routledge
+kos,Kusaiean,routledge
+kuu,Kuuku-Ya'u,routledge
+wrb,Kuurn Kopan Noot,routledge
+pun,Kuwama,routledge
+kwk,Kwakiutl,routledge
+hhu,Kwasengen,routledge
+koe,Kwegu,routledge
+ctc,Kwikateko,routledge
+cut,Kwitlateko,routledge
+ari,Lae,routledge
+ghr tni,Lahuli,routledge
+lkk,Lajia,routledge
+lac,Lakantún,routledge
+lal,Lalaw,routledge
+lla,Lama-Lama,routledge
+lmb,Lamba (in Zambia),routledge
+scs,Lapp (Southern),routledge
+lar,Laragiya,routledge
+lrk,Larike-Wakasihu,routledge
+lch,Lati,routledge
+tnk,Lavongai,routledge
+lel,Lele (Chad),routledge
+llm,Lelemi (Bwem),routledge
+wet,Letri Lgona,routledge
+lgt,Logo,routledge
+ama,Longa,routledge
+kyg,Lower Kenyang,routledge
+kil,Luba Shaba,routledge
+blu cil,Luba-Lulua,routledge
+luc,Luchazi,routledge
+lu,Lue,routledge
+luy,Luhya,routledge
+lui,Luiseno-Juaneno,routledge
+lud,Lun Daye,routledge
+miz,Lushai-Mizo,routledge
+luv,Lwena (Luvale),routledge
+jlu,Lwo,routledge
+lu,Ly,routledge
+mda,Ma'da,routledge
+mad,Madi,routledge
+mne,Maidu,routledge
+myr,Majoruna-Matsés,routledge
+kjo mks,Makassarese,routledge
+tab,Makian (East),routledge
+cde,Makiritare,routledge
+brs mcn,Makuna-Erulia,routledge
+mac,Makushí,routledge
+mca,Maká,routledge
+mlk,Malagmalag,routledge
+saa,Malaita (South),routledge
+ktp myk,Malay,routledge
+meb,Malay (Jakarta),routledge
+dhi,Maldivian,routledge
+mle,Male,routledge
+tmm,Malo,routledge
+mmz,Mam,routledge
+mds,Manado Malay,routledge
+mma,Mandaic,routledge
+mkg,Mandinka,routledge
+mmb,Mangap,routledge
+myi,Mangarayi,routledge
+maw,Maninka,routledge
+mei,Manipuri,routledge
+mjk,Manjanku,routledge
+mns,Mansi (Vogul),routledge
+sgb,Mantion,routledge
+nma,Mao Naga,routledge
+mao,Maori (New Zealand),routledge
+mpy,Mapoyo-Yavarana,routledge
+map,Mapudungu,routledge
+mku,Maranunggu,routledge
+mah,Mari,routledge
+mme,Mari (Cheremis),routledge
+mrh,Maridhiyel,routledge
+ckh,Maringe,routledge
+mrt,Martuyhunira,routledge
+mzc mzh,Masateko,routledge
+maz,Masawa,routledge
+max,Mashakalí,routledge
+wch,Matako,routledge
+ocu,Matlatzinka,routledge
+mch,Matsigenga,routledge
+mtb,Matumbi,routledge
+mka,Mau(ka),routledge
+mau,Mawng,routledge
+mya,Maya,routledge
+mby,Mbai,routledge
+mhu,Mbalantu,routledge
+eml,Mbaloh,routledge
+mbz,Mbe,routledge
+ndu,Mbere,routledge
+mbm,Mbum (East),routledge
+mbm,Mbum (West),routledge
+mea,Meax,routledge
+mid,Meidob,routledge
+mkz,Meka,routledge
+hmi,Meneka,routledge
+men,Menominee,routledge
+ill,Miami,routledge
+hmd hmo,Miao,routledge
+mco mth mtp,Mije,routledge
+shb,Mikeyir,routledge
+fuz,Min (Eastern) dialect (Mindong),routledge
+xia,Min (Southern),routledge
+hok,Min (Southern) dialect (Minnan),routledge
+mmu,Minangkabau,routledge
+chz,Minnan,routledge
+msg,Miri,routledge
+mer,Miriam,routledge
+mja mjc mxa mxc mxj mxm mxo mxp mxt mxu mxy mxz,Misteko,routledge
+mkb,Miwok (Coast),routledge
+bmb,Moba,routledge
+moc,Mocha,routledge
+mcc,Mochika,routledge
+mof,Mofu (South),routledge
+moj,Mohave,routledge
+mcv,Mokovi,routledge
+bku,Mokpwe,routledge
+mmo,Moksha Mordvin,routledge
+mko,Mokulu,routledge
+mgg,Monguor (Minhe),routledge
+mno,Mono,routledge
+tgl,Monpa,routledge
+pad,Mori,routledge
+els,Morwap,routledge
+mwo,Motlav,routledge
+mlm,Mrabri,routledge
+mul,Mulam,routledge
+pat,Mumeng,routledge
+nge,Mundum,routledge
+muo,Muong (plus diacritics),routledge
+mpa,Murrinhpatha,routledge
+hum,Murui,routledge
+muh,Muxir,routledge
+bmz,Mzab,routledge
+mis,Mískitu,routledge
+nro,N(h)aro(n),routledge
+nue,Naath (Nuer),routledge
+fij,Nadroga,routledge
+nad,Nadöb,routledge
+nkk,Nakarra,routledge
+kho,Nama/Damara,routledge
+nmb,Nambikuara (Southern),routledge
+nam,Namie,routledge
+fiw,Namosi-Naitasiri-Serua,routledge
+nai,Nanay,routledge
+all nar,Nara,routledge
+git,Nass-Gitksan,routledge
+nav,Navaho,routledge
+nhc nhh nhm nhn nhp nht nhu nhx nmi nmp npa nsz,Nawa,routledge
+ndb,Ndebele,routledge
+arv,Negev Bedouin,routledge
+nen ntu,Nenets (Yurak Samoyed),routledge
+dbr dli dut duz,Netherlandic,routledge
+tpi,New Guinea Pidgin,routledge
+new nwd,Newari,routledge
+ntj,Ngaanyatjara,routledge
+ngd,Ngada,routledge
+ngj,Ngadjunmaya,routledge
+olm plp,Ngaju,routledge
+yli,Ngalik,routledge
+bnr ngy,Ngarinman,routledge
+ngg ngk,Ngenkikurrunggur,routledge
+dok,Ngombe,routledge
+ngo,Ngoni (in Tanzania),routledge
+nca nnc,Nicobarese,routledge
+lua,Niellim,routledge
+shi,Ninam,routledge
+nsg,Nishga,routledge
+niu,Niue,routledge
+nvs,Nivkh,routledge
+nko rny,Nkore,routledge
+nog nok tlb yta,Noghai,routledge
+noo,Non,routledge
+kyq nuu,Nootka,routledge
+mrk,Nor,routledge
+toq,North Malaita,routledge
+sge,North Songye,routledge
+kti,Northern Kati,routledge
+sst,Northern Straits,routledge
+nnn,Nuni,routledge
+nup,Nupe (Central),routledge
+ktz pra,Nuristani,routledge
+nkt,Nyahkur,routledge
+ddf,Nyala,routledge
+cic,Nyanja,routledge
+rru,Nyoro,routledge
+obg,Obronuagum,routledge
+kiq kmk,Oirat,routledge
+ojm,Ojibwa (South-western),routledge
+oca,Okaina,routledge
+olu,Oluta Mijean,routledge
+sel,Ona,routledge
+onn,Onandaga,routledge
+lga,Ongtong Java,routledge
+eud,Opata,routledge
+oko,Oriya,routledge
+ldo,Oroko (West),routledge
+owc,Oromo,routledge
+orh,Oromo (Eastern),routledge
+war,Orowari,routledge
+oto,Otoe,routledge
+otm,Otomí,routledge
+osm,Otomí (Northwestern),routledge
+tua,Pa'umotu,routledge
+pms,Paama,routledge
+pae,Paes,routledge
+tsh,Panamint,routledge
+pny,Panytyima,routledge
+nev ood,Papago,routledge
+pod,Parekwa,routledge
+prc,Paresi,routledge
+prd,Parji,routledge
+puk,Paruk Wa,routledge
+kau,Pasismanua,routledge
+psm,Passamaquoddy,routledge
+pec,Paya,routledge
+pem,Pemong,routledge
+kpw,Pho,routledge
+phl,Pho (Pwo),routledge
+ppc,Piapoko,routledge
+pia,Piaroa-Mako,routledge
+pba,Pima (Lower),routledge
+sin,Piohé,routledge
+uma,Pipikoro,routledge
+prh,Pirahán,routledge
+bbm,Pitu Ilunna Salo,routledge
+pmc,Pomo,routledge
+pme pmn pso,Pomoan,routledge
+poh,Ponapean,routledge
+awk,Pongu,routledge
+pop psv,Popoloka,routledge
+pcm poc,Poqomam,routledge
+pkm,Poqomchí,routledge
+ago,Portuguese-based Creoles,routledge
+occ,Provençal,routledge
+gku,Puelche,routledge
+puq,Pukina,routledge
+pan,Punjabi,routledge
+kpw,Pwo,routledge
+kwe,Qanjobal,routledge
+kek,Qeqchí,routledge
+qca,Quechua,routledge
+qta,Quechua (Junín-Lima),routledge
+bgi skw,Rajasthani,routledge
+lgi,Rangi,routledge
+tor,Ratahan,routledge
+raw,Rawang (Mixed),routledge
+pok,Rawo,routledge
+rmb,Rembarrnga,routledge
+rnn,Ren(n)ellese,routledge
+rad,Rhade,routledge
+rmc rsc rsm rsu,Rhaeto-Romance,routledge
+tmn,Ronge,routledge
+rsh,Rushani,routledge
+kin,Rwanda,routledge
+trd,Sa'dan,routledge
+wao,Sabela,routledge
+isi,Saberi,routledge
+ape,Safayoka (Ampale),routledge
+crl,Saipan Carolinian,routledge
+sbg,Sama (Northern),routledge
+bjs,Sama (Southern),routledge
+baj,Sama Bajau,routledge
+snm,Sanemá,routledge
+nbk,Santa Cruz,routledge
+zpi zte,Sapateko,routledge
+seb,Sapiny,routledge
+taf,Saposa,routledge
+zai zaj zam zap zaq zsq zya zzo,Sapoteko,routledge
+sor,Savara,routledge
+saw,Savu,routledge
+snd,Senari,routledge
+bos scr,Serbo-Croat,routledge
+ksg,Sgaw,routledge
+shm,Shamba(l)a,routledge
+shh,Sharanawa,routledge
+xav,Shavante,routledge
+xer,Sherente,routledge
+bkt dmk sav,Shina,routledge
+shk,Shipibo,routledge
+xok,Shokleng,routledge
+swr,Shoshone (Northern),routledge
+err,Sie,routledge
+sik,Sikka,routledge
+sng,Sinagoro,routledge
+snh,Sinhalese,routledge
+bsi,Siwa,routledge
+mot,Siwai,routledge
+avt,Siya,routledge
+zch zfl zqc zqo zqr,Sokean,routledge
+zqs,Sokean (Highland),routledge
+kch kse,Songhai,routledge
+son,Sonsorolese,routledge
+sou srl,Sorbian,routledge
+wwy,Sorsogon (Waray),routledge
+stn,Sotho (North),routledge
+ses,Sotho (South),routledge
+myn,South East (Ma'anyan),routledge
+sge,South Songye,routledge
+sea,South-East Ambrym,routledge
+kti,Southern Kati,routledge
+ast spc,Spanish,routledge
+lum sch sgs soo sss,Straits (Northern),routledge
+slb,Suau,routledge
+sud,Sud-Est,routledge
+kam,Sumbanese (East),routledge
+sum,Sumu-Ulua,routledge
+mup,Sura,routledge
+swt,Swazi (Swati),routledge
+swv,Swedish,routledge
+sba,Sáliva,routledge
+zpr,Sáparo-Konambo,routledge
+tbs,Tabasaran,routledge
+igs,Tabi,routledge
+sud,Tagula,routledge
+esm,Takame,routledge
+tac,Takana,routledge
+juk,Takum,routledge
+tal,Talinge,routledge
+taz tls,Talish,routledge
+jom,Talodi,routledge
+mii,Tama,routledge
+tai tug,Tamasheq,routledge
+bma bse,Tamazight,routledge
+tsp,Tamil,routledge
+tbl,Tanahmerah,routledge
+ngt,Tangkhul,routledge
+jug lun,Tangsa/Rangpan,routledge
+tgp,Tanlapui,routledge
+tns,Tanna (South-west),routledge
+dou,Taori-So,routledge
+tce twe,Tarahumara,routledge
+dig,Taraon,routledge
+pur,Tarasko,routledge
+tas,Tashelhait,routledge
+toy,Tasmanian Languages,routledge
+tmu,Tat,routledge
+tat,Tatana,routledge
+tmi ttb,Tatar,routledge
+kae,Tate (Raepa-Tati),routledge
+tts,Tati,routledge
+ntn,Tayari,routledge
+tbu,Teda-Daza,routledge
+ori ras,Tegali,routledge
+tec,Teko,routledge
+gjj,Tenetehara,routledge
+tpn,Tepahue (Northern),routledge
+tps,Tepahue (Southeastern),routledge
+tep,Tepewa,routledge
+tew trg tsj,Tewa,routledge
+teh,Tewelche,routledge
+jad tib tis tmo tod,Tibetan,routledge
+tbe,Tigre,routledge
+tic,Tikuna,routledge
+cuc,Timote-Kuika,routledge
+cai trm,Tirma,routledge
+tlp,Tlapaneko,routledge
+bto,Toba Batak,routledge
+tbr,Tobaru,routledge
+tof,Tofalar,routledge
+tke,Tokelau,routledge
+tol,Tol (Eastern),routledge
+tol,Tol (Western),routledge
+toz,Tonga,routledge
+bro,Torres Strait Pidgin English (Broken),routledge
+tos,Totonaco,routledge
+tot tpa txj,Totonako,routledge
+jem,Towa (Jemez),routledge
+trc tri,Trike,routledge
+kok,Tripuri,routledge
+cuu,Trukese,routledge
+dul,Trung,routledge
+tuk,Tukang-Besi,routledge
+tuc,Tukano,routledge
+tkm,Turkmenian,routledge
+iau,Turu,routledge
+tow,Tusya(ng),routledge
+tou,Tusyang,routledge
+nnm tvl,Tuvalu,routledge
+tza tzb tzt,Tzeltal,routledge
+tzs tzz,Tzotzil,routledge
+tin,Tîrî,routledge
+udh,Udehe,routledge
+udm,Udmurt (Votyak),routledge
+smt,Umatilla,routledge
+chl,Upper Chehalis,routledge
+kyg,Upper Kenyang,routledge
+ory,Uria,routledge
+wll,Uvea (East),routledge
+uzn,Uzbek,routledge
+wal,Valman (Koroko),routledge
+dum,Vanimo,routledge
+grj,Varohio,routledge
+bab,Veng'o,routledge
+wat,Wadjari,routledge
+bac,Wadjiginy,routledge
+goa,Wahiro,routledge
+ghb skn,Wahivo,routledge
+har,Waibuk,routledge
+wai,Waiwai,routledge
+hlp,Walapai,routledge
+wlm,Walmadjari,routledge
+dam,Wamaka,routledge
+gmb,Wambiano-Mogés,routledge
+wrn,Wamdarang,routledge
+gno prt,Wanana-Pirá,routledge
+mlg,Wandala,routledge
+wan,Wanggumara,routledge
+mwa,Wangkajunka,routledge
+usa,Wanuma,routledge
+wry,Waray,routledge
+wrm,Warenbori,routledge
+bou,Wargla,routledge
+gnb,Warlang,routledge
+wgu,Warungu,routledge
+wrw,Warwa,routledge
+kwo,Washkuk,routledge
+htc,Wasteko,routledge
+wth,Wathawurung,routledge
+wur,Waurá-Meinaku,routledge
+wem,Wemba Wemba,routledge
+mwb,West Bukidnon Manobo,routledge
+wmu,Wik-Mungkana,routledge
+wn,Wik-Ngathàna,routledge
+wly,Wolaitta,routledge
+gnn,Wunambal,routledge
+wwr,Wuywurrung,routledge
+uld,Wuzlam,routledge
+xas,Xasonke,routledge
+hdi,Xedi,routledge
+ksi,Xinh Mul,routledge
+jab,Yabim,routledge
+yak,Yaka (in Democratic Republic of Congo),routledge
+gun,Yambasa,routledge
+yam,Yaminawa,routledge
+ynk,Yankuntjara,routledge
+yns,Yans(i),routledge
+mie mnu yao,Yao,routledge
+yaw,Yava,routledge
+yaz,Yazgulyami,routledge
+yey,Yei,routledge
+yel,Yele,routledge
+ket,Yenisey Ostyak,routledge
+yei,Yey,routledge
+yng,Yinggarda,routledge
+iwa,Yiwaidja,routledge
+wik yok,Yokutsan,routledge
+tbt,Yotafa,routledge
+yyo,Yotayota,routledge
+cnt,Yue,routledge
+yuk,Yugulda,routledge
+yko ytu,Yukaghir,routledge
+yct,Yukateko Proper,routledge
+ykp,Yukpa-Japería,routledge
+ycn,Yukuna,routledge
+ylb,Yulbaridja,routledge
+big,Yulu-Binga dialects,routledge
+ysl yus,Yupik (Central Siberian),routledge
+ypk,Yupik (General Central),routledge
+yun,"Yupik, General Central",routledge
+yrc,Yurakare,routledge
+kyr,Yuri,routledge
+yah,Yámana,routledge
+nyl,Yâlayu,routledge
+zay,Zayse-Zergulla,routledge
+nze,Zemi,routledge
+juh,Zhu-/Hoa (Si),routledge
+nun,Zhuang (Southern),routledge
+zhn,"Zhuang, Northern",routledge
+zno zso,Zulu,routledge
+amd,hBrogpa,routledge
+ayw,Äiwo,routledge
+xun,!Kung,ruhlen
+krn,!Ora,ruhlen
+arx,'Are'are,ruhlen
+tmu,(Tati),ruhlen
+xam,/Xam,ruhlen
+apk,A-Pucikwar,ruhlen
+aba,Abau,ruhlen
+abz,Abaza,ruhlen
+amb,Abelam,ruhlen
+abw,Abenaki (Western),ruhlen
+abd,Abiji,ruhlen
+abi,Abipon,ruhlen
+abk,Abkhaz,ruhlen
+acg,Achagua,ruhlen
+acn,Achang,ruhlen
+aci,Achi,ruhlen
+ace,Achinese,ruhlen
+acl,Acholi,ruhlen
+acu,Achuar,ruhlen
+acm,Achumawi,ruhlen
+boj boq gal mil,Adi,ruhlen
+adt ady ash,Adygh,ruhlen
+adn,Adynyamathanha,ruhlen
+adi,Adyukru,ruhlen
+adz,Adzera,ruhlen
+qaf,Afar,ruhlen
+afr,Afrikaans,ruhlen
+agh,Aghem,ruhlen
+ahu,Aghu,ruhlen
+agc,Agta,ruhlen
+agu,Aguacatec,ruhlen
+agr,Aguaruna,ruhlen
+agl,Agul,ruhlen
+aht,Ahtna,ruhlen
+ain,Ainu,ruhlen
+ayw,Aiwo,ruhlen
+aiz,Aizi,ruhlen
+aja,Aja,ruhlen
+aji,Ajie,ruhlen
+akb,Aka-Bea,ruhlen
+akc,Aka-Cari,ruhlen
+akk,Aka-Kede,ruhlen
+akn,Akan,ruhlen
+akw,Akawaio,ruhlen
+akh,Akha,ruhlen
+akl,Aklanon,ruhlen
+abm,Alabama,ruhlen
+ald,Aladian,ruhlen
+agw,Alagwa,ruhlen
+ala,Alamblak,ruhlen
+alx,Alas,ruhlen
+alw,Alawa,ruhlen
+alb,Albanian,ruhlen
+aea ale,Aleut,ruhlen
+alc,Allentiac,ruhlen
+als,Alsea,ruhlen
+aso,Altai,ruhlen
+aln,Alune,ruhlen
+atq,Alutiiq,ruhlen
+aly,Alyawarra,ruhlen
+alu,Alyutor,ruhlen
+ma,Amadi,ruhlen
+amc,Amahuaca,ruhlen
+amn,Amanab,ruhlen
+amk,Amarakaeri,ruhlen
+amq,Ambai,ruhlen
+mpu,Amberbaken,ruhlen
+ame,Amele,ruhlen
+amh,Amharic,ruhlen
+ami,Ami,ruhlen
+amo,Amo,ruhlen
+amu,Amuesha,ruhlen
+amz,Amuzgo,ruhlen
+anx,Andi,ruhlen
+adk,Andoke,ruhlen
+anj,Aneityum,ruhlen
+ane,Anem,ruhlen
+ant,Angaataha,ruhlen
+agm,Angami,ruhlen
+anc,Angas,ruhlen
+nnd,Angaua,ruhlen
+ang,Anggor,ruhlen
+any,Anuak,ruhlen
+ayi,Anyi,ruhlen
+ao,Ao,ruhlen
+aml,Aoban (Northeast),ruhlen
+apc apj,Apache (Eastern),ruhlen
+apw,Apache (Western),ruhlen
+apl,Apalai,ruhlen
+apt,Apatani,ruhlen
+api,Apinaye,ruhlen
+apu,Apurina,ruhlen
+abn,Arabana,ruhlen
+arb,Arabela,ruhlen
+abe abh aeg ako anl apa arg arh arl arq ars arv asy,Arabic (Eastern),ruhlen
+abb ael amr arn atu,Arabic (Western),ruhlen
+ark,Araki,ruhlen
+naa naj nap,Aramaic,ruhlen
+amp arr awe,Aranda,ruhlen
+ard,Arandai,ruhlen
+ana,Araona,ruhlen
+aho,Arapaho,ruhlen
+kaa,Arara (Tupi),ruhlen
+ara,Arawak,ruhlen
+abo,Arbore,ruhlen
+arc,Archi,ruhlen
+aar,Ari,ruhlen
+akr,Arikara,ruhlen
+arm arw arz,Armenian,ruhlen
+aro,Arosi,ruhlen
+cax,Ashaninca,ruhlen
+ass,Assamese,ruhlen
+nsy,Assyrian,ruhlen
+asu,Asurini,ruhlen
+atk,Atakapa,ruhlen
+ata,Atayal,ruhlen
+atc,Atchin,ruhlen
+ath,Athpare,ruhlen
+ats,Atsugewi,ruhlen
+au,Au,ruhlen
+aul,Aulua,ruhlen
+awt,Autu,ruhlen
+auy usr,Auyana,ruhlen
+ava,Avar,ruhlen
+avt,Avatime,ruhlen
+avo,Avukaya,ruhlen
+awa,Awa,ruhlen
+awd,Awadhi,ruhlen
+awi,Awin,ruhlen
+awn,Awngi,ruhlen
+agt,Awngthim,ruhlen
+awy,Awyi,ruhlen
+axv,Axvax,ruhlen
+aym,Aymara,ruhlen
+ayo,Ayoman,ruhlen
+ayr,Ayoreo,ruhlen
+aze azi,Azerbaijani,ruhlen
+pkn,Baagandji,ruhlen
+sis,Babatana,ruhlen
+bab,Babungo,ruhlen
+obk,Baburiwa,ruhlen
+bdg,Badaga,ruhlen
+bad,Bade,ruhlen
+baf,Bafut,ruhlen
+bgs,Baga Sitemu,ruhlen
+bag,Bagirmi,ruhlen
+bgv,Bagulal,ruhlen
+bhn,Bahinemo,ruhlen
+bpb,Bahnar,ruhlen
+bng mli,Baining,ruhlen
+bak bka,Baka,ruhlen
+bki,Bakairi,ruhlen
+blg,Balangaw,ruhlen
+blz,Balant,ruhlen
+blk,Balantak,ruhlen
+ldu nti,Balendru,ruhlen
+bal,Bali,ruhlen
+blc,Baluchi,ruhlen
+bam,Bambara,ruhlen
+mbi,Bambui,ruhlen
+bmn,Bamun,ruhlen
+ban,Bana,ruhlen
+bna,Banawa,ruhlen
+bnd,Bandi,ruhlen
+bca bnj bwa byu gid,Bandjalang,ruhlen
+bgg,Banggai,ruhlen
+bnl,Banggarla,ruhlen
+bnw,Baniva,ruhlen
+lmn,Banjari,ruhlen
+bnk,Bankon,ruhlen
+bnn,Banoni,ruhlen
+bnt,Bantik,ruhlen
+baa,Barai,ruhlen
+bbu,Barambo,ruhlen
+bno,Barasano (Northern),ruhlen
+brs,Barasano (Southern),ruhlen
+bae,Bare,ruhlen
+bar kuk,Bari,ruhlen
+brb,Bariba,ruhlen
+bry,Baruya,ruhlen
+bas,Basaa,ruhlen
+bsr,Basari,ruhlen
+kal,Bashkarik,ruhlen
+bsk,Bashkir,ruhlen
+bqb bqg bqh bqi bql bqn bqo bqr bqs bqz bso bsq,Basque,ruhlen
+bat,Batak,ruhlen
+ttu,Bats,ruhlen
+bau,Bau,ruhlen
+ble,Baule,ruhlen
+baq,Baure,ruhlen
+bzi,Bauzi,ruhlen
+bys,Bayso,ruhlen
+edo,Beami,ruhlen
+gmz,Bega,ruhlen
+bej,Beja,ruhlen
+bco,Bella Coola,ruhlen
+bem,Bemba,ruhlen
+bee,Bembe (CK if same Bembe),ruhlen
+beb,Benabena,ruhlen
+gim,Bencho,ruhlen
+bga,Benga,ruhlen
+bec ben,Bengali,ruhlen
+leb,Beo,ruhlen
+beo,Beothuk,ruhlen
+brk,Berik,ruhlen
+ber,Berta,ruhlen
+bet,Bete,ruhlen
+bti,Betoi,ruhlen
+bez,Bezhta,ruhlen
+bhi,Bhili,ruhlen
+bho,Bhojpuri,ruhlen
+bfd,Biafada,ruhlen
+bik,Biak,ruhlen
+bit,Biatah,ruhlen
+bid,Bidiyo,ruhlen
+biq,Bilaan (Cotabato),ruhlen
+biq,Bilaan (Sarangani),ruhlen
+nak,Bileki,ruhlen
+bln,Bilin,ruhlen
+blx,Biloxi,ruhlen
+bil,Bilua,ruhlen
+bim,Bima,ruhlen
+bin,Binandere,ruhlen
+bni,Bini,ruhlen
+bkd,Binukid,ruhlen
+bnm,Binumarien,ruhlen
+bia,Bira,ruhlen
+bii,Biri,ruhlen
+bir,Birom,ruhlen
+bis,Bisa,ruhlen
+bsm,Bislama,ruhlen
+biu,Bisu,ruhlen
+bla,Blackfoot,ruhlen
+boa,Boazi,ruhlen
+bob,Bobangi,ruhlen
+bbf,Bobo-Fing,ruhlen
+bod,Bodo,ruhlen
+boi,Boiken,ruhlen
+blq,Bole,ruhlen
+bgo,Bongo,ruhlen
+bon,Bongu,ruhlen
+btk,Bontok (Central),ruhlen
+bor,Bora,ruhlen
+ssh,Boro (Omotic),ruhlen
+brr,Bororo,ruhlen
+brc,Borunca,ruhlen
+boz,Bozo,ruhlen
+brh,Brahui,ruhlen
+bra,Brao,ruhlen
+may,Brat,ruhlen
+bre,Breton,ruhlen
+bri,Bribri,ruhlen
+bru brw,Bru,ruhlen
+bub,Bubi,ruhlen
+bud,Buduma,ruhlen
+bdk,Budux,ruhlen
+bug,Bugis,ruhlen
+bgl,Buglere,ruhlen
+bun,Buin,ruhlen
+mta,Bukar Sadong,ruhlen
+bul,Bulgarian,ruhlen
+bui buy,Buli,ruhlen
+buw,Bulu,ruhlen
+bum,Buma,ruhlen
+bnb,Bunaba,ruhlen
+ghr,Bunan,ruhlen
+bpa,Bura,ruhlen
+bua,Burarra,ruhlen
+but,Buriat,ruhlen
+brj,Burji,ruhlen
+brm,Burmese,ruhlen
+buu,Buru,ruhlen
+bmr,Burum,ruhlen
+brn,Burunge,ruhlen
+bur,Burushaski,ruhlen
+bus,Busa,ruhlen
+bsh,Bushong,ruhlen
+kbw,Bwe,ruhlen
+bya,Byangsi,ruhlen
+blr,Byelorussian,ruhlen
+cab,Cabecar,ruhlen
+cac,Cacua,ruhlen
+cad,Caddo,ruhlen
+cog,Cagaba,ruhlen
+cah,Cahuilla,ruhlen
+cak,Cakchiquel,ruhlen
+khm,Cambodian,ruhlen
+cam,Camsa,ruhlen
+ins iql,Canadian Inuit,ruhlen
+cnm,Canamari,ruhlen
+can,Candoshi,ruhlen
+ckr cnl,Canela,ruhlen
+cnt,Cantonese,ruhlen
+cap,Capanahua,ruhlen
+crp,Carapana,ruhlen
+crj umu,Carijona,ruhlen
+crl pul,Carolinian,ruhlen
+crq,Carrier,ruhlen
+cas,Cashibo,ruhlen
+csh,Cashinahua,ruhlen
+ctl,Catalan,ruhlen
+ctw,Catawba,ruhlen
+cav,Cavineña,ruhlen
+cay,Cayapa,ruhlen
+kyp,Cayapo,ruhlen
+cyg,Cayuga,ruhlen
+cyv,Cayuvava,ruhlen
+ceb,Cebuano,ruhlen
+cem,Cemuhi,ruhlen
+ifm,Central Teke,ruhlen
+lho skk,Central Tibetan,ruhlen
+qia,Ch'iang,ruhlen
+cbo,Chacobo,ruhlen
+cga,Chaga,ruhlen
+anu,Chakosi,ruhlen
+cme,Cham (East),ruhlen
+chw,Cham (West),ruhlen
+chm,Chamalal,ruhlen
+ptt sle,Chamba,ruhlen
+chb,Chambri,ruhlen
+emc,Chami,ruhlen
+cha,Chamorro,ruhlen
+chg,Chang,ruhlen
+cht cso ctt cya,Chatino,ruhlen
+chd,Chaudangsi,ruhlen
+cvc,Chavacano,ruhlen
+xav,Chavante,ruhlen
+chy,Chayahuita,ruhlen
+chc,Chechen,ruhlen
+chl,Chehalis (Upper),ruhlen
+cmk,Chemakum,ruhlen
+cmh,Chemehuevi,ruhlen
+cpn,Chepang,ruhlen
+che,Cherokee,ruhlen
+cyn,Cheyenne,ruhlen
+msc,Chibcha,ruhlen
+cjo,Chichimeca,ruhlen
+cec,Chicomukeltec,ruhlen
+mos,Chimane,ruhlen
+chi,Chimariko,ruhlen
+gln kmn tba,Chimbu,ruhlen
+cma,Chimila,ruhlen
+mcc,Chimu,ruhlen
+ccm chq cle cpl csc csf cte,Chinantec,ruhlen
+ckl,Chinook (Lower),ruhlen
+cku,Chinook (Upper),ruhlen
+chp,Chipewyan,ruhlen
+cqt,Chiquito,ruhlen
+ctm,Chitimacha,ruhlen
+oto,Chiwere,ruhlen
+cch,Chocho,ruhlen
+cct,Choctaw,ruhlen
+col,Chol,ruhlen
+cln,Cholona,ruhlen
+cho chx cmy,Chontal,ruhlen
+crt,Chorote,ruhlen
+coi,Chorti,ruhlen
+chr,Chrau,ruhlen
+crh,Chru,ruhlen
+cve,Chuave,ruhlen
+chj,Chuj,ruhlen
+chk,Chukchi,ruhlen
+chu,Chulupi,ruhlen
+cly,Chulym,ruhlen
+cba cin,Chumash,ruhlen
+deu,Chutiya,ruhlen
+chv,Chuvash,ruhlen
+cla,Clallam,ruhlen
+coa,Coahuiltec,ruhlen
+coc,Cocama,ruhlen
+ccp,Cocopa,ruhlen
+coe,Coeur d'Alene,ruhlen
+cof,Cofan,ruhlen
+tsf,Colorado,ruhlen
+cwe,Columbian,ruhlen
+cmn,Comanche,ruhlen
+cmc,Comecrudo,ruhlen
+cmx,Comox,ruhlen
+coo,Coos,ruhlen
+cop,Coptic,ruhlen
+cor,Cora,ruhlen
+kje,Coreguaje,ruhlen
+crn,Cornish,ruhlen
+cea cre,Cree,ruhlen
+cri,Crimean Turkish,ruhlen
+gbc,Crioulo,ruhlen
+cro,Crow,ruhlen
+cua,Cua,ruhlen
+awp,Cuaiquer,ruhlen
+cub,Cubeo,ruhlen
+cui,Cuiba,ruhlen
+cuc,Cuica,ruhlen
+ctc,Cuicatec,ruhlen
+cut,Cuitlatec,ruhlen
+cul,Culina,ruhlen
+kun,Cuna,ruhlen
+cup,Cupeño,ruhlen
+cur,Curripaco,ruhlen
+cze,Czech,ruhlen
+dab,Daba,ruhlen
+dad,Dadibi,ruhlen
+dag,Daga,ruhlen
+dga,Dagara,ruhlen
+dgb,Dagbani,ruhlen
+dgr,Dagur,ruhlen
+dah,Dahalo,ruhlen
+dak sto,Dakota,ruhlen
+dan dbw,Dan,ruhlen
+dnw,Dangla,ruhlen
+dni,Dani (Grand Valley),ruhlen
+dsh,Danish,ruhlen
+dhb,Darambal,ruhlen
+drg,Dargwa,ruhlen
+drm,Darmiya,ruhlen
+dha,Dasenech,ruhlen
+dat,Datooga,ruhlen
+day,Day,ruhlen
+doy,Dayãyo,ruhlen
+def,Defaka,ruhlen
+deg,Degema,ruhlen
+dre,Dehu,ruhlen
+den,Deni,ruhlen
+der,Dera,ruhlen
+des,Desano,ruhlen
+det,Deti,ruhlen
+glp,Dhangu,ruhlen
+dhw,Dharawal,ruhlen
+dhm,Dhimal,ruhlen
+dhu,Dhurga,ruhlen
+dda djp gmt,Dhuwal,ruhlen
+dng,Di,ruhlen
+vat,Dida,ruhlen
+tsz,Dido,ruhlen
+die tja,Diegueño,ruhlen
+dig,Digaro,ruhlen
+dms,Dimasa,ruhlen
+dim,Dime,ruhlen
+dio,Diola,ruhlen
+diy,Diyari,ruhlen
+diz,Dizi,ruhlen
+jam,Djamindjung,ruhlen
+djr,Djaru,ruhlen
+djn,Djinang,ruhlen
+dji,Djingili,ruhlen
+ndy,Djuka,ruhlen
+dob,Dobel,ruhlen
+dog dts,Dogon,ruhlen
+dgi,Dogri,ruhlen
+dol,Dolgan,ruhlen
+dgo,Dongo,ruhlen
+nbd nku,Dongolawi,ruhlen
+yem,Dschang,ruhlen
+dua,Duala,ruhlen
+pta,Dubea,ruhlen
+duk,Duka,ruhlen
+dma,Duma,ruhlen
+dca,Dumagat (Casiguran),ruhlen
+dmk,Dumaki,ruhlen
+dmi,Dumi,ruhlen
+dun,Duna,ruhlen
+ygd,Duru,ruhlen
+dbr dli dut duz,Dutch,ruhlen
+bdc,Dutch Creole,ruhlen
+dja,Dyaabugay,ruhlen
+tye,Dyeraidy,ruhlen
+dym,Dyimini,ruhlen
+dyi,Dyirbal,ruhlen
+dyu,Dyula,ruhlen
+ahs,Eastern Arabic,ruhlen
+ebi,Ebira,ruhlen
+ngu,Efate (North),ruhlen
+efi,Efik,ruhlen
+eip,Eipo,ruhlen
+eja,Ejagham,ruhlen
+eka,Ekagi,ruhlen
+ora,Emai,ruhlen
+emb,Embera,ruhlen
+ene,Enets,ruhlen
+ena kyk,Enga,ruhlen
+egn,Engenni,ruhlen
+eno,Enggano,ruhlen
+eng,English,ruhlen
+ann,Enindhilyagwa,ruhlen
+eny,Enya,ruhlen
+ese,Ese'ejja,ruhlen
+esm,Esmeralda,ruhlen
+ess,Esselen,ruhlen
+est,Estonian,ruhlen
+evn,Even,ruhlen
+eve,Evenki,ruhlen
+ewa ewe,Ewe,ruhlen
+ewo,Ewondo,ruhlen
+eya,Eyak,ruhlen
+plr,Falor,ruhlen
+far,Faroese,ruhlen
+dri prs,Farsi,ruhlen
+fas,Fasu,ruhlen
+fef,Fe'fe,ruhlen
+fij fiw,Fijian,ruhlen
+fin,Finnish,ruhlen
+foe,Foe,ruhlen
+fon,Fon,ruhlen
+for,Fore,ruhlen
+fox,Fox,ruhlen
+fre,French,ruhlen
+gfr lcr mqc sey,French Creole,ruhlen
+fea fno fri frw,Frisian,ruhlen
+fbf fgo fgu fma fni fua fum fus,Fula,ruhlen
+fni fus,Fulani,ruhlen
+ful,Fulnio,ruhlen
+fur,Fur,ruhlen
+bgr,Furu,ruhlen
+fut,Futuna-Aniwa,ruhlen
+poa,Fwai,ruhlen
+fye,Fyam,ruhlen
+gnd,Ga'anda,ruhlen
+igs,Gaam,ruhlen
+gdk,Gadaba,ruhlen
+gad,Gade,ruhlen
+aga gds,Gadsup,ruhlen
+iri,Gaelic,ruhlen
+gag,Gagauz,ruhlen
+gaa,Gagudju,ruhlen
+gah,Gahuku,ruhlen
+gll,Galela,ruhlen
+car,Galibi,ruhlen
+glc,Galician,ruhlen
+ngm,Gambai,ruhlen
+gml yuw,Gamilaraay,ruhlen
+gap,Gapapaiwa,ruhlen
+tap,Gapun,ruhlen
+krj,Garadyari,ruhlen
+grr,Garawa,ruhlen
+gar,Garo,ruhlen
+grs,Garus,ruhlen
+gav,Gavião,ruhlen
+dug,Gawwada,ruhlen
+kay,Gayardilt,ruhlen
+gay,Gayo,ruhlen
+gbb gbk mdo,Gbaya,ruhlen
+gel,Gela,ruhlen
+gla,Gelao,ruhlen
+kel,Gele,ruhlen
+geo,Georgian,ruhlen
+gau gba gbe gbl ger gha gma gos gpz grp gtg gth gti gvi gwe gzu,German,ruhlen
+tgh,Ghadames,ruhlen
+gho,Ghotuo,ruhlen
+gdr,Gidar,ruhlen
+gil,Gilaki,ruhlen
+krb,Gilbertese,ruhlen
+niv nvs,Gilyak,ruhlen
+kie,Giri,ruhlen
+giz,Gisiga,ruhlen
+goa,Goajiro,ruhlen
+gdi,Godie,ruhlen
+god,Godoberi,ruhlen
+goe,Goemai,ruhlen
+gog,Gogodala,ruhlen
+gok,Gokana,ruhlen
+gol,Gola,ruhlen
+nai,Gold,ruhlen
+una,Goliath,ruhlen
+gon,Gondi,ruhlen
+hwr,Gorani,ruhlen
+grt,Gorontalo,ruhlen
+grb,Grebo,ruhlen
+gcy grk,Greek,ruhlen
+gre grw gso,Greenlandic,ruhlen
+ghb skn,Guahibo,ruhlen
+gjj,Guajajara,ruhlen
+gmb,Guambiano,ruhlen
+gna,Guana,ruhlen
+gno,Guanano,ruhlen
+guq,Guaque,ruhlen
+crg gua,Guarani,ruhlen
+wrk,Guarequena,ruhlen
+grj,Guarijío,ruhlen
+gto,Guato,ruhlen
+gyb,Guayabero,ruhlen
+ach,Guayaki,ruhlen
+nbr,Guaymi,ruhlen
+gud,Gude,ruhlen
+gdf,Guduf,ruhlen
+gue,Guere,ruhlen
+kya,Gugu Yalandyi,ruhlen
+guh,Guhu-Semane,ruhlen
+guj,Gujarati,ruhlen
+gul,Gula,ruhlen
+gmw,Gumasi,ruhlen
+gum,Gumbayunggir,ruhlen
+goo,Guniyan,ruhlen
+bbw,Gunwinygu,ruhlen
+chh,Gurage (Central West),ruhlen
+grg,Guragone,ruhlen
+ggu,Gureng Gureng,ruhlen
+grn,Gurenne,ruhlen
+gji,Gurindji,ruhlen
+grm gut,Gurma,ruhlen
+gur,Gurung,ruhlen
+gus,Gusii,ruhlen
+gdb,Gutob,ruhlen
+guu,Guugu Yimidhirr,ruhlen
+gwa,Gwari,ruhlen
+jia,Gyarung,ruhlen
+ga,Gã,ruhlen
+had,Hadza,ruhlen
+hai hno,Haida,ruhlen
+hsl,Haisla,ruhlen
+lai,Haka,ruhlen
+hln,Halang,ruhlen
+hal,Halia,ruhlen
+hlk,Halkomelem,ruhlen
+hmr,Hamar,ruhlen
+ham,Hamtai,ruhlen
+han,Hani,ruhlen
+hnn,Hanunoo,ruhlen
+hrr,Harari,ruhlen
+hat,Hattam,ruhlen
+hau,Hausa,ruhlen
+hav,Havasupai,ruhlen
+haw,Hawaiian,ruhlen
+hwc,Hawaiian Creole,ruhlen
+hya,Haya,ruhlen
+hba heb,Hebrew,ruhlen
+heh,Hehe,ruhlen
+hei,Heiltsuk,ruhlen
+hem,Hemba,ruhlen
+her,Herero,ruhlen
+hia,Hianacoto,ruhlen
+hid,Hidatsa,ruhlen
+hil,Hiligaynon,ruhlen
+hin,Hindi,ruhlen
+hnk,Hinux,ruhlen
+hix,Hishkariana,ruhlen
+hma,Hmar,ruhlen
+ho,Ho,ruhlen
+hoa,Hoava,ruhlen
+hol,Holoholo,ruhlen
+hop,Hopi,ruhlen
+hre,Hrê,ruhlen
+hmb,Huambisa,ruhlen
+aik,Huari,ruhlen
+htc,Huastec,ruhlen
+hve,Huave,ruhlen
+hui,Huichol,ruhlen
+tst,Huihui,ruhlen
+hnd,Hunde,ruhlen
+hun,Hungarian,ruhlen
+hzb,Hunzib,ruhlen
+hup,Hupa,ruhlen
+hpd,Hupda,ruhlen
+wya,Huron,ruhlen
+iaa,Iaai,ruhlen
+iat,Iatmul,ruhlen
+iba,Iban,ruhlen
+ibn,Ibanag,ruhlen
+ibi,Ibibio,ruhlen
+ika,Ica,ruhlen
+ice,Icelandic,ruhlen
+beg,Ida'an,ruhlen
+ido,Idoma,ruhlen
+idn,Iduna,ruhlen
+igb,Igbo,ruhlen
+ige,Igede,ruhlen
+ign,Ignaciano,ruhlen
+iha,Iha,ruhlen
+ik,Ik,ruhlen
+amx,Ikundun,ruhlen
+ila,Ila,ruhlen
+ill,Illinois,ruhlen
+ilo,Ilokano,ruhlen
+ina,Inanwatan,ruhlen
+iir ind inj,Indonesian,ruhlen
+dgx,Ingalik,ruhlen
+izh,Ingrian,ruhlen
+ing,Ingush,ruhlen
+iqu,Iquito,ruhlen
+irr,Irahutu,ruhlen
+irx,Iranshe,ruhlen
+irq,Iraqw,ruhlen
+ird iri irm,Irish,ruhlen
+ssa,Isala,ruhlen
+ish,Ishkashmi,ruhlen
+isn,Isnag,ruhlen
+iso,Isoko,ruhlen
+ifi ita itb itg itn itu,Italian,ruhlen
+itw,Itawis,ruhlen
+ito,Itonama,ruhlen
+itz,Itza,ruhlen
+iva,Ivatanen,ruhlen
+iwa,Iwaidja,ruhlen
+iwm,Iwam,ruhlen
+ixc,Ixcatec,ruhlen
+ixi,Ixil,ruhlen
+ets,Iyekhee,ruhlen
+izi,Izi,ruhlen
+jak,Jacaltec,ruhlen
+yms,Janjero,ruhlen
+jpn,Japanese,ruhlen
+jpr,Japreria,ruhlen
+jaq,Jaqaru,ruhlen
+jrw,Jarawa,ruhlen
+jav,Javanese,ruhlen
+jeb,Jebero,ruhlen
+jeh,Jeh,ruhlen
+jah,Jehai,ruhlen
+tol,Jicaque,ruhlen
+jng,Jingphaw,ruhlen
+jom,Jomang,ruhlen
+jun,Juang,ruhlen
+juk,Jukun,ruhlen
+jlu,Jur,ruhlen
+kab,Kabardian,ruhlen
+kby,Kabre,ruhlen
+kbl,Kabyle,ruhlen
+kdw,Kadiweu,ruhlen
+kad,Kadugli,ruhlen
+kef,Kafa,ruhlen
+kgm,Kagoma,ruhlen
+kgr,Kaguru,ruhlen
+kai,Kaian,ruhlen
+daa kli,Kaili,ruhlen
+kng,Kaingang,ruhlen
+rum,Kairi,ruhlen
+krr,Kairiru,ruhlen
+kaw,Kaiwa,ruhlen
+kly,Kala Lagaw Ya,ruhlen
+klq,Kalam,ruhlen
+klz,Kalanga,ruhlen
+klh,Kalasha,ruhlen
+wgl,Kalasha-Ala,ruhlen
+kls,Kalispel,ruhlen
+kgu,Kalkatungu,ruhlen
+kiq kmk,Kalmyk,ruhlen
+kll,Kaluli,ruhlen
+don kzh,Kam,ruhlen
+mij,Kaman,ruhlen
+kak,Kamano,ruhlen
+kms,Kamas,ruhlen
+kma,Kamayura,ruhlen
+kba,Kamba,ruhlen
+kbo,Kambot,ruhlen
+ite,Kamchadal,ruhlen
+kmi,Kami,ruhlen
+kmr,Kamoro,ruhlen
+kan,Kana,ruhlen
+knk,Kanakuru,ruhlen
+knn,Kanauri,ruhlen
+kbu,Kanembu,ruhlen
+kea kwe,Kanjobal,ruhlen
+kky,Kankanay (Central),ruhlen
+knd,Kannada,ruhlen
+knb knp,Kanum,ruhlen
+knr,Kanuri,ruhlen
+kyo,Kanyok,ruhlen
+kpm,Kapampangan,ruhlen
+kpn,Kapingamarangi,ruhlen
+sar,Kapriman,ruhlen
+olm,Kapuas,ruhlen
+kar kra,Kara,ruhlen
+tny,Karaboro,ruhlen
+krc,Karachay,ruhlen
+tof,Karagas,ruhlen
+nbo,Karagwe,ruhlen
+krm,Karaim,ruhlen
+kkp,Karakalpak,ruhlen
+kmj,Karamojong,ruhlen
+krg,Karanga,ruhlen
+kkw,Karankawa,ruhlen
+krt,Karata,ruhlen
+kao,Karaw,ruhlen
+krl,Karelian,ruhlen
+kdg,Karipuna,ruhlen
+kna,Karitiana,ruhlen
+bkr,Karo Batak,ruhlen
+krk,Karok,ruhlen
+ksm,Kasem,ruhlen
+ksh,Kashaya,ruhlen
+kas,Kashmiri,ruhlen
+ksu svc,Kashubian,ruhlen
+gwo,Katab,ruhlen
+ktc,Katcha,ruhlen
+kat,Kate,ruhlen
+ktz,Kati,ruhlen
+ktl,Katla,ruhlen
+ktu,Katu,ruhlen
+kaj,Kaure,ruhlen
+kaq,Kaurna,ruhlen
+kws,Kawaiisu,ruhlen
+kyl,Kayah,ruhlen
+kbr,Kayan (Baram),ruhlen
+kaz,Kazakh,ruhlen
+ked,Kedang,ruhlen
+taw,Kehelala,ruhlen
+frd kei,Kei,ruhlen
+hak,Kejia,ruhlen
+kek,Kekchi,ruhlen
+kap,Kela,ruhlen
+klt,Kelabit,ruhlen
+kem,Kemant,ruhlen
+kmt,Kemtuk,ruhlen
+ken,Kenga,ruhlen
+kyg,Kenyang,ruhlen
+ker,Kera,ruhlen
+krq,Kerek,ruhlen
+ksa,Keres (Eastern),ruhlen
+aco,Keres (Western),ruhlen
+ket,Ket,ruhlen
+kte,Kete,ruhlen
+ktn,Ketengban,ruhlen
+kew,Kewa,ruhlen
+khk,Khakas,ruhlen
+khl,Khalaj,ruhlen
+khg,Khaling,ruhlen
+kha,Khalkha,ruhlen
+kmh,Kham,ruhlen
+khr,Kharia,ruhlen
+khs,Khasi,ruhlen
+khm,Khmer,ruhlen
+kmu,Khmu',ruhlen
+khw,Khowar,ruhlen
+khu,Khumi,ruhlen
+hyo,Khyang,ruhlen
+tki,Ki,ruhlen
+kik,Kikuyu,ruhlen
+klb,Kilba,ruhlen
+klv,Kilivila,ruhlen
+klw,Kiliwa,ruhlen
+ksp,Kim,ruhlen
+kim,Kimaghana,ruhlen
+kga,Kinga,ruhlen
+kio,Kiowa,ruhlen
+cml,Kiranti,ruhlen
+kfy kgz,Kirghiz,ruhlen
+kri,Kiriri,ruhlen
+kir,Kirma,ruhlen
+kji,Kirmanji,ruhlen
+ksr,Kisar,ruhlen
+kis kss,Kisi,ruhlen
+kij,Kitja,ruhlen
+kit,Kitsai,ruhlen
+klm,Klamath,ruhlen
+kla,Klau,ruhlen
+klk,Ko,ruhlen
+kwz,Koaia,ruhlen
+koa,Koasati,ruhlen
+kob,Kobon,ruhlen
+kod,Kodagu,ruhlen
+koh,Kohumono,ruhlen
+koi,Koiari,ruhlen
+kmo,Koiari (Mountain),ruhlen
+kta,Koita,ruhlen
+kkt,Kokota,ruhlen
+koo,Kola,ruhlen
+clc,Kolakngat,ruhlen
+kol,Kolami,ruhlen
+kln,Kolana,ruhlen
+ijo,Kolokuma,ruhlen
+kou,Kom,ruhlen
+kni,Koma,ruhlen
+kzy yzv,Komi,ruhlen
+kom,Komo,ruhlen
+kda,Konda,ruhlen
+fio kon,Kongo,ruhlen
+kkn,Konkani,ruhlen
+kkb,Konkomba,ruhlen
+knu,Konua,ruhlen
+kgi,Konyagi,ruhlen
+krf,Korafe,ruhlen
+kor,Korean,ruhlen
+kku,Korku,ruhlen
+kry,Koryak,ruhlen
+yal,Kosarek,ruhlen
+kos,Kosraean,ruhlen
+kot,Kota,ruhlen
+ktk,Kotoko,ruhlen
+kkv,Kove,ruhlen
+koy,Koya,ruhlen
+kjr,Koyra,ruhlen
+kyn,Koyukon,ruhlen
+kpa,Kpan,ruhlen
+kpe,Kpelle,ruhlen
+kpo,Kposo,ruhlen
+kre,Kresh,ruhlen
+isa,Krisa,ruhlen
+kro,Krongo,ruhlen
+krz,Kryts,ruhlen
+kiu kui,Kui,ruhlen
+mnv,Kukuya,ruhlen
+gir,Kulaal,ruhlen
+klg,Kulung (Tibeto-Burman),ruhlen
+nel,Kumak,ruhlen
+kuq,Kumyk,ruhlen
+knm,Kunama,ruhlen
+kmp,Kunimaipa,ruhlen
+atm,Kunza,ruhlen
+kfe,Kurumfe,ruhlen
+kur,Kurux,ruhlen
+kus,Kusunda,ruhlen
+kth,Kutchin,ruhlen
+kut,Kutenai,ruhlen
+wrb,Kuurn Kopan Noot,ruhlen
+kuv,Kuvi,ruhlen
+kwa,Kwaio,ruhlen
+kwk,Kwakwala,ruhlen
+kwr,Kwamera,ruhlen
+kwn,Kwangali,ruhlen
+hhu,Kwasengen,ruhlen
+koe,Kwegu,ruhlen
+gro,Kweni,ruhlen
+kwb,Kwerba,ruhlen
+bku,Kwiri,ruhlen
+kwo,Kwoma,ruhlen
+lac,Lacandon,ruhlen
+ldn,Ladin,ruhlen
+ari,Lae,ruhlen
+ddf,Lagawa,ruhlen
+lha,Laha,ruhlen
+lah,Lahu,ruhlen
+lak,Lak,ruhlen
+lkk,Lakkia,ruhlen
+lla,Lama-Lama,ruhlen
+lmh,Lamaholot,ruhlen
+lmg,Lamang,ruhlen
+lmb,Lamba,ruhlen
+lns,Lamnso,ruhlen
+lmp,Lampung,ruhlen
+lgi,Langi,ruhlen
+lan,Lango,ruhlen
+lao,Lao,ruhlen
+lar,Laragiya,ruhlen
+lrd,Lardil,ruhlen
+lch,Lati,ruhlen
+lat,Latvian,ruhlen
+lau,Lau,ruhlen
+tnk,Lavongai,ruhlen
+lav,Lavukaleve,ruhlen
+laz,Laz,ruhlen
+leg,Lega,ruhlen
+lel,Lele,ruhlen
+len,Lenakel,ruhlen
+lep,Lepcha,ruhlen
+wet,Letri Lgona,ruhlen
+lew,Lewo,ruhlen
+lez,Lezgi,ruhlen
+lil,Lillooet,ruhlen
+lim,Limbu,ruhlen
+lml,Limilngan,ruhlen
+lnd,Linda,ruhlen
+lis,Lisu,ruhlen
+lit,Lithuanian,ruhlen
+liv,Livonian,ruhlen
+lob,Lobi,ruhlen
+lug,Logbara,ruhlen
+lgt,Logo,ruhlen
+lag,Logone,ruhlen
+lok,Loko,ruhlen
+lma,Loma,ruhlen
+ama,Longa,ruhlen
+lgu,Longgu,ruhlen
+lon,Loniu,ruhlen
+lnw,Lonwolwol,ruhlen
+lin,Losengo,ruhlen
+lot,Lotha,ruhlen
+lou,Lou,ruhlen
+lov,Loven,ruhlen
+mud,Lower Mundani,ruhlen
+loz,Lozi,ruhlen
+lga,Luangiua,ruhlen
+blu cil,Luba-Kasai,ruhlen
+kil,Luba-Shaba,ruhlen
+luc,Luchazi,ruhlen
+bkn,Lue,ruhlen
+lda,Luganda,ruhlen
+lui,Luiseño,ruhlen
+alk,Lukep,ruhlen
+lul,Lule,ruhlen
+lud,Lundayeh,ruhlen
+ldo,Lundu,ruhlen
+luo,Luo,ruhlen
+lur,Luri,ruhlen
+lus,Lushootseed,ruhlen
+lux,Luxembourgeois,ruhlen
+luy,Luyia,ruhlen
+luv,Lwena,ruhlen
+lye,Lyele,ruhlen
+lu,Lü,ruhlen
+myn,Ma'anyan,ruhlen
+maa,Maasai,ruhlen
+mab,Mabang,ruhlen
+mca,Maca,ruhlen
+mcg,Macaguan,ruhlen
+mcd,Macedonian,ruhlen
+mch,Machiguenga,ruhlen
+mcn,Macuna,ruhlen
+mdz,Mada,ruhlen
+mda,Mada (Chadic),ruhlen
+mad,Madi,ruhlen
+mdl,Madngele,ruhlen
+mdr,Madurese,ruhlen
+mae,Mae,ruhlen
+mgh,Magahi,ruhlen
+mag msy,Magar,ruhlen
+mgi,Magi,ruhlen
+mgn,Magindanao,ruhlen
+mhm,Mah Meri,ruhlen
+nob,Mahas,ruhlen
+mhc,Mahican,ruhlen
+mne,Maidu (Mountain),ruhlen
+knw,Maidu (Northwest),ruhlen
+nsn,Maidu (Southern),ruhlen
+mpr,Maipure,ruhlen
+msn,Maisin,ruhlen
+mai,Maithili,ruhlen
+maj,Majang,ruhlen
+mkz,Makaa,ruhlen
+mak,Makah,ruhlen
+mks,Makassarese,ruhlen
+tab,Makian (East),ruhlen
+mkl,Maklew,ruhlen
+mkd,Makonde,ruhlen
+mua,Makua,ruhlen
+mac,Makushi,ruhlen
+mlc,Malacca Creole,ruhlen
+mal,Malagassy,ruhlen
+mlk,Malakmalak,ruhlen
+ktp kuy mds mly myk,Malay,ruhlen
+mym,Malayalam,ruhlen
+dam,Malayo,ruhlen
+dhi,Maldivian,ruhlen
+mle,Male (Omotic),ruhlen
+mlu,Maleu,ruhlen
+tmm,Malo,ruhlen
+mlt,Maltese,ruhlen
+mto,Malto,ruhlen
+mam mmz,Mam,ruhlen
+mmn,Mamanwa,ruhlen
+mla,Mambila,ruhlen
+mmw,Mambwe,ruhlen
+mmp,Mampelle,ruhlen
+mmv,Mamvu,ruhlen
+mnm,Manam,ruhlen
+mbu,Manambu,ruhlen
+mnc,Manchu,ruhlen
+mdn,Mandan,ruhlen
+mnr,Mandar,ruhlen
+kug mnd,Mandarin,ruhlen
+mdk mkg,Mandinka,ruhlen
+mem,Manem,ruhlen
+mmb,Mangap,ruhlen
+myi,Mangarayi,ruhlen
+mbt,Mangbetu,ruhlen
+mng,Manggarai,ruhlen
+maw mnk,Maninka,ruhlen
+mjk,Manjaku,ruhlen
+mkn,Mankan,ruhlen
+man,Mano,ruhlen
+mns,Mansi,ruhlen
+sgb,Mantion,ruhlen
+mnx,Manx,ruhlen
+nma,Mao,ruhlen
+mao,Maori,ruhlen
+mpy,Mapoyo,ruhlen
+map,Mapudungu,ruhlen
+mra,Mara,ruhlen
+cmr,Maram,ruhlen
+mrn,Maranao,ruhlen
+mku,Maranungku,ruhlen
+mhi,Marathi,ruhlen
+mny,Margany,ruhlen
+mrg,Margi,ruhlen
+mah mme,Mari,ruhlen
+mar,Maricopa,ruhlen
+mrd,Marind,ruhlen
+mav,Maring,ruhlen
+ckh,Maring (Trans New Guinea),ruhlen
+mrr,Maringarr,ruhlen
+mrh,Marithiyel,ruhlen
+mrq,Marquesan,ruhlen
+msh,Marshallese,ruhlen
+mrt,Martuyhunira,ruhlen
+mru,Maru,ruhlen
+skw,Marwari,ruhlen
+mas,Masa,ruhlen
+max,Mashakali,ruhlen
+mtt,Massachusett,ruhlen
+myr,Matses,ruhlen
+mtl,Mattole,ruhlen
+mtk,Matukar,ruhlen
+mtb,Matumbi,ruhlen
+mau,Maung,ruhlen
+mya,Maya (South Halmahera),ruhlen
+yes,Mayo,ruhlen
+maz,Mazahua,ruhlen
+mzn,Mazanderani,ruhlen
+mzc mzh,Mazatec,ruhlen
+mba,Mba,ruhlen
+mbb,Mbabaram,ruhlen
+mby,Mbai,ruhlen
+eml,Mbaloh,ruhlen
+mbz,Mbe,ruhlen
+mbe,Mbede,ruhlen
+mbl,Mbole,ruhlen
+mbg,Mbugu,ruhlen
+mbm,Mbum,ruhlen
+mee,Me'en,ruhlen
+mea,Meax,ruhlen
+mhk,Mehek,ruhlen
+mid,Meidob,ruhlen
+mei,Meithei,ruhlen
+mke,Mekeo,ruhlen
+mel,Melanau,ruhlen
+mde,Mende,ruhlen
+hmi,Meneca,ruhlen
+men,Menominee,ruhlen
+mnt,Mentawai,ruhlen
+mey,Menya,ruhlen
+mer,Meriam,ruhlen
+msl,Mesalit,ruhlen
+hmd hmo,Miao,ruhlen
+mic,Micmac,ruhlen
+idu,Midu,ruhlen
+mie mnu,Mien,ruhlen
+mig,Migama,ruhlen
+mkr,Mikarew,ruhlen
+mki,Mikasuki,ruhlen
+shb,Mikeyir,ruhlen
+mik,Mikir,ruhlen
+chz hok,Min (Southern),ruhlen
+min mmu,Minangkabau,ruhlen
+mgl,Mingrelian,ruhlen
+mir,Miriwung,ruhlen
+mis,Miskito,ruhlen
+mit,Mituku,ruhlen
+mcs,Miwok (Central Sierra),ruhlen
+mkb,Miwok (Coast),ruhlen
+mwl,Miwok (Lake),ruhlen
+mwn,Miwok (Northern Sierra),ruhlen
+mwp,Miwok (Plains),ruhlen
+mss,Miwok (Southern Sierra),ruhlen
+mco mth mtp,Mixe,ruhlen
+mja mjc mxa mxc mxj mxl mxm mxo mxp mxt mxu mxy mxz,Mixtec,ruhlen
+miy,Miya,ruhlen
+miz,Mizo,ruhlen
+mge,Mnong (Eastern),ruhlen
+bmb,Moba,ruhlen
+moc,Mocha,ruhlen
+mcv,Mocovi,ruhlen
+mof,Mofu,ruhlen
+mog,Moghol,ruhlen
+moj,Mohave,ruhlen
+moh,Mohawk,ruhlen
+mok,Mokilese,ruhlen
+mko,Mokulu,ruhlen
+mll,Molale,ruhlen
+mom,Mombum,ruhlen
+mon,Mon,ruhlen
+mga,Mondunga,ruhlen
+mgo,Mongo,ruhlen
+mgd,Mongodow,ruhlen
+mgg,Monguor,ruhlen
+mni,Moni,ruhlen
+mno moa,Mono,ruhlen
+tgl,Monpa,ruhlen
+mbo,Monumbo,ruhlen
+mop,Mopan,ruhlen
+mor,Mor,ruhlen
+mri,Moraori,ruhlen
+moe,Mordvin,ruhlen
+moo,More,ruhlen
+pad,Mori,ruhlen
+mro,Moro,ruhlen
+jmo,Morokodo,ruhlen
+mou,Moru,ruhlen
+els,Morwap,ruhlen
+mti,Motilon,ruhlen
+mwo,Motlav,ruhlen
+mtu,Motu,ruhlen
+mov,Movima,ruhlen
+mlm,Mrabri,ruhlen
+mdb,Mudburra,ruhlen
+mug,Mugil,ruhlen
+muh,Muher,ruhlen
+mui,Muinane,ruhlen
+mul,Mulao,ruhlen
+pat,Mumeng,ruhlen
+mum,Mumuye,ruhlen
+mna,Muna,ruhlen
+mdg,Mundang,ruhlen
+bhu mun,Mundari,ruhlen
+mdu,Mundu,ruhlen
+umb,Mundu (South),ruhlen
+nge,Mundum,ruhlen
+muu,Munduruku,ruhlen
+mgk,Mungaka,ruhlen
+mse,Munsee,ruhlen
+prh,Mura,ruhlen
+mrk,Murik,ruhlen
+mrl,Murle,ruhlen
+mpa,Murrinh-Patha,ruhlen
+hum,Murui,ruhlen
+mrw,Muruwari,ruhlen
+mgu,Musgu,ruhlen
+crk,Muskogee,ruhlen
+msm,Musom,ruhlen
+mus,Mussau,ruhlen
+mut,Mutsun,ruhlen
+muy,Muyuw,ruhlen
+muo,Muòng,ruhlen
+mwe,Mwera,ruhlen
+mpo,Myene,ruhlen
+bmz,Mzab,ruhlen
+xoo,N/amani,ruhlen
+nab,Nabak,ruhlen
+nad,Nadëb,ruhlen
+naf,Nafana,ruhlen
+nag,Nagatman,ruhlen
+nah,Nahali,ruhlen
+nhc nhh nhm nhn nhp nht nhu nhx nmi nmp npa nsz,Nahuatl,ruhlen
+nkk,Nakkara,ruhlen
+nal,Nalik,ruhlen
+kho,Nama,ruhlen
+nbb,Nambas (Big),ruhlen
+nmb,Nambikuara (Southern),ruhlen
+nam,Namie,ruhlen
+nde,Nande,ruhlen
+nan,Nandi,ruhlen
+nnk,Nankina,ruhlen
+nnt,Nanticoke,ruhlen
+npu,Napu,ruhlen
+all,Nara,ruhlen
+nrm,Narom,ruhlen
+nro,Naron,ruhlen
+nas,Nasioi,ruhlen
+nat,Natchez,ruhlen
+yna,Naukan,ruhlen
+nau,Nauruan,ruhlen
+nav,Navajo,ruhlen
+nax,Naxi,ruhlen
+cum,Nchumburu,ruhlen
+ndj,Ndjébbana,ruhlen
+ndg,Ndogo,ruhlen
+ndo,Ndonga,ruhlen
+ndu,Ndumu,ruhlen
+ndt,Ndut,ruhlen
+neg,Negidal,ruhlen
+neh,Nehan,ruhlen
+nen ntu,Nenets,ruhlen
+nne,Nengone,ruhlen
+nep,Nepali,ruhlen
+nar,Nera,ruhlen
+new nwd,Newari,ruhlen
+nez,Nez Perce,ruhlen
+ngd,Ngada,ruhlen
+ngj,Ngadjunmaya,ruhlen
+ngl,Ngalakan,ruhlen
+yli,Ngalik,ruhlen
+nkb,Ngalkbon,ruhlen
+nga,Nganasan,ruhlen
+ngn,Ngandi,ruhlen
+bnr ngy,Ngarinman,ruhlen
+ngr,Ngarinyeri,ruhlen
+ngb,Ngbaka,ruhlen
+ndi,Ngbandi,ruhlen
+ngg ngk,Ngenkikurrunggur,ruhlen
+msk,Ngile,ruhlen
+ngz,Ngizim,ruhlen
+dok nbe,Ngombe (Bantu),ruhlen
+buj,Ngumba,ruhlen
+nha,Nhanda,ruhlen
+nia,Nias,ruhlen
+nca nic nnc,Nicobarese,ruhlen
+lua,Nielim,ruhlen
+nim,Nimboran,ruhlen
+shi,Ninam,ruhlen
+nin,Ningil,ruhlen
+nis,Nishi,ruhlen
+nit,Nitinat,ruhlen
+nif,Niuafo'ou,ruhlen
+niu,Niuean,ruhlen
+nju,Njungar,ruhlen
+nke,Nkem,ruhlen
+nkn,Nkonya,ruhlen
+noc,Nocte,ruhlen
+nog nok tlb yta,Nogai,ruhlen
+nmd,Nomad,ruhlen
+nom,Nomatsiguenga,ruhlen
+noo,Non,ruhlen
+non,Noni,ruhlen
+kyq nuu,Nootka,ruhlen
+kti,Northern Kati,ruhlen
+nor,Norwegian,ruhlen
+bol nto,Ntomba,ruhlen
+nua,Nuaulu,ruhlen
+nue,Nuer,ruhlen
+nkr,Nukuoro,ruhlen
+ano nun,Nung,ruhlen
+nug,Nunggubuyu,ruhlen
+nnn,Nuni,ruhlen
+nup,Nupe,ruhlen
+nkt,Nyah Kur,ruhlen
+ddf,Nyala,ruhlen
+nym,Nyamwezi,ruhlen
+nng,Nyanga,ruhlen
+nyr,Nyangumarta,ruhlen
+cic,Nyanja,ruhlen
+nya,Nyawaygi,ruhlen
+nyn,Nyigina,ruhlen
+nyh,Nyiha,ruhlen
+nyi,Nyimang,ruhlen
+rru,Nyoro,ruhlen
+nyu,Nyulnyul,ruhlen
+nza,Nzakara,ruhlen
+obo,Obolo,ruhlen
+oca,Ocaina,ruhlen
+ocu,Ocuiltec,ruhlen
+ogb,Ogbia,ruhlen
+obg,Ogbronuagum,ruhlen
+oi,Oi,ruhlen
+oir,Oirat,ruhlen
+cpw oji,Ojibwa,ruhlen
+oka,Okanagan,ruhlen
+oks,Oksapmin,ruhlen
+oku,Oku,ruhlen
+ulc,Olcha,ruhlen
+olo,Olo,ruhlen
+olu,Oluta,ruhlen
+oma,Omagua,ruhlen
+omh,Omaha,ruhlen
+gam kul wly,Ometo,ruhlen
+one,One,ruhlen
+ond,Oneida,ruhlen
+ong,Onge,ruhlen
+ono,Ono,ruhlen
+onn,Onondaga,ruhlen
+eud,Opata,ruhlen
+baj,Orang Laut,ruhlen
+ord,Ordos,ruhlen
+ore,Orejon,ruhlen
+oko oya,Oriya,ruhlen
+orm,Ormuri,ruhlen
+orc,Oroch,ruhlen
+ork,Orok,ruhlen
+oro,Orokaiva,ruhlen
+orl,Orokolo,ruhlen
+orb orh orw owc,Oromo,ruhlen
+osa,Osage,ruhlen
+oss,Ossetic,ruhlen
+oix osm otm,Otomi,ruhlen
+way,Oyampi,ruhlen
+kjn,Oykangand,ruhlen
+paa,Pa'a,ruhlen
+tua,Pa'umotu,ruhlen
+pms,Paama,ruhlen
+pac,Pacoh,ruhlen
+pod,Paduko,ruhlen
+pae,Paez,ruhlen
+pag,Pagu,ruhlen
+pno,Paiute (Northern),ruhlen
+put ute,Paiute (Southern),ruhlen
+pai,Paiwan,ruhlen
+cpa,Pajonal,ruhlen
+war,Pakaasnovos,ruhlen
+pak,Pakanha,ruhlen
+pkt,Pakot,ruhlen
+pal,Palauan,ruhlen
+plk,Palicur,ruhlen
+pam,Pame,ruhlen
+pna,Pamona,ruhlen
+kuo,Panaras,ruhlen
+pnr,Panare,ruhlen
+pnn,Pangasinan,ruhlen
+png,Pangwa,ruhlen
+bao,Pao-an,ruhlen
+pap,Papiamento,ruhlen
+prc,Paressi,ruhlen
+prd,Parji,ruhlen
+psh,Pashto,ruhlen
+kau,Pasismanua,ruhlen
+psm,Passamaquoddy,ruhlen
+ptp,Patpatar,ruhlen
+ptw,Patwin,ruhlen
+plh,Paulohi,ruhlen
+pau,Paumari,ruhlen
+paw,Pawaian,ruhlen
+pwn,Pawnee,ruhlen
+pec,Paya,ruhlen
+pem,Pemon,ruhlen
+pen,Pengo,ruhlen
+per,Pero,ruhlen
+prs,Persian,ruhlen
+puk,Phalok,ruhlen
+phl,Phlon,ruhlen
+kpw,Pho,ruhlen
+ppc,Piapoco,ruhlen
+pia,Piaroa,ruhlen
+twn,Picuris,ruhlen
+pga,Pilaga,ruhlen
+pil,Pileni,ruhlen
+nev ood,Pima,ruhlen
+pba,Pima (Bajo),ruhlen
+uma,Pipikoro,ruhlen
+pip,Pipil,ruhlen
+prt,Piratapuyo,ruhlen
+pir,Piro,ruhlen
+pis,Pisa,ruhlen
+ppi,Pitta-Pitta,ruhlen
+bbm,Pitu Ulunna Salo,ruhlen
+pla,Playero,ruhlen
+awk,Pnogu,ruhlen
+pcm poc,Pocomam,ruhlen
+pkm,Pocomchi,ruhlen
+pdp,Podopa,ruhlen
+pog,Pogoro,ruhlen
+plb,Polabian,ruhlen
+pol,Polish,ruhlen
+pmc,Pomo (Central),ruhlen
+pme,Pomo (Eastern),ruhlen
+pmn,Pomo (Northern),ruhlen
+pso,Pomo (Southeastern),ruhlen
+poh,Ponapean,ruhlen
+pop psj psv,Popoloc,ruhlen
+zqs,Popoluca (Sierra),ruhlen
+por,Portuguese,ruhlen
+pot,Potawatomi,ruhlen
+pow,Powhatan,ruhlen
+occ pro,Provençal,ruhlen
+gku,Puelche,ruhlen
+pui,Puinave,ruhlen
+pan,Punjabi,ruhlen
+pnu,Punu,ruhlen
+qaw,Qawasqar,ruhlen
+qec qhu qim,Quechua,ruhlen
+qay,Quechua A,ruhlen
+qch,Quiche,ruhlen
+qui,Quileute,ruhlen
+juh xun,Qxû,ruhlen
+rag,Raga,ruhlen
+rgn,Raglai (North),ruhlen
+ram,Rama,ruhlen
+tni,Rangloi,ruhlen
+rao,Rao,ruhlen
+rap,Rapanui,ruhlen
+tor,Ratahan,ruhlen
+rwa,Rawa,ruhlen
+raw,Rawang,ruhlen
+pok,Rawo,ruhlen
+rej,Rejang,ruhlen
+rmb,Rembarrnga,ruhlen
+rem,Remo,ruhlen
+ren,Rendille,ruhlen
+rng,Rengao,ruhlen
+rnn,Rennellese,ruhlen
+res,Resigaro,ruhlen
+rad,Rhade,ruhlen
+ria,Riantana,ruhlen
+brf,Riff,ruhlen
+rik,Rikbaktsa,ruhlen
+rim,Rimi,ruhlen
+rit,Ritharngu,ruhlen
+rmc rsc rsm rsu,Romansch,ruhlen
+rav rbg rbu rka rlo rnr rse rwe,Romany,ruhlen
+ron,Ron (Chadic),ruhlen
+rga,Ronga,ruhlen
+tmn,Ronge,ruhlen
+knq,Roper River Creole,ruhlen
+ror,Roro,ruhlen
+rti,Roti,ruhlen
+rtk,Rotokas,ruhlen
+rot,Rotuman,ruhlen
+rov,Roviana,ruhlen
+ruk,Rukai,ruhlen
+rom,Rumanian,ruhlen
+rnd,Rundi,ruhlen
+run,Runga,ruhlen
+rus,Russian,ruhlen
+rut,Rutul,ruhlen
+lbu,Ruund,ruhlen
+kin,Rwanda,ruhlen
+saa,Sa'a,ruhlen
+sab,Sa'ban,ruhlen
+trd,Sa'dan,ruhlen
+ski,Saame,ruhlen
+sno,Saami (Northern),ruhlen
+scs,Saami (Southern),ruhlen
+isi,Saberi,ruhlen
+sae,Saek,ruhlen
+ape,Safeyoka,ruhlen
+shp smt,Sahaptin,ruhlen
+sao,Saho,ruhlen
+sah,Sahu,ruhlen
+epe,Saija,ruhlen
+sak,Sakao,ruhlen
+slr,Salar,ruhlen
+sba,Saliba,ruhlen
+sal,Salinan,ruhlen
+sbg,Sama (North),ruhlen
+bjs,Sama (South),ruhlen
+sam,Samoan,ruhlen
+sdw,Sandawe,ruhlen
+sgr,Sangir,ruhlen
+san,Sango,ruhlen
+sgu,Sangu,ruhlen
+sta,Santa,ruhlen
+nbk,Santa Cruz,ruhlen
+stl,Santali,ruhlen
+snm,Sanuma,ruhlen
+seb,Sapiny,ruhlen
+taf,Saposa,ruhlen
+sap,Sapuan,ruhlen
+srm,Saramaccan,ruhlen
+src,Sarcee,ruhlen
+srd,Sardinian,ruhlen
+svs,Savsavo,ruhlen
+saw,Savu,ruhlen
+swi,Sawai,ruhlen
+say,Sayula,ruhlen
+gae,Scottish Gaelic,ruhlen
+sec,Secoya,ruhlen
+sed,Sedang,ruhlen
+see,Sedeq,ruhlen
+sru,Selaru,ruhlen
+slp,Selepet,ruhlen
+sel,Selknam,ruhlen
+skp,Selkup,ruhlen
+smj,Semai,ruhlen
+sme,Seme,ruhlen
+sml,Semelai,ruhlen
+sen,Sena,ruhlen
+snd,Senari,ruhlen
+snc,Seneca,ruhlen
+nse,Senga,ruhlen
+sgl,Sengele,ruhlen
+snt,Sentani,ruhlen
+bos scr,Serbo-Croatian,ruhlen
+ser,Seri,ruhlen
+srr,Serrano,ruhlen
+ksg,Sgaw,ruhlen
+shm,Shambala,ruhlen
+sha,Shan,ruhlen
+shh,Sharanahua,ruhlen
+shs,Shasta,ruhlen
+sht,Shatt,ruhlen
+bch,Shawiya,ruhlen
+shw,Shawnee,ruhlen
+tas,Shilha,ruhlen
+shl,Shilluk,ruhlen
+bkt sav sna,Shina,ruhlen
+shk,Shipibo,ruhlen
+shn,Shona,ruhlen
+shr,Shor,ruhlen
+sho swr tsh,Shoshone,ruhlen
+jiv,Shuar,ruhlen
+rsh,Shughni,ruhlen
+shu,Shuswap,ruhlen
+sia,Siane,ruhlen
+sir,Siar,ruhlen
+ysl,Siberian Yupik,ruhlen
+err,Sie,ruhlen
+sik,Sikka,ruhlen
+sil,Sila,ruhlen
+sim,Simeulue,ruhlen
+sng,Sinagoro,ruhlen
+sdh,Sindhi,ruhlen
+snh,Sinhalese,ruhlen
+sio,Sio,ruhlen
+sin,Siona,ruhlen
+sry,Siraya,ruhlen
+ysi,Sirenik,ruhlen
+sri,Siriano,ruhlen
+srn,Siriono,ruhlen
+sro,Siroi,ruhlen
+siu,Siuslaw,ruhlen
+bsi,Siwa,ruhlen
+mot,Siwai,ruhlen
+chs,Siyin,ruhlen
+sko,Sko,ruhlen
+slv,Slavey,ruhlen
+svk,Slovak,ruhlen
+slo,Slovene,ruhlen
+so,So,ruhlen
+sob,Sobei,ruhlen
+sod,Soddo,ruhlen
+sol,Solon,ruhlen
+som,Somali,ruhlen
+kch kse,Songhai,ruhlen
+sge,Songye,ruhlen
+snn,Soninke,ruhlen
+sor,Sora,ruhlen
+srl,"Sorbian, Lower",ruhlen
+sou,"Sorbian, Upper",ruhlen
+stn,Sotho (Northern),ruhlen
+ses,Sotho (Southern),ruhlen
+bth hrs jib meh soq,South Arabian,ruhlen
+sea,Southeast Ambrym,ruhlen
+kti,Southern Kati,ruhlen
+ast spa spc,Spanish,ruhlen
+squ,Squamish,ruhlen
+sra,Sranan,ruhlen
+sre,Sre,ruhlen
+sti,Stieng,ruhlen
+lum sch sgs soo sss sst,Straits (Northern),ruhlen
+slb,Suau,ruhlen
+sub,Subia,ruhlen
+sue,Suena,ruhlen
+sui,Sui,ruhlen
+suk,Suki,ruhlen
+skm,Sukuma,ruhlen
+sul,Sulka,ruhlen
+kam,Sumbanese (East),ruhlen
+sum,Sumo,ruhlen
+sun,Sundanese,ruhlen
+sug,Sungor,ruhlen
+sup,Suppire,ruhlen
+mup,Sura,ruhlen
+cai trm,Suri,ruhlen
+sur,Sursurunga,ruhlen
+sus,Susu,ruhlen
+sva,Svan,ruhlen
+swa,Swahili,ruhlen
+swt,Swati,ruhlen
+swe swv,Swedish,ruhlen
+cld,Syriac,ruhlen
+tbw,Taabwa,ruhlen
+tbr,Tabaru,ruhlen
+tbs,Tabasaran,ruhlen
+tac,Tacana,ruhlen
+tag,Tagalog,ruhlen
+tgb,Tagbanwa,ruhlen
+sud,Tagula,ruhlen
+tah,Tahitian,ruhlen
+trr,Tairora,ruhlen
+dbd,Taita,ruhlen
+taj,Tajiki,ruhlen
+tkl,Takelma,ruhlen
+tak,Takia,ruhlen
+tld,Talaud,ruhlen
+taz tls,Talysh,ruhlen
+mii tma,Tama,ruhlen
+tmg,Tamagario,ruhlen
+tai tug,Tamahaq,ruhlen
+tam,Tamang,ruhlen
+bma bse,Tamazight,ruhlen
+tml tsp,Tamil,ruhlen
+tmp,Tampulma,ruhlen
+tnc,Tanacross,ruhlen
+tbl,Tanah Merah(2),ruhlen
+tnj,Tanaina,ruhlen
+tnl,Tanana,ruhlen
+tan,Tangale,ruhlen
+tga,Tangga,ruhlen
+ngt,Tangkhul,ruhlen
+tgp,Tanglapui,ruhlen
+jug lun,Tangsa,ruhlen
+ret,Tanimuca,ruhlen
+tns,Tanna (Southwest),ruhlen
+dou,Taori-So,ruhlen
+twn,Taos,ruhlen
+tpt,Tapiete,ruhlen
+tce twe,Tarahumara,ruhlen
+tgw,Tarangan,ruhlen
+tao,Tarao,ruhlen
+pur,Tarascan,ruhlen
+tar,Tariano,ruhlen
+tok,Tarok,ruhlen
+toy tsm,Tasmanian,ruhlen
+tat,Tatana,ruhlen
+tmi ttb tvo,Tatar,ruhlen
+kae,Tate,ruhlen
+tts,Tati,ruhlen
+tty,Tatuyo,ruhlen
+tll,Taulil,ruhlen
+tsr,Taushiro,ruhlen
+tsg,Tausug,ruhlen
+tau,Tauya,ruhlen
+ntn,Tayari,ruhlen
+tbo,Tboli,ruhlen
+tec,Teco,ruhlen
+ori ras,Tegali,ruhlen
+laf,Tegem,ruhlen
+tht,Tehit,ruhlen
+teh,Tehuelche,ruhlen
+tks,Teke (South),ruhlen
+tlf,Telefol,ruhlen
+tel,Telugu,ruhlen
+tem,Tem,ruhlen
+tmr,Temiar,ruhlen
+tne,Temne,ruhlen
+teo,Teop,ruhlen
+tpc,Tepecano,ruhlen
+tep,Tepehua,ruhlen
+tpn,Tepehuan (Northern),ruhlen
+ter,Tera,ruhlen
+trn,Terena,ruhlen
+trb,Teribe,ruhlen
+trt,Ternate,ruhlen
+tes,Teso,ruhlen
+tet,Tetela,ruhlen
+ttn,Tetun,ruhlen
+tew trg tsj,Tewa (Tanoan),ruhlen
+thy,Thaayorre,ruhlen
+thd,Thado,ruhlen
+tha,Thai,ruhlen
+thk,Thakali,ruhlen
+thn,Thami,ruhlen
+thw,Thao,ruhlen
+dhr,Thargari,ruhlen
+thp,Thaypan,ruhlen
+tho,Thompson,ruhlen
+thu,Thulung,ruhlen
+jad,Tibetan,ruhlen
+tib tis tmo tod,Tibetan (Central),ruhlen
+blt prk,Tibetan (Western),ruhlen
+tic,Ticuna,ruhlen
+tid,Tidore,ruhlen
+tif,Tifal,ruhlen
+tgk,Tigak,ruhlen
+tbe tgr,Tigre,ruhlen
+tig,Tigrinya,ruhlen
+tik,Tikar,ruhlen
+til,Tillamook,ruhlen
+tse,Timorese,ruhlen
+tmc,Timucua,ruhlen
+tim,Timugon,ruhlen
+tnd,Tindi,ruhlen
+tin,Tiri,ruhlen
+try,Tiruray,ruhlen
+tiv,Tiv,ruhlen
+tiw,Tiwi,ruhlen
+tlp,Tlapanec,ruhlen
+tli,Tlingit,ruhlen
+toq,To'abaita,ruhlen
+toa,Toaripi,ruhlen
+tob,Toba,ruhlen
+bto,Toba Batak,ruhlen
+tlo,Tobelo,ruhlen
+tda,Toda,ruhlen
+toj,Tojolabal,ruhlen
+tpi,Tok Pisin,ruhlen
+tla,Tolai,ruhlen
+tno,Tondano,ruhlen
+toz,Tonga,ruhlen
+tng,Tongan,ruhlen
+ton,Tonkawa,ruhlen
+tnt,Tontemboan,ruhlen
+bro,Torres Strait Creole,ruhlen
+trw,Torwali,ruhlen
+tos tot tpa txj,Totonac,ruhlen
+jem,Towa,ruhlen
+tir,Trio,ruhlen
+kok,Tripuri,ruhlen
+trc tri,Trique,ruhlen
+cuu,Trukese,ruhlen
+tru,Trumai,ruhlen
+dul,Trung,ruhlen
+tsa,Tsaxur,ruhlen
+tsi,Tsimshian,ruhlen
+tgo,Tsogo,ruhlen
+tsn,Tsonga,ruhlen
+tso,Tsou,ruhlen
+tsw,Tswana,ruhlen
+tub,Tubar,ruhlen
+tbu,Tubu,ruhlen
+tuc,Tucano,ruhlen
+tuk,Tukang-Besi,ruhlen
+nyk,Tukpa,ruhlen
+tul,Tulu,ruhlen
+tmk,Tumak,ruhlen
+tum,Tumleo,ruhlen
+tnn,Tunen,ruhlen
+tun,Tunica,ruhlen
+tup,Tupi,ruhlen
+tpr,Tupuri,ruhlen
+tna,Turkana,ruhlen
+tur,Turkish,ruhlen
+tkm,Turkmen,ruhlen
+iau,Turu,ruhlen
+tus,Tuscarora,ruhlen
+tou tow,Tusya,ruhlen
+tut,Tutchone (Northern),ruhlen
+tte,Tutelo,ruhlen
+tuv,Tuva,ruhlen
+nnm tvl,Tuvalu,ruhlen
+tuy,Tuyuca,ruhlen
+twa,Twana,ruhlen
+tza tzb tze tzt,Tzeltal,ruhlen
+tzo tzs tzz,Tzotzil,ruhlen
+tzu,Tzutujil,ruhlen
+tbb,Tübatulabal,ruhlen
+uby,Ubyx,ruhlen
+udi,Udi,ruhlen
+udh,Udihe,ruhlen
+udm,Udmurt,ruhlen
+uyg,Uighur,ruhlen
+ukr,Ukrainian,ruhlen
+uli,Ulithian,ruhlen
+unm,Unami,ruhlen
+ung,Ungarinjin,ruhlen
+uku,Upper Kuskokwim,ruhlen
+ura,Ura,ruhlen
+url,Urak Lawoi',ruhlen
+urn,Urarina,ruhlen
+urd,Urdu,ruhlen
+urh,Urhobo,ruhlen
+ory,Uria,ruhlen
+uri,Urim,ruhlen
+uru,Uru,ruhlen
+urk,Urubu,ruhlen
+otr,Utoro,ruhlen
+wll,Uvea (East),ruhlen
+uzb uzn,Uzbek,ruhlen
+vaf,Vafsi,ruhlen
+vag,Vagala,ruhlen
+vai,Vai,ruhlen
+wal,Valman,ruhlen
+dum,Vanimo,ruhlen
+hay,Vayu,ruhlen
+ved,Vedda,ruhlen
+ven,Venda,ruhlen
+vep,Vepsian,ruhlen
+vie,Vietnamese,ruhlen
+bvi,Vitu,ruhlen
+vot,Votic,ruhlen
+pte,Vuite,ruhlen
+wat,Wadjari,ruhlen
+bac,Wadjiginy,ruhlen
+wag,Wagiman,ruhlen
+wah,Wahgi,ruhlen
+har,Waibuk,ruhlen
+wai,Waiwai,ruhlen
+lrk,Wakasihu,ruhlen
+wak,Wakhi,ruhlen
+hlp,Walapai,ruhlen
+wlm,Walmajarri,ruhlen
+wam,Wambaya,ruhlen
+wbn,Wambon,ruhlen
+kmb,Wanggom,ruhlen
+wan,Wangkumara,ruhlen
+wnt,Wantoat,ruhlen
+usa,Wanuma,ruhlen
+wao,Waorani,ruhlen
+wps,Wapishana,ruhlen
+wap,Wappo,ruhlen
+wra,Warao,ruhlen
+wry,Waray,ruhlen
+wwy,Waray (Meso-Phillipines),ruhlen
+wrd,Wardaman,ruhlen
+wrm,Warenbori,ruhlen
+bou,Wargla,ruhlen
+wrs,Waris,ruhlen
+gnb,Warlang,ruhlen
+wrl,Warlpiri,ruhlen
+wlw,Warluwara,ruhlen
+wrn,Warndarang,ruhlen
+wrp,Waropen,ruhlen
+wrg,Warrgamay,ruhlen
+wrw,Warwa,ruhlen
+was,Washo,ruhlen
+pra,Wasi-weri,ruhlen
+wsk,Waskia,ruhlen
+wtm,Watam,ruhlen
+wth,Wathawurung,ruhlen
+wau,Waunana,ruhlen
+wur,Waura,ruhlen
+wyn,Wayana,ruhlen
+wed,Wedau,ruhlen
+wel,Welsh,ruhlen
+wem,Wemba Wemba,ruhlen
+wer,Weri,ruhlen
+wma,West Makian,ruhlen
+mwb,Western Bukidnon,ruhlen
+hcr mce,Western Caribbean Creole,ruhlen
+jcr,Western Caribbian Creole,ruhlen
+ntj wdo,Western Desert Language,ruhlen
+lad,Western Tibetan,ruhlen
+wic,Wichita,ruhlen
+wmu,Wik-Mungkan,ruhlen
+wn,Wik-Ngathana,ruhlen
+wnb,Winnebago,ruhlen
+win,Wintun,ruhlen
+kow,Winye,ruhlen
+wir,Wirangu,ruhlen
+wiy,Wiyot,ruhlen
+wob,Wobe,ruhlen
+wog,Wogamusin,ruhlen
+woi,Woisika,ruhlen
+wol,Woleaian,ruhlen
+wlo,Wolio,ruhlen
+wlf,Wolof,ruhlen
+wor,Worora,ruhlen
+wuc,Wu,ruhlen
+gnn,Wunambal,ruhlen
+wwr,Wuywurrung,ruhlen
+kty,Xanty,ruhlen
+xar,Xaracuu,ruhlen
+xas,Xasonke,ruhlen
+xho,Xhosa,ruhlen
+khi,Xinalug,ruhlen
+xok,Xokleng,ruhlen
+khv,Xvarshi,ruhlen
+kxo,Xû,ruhlen
+jab,Yabim,ruhlen
+jbt,Yabuti,ruhlen
+ygn,Yaghnobi,ruhlen
+yag,Yagua,ruhlen
+yak,"Yaka (Bantu, Zone H)",ruhlen
+ykn,Yakan,ruhlen
+ykm,Yakoma,ruhlen
+ykt,Yakut,ruhlen
+nyl,Yalayu,ruhlen
+jmm jwr,Yamamadi,ruhlen
+yah,Yamana,ruhlen
+yba,Yamba,ruhlen
+gun,Yambasa,ruhlen
+ymd,Yamdena,ruhlen
+ymi,Yami,ruhlen
+yam,Yaminahua,ruhlen
+yan,Yana,ruhlen
+ynm,Yanomami,ruhlen
+yny,Yanyuwa,ruhlen
+yns,Yanzi,ruhlen
+yao,Yao,ruhlen
+yap,Yapese,ruhlen
+yqy,Yaqay,ruhlen
+yaq,Yaqui,ruhlen
+yar,Yareba,ruhlen
+yrr,Yaruro,ruhlen
+yaw,Yava,ruhlen
+yav,Yavapai,ruhlen
+ywr,Yawuru,ruhlen
+yay,Yay,ruhlen
+yyg,Yaygir,ruhlen
+yaz,Yazgulami,ruhlen
+cde,Ye'cuana,ruhlen
+yel,Yele,ruhlen
+shy,Yellow Uighur,ruhlen
+ylm,Yelmek,ruhlen
+yei,Yey,ruhlen
+ydb ydd ydl ylt,Yiddish,ruhlen
+yid,Yidiny,ruhlen
+yil,Yil,ruhlen
+yim,Yimas,ruhlen
+yin,Yindjibarndi,ruhlen
+yng,Yinggarda,ruhlen
+yir,Yir Yiront,ruhlen
+wik ywl,Yokuts (Valley),ruhlen
+yok,Yokutsan,ruhlen
+yor,Yoruba,ruhlen
+tbt,Yotafa,ruhlen
+yyo,Yotayota,ruhlen
+yct,Yucatec,ruhlen
+yuc,Yuchi,ruhlen
+ycn,Yucuna,ruhlen
+cnt,Yue,ruhlen
+yko ytu,Yukaghir,ruhlen
+yki,Yuki,ruhlen
+ykp,Yukpa,ruhlen
+big yul,Yulu,ruhlen
+que,Yuma (Yuman),ruhlen
+ych ypk yun,Yupik (Central),ruhlen
+yrc,Yuracare,ruhlen
+kyr,Yuri,ruhlen
+yrm,Yurimangui,ruhlen
+yur,Yurok,ruhlen
+jrn,Yuruna,ruhlen
+yrt,Yuruti,ruhlen
+zan,Zande,ruhlen
+zpr,Zaparo,ruhlen
+zai zaj zam zap zaq zpi zsq zte zya zzo,Zapotec,ruhlen
+zay,Zayse,ruhlen
+zaz,Zaza,ruhlen
+nze,Zeme,ruhlen
+zen,Zenaga,ruhlen
+zha,Zhang-zhung,ruhlen
+zhn,Zhuang,ruhlen
+pre,Zigula,ruhlen
+zim,Zimakani,ruhlen
+zch zfl zqc zqo zqr,Zoque,ruhlen
+zno zso zul,Zulu,ruhlen
+zun,Zuni,ruhlen
+omi,Ömie,ruhlen
