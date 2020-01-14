@@ -303,7 +303,7 @@ bmn,Bamun,,5.5,10.9166666667,bamu1253,bax,Niger-Congo,Benue-Congo,Bantoid,bax,fa
 bmr,Burum,,-6.5,147.333333333,buru1306,bmu,Trans-New Guinea,,Finisterre-Huon,bmu,false,false
 bmz,Berber (Mzab),,32.5,3.5,tumz1238,mzb,Afro-Asiatic,,Berber,mzb,false,false
 bna,Banawá,,-7,-65,jama1261,jaa,Arauan,,Arauan,jaa,false,false
-bnb,Bunuba,,-17.75,125.75,buna1275,bck,Bunuban,,Bunuban,bck,false,true
+bnb,Bunuba,,-17.75,125.75,buna1275,bck,Bunuban,,Bunuban,bck,false,false
 bnd,Bandi,,8.08333333333,-10.25,band1352,bza,Mande,,Western Mande,bza,false,false
 bng,Qaget,,-4.58333333333,152,qaqe1238,byx,Baining-Taulil,,Baining,byx,false,false
 bni,Bini,,6.41666666667,5.83333333333,bini1246,bin,Niger-Congo,Benue-Congo,Edoid,bin,false,false
@@ -1612,7 +1612,7 @@ mui,Muinane,,-1,-72.5,muin1242,bmr,Huitotoan,,Boran,bmr,false,false
 mul,Mulao,,25,108,mula1253,mlm,Tai-Kadai,,Kam-Tai,mlm,false,false
 mum,Mumuye,,9,11.6666666667,nucl1240,mzm,Niger-Congo,Adamawa-Ubangi,Adamawa,mzm,false,false
 mun,Mundari,,23,84.6666666667,mund1320,unr,Austro-Asiatic,,Munda,unr,false,true
-muo,Muong,,20.5,105.083333333,muon1246,mtq,Austro-Asiatic,Mon-Khmer,Viet-Muong,mtq,false,true
+muo,Muong,,20.5,105.083333333,muon1246,mtq,Austro-Asiatic,Mon-Khmer,Viet-Muong,mtq,false,false
 mup,Mupun,,9.5,8.83333333333,mwag1236,sur,Afro-Asiatic,Chadic,West Chadic,sur,false,false
 mur,Mursi,,5.58333333333,36.0833333333,murs1242,muz,Eastern Sudanic,,Surmic,muz,false,false
 mus,Mussau,,-1.45,149.616666667,muss1246,emi,Austronesian,Eastern Malayo-Polynesian,Oceanic,emi,false,false

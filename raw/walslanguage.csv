@@ -583,7 +583,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 412,nanumea,87,f,f,tvl,Papunesia
 413,naskapi,17,f,f,nsk,North America
 1384,bini,295,f,f,bin,Africa
-1385,bunuba,30,f,t,bck,Australia
+1385,bunuba,30,f,f,bck,Australia
 1386,camling,512,f,f,rab,Eurasia
 1382,ahtna,262,f,f,aht,North America
 1383,baule,275,f,f,bci,Africa
@@ -1672,7 +1672,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 172,michif,17,f,f,crg,North America
 170,mbe,274,f,f,mtk,Africa
 183,nanticoke,17,f,f,nnt,North America
-180,muong,67,f,t,mtq,Eurasia
+180,muong,67,f,f,mtq,Eurasia
 184,narom,518,f,f,nrm,Papunesia
 188,ngemba,274,f,f,nge,Africa
 189,nicobarese,68,f,f,ncb,Eurasia
