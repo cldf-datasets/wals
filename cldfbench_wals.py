@@ -54,59 +54,7 @@ class Dataset(BaseDataset):
         return res
 
     def cmd_makecldf(self, args):
-        args.writer.cldf.add_component(
-            'ParameterTable',
-            {
-                'name': 'Contributor_ID',
-                'separator': ' ',
-            },
-            'Chapter',
-            'Area',
-        )
-        args.writer.cldf.add_component(
-            'CodeTable',
-            {'name': 'Number', 'datatype': 'integer'},
-            'icon',
-        )
-        args.writer.cldf.add_component(
-            'LanguageTable',
-            'Family',
-            'Subfamily',
-            'Genus',
-            {
-                'name': 'ISO_codes',
-                'separator': ' ',
-            },
-            {
-                'name': 'Samples_100',
-                'datatype': 'boolean',
-                'dc:description': "https://wals.info/chapter/s1#3.1._The_WALS_samples",
-            },
-            {
-                'name': 'Samples_200',
-                'datatype': 'boolean',
-                'dc:description': "https://wals.info/chapter/s1#3.1._The_WALS_samples",
-            },
-        )
-        args.writer.cldf.add_component('ExampleTable')
-        args.writer.cldf.add_table(
-            'language_names.csv',
-            {
-                'name': 'Language_ID',
-                'separator': ' ',
-            },
-            'Name',
-            'Provider',
-        )
-        args.writer.cldf.add_table(
-            'contributors.csv',
-            'ID',
-            'Name',
-        )
-        args.writer.cldf.add_foreign_key(
-            'ParameterTable', 'Contributor_ID', 'contributors.csv', 'ID')
-        args.writer.cldf.add_foreign_key(
-            'language_names.csv', 'Language_ID', 'LanguageTable', 'ID')
+        self.create_schema(args.writer.cldf)
 
         pk2id = collections.defaultdict(dict)
         sources = parse_string(
@@ -202,7 +150,8 @@ class Dataset(BaseDataset):
             dpid: [
                 str(Reference(
                     source=str(r[1]),
-                    desc=r[2].replace('[', ')').replace(']', ')').replace(';', '.') if r[2] else None))
+                    desc=r[2].replace('[', ')').replace(']', ')').replace(';', '.').strip()
+                    if r[2] else None))
                 for r in refs_
             ]
             for dpid, refs_ in itertools.groupby(refs, lambda r: r[0])}
@@ -210,11 +159,13 @@ class Dataset(BaseDataset):
         vsdict = self.read('valueset', pkmap=pk2id)
 
         examples = self.read('sentence', pkmap=pk2id)
+        igts = {}
         for ex in examples.values():
             if all(ex[k] for k in ['description', 'analyzed', 'gloss']):
                 a, g = ex['analyzed'].split(), ex['gloss'].split()
                 if len(a) != len(g):
                     a, g = [ex['analyzed']], [ex['gloss']]
+                igts[ex['pk']] = ex['id']
                 args.writer.objects['ExampleTable'].append({
                     'ID': ex['id'],
                     'Language_ID': pk2id['language'][ex['language_pk']],
@@ -238,9 +189,6 @@ class Dataset(BaseDataset):
             if len(ex) == 1 and not any(ex[0][k] for k in ['description', 'analyzed', 'gloss']):
                 comment = ex[0]['name']
                 del example_by_value[row['pk']]
-            #
-            # FIXME: add proper IGTs!
-            #
             args.writer.objects['ValueTable'].append({
                 'ID': vs['id'],
                 'Language_ID': pk2id['language'][vs['language_pk']],
@@ -249,6 +197,7 @@ class Dataset(BaseDataset):
                 'Code_ID': pk2id['domainelement'][row['domainelement_pk']],
                 'Comment': comment,
                 'Source': refs.get(vs['pk'], []),
+                'Example_ID': sorted(igts[epk] for epk in example_by_value.get(row['pk'], []) if epk in igts),
             })
 
         args.writer.objects['ValueTable'].sort(
@@ -267,3 +216,64 @@ class Dataset(BaseDataset):
                 'Name': name,
                 'Provider': type,
             })
+
+    def create_schema(self, cldf):
+        cldf.add_component(
+            'ParameterTable',
+            {
+                'name': 'Contributor_ID',
+                'separator': ' ',
+            },
+            'Chapter',
+            'Area',
+        )
+        cldf.add_component(
+            'CodeTable',
+            {'name': 'Number', 'datatype': 'integer'},
+            'icon',
+        )
+        cldf.add_component(
+            'LanguageTable',
+            'Family',
+            'Subfamily',
+            'Genus',
+            {
+                'name': 'ISO_codes',
+                'separator': ' ',
+            },
+            {
+                'name': 'Samples_100',
+                'datatype': 'boolean',
+                'dc:description': "https://wals.info/chapter/s1#3.1._The_WALS_samples",
+            },
+            {
+                'name': 'Samples_200',
+                'datatype': 'boolean',
+                'dc:description': "https://wals.info/chapter/s1#3.1._The_WALS_samples",
+            },
+        )
+        cldf.add_component('ExampleTable')
+        cldf.add_table(
+            'language_names.csv',
+            {
+                'name': 'Language_ID',
+                'separator': ' ',
+            },
+            'Name',
+            'Provider',
+        )
+        cldf.add_table(
+            'contributors.csv',
+            'ID',
+            'Name',
+        )
+        cldf.add_columns(
+            'ValueTable',
+            {
+                'name': 'Example_ID',
+                'separator': ' ',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference',
+            }
+        )
+        cldf.add_foreign_key('ParameterTable', 'Contributor_ID', 'contributors.csv', 'ID')
+        cldf.add_foreign_key('language_names.csv', 'Language_ID', 'LanguageTable', 'ID')
