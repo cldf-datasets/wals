@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/wals",
-            "dc:created": "v2008-8-g937d51f"
+            "dc:created": "v2008-9-g8dc850c"
         },
         {
             "rdf:type": "prov:Entity",
@@ -461,7 +461,7 @@
             "url": "examples.csv"
         },
         {
-            "dc:extent": 7410,
+            "dc:extent": 7408,
             "tableSchema": {
                 "columns": [
                     {
