@@ -33,6 +33,7 @@ def fid_key(fid):
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "wals"
+    metadata_cls = MetadataWithTravis
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return CLDFSpec(module='StructureDataset', dir=self.cldf_dir)
