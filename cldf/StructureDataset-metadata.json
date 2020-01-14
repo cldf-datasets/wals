@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/wals",
-            "dc:created": "v2008-7-g484c928"
+            "dc:created": "v2008-8-g937d51f"
         },
         {
             "rdf:type": "prov:Entity",
