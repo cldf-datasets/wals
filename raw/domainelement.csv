@@ -1,6 +1,6 @@
 pk,jsondata,polymorphic_type,id,name,description,markup_description,parameter_pk,number,abbr,version
+14,"{""icon"": ""cffffff""}",base,4A-1,No voicing contrast,No voicing contrast,,4,1,,1
 6,"{""icon"": ""c0000dd""}",base,2A-1,Small (2-4),Small vowel inventory (2-4),,2,1,,1
-14,"{""icon"": ""cffffff""}",base,4A-1,No voicing constrast,No voicing contrast,,4,1,,1
 15,"{""icon"": ""cdd0000""}",base,4A-2,In plosives alone,Voicing contrast in plosives alone,,4,2,,1
 16,"{""icon"": ""c0000dd""}",base,4A-3,In fricatives alone,Voicing contrast in fricatives alone,,4,3,,1
 17,"{""icon"": ""c990099""}",base,4A-4,In both plosives and fricatives,Voicing contrast in both plosives and fricatives,,4,4,,1
@@ -493,7 +493,7 @@ pk,jsondata,polymorphic_type,id,name,description,markup_description,parameter_pk
 631,"{""icon"": ""cff66ff""}",base,136A-3,"M-T pronouns, non-paradigmatic","M-T pronouns, non-paradigmatic",,136,3,,1
 633,"{""icon"": ""cdd0000""}",base,137A-2,"N-M pronouns, paradigmatic","N-M pronouns, paradigmatic",,137,2,,1
 634,"{""icon"": ""cff66ff""}",base,137A-3,"N-M pronouns, non-paradigmatic","N-M pronouns, non-paradigmatic",,137,3,,1
-635,"{""icon"": ""cdd0000""}",base,138A-1,Words derived from Sinitic cha,Words derived from Sinitic cha,,138,1,,1
+635,"{""icon"": ""cdd0000""}",base,138A-1,Words derived from Sinitic cha,Words derived from Sinitic cha,,138,1,,2
 638,"{""icon"": ""cffffff""}",base,139A-1,None,No irregular negatives,,139,1,,1
 639,"{""icon"": ""cffff00""}",base,139A-2,One,One irregular negative,,139,2,,1
 640,"{""icon"": ""cff6600""}",base,139A-3,Some (2-5),Some irregular negatives (2-5),,139,3,,1
@@ -1062,7 +1062,6 @@ pk,jsondata,polymorphic_type,id,name,description,markup_description,parameter_pk
 408,"{""icon"": ""cdd0000""}",base,86A-2,Noun-Genitive,Noun-genitive (NGen),,86,2,,3
 431,"{""icon"": ""cffff00""}",base,92A-4,Other position,Question particle with other position,,92,4,,5
 161,"{""icon"": ""ccccccc""}",base,33A-6,Mixed morphological plural,Morphological plural with no method primary,,33,6,,20
-637,"{""icon"": ""ccccccc""}",base,138A-3,Others,Others,,138,3,,2
 389,"{""icon"": ""ccccccc""}",base,81A-7,No dominant order,Lacking a dominant word order,,81,7,,10
 409,"{""icon"": ""ccccccc""}",base,86A-3,No dominant order,Both orders occur with neither order dominant,,86,3,,7
 402,"{""icon"": ""c0000dd""}",base,85A-1,Postpositions,Postpositions,,85,1,,7
@@ -1107,6 +1106,8 @@ pk,jsondata,polymorphic_type,id,name,description,markup_description,parameter_pk
 27,"{""icon"": ""cffffff""}",base,7A-1,No glottalized consonants,No glottalized consonants,,7,1,,7
 28,"{""icon"": ""c0000dd""}",base,7A-2,Ejectives only,Ejectives only,,7,2,,6
 24,"{""icon"": ""cdd0000""}",base,6A-2,Uvular stops only,Uvular stops only,,6,2,,2
+636,"{""icon"": ""c0000dd""}",base,138A-2,Words derived from Min Nan Chinese te,Words derived from Min Nan Chinese te,,138,2,,3
+637,"{""icon"": ""ccccccc""}",base,138A-3,Others,Others,,138,3,,3
 23,"{""icon"": ""cffffff""}",base,6A-1,None,No uvulars,,6,1,,3
 25,"{""icon"": ""c0000dd""}",base,6A-3,Uvular continuants only,Uvular continuants only,,6,3,,2
 9,"{""icon"": ""c0000dd""}",base,3A-1,Low,Low,,3,1,,4
@@ -1116,7 +1117,6 @@ pk,jsondata,polymorphic_type,id,name,description,markup_description,parameter_pk
 11,"{""icon"": ""cffffff""}",base,3A-3,Average,Average,,3,3,,9
 428,"{""icon"": ""cdd0000""}",base,92A-1,Initial,Question particle at beginning of sentence,,92,1,,3
 432,"{""icon"": ""ccccccc""}",base,92A-5,In either of two positions,Question particle in either of two positions,,92,5,,6
-636,"{""icon"": ""c0000dd""}",base,138A-2,Words derived from Min Nan Chinese te,Words derived from Min Nan Chinese te,,138,2,,2
 137,"{""icon"": ""cffffff""}",base,27A-3,No productive reduplication,No productive reduplication,,27,3,,2
 40,"{""icon"": ""cdd0000""}",base,9A-1,Initial velar nasal,"Velar nasal, also initially",,9,1,,2
 41,"{""icon"": ""cff66ff""}",base,9A-2,No initial velar nasal,"Velar nasal, but not initially",,9,2,,2

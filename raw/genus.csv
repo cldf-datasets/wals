@@ -78,13 +78,11 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 82,,yapese,Yapese,,,15,,tffcc00
 84,,rejang,Rejang,,,15,,tffffcc
 85,,palauan,Palauan,,,15,,tffffff
-86,,paiwanic,Paiwanic,,,15,,c000000
 87,,oceanic,Oceanic,,,15,Eastern Malayo-Polynesian,c0000dd
 88,,lampungic,Lampungic,,,15,,c009900
 89,,atayalic,Atayalic,,,15,,c66ff33
 90,,javanese,Javanese,,,15,,c990099
 95,,landdayak,Land Dayak,,,15,,cdd0000
-96,,tsouic,Tsouic,,,15,,cff4400
 101,,awinpare,Awin-Pare,,,16,,cffffcc
 102,,aymaran,Aymaran,,,17,,cffffff
 103,,taulil,Taulil,,,18,,d000000
@@ -148,6 +146,8 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 161,,suki,Suki,,,59,,taa0000
 162,,gogodala,Gogodala,,,59,,tcccccc
 163,,greatandamanese,Great Andamanese,,,6,,tdd0000
+86,,paiwanic,Paiwan,,,15,,c000000
+96,,tsouic,Tsou,,,15,,cff4400
 164,,guahiban,Guahiban,,,60,,tff4400
 165,,guaicuruan,Guaicuruan,,,61,,tff6600
 166,,hadza,Hadza,,,62,,tff66ff
@@ -275,7 +275,6 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 288,,ijoid,Ijoid,,,123,,dffffcc
 289,,idomoid,Idomoid,,,123,Benue-Congo,dffffff
 290,,gur,Gur,,,123,,f000000
-291,,southernatlantic,Southern Atlantic,,,123,Atlantic,f0000dd
 292,,westernmande,Western Mande,,,123,Mande,f009900
 293,,crossriver,Cross River,,,123,Benue-Congo,f66ff33
 294,,defoid,Defoid,,,123,Benue-Congo,f990099
@@ -522,3 +521,7 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 535,,boliviaparana,Bolivia-Parana,,,11,,c9999ff
 536,,preandinearawakan,Pre-Andine Arawakan,,,11,,c99ffff
 537,,gbayamanzangbaka,Gbaya-Manza-Ngbaka,,,123,,c000000
+594,,dizoid,Dizoid,,,1,Omotic,tdd0000
+595,,eastformosan,East Formosan,,,15,,fdd0000
+596,,westernplainsaustronesian,Western Plains Austronesian,,,15,,f0000dd
+291,,southernatlantic,Mel,,,123,Atlantic,f0000dd

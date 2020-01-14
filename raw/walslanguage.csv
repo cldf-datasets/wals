@@ -1,2680 +1,2680 @@
-pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes
-1,apucikwar,163,f,f,apq
-2,achi,250,f,f,"acc, acr"
-3,adygheshapsugh,325,f,f,ady
-4,aka,274,f,f,axk
-5,akabiada,163,f,f,abj
-6,akacari,163,f,f,aci
-7,akakede,163,f,f,akx
-8,akwa,286,f,f,png
-9,alas,521,f,f,btz
-10,alsatian,181,f,f,gsw
-11,andi,269,f,f,ani
-12,arabicbahrain,10,f,f,abv
-13,arabicbornonigerian,10,f,f,shu
-14,arakanesemarma,380,f,f,mhv
-15,arandai,247,f,f,jbj
-16,armenianiranian,189,f,f,hye
-17,arrernte,42,f,f,"aer, are"
-18,asturian,184,f,f,ast
-19,aulua,87,f,f,aul
-20,auyana,430,f,f,auy
-21,avatime,275,f,f,avn
-22,aynu,19,f,f,aib
-23,badaga,149,f,f,bfq
-24,bagri,182,f,f,bgq
-25,bahuana,530,f,f,
-26,bajausemporna,76,f,f,ssb
-27,bamun,274,f,f,bax
-28,bana,5,f,f,bcw
-29,bandi,292,f,f,bza
-30,baragaunle,389,f,f,loy
-32,bathari,10,f,f,bhm
-33,berberwargla,4,f,f,oua
-34,biafada,276,f,f,bif
-35,biatah,95,f,f,bth
-37,bosnian,185,f,f,bos
-38,brueastern,72,f,f,bru
-39,buliinghana,290,f,f,bwu
-40,burapabir,5,f,f,bwr
-41,chaozhou,375,f,f,nan
-42,chatinonopala,332,f,f,cya
-43,chekeholo,87,f,f,mrn
-44,chinantecsochiapan,335,f,f,cso
-45,chippewaredlakeandpillager,17,f,f,ciw
-46,chru,519,f,f,cje
-47,chulym,19,f,f,clw
-48,columbiawenatchi,362,f,f,col
-49,danblowo,273,f,f,daf
-50,dhimal,511,f,f,dhi
-51,dhuwaldatiwuy,42,f,f,duj
-52,dogri,182,f,f,"dgo, xnr"
-53,dolgan,19,f,f,dlg
-54,dutchbrabantic,181,f,f,nld
-55,dutchlimburg,181,f,f,nld
-56,dutchzeeuws,181,f,f,zea
-57,elseng,256,f,f,mrf
-58,embaloh,525,f,f,emb
-59,etsako,295,f,f,ets
-60,fijianwayan,87,f,f,wyy
-61,frisianeastern,181,f,f,frs
-62,frisiannorth,181,f,f,frr
-63,fulliptako,276,f,f,fuh
-64,fulaburkinafaso,276,f,f,fuh
-65,fulanigombe,276,f,f,fub
-66,fulfuldemaasina,276,f,f,ffm
-67,gamilaraay,42,f,f,kld
-68,germanappenzell,181,f,f,gsw
-69,germanbavarian,181,f,f,bar
-70,germanberlin,181,f,f,deu
-71,germanbern,181,f,f,gsw
-72,germanhannover,181,f,f,deu
-73,germanmansfeldisch,181,f,f,deu
-74,germanostschweiz,181,f,f,gsw
-75,germanripuarian,181,f,f,ksh
-76,germanthurgau,181,f,f,gsw
-77,germanthuringian,181,f,f,deu
-78,germantimisoara,181,f,f,deu
-79,germanupperaustrian,181,f,f,bar
-80,germanviennese,181,f,f,bar
-81,mamsouthern,250,f,f,mms
-82,germanwestphalian,181,f,f,wep
-83,germanzurich,181,f,f,gsw
-84,ghotuo,295,f,f,aaa
-85,gidar,5,f,f,gid
-86,giziga,5,f,f,"gis, giz"
-87,gorontalo,513,f,f,gor
-88,greekcypriot,186,f,f,ell
-89,guadeloupecreole,331,f,f,gcf
-90,guaque,119,f,f,
-1824,atakapa,27,f,f,aqp
-91,guere,277,f,f,"gxx, wec"
-92,guianesefrenchcreole,331,f,f,gcr
-93,guineabissaucrioulo,331,f,f,pov
-94,gumatj,42,f,f,gnn
-95,gurmatogo,290,f,f,gux
-96,guro,273,f,f,goa
-97,gusii,274,f,f,guz
-98,haisla,482,f,f,has
-99,harari,10,f,f,har
-100,havasupai,170,f,f,yuf
-101,hianacoto,119,f,f,cbd
-102,hinukh,269,f,f,gin
-31,batak,513,f,f,bya
-36,bilaan,517,f,f,"bps, smk"
-103,hre,63,f,f,hre
-104,hyow,386,f,f,csh
-105,ibanag,514,f,f,ibg
-106,ibibio,293,f,f,ibb
-107,indopakistanisignlanguagekarachidialect,330,f,f,pks
-108,indonesianpapuan,519,f,f,pmy
-109,indonesianjakarta,519,f,f,ind
-110,internationalsign,330,f,f,
-111,ishkashmi,183,f,f,sgl
-112,isnag,514,f,f,isd
-113,italianbologna,184,f,f,eml
-114,italianfiorentino,184,f,f,ita
-115,italiangenoa,184,f,f,lij
-116,italiannapolitanian,184,f,f,nap
-117,italianturinese,184,f,f,pms
-118,ivatan,516,f,f,ivv
-119,izhor,465,f,f,izh
-120,jamaicancreole,331,f,f,jam
-121,jibbali,10,f,f,shv
-122,juruna,457,f,f,jur
-123,kabui,386,f,f,nkf
-124,kagoma,283,f,f,kdm
-125,kalmykissykkul,20,f,f,xal
-126,karao,514,f,f,kyj
-127,kashubian,185,f,f,csb
-128,umbu ungu,438,f,f,ubu
-129,kayanbaram,518,f,f,kys
-130,kayuagung,88,f,f,kge
-131,keo,75,f,f,xxk
-132,kelabit,518,f,f,kzi
-133,kenyansignlanguage,330,f,f,xki
-134,ketapang,519,f,f,zlm
-135,khvarshi,269,f,f,khv
-136,kirghizfuyu,19,f,f,kir
-137,kitja,56,f,f,gia
-138,kom,274,f,f,bkm
-139,kosop,279,f,f,kia
-140,koorete,13,f,f,kqy
-141,krymchak,19,f,f,uzn
-142,kryz,267,f,f,kry
-143,kualan,95,f,f,
-144,kutai,519,f,f,vkt
-145,laha,405,f,f,lha
-146,lamnso,274,f,f,lns
-147,linguagestualportuguesa,330,f,f,psr
-148,loma,292,f,f,lom
-149,lowgerman,181,f,f,nds
-150,luangiua,87,f,f,ojv
-151,lummi,360,f,f,str
-152,lundayeh,518,f,f,lnd
-153,luri,183,f,f,lrc
-154,luxemburgeois,181,f,f,ltz
-155,maca,249,f,f,mca
-156,madainnigeria,283,f,f,mda
-157,magarsyangja,512,f,f,mrd
-158,magindanao,513,f,f,mdh
-159,mahmeri,62,f,f,mhe
-160,malaykualalumpur,519,f,f,zlm
-161,malayulumuar,519,f,f,zmi
-162,mali,104,f,f,gcc
-163,manambu,368,f,f,mle
-164,mandaicmodern,10,f,f,mid
-165,mandar,525,f,f,mdr
-166,maninka,292,f,f,emk
-167,mankanya,276,f,f,knf
-168,martiniquecreole,331,f,f,gcf
-169,matukar,87,f,f,mjk
-170,mbe,274,f,f,mtk
-171,melanau,518,f,f,mel
-172,michif,17,f,f,crg
-173,miskitocoastenglishcreole,331,f,f,bzj
-174,mixtecalacatlatzala,334,f,f,mim
-175,molala,351,f,f,mbe
-176,moldavian,184,f,f,ron
-177,mudburra,42,f,f,mwd
-178,muher,10,f,f,sgw
-179,mun,169,f,f,mji
-180,muong,67,f,t,mtq
-181,nahuatlcentral,476,f,f,nhn
-182,nahuatlpochutla,476,f,f,
-183,nanticoke,17,f,f,nnt
-184,narom,518,f,f,nrm
-185,nenetstundra,463,f,f,yrk
-186,neoaramaicamadiya,10,f,f,cld
-187,ngarinyman,42,f,f,nbj
-188,ngemba,274,f,f,nge
-189,nicobarese,68,f,f,ncb
-190,noghaykaragash,19,f,f,nog
-191,norsktegnsprak,330,f,f,nsl
-192,nuninorthern,290,f,f,nuv
-193,oi,63,f,f,oyb
-194,oku,274,f,f,oku
-195,omagua,457,f,f,omg
-196,emai,295,f,f,ema
-197,paite,386,f,f,pck
-198,pakanha,42,f,f,pkn
-199,pingilapese,87,f,f,pif
-200,plainsindianssignlanguage,330,f,f,psd
-201,pocomam,250,f,f,poc
-202,principense,331,f,f,pre
-203,provencal,184,f,f,oci
-204,quechuabolivian,356,f,f,"quh, qul"
-205,raga,87,f,f,lml
-206,romanibugurdzi,182,f,f,rmn
-207,romaniburgenland,182,f,f,rmo
-208,romanilovari,182,f,f,rmy
-209,rushan,183,f,f,sgh
-210,saanich,360,f,f,str
-211,saek,404,f,f,skb
-212,salishstraits,360,f,f,str
-213,sarygyughur,19,f,f,ybe
-214,semandang,95,f,f,sdm
-215,shoshonewindriver,477,f,f,shh
-216,sika,75,f,f,ski
-217,siraiya,86,f,f,fos
-218,songish,360,f,f,str
-219,sooke,360,f,f,str
-220,spanishcanaryislands,184,f,f,spa
-221,swedishvasterbotten,181,f,f,swe
-222,tagbanwaaborlan,513,f,f,tbw
-223,taiwanese,375,f,f,nan
-224,tamilspoken,149,f,f,tam
-225,tatarbaraba,19,f,f,tat
-226,tatarmishar,19,f,f,tat
-227,tatarnoghayalabugat,19,f,f,nog
-228,taulil,103,f,f,tuh
-229,tayo,331,f,f,cks
-230,teco,250,f,f,ttc
-231,tepecano,478,f,f,tep
-232,thao,86,f,f,ssf
-233,tindi,269,f,f,tin
-234,tod,389,f,f,sbu
-235,toussianwin,290,f,f,wib
-236,tumak,2,f,f,tmc
-237,turkiceastcentralxorasan,19,f,f,kmz
-238,turkicwestxorasan,19,f,f,kmz
-239,twana,360,f,f,twa
-240,ulcha,21,f,f,ulc
-241,umaua,119,f,f,cbd
-242,urhobo,295,f,f,urh
-243,urubusignlanguage,330,f,f,uks
-244,urum,19,f,f,uum
-245,vata,277,f,f,dic
-246,veps,465,f,f,vep
-247,waraywaray,513,f,f,war
-248,wemenugbe,275,f,f,wem
-249,xasonga,292,f,f,kao
-250,yagdii,279,f,f,dur
-251,yaghnobi,183,f,f,yai
-252,yamba,274,f,f,yam
-253,yanomami,498,f,f,wca
-254,yemba,274,f,f,ybb
-255,yiddishbessarabian,181,f,f,ydd
-256,yiddishlithuanian,181,f,f,ydd
-257,yiddishlodz,181,f,f,ydd
-258,yugh,503,f,f,yuu
-259,yuracare,506,f,f,yuz
-260,yurimangi,507,f,f,
-261,yurttatar,19,f,f,nog
-262,zapotecixtlan,332,f,f,zpd
-263,zhuangnorthern,404,f,f,zgb
-264,zoquerayon,252,f,f,zor
-265,zulunorthern,274,f,f,zul
-266,zulusouthern,274,f,f,zul
-267,abenakiwestern,17,f,f,abe
-268,adamorobesignlanguage,330,f,f,ads
-269,adyghetemirgoy,325,f,f,ady
-270,ajie,87,f,f,aji
-271,akhvakh,269,f,f,akv
-272,algonquin,17,f,f,alq
-273,amdo,389,f,f,adx
-274,americansignlanguage,330,f,f,ase
-275,arabicabbechechad,10,f,f,shu
-276,areare,87,f,f,alu
-277,atikamekw,17,f,f,atj
-278,auslan,330,f,f,asf
-279,bade,6,f,f,bde
-280,bahnarpleibongmangyang,63,f,f,bdq
-281,bandjalangcasino,42,f,f,bdy
-282,bau,437,f,f,bbd
-283,benabena,430,f,f,bef
-284,beng,273,f,f,nhb
-285,bengalichittagong,182,f,f,ctg
-286,beothuk,108,f,f,bue
-287,berbermzab,4,f,f,mzb
-288,birri,305,f,f,bvq
-289,bislama,331,f,f,bis
-290,boruca,123,f,f,brn
-291,britishsignlanguage,330,f,f,bfi
-292,bujeba,274,f,f,nmg
-293,cabecar,123,f,f,cjp
-294,canamari,206,f,f,knm
-295,canela,238,f,f,ram
-296,carolinian,87,f,f,cal
-297,catio,135,f,f,cto
-298,chastacosta,262,f,f,
-299,chatinotataltepec,332,f,f,cta
-300,chemakum,131,f,f,xch
-301,chicomuceltec,250,f,f,cob
-302,chimila,129,f,f,cbg
-303,chinantecsanfelipeusila,335,f,f,cuc
-304,chinantectepetotutla,335,f,f,cnt
-305,chinesesignlanguage,330,f,f,csl
-306,colac,42,f,f,
-307,comecrudo,144,f,f,xcm
-308,comorian,274,f,f,swb
-309,cuicatec,334,f,f,"cut, cux"
-310,cuitlatec,145,f,f,
-311,curripaco,530,f,f,kpc
-312,datooga,320,f,f,tcc
-313,degexitan,262,f,f,ing
-314,dumagatcasiguran,514,f,f,dgc
-315,dyula,292,f,f,dyu
-316,enya,274,f,f,gey
-317,eweanglo,275,f,f,ewe
-318,finnishsignlanguage,330,f,f,fse
-319,fulasenegal,276,f,f,fuc
-320,greeksignlanguage,330,f,f,gss
-321,greenlandicsouth,158,f,f,kal
-322,guana,248,f,f,gva
-323,guayabero,164,f,f,guo
-324,gulairo,279,f,f,glj
-325,gurindji,42,f,f,gue
-326,gurma,290,f,f,gux
-327,harsusi,10,f,f,hss
-328,hongkongsignlanguage,330,f,f,
-329,huambisa,197,f,f,hub
-330,icelandicsignlanguage,330,f,f,icl
-331,illinois,17,f,f,mia
-332,inanwatan,247,f,f,szp
-333,indopakistanisignlanguageindiandialects,330,f,f,ins
-334,inuktitutrankininlet,158,f,f,ikt
-335,irishsignlanguage,330,f,f,isg
-336,israelisignlanguage,330,f,f,isr
-337,itawis,514,f,f,itv
-338,ixcatec,339,f,f,ixc
-339,jahai,62,f,f,jhi
-340,jemez,215,f,f,tow
-341,juang,66,f,f,jun
-342,kaian,235,f,f,kct
-343,kalanga,274,f,f,kck
-344,kalasha,182,f,f,kls
-345,kangiryuarmiut,158,f,f,ikt
-346,kanjobaleastern,250,f,f,kjb
-347,kankanay,514,f,f,kne
-348,kanyok,274,f,f,kny
-349,kapingamarangi,87,f,f,kpg
-350,karanga,274,f,f,sna
-351,karipunadoguapore,342,f,f,kuq
-352,katakolok,330,f,f,bqy
-353,katiinafghanistan,182,f,f,bsh
-354,kato,262,f,f,ktw
-355,kaurna,42,f,f,
-356,kenyahumalung,518,f,f,
-357,kenyang,274,f,f,ken
-358,khumi,386,f,f,cnk
-359,kilba,5,f,f,hbb
-360,kituba,331,f,f,ktu
-361,kolana,415,f,f,kvw
-362,korafe,442,f,f,kpr
-363,ksingmul,69,f,f,puo
-364,kulung,512,f,f,kle
-365,kutchin,262,f,f,gwi
-366,lachi,405,f,f,lbt
-367,ladin,184,f,f,lld
-368,languedessignesfrancaise,330,f,f,fsl
-369,languedessignesquebecoise,330,f,f,fcs
-370,lardil,42,f,f,lbz
-371,lau,87,f,f,llu
-372,lenguadesenasargentina,330,f,f,aed
-373,lenguadesenasespanola,330,f,f,ssp
-374,lese,303,f,f,les
-375,lesserantilleanfrenchcreole,331,f,f,"acf, gcf"
-376,linguadesinaisbrasileira,330,f,f,bzs
-377,linguaitalianadeisegni,330,f,f,ise
-378,lobi,290,f,f,lob
-379,logoti,304,f,f,log
-380,loko,292,f,f,lok
-381,lughatalisharatallubnaniya,330,f,f,
-382,lyele,290,f,f,lee
-383,macaguan,164,f,f,mbn
-384,macuna,452,f,f,myy
-385,mahican,17,f,f,mof
-386,maku,245,f,f,
-387,manjaku,276,f,f,mfv
-388,mapoyo,119,f,f,mcg
-389,mattole,262,f,f,mvb
-390,miju,382,f,f,mxj
-391,mikarew,234,f,f,msy
-392,mingrelian,205,f,f,xmf
-393,mituku,274,f,f,zmq
-394,miwokbodega,350,f,f,csi
-395,miwoklake,350,f,f,lmw
-396,miwokplains,350,f,f,pmw
-397,mixetlahuitoltepec,252,f,f,mxp
-398,mixtecchayuco,334,f,f,mih
-399,mixteccoatzospan,334,f,f,miz
-400,mixtecsanjuancolorado,334,f,f,mjc
-401,mixtecsanmiguelelgrande,334,f,f,mig
-402,mixtecsilacayoapan,334,f,f,mks
-403,mnongeastern,63,f,f,mng
-404,moca,13,f,f,moy
-405,motilonchibchan,128,f,f,mot
-406,muyuw,87,f,f,myw
-407,nagapidgin,331,f,f,nag
-408,nahuatlhuauchinango,476,f,f,
-409,nahuatlmilpaalta,476,f,f,
-410,nahuatlpajapan,476,f,f,nhp
-411,nahuatlxalitla,476,f,f,ngu
-412,nanumea,87,f,f,tvl
-413,naskapi,17,f,f,nsk
-414,nateni,290,f,f,ntm
-415,ndogo,287,f,f,ndz
-416,nederlandsegebarentaal,330,f,f,dse
-417,negidal,21,f,f,neg
-418,newzealandsignlanguage,330,f,f,nzs
-419,ngarluma,42,f,f,nrl
-420,nihonshuwajapanesesignlanguage,330,f,f,jsl
-421,nitinaht,481,f,f,noo
-422,niuafoou,87,f,f,num
-423,nukak,114,f,f,mbr
-424,nyungar,42,f,f,nys
-425,onondaga,192,f,f,ono
-426,oriyakotia,182,f,f,ort
-427,orokolo,156,f,f,oro
-428,otomisantiagomexquititlan,336,f,f,otq
-429,pengo,147,f,f,peg
-430,piapoco,530,f,f,pio
-431,piratapuyo,452,f,f,pir
-432,playero,164,f,f,gob
-433,pocomamoriental,250,f,f,poa
-434,popolocasanvicentecoyotepec,339,f,f,pbf
-435,potawatomi,17,f,f,pot
-436,powhatan,17,f,f,pim
-437,puinave,354,f,f,pui
-438,quechuaancash,356,f,f,qxa
-439,quechuacajamarca,356,f,f,qvc
-440,rade,519,f,f,rad
-441,rengao,63,f,f,ren
-442,rennellese,87,f,f,mnv
-443,roglainorthern,519,f,f,rog
-444,romanisepecides,182,f,f,
-445,russiansignlanguage,330,f,f,rsl
-446,semai,62,f,f,sea
-447,sherdukpen,374,f,f,sdp
-448,siriano,452,f,f,sri
-449,slavey,262,f,f,xsl
-450,songe,274,f,f,sop
-451,sorbianlower,185,f,f,dsb
-452,southkoreansignlanguage,330,f,f,kvk
-453,svenskateckenspraket,330,f,f,swl
-454,tabassaran,267,f,f,tab
-455,taiwanesesignlanguageziranshouyu,330,f,f,tss
-456,talyshazerbaijan,183,f,f,tly
-457,tanaina,262,f,f,tfn
-458,tananalower,262,f,f,taa
-459,tanzaniasignlanguage,330,f,f,tza
-460,tapiete,457,f,f,tpj
-461,tasmanianoysterbaytopitwater,409,f,f,
-462,tatmuslim,183,f,f,ttt
-463,tatuyo,452,f,f,tav
-464,tewariogrande,215,f,f,tew
-465,tewasanjuanpueblo,215,f,f,tew
-466,thaisignlanguage,330,f,f,tsq
-467,tigrebeniamer,10,f,f,tig
-468,tiwasouthern,215,f,f,tix
-469,toda,149,f,f,tcx
-470,tofa,19,f,f,kim
-471,totonacsierra,429,f,f,tos
-472,triquechicahuaxtla,334,f,f,trs
-473,tubar,472,f,f,tbu
-474,turkisaretdili,330,f,f,tsm
-475,tutchonenorthern,262,f,f,ttm
-476,tzeltal,250,f,f,"tzb, tzh"
-477,tzeltalbachajon,250,f,f,tzb
-478,tzeltaltenejapa,250,f,f,tzh
-479,tzotzilsanandres,250,f,f,tzs
-480,ugandansignlanguage,330,f,f,ugn
-481,urim,424,f,f,uri
-482,vedda,182,f,f,ved
-483,vlaamsegebarentaal,330,f,f,bvs
-484,warrungu,42,f,f,wrg
-485,xaracuu,87,f,f,ane
-486,yaka,274,f,f,yaf
-487,yami,516,f,f,tao
-488,yaruro,500,f,f,yae
-489,yemsa,13,f,f,jnj
-490,yiddish,181,f,f,"ydd, yih"
-491,yortayorta,42,f,f,
-492,yuruti,452,f,f,yui
-493,zapotecjuarez,332,f,f,zaa
-494,zapotecmixtepec,332,f,f,zpm
-495,zapoteczoogocho,332,f,f,zpq
-496,zoquefranciscoleon,252,f,f,zos
-497,allentiac,177,f,f,
-498,altaisouthern,19,f,f,alt
-499,alutor,139,f,f,alr
-500,anufo,275,f,f,cko
-501,apachejicarilla,262,f,f,apj
-502,arabicbanihassan,10,f,f,mey
-503,arabichijazi,10,f,f,acw
-504,arabickormakiti,10,f,f,acy
-505,arabicnorthlevantinespoken,10,f,f,apc
-506,araki,87,f,f,akr
-507,aralletabulahan,525,f,f,atq
-508,arapaho,17,f,f,arp
-509,baale,322,f,f,koe
-510,bakundu,274,f,f,bdu
-511,banggarla,42,f,f,bjb
-512,bayso,12,f,f,bsw
-513,benga,274,f,f,bng
-514,bima,75,f,f,bhp
-515,binukid,513,f,f,bkd
-516,boiken,368,f,f,bzf
-517,bole,6,f,f,bol
-518,bukusu,274,f,f,bxk
-519,bulu,274,f,f,bum
-520,chamalal,269,f,f,cji
-521,daa,526,f,f,kzf
-522,daba,5,f,f,"dbq, dkx"
-523,defaka,288,f,f,afn
-524,deni,24,f,f,dny
-525,deutschegebardensprache,330,f,f,gsg
-526,ding,274,f,f,diz
-527,eipo,446,f,f,eip
-528,frisianwestern,181,f,f,fry
-529,fulaguinean,276,f,f,fuf
-530,gade,278,f,f,ged
-531,galician,184,f,f,glg
-532,garus,437,f,f,gyb
-533,gojri,182,f,f,gju
-534,greenlandiceast,158,f,f,kal
-535,guanano,452,f,f,gvc
-536,guduf,5,f,f,gdf
-537,gunya,42,f,f,gyy
-538,halang,63,f,f,hal
-539,haruai,461,f,f,tmd
-540,inupiaq,158,f,f,esi
-541,irishmunster,187,f,f,gle
-542,isirawa,224,f,f,srl
-543,jamamadi,24,f,f,jaa
-544,kaili,526,f,f,lew
-545,kaiwa,457,f,f,kgk
-546,kelaapoze,87,f,f,kcl
-547,kirikiri,228,f,f,kiy
-548,kowinye,290,f,f,kst
-549,konda,147,f,f,kfc
-550,konua,489,f,f,kyx
-551,kott,503,f,f,
-552,kulamanen,513,f,f,mbt
-553,lamulamu,42,f,f,lby
-554,lauje,526,f,f,law
-555,luyia,274,f,f,luy
-556,mamasa,525,f,f,mqj
-557,marquesan,87,f,f,"mqm, mrq"
-558,mayo,475,f,f,mfy
-559,mehek,371,f,f,nux
-560,melayubetawi,331,f,f,bew
-561,migama,2,f,f,mmy
-562,mixtecayutla,334,f,f,miy
-563,liv,465,f,f,liv
-564,mixtecjamiltepec,334,f,f,mxt
-565,mokilko,2,f,f,moz
-566,mongondow,513,f,f,mog
-567,mugil,437,f,f,mlp
-568,murik,231,f,f,mtf
-569,nahuatlsierradezacapoaxtla,476,f,f,azz
-570,neoaramaicassyrian,10,f,f,aii
-571,ngbandi,287,f,f,"nbw, ngb"
-572,nharo,210,f,f,nhr
-573,nomatsiguenga,536,f,f,not
-574,nubi,331,f,f,kcn
-575,nyanga,274,f,f,nyj
-576,nyelayu,87,f,f,yly
-577,orejon,452,f,f,ore
-578,oto,391,f,f,iow
-579,otomisierra,336,f,f,otm
-580,otoro,285,f,f,otr
-581,pagu,494,f,f,pgu
-582,parecis,532,f,f,pab
-583,polabian,185,f,f,pox
-584,pulopetak,73,f,f,nij
-585,quechuatarma,356,f,f,qvn
-586,rejang,84,f,f,rej
-587,romaninorthrussian,182,f,f,rml
-588,romansch,184,f,f,roh
-589,romanschsurmeiran,184,f,f,roh
-590,russianchinesepidginbirobidjan,331,f,f,
-591,saho,12,f,f,ssy
-592,salishsamishstraits,360,f,f,str
-593,salishsouthernpugetsound,360,f,f,slh
-594,samabalangingi,76,f,f,sse
-595,sangir,524,f,f,sxn
-596,sena,274,f,f,seh
-597,shawnee,17,f,f,sjw
-598,shor,19,f,f,cjs
-599,sikule,521,f,f,skh
-600,slovincian,185,f,f,csb
-601,solon,21,f,f,evn
-602,subiya,274,f,f,sbs
-603,suki,161,f,f,sui
-604,sumu,251,f,f,sum
-605,talaud,524,f,f,tld
-606,tamabo,87,f,f,mla
-607,tehit,491,f,f,kps
-608,terena,535,f,f,ter
-609,tewaarizona,215,f,f,tew
-610,thaypan,42,f,f,typ
-611,timorese,75,f,f,aoz
-612,tontemboan,523,f,f,tnt
-613,toraja,525,f,f,sda
-614,tsat,519,f,f,huq
-615,tzotzilzinacantan,250,f,f,tzz
-616,waigali,182,f,f,wbk
-617,wallisian,87,f,f,wls
-618,wayana,119,f,f,way
-619,xerente,238,f,f,xer
-620,xunekoka,212,f,f,knw
-621,yakoma,287,f,f,yky
-622,yil,428,f,f,yll
-623,yuki,484,f,f,yuk
-624,yupiknaukan,158,f,f,ynk
-625,yupiksirenik,158,f,f,ysr
-626,zhangzhung,389,f,f,jna
-627,juma,457,f,f,jua
-628,abidji,275,f,f,abi
-629,aklanon,513,f,f,akl
-630,ampeeli,449,f,f,apz
-631,angolar,331,f,f,aoa
-632,apachechiricahua,262,f,f,apm
-633,arabicbeirut,10,f,f,apc
-634,arabiceasternlibyan,10,f,f,ayl
-635,arabicnegev,10,f,f,ajp
-636,arabicsanani,10,f,f,ayn
-637,arikara,115,f,f,ari
-638,awadhi,182,f,f,awa
-639,aekyom,101,f,f,awi
-640,bahinemo,370,f,f,bjh
-641,balangao,514,f,f,blw
-642,balantak,526,f,f,blz
-643,bambam,525,f,f,ptu
-644,banawa,24,f,f,jaa
-645,bantik,524,f,f,bnq
-646,basquebasaburuaandimoz,107,f,f,eus
-647,basquebidasoavalley,107,f,f,eus
-648,basquegernica,107,f,f,eus
-649,basquehondarribia,107,f,f,eus
-650,basquelekeitio,107,f,f,eus
-651,basquenorthernhighnavarrese,107,f,f,eus
-652,basqueonati,107,f,f,eus
-653,basqueroncalese,107,f,f,eus
-654,basquesakana,107,f,f,eus
-655,basquesouletin,107,f,f,eus
-656,basquezeberio,107,f,f,eus
-657,begakidaan,518,f,f,dbj
-658,bhili,182,f,f,bhb
-659,binumarien,430,f,f,bjr
-660,buglere,122,f,f,sab
-661,burji,12,f,f,bji
-662,burum,434,f,f,bmu
-663,carijona,119,f,f,cbd
-664,carrier,262,f,f,crx
-665,chorti,250,f,f,caa
-666,chumburung,275,f,f,ncu
-667,clallam,360,f,f,clm
-668,cogui,130,f,f,kog
-669,cupeno,474,f,f,cup
-670,dabida,274,f,f,dav
-671,dhurga,42,f,f,dhu
-672,doutai,228,f,f,tds
-673,dullaygollango,12,f,f,gwd
-674,dyimini,290,f,f,dyi
-675,enga,433,f,f,enq
-676,esselen,159,f,f,esq
-677,fulamauritanian,276,f,f,fuc
-678,gaalpu,42,f,f,dhg
-679,gayo,521,f,f,gay
-680,gorowa,1,f,f,gow
-681,gunu,274,f,f,yas
-682,haidanorthern,167,f,f,hdn
-683,halbi,182,f,f,hlb
-684,hoava,87,f,f,hoa
-685,hokkien,375,f,f,nan
-686,huitoto,180,f,f,hto
-687,iatmul,368,f,f,ian
-688,inuktitutquebeclabrador,158,f,f,ike
-689,inuktitutsalluit,158,f,f,ike
-690,isekiri,294,f,f,its
-691,jarawara,24,f,f,jaa
-692,juat,42,f,f,
-693,kalapuya,199,f,f,kyl
-694,kamanokafe,430,f,f,kbq
-695,kami,274,f,f,kcu
-696,karainpapuanewguinea,87,f,f,leu
-697,karaim,19,f,f,kdr
-698,karata,269,f,f,kpt
-699,kasem,290,f,f,xsm
-700,kaure,207,f,f,bpp
-701,kemtuik,323,f,f,kmt
-702,ketengban,446,f,f,xte
-703,kitsai,115,f,f,kii
-704,kokni,182,f,f,kex
-705,konkomba,290,f,f,xon
-706,koranko,292,f,f,knk
-707,kposo,275,f,f,kpo
-708,ladino,184,f,f,lad
-709,lafofa,280,f,f,laf
-710,lule,236,f,f,
-711,malay,519,f,f,zsm
-712,mampruli,290,f,f,maw
-713,manem,110,f,f,jet
-714,mantjiltjara,42,f,f,mpj
-715,maring,438,f,f,mbw
-716,martuwangka,42,f,f,mpj
-717,mawchi,182,f,f,mke
-718,mayiyapi,42,f,f,
-719,mbugu,1,f,f,mhd
-720,mentuhtapuh,95,f,f,sdo
-721,menya,449,f,f,mcr
-722,mundu,287,f,f,muh
-723,nafaanra,290,f,f,nfr
-724,napu,526,f,f,npy
-725,ngombe,274,f,f,ngc
-726,nigerianpidgin,331,f,f,pcm
-727,ningil,428,f,f,niz
-728,nomad,154,f,f,smq
-729,nukuoro,87,f,f,nkr
-730,nyambo,274,f,f,now
-731,obokuitai,228,f,f,afz
-732,ojibweminnesota,17,f,f,ciw
-733,olohmangtangai,73,f,f,nij
-734,oromoboraana,12,f,f,gax
-735,patpatar,87,f,f,gfk
-736,pemon,119,f,f,aoc
-737,folopa,411,f,f,ppo
-738,pokomchi,250,f,f,"pob, poh"
-739,quechuaecuadorean,356,f,f,qug
-740,riantana,217,f,f,ran
-741,romaniajiavarvara,182,f,f,rmn
-742,rundi,274,f,f,run
-743,saamikildin,462,f,f,sjd
-744,salar,19,f,f,slr
-745,sayultec,252,f,f,pos
-746,selaru,75,f,f,slu
-747,selayar,525,f,f,sly
-748,seychellescreole,331,f,f,crs
-749,shinassha,13,f,f,bwo
-750,sikaritai,228,f,f,tty
-751,sisaala,290,f,f,sld
-752,stoney,391,f,f,sto
-753,svan,205,f,f,sva
-754,tabaru,494,f,f,tby
-755,tannasouthwest,87,f,f,nwi
-756,taranganwest,75,f,f,txn
-757,ternate,494,f,f,tft
-758,tibetanshigatse,389,f,f,bod
-759,tifal,441,f,f,tif
-760,tillamook,361,f,f,til
-761,unami,17,f,f,unm
-762,vasavi,182,f,f,vas
-763,warluwara,42,f,f,wrb
-764,waropen,79,f,f,wrp
-765,waura,532,f,f,wau
-766,weri,435,f,f,wer
-767,wetan,75,f,f,lex
-768,wobe,277,f,f,wob
-769,wogamusin,367,f,f,wog
-770,woiwurrung,42,f,f,
-771,yakan,76,f,f,yka
-772,yazva,465,f,f,kpv
-773,yukpa,119,f,f,yup
-774,yulparija,42,f,f,mpj
-775,yupikchevak,158,f,f,esu
-776,yupiknortonsound,158,f,f,esu
-777,yupikstlawrenceisland,158,f,f,ess
-778,zapotectexmelucan,332,f,f,zpz
-779,zimakani,246,f,f,zik
-780,aguaruna,197,f,f,agr
-781,anong,385,f,f,nun
-782,berbicedutchcreole,331,f,f,brc
-783,bezhta,269,f,f,kap
-784,bokar,382,f,f,adi
-785,budukh,267,f,f,bdk
-786,campapajonalasheninca,536,f,f,cjo
-787,cayuga,192,f,f,cay
-788,chavacano,331,f,f,cbk
-789,chol,250,f,f,"cti, ctu"
-790,culina,24,f,f,cul
-791,dari,183,f,f,prs
-792,dobel,75,f,f,kvo
-793,duna,431,f,f,duc
-794,ekoti,274,f,f,eko
-795,gutob,66,f,f,gbj
-796,gogodala,162,f,f,ggw
-797,hanunoo,513,f,f,hnn
-798,hawaiiancreole,331,f,f,hwc
-799,herero,274,f,f,her
-800,ifumu,274,f,f,ifm
-801,inga,356,f,f,inb
-802,jurluwo,320,f,f,lwo
-803,kanjobalwestern,250,f,f,knj
-804,kanumngkalmpw,255,f,f,kcd
-805,kerek,139,f,f,krk
-806,kisar,75,f,f,kje
-807,kola,75,f,f,kvv
-808,kriolfitzroycrossing,331,f,f,
-809,kriolngukurr,331,f,f,rop
-810,kuiinindonesia,417,f,f,kvd
-811,kunjen,42,f,f,kjn
-812,kunming,375,f,f,cmn
-813,kwamera,87,f,f,tnk
-814,lonwolwol,87,f,f,crc
-815,loven,63,f,f,lbo
-816,malaccacreole,331,f,f,mcm
-817,manx,187,f,f,glv
-818,milang,382,f,f,adi
-819,mochica,132,f,f,
-820,mopan,250,f,f,mop
-821,ngarinyeri,42,f,f,nay
-822,ghulfan,307,f,f,ghl
-823,nyangumarda,42,f,f,nna
-824,okanagan,362,f,f,oka
-825,olutec,252,f,f,plo
-826,oroch,21,f,f,oac
-827,oromowestcentral,12,f,f,gaz
-828,padoe,526,f,f,pdo
-829,paita,87,f,f,duf
-830,palor,276,f,f,fap
-831,parjidravidian,148,f,f,pci
-832,puquina,355,f,f,
-833,rimi,274,f,f,rim
-834,sawai,79,f,f,szw
-835,serrano,474,f,f,ser
-836,shirayughur,20,f,f,yuy
-837,sukuma,274,f,f,suk
-838,sulung,401,f,f,suv
-839,sursurunga,87,f,f,sgz
-840,tanglapui,415,f,f,swt
-841,tasmanian,409,f,f,
-842,tetela,274,f,f,tll
-843,tsonga,274,f,f,tso
-844,tswana,274,f,f,tsn
-845,tupuri,279,f,f,tui
-846,tyeraity,51,f,f,woa
-847,upperkuskokwim,262,f,f,kuu
-848,yali,432,f,f,yli
-849,yamdena,75,f,f,jmd
-850,yansi,274,f,f,yns
-851,yazgulyam,183,f,f,yah
-852,zapotecquiegolani,332,f,f,zpi
-853,aghul,267,f,f,agx
-854,alutiiq,158,f,f,ems
-855,arabicpalestinian,10,f,f,ajp
-856,aribwatsa,87,f,f,laz
-857,asurini,457,f,f,asu
-858,atacameno,219,f,f,kuz
-859,bandjalangwaalubal,42,f,f,bdy
-860,banggai,526,f,f,bgz
-861,baniwa,530,f,f,bwi
-862,benalulua,274,f,f,lua
-863,berberaytseghrouchenmiddleatlas,4,f,f,tzm
-864,biak,79,f,f,bhw
-865,binga,305,f,f,yul
-866,bora,179,f,f,boa
-867,bozotigemaxo,292,f,f,boz
-868,chorote,249,f,f,"crq, crt"
-869,cua,63,f,f,cua
-870,dakota,391,f,f,dak
-871,emberachami,135,f,f,cmi
-872,fiote,274,f,f,kng
-873,fox,17,f,f,sac
-874,gurenne,290,f,f,gur
-875,hawrami,183,f,f,hac
-876,hdi,5,f,f,xed
-877,hmongdaw,169,f,f,mww
-878,iha,488,f,f,ihp
-879,jarawainandamans,399,f,f,anq
-880,karelian,465,f,f,krl
-881,kashaya,176,f,f,kju
-882,kohlakka,279,f,f,xuo
-883,kumyk,19,f,f,kum
-884,mambwe,274,f,f,mgr
-885,mazanderani,183,f,f,mzn
-886,miriwung,56,f,f,mep
-887,monumbo,254,f,f,mxk
-888,mordvinmoksha,467,f,f,mdf
-889,nahuatlmecayapanisthmus,476,f,f,nhx
-890,nivkhsouthsakhalin,324,f,f,niv
-891,nyiha,274,f,f,nih
-892,occitan,184,f,f,oci
-893,ojibwasevern,17,f,f,ojs
-894,papiamentu,331,f,f,pap
-895,pileni,87,f,f,piv
-896,pintupi,42,f,f,piu
-897,pogoro,274,f,f,poy
-898,popolocametzontla,339,f,f,pbe
-899,quechan,170,f,f,yum
-900,sorbianupper,185,f,f,hsb
-901,spokane,362,f,f,spo
-902,tangga,87,f,f,tgg
-903,thadou,386,f,f,tcz
-904,tsogo,274,f,f,tsv
-905,tuamotuan,87,f,f,pmt
-906,yaygir,42,f,f,
-907,zenaga,4,f,f,zen
-908,abaza,325,f,f,abq
-909,amarakaeri,168,f,f,amr
-910,amis,86,f,f,ami
-911,arabictunisian,10,f,f,aeb
-912,atchin,87,f,f,upv
-913,awyi,110,f,f,auw
-914,bagasitemu,291,f,f,bsp
-915,berbersiwa,4,f,f,siz
-916,bilinara,42,f,f,nbj
-917,boko,273,f,f,bqc
-918,broken,331,f,f,tcs
-919,bubi,274,f,f,bvb
-920,cheyenne,17,f,f,chy
-921,chiriguano,457,f,f,gui
-922,creek,260,f,f,mus
-923,doko,274,f,f,ngc
-924,fordata,75,f,f,frd
-925,gagauz,19,f,f,gag
-926,gilaki,183,f,f,glk
-927,jad,389,f,f,bod
-928,karitiana,458,f,f,ktn
-929,kickapoo,17,f,f,kic
-930,kusunda,221,f,f,kgg
-931,kwami,6,f,f,ksq
-932,lengua,248,f,f,leg
-933,lozi,274,f,f,loz
-934,magahi,182,f,f,mag
-935,makaa,274,f,f,mcp
-936,marchha,389,f,f,rnp
-937,marihill,466,f,f,mrj
-938,midob,307,f,f,mei
-939,miisiirii,311,f,f,tma
-940,miwokcentralsierra,350,f,f,csm
-941,miwoknorthernsierra,350,f,f,nsq
-942,mixtecatatlahuca,334,f,f,mib
-943,mpongwe,274,f,f,mye
-944,nande,274,f,f,nnb
-945,nkem,274,f,f,isi
-946,pomocentral,176,f,f,poo
-947,quechuaayacucho,356,f,f,quy
-948,quiche,250,f,f,quc
-949,rembarnga,40,f,f,rmb
-950,secoya,452,f,f,sey
-951,skou,392,f,f,skv
-952,tabare,438,f,f,sst
-953,tamagario,208,f,f,tcg
-954,tangale,6,f,f,tan
-955,tem,290,f,f,kdh
-956,toqabaqita,87,f,f,mlu
-957,tubatulabal,480,f,f,tub
-958,tuki,274,f,f,bag
-959,tumleo,87,f,f,tmq
-960,tunebo,124,f,f,tnd
-961,ulithian,87,f,f,uli
-962,vagla,290,f,f,vag
-963,walmatjari,42,f,f,wmt
-964,wikngathana,42,f,f,wig
-965,winnebago,391,f,f,win
-966,yankuntjatjara,42,f,f,kdd
-967,zapotecsanlucasquiavini,332,f,f,zab
-968,abau,367,f,f,aau
-969,alagwa,1,f,f,wbj
-970,arabiclebanese,10,f,f,apc
-971,atsugewi,173,f,f,atw
-972,berik,423,f,f,bkl
-973,buin,152,f,f,buo
-974,chaga,274,f,f,old
-975,chambri,231,f,f,can
-976,chaudangsi,389,f,f,cdn
-977,chocho,339,f,f,coz
-978,costanoan,347,f,f,"css, cst"
-979,cuica,418,f,f,
-980,duma,274,f,f,dma
-981,futunaeast,87,f,f,fud
-982,gahri,389,f,f,bfu
-983,foe,444,f,f,foi
-984,haitiancreole,331,f,f,hat
-985,jurchen,21,f,f,juc
-986,katu,72,f,f,"ktv, kuf"
-987,kei,75,f,f,kei
-988,makassar,525,f,f,mak
-989,mauritiancreole,331,f,f,mfe
-990,mbalanhu,274,f,f,lnb
-991,mentawai,521,f,f,mwv
-992,micmac,17,f,f,mic
-993,montagnais,17,f,f,moe
-994,mulao,404,f,f,mlm
-995,munsee,17,f,f,umu
-996,nelemwa,87,f,f,nee
-997,ntomba,274,f,f,nto
-998,nusu,380,f,f,nuf
-999,oirat,20,f,f,xal
-1000,otomiixtenco,336,f,f,otz
-1001,pamona,526,f,f,pmf
-1002,pangwa,274,f,f,pbr
-1003,pomonorthern,176,f,f,pej
-1004,quechuacuzco,356,f,f,quz
-1005,rikbaktsa,244,f,f,rkb
-1006,roti,75,f,f,twu
-1007,southeastambrym,87,f,f,tvk
-1008,sranan,331,f,f,srn
-1009,sungor,311,f,f,sjg
-1010,tojolabal,250,f,f,toj
-1011,uru,470,f,f,ure
-1012,watam,235,f,f,wax
-1013,wyandot,192,f,f,wya
-1014,yavapai,170,f,f,yuf
-1015,aghu,445,f,f,ahh
-1016,anyi,275,f,f,any
-1017,ayoreo,508,f,f,ayo
-1018,baluchi,183,f,f,bgp
-1019,basari,276,f,f,bsc
-1020,berberchaouia,4,f,f,shy
-1021,betoi,109,f,f,
-1022,bhumij,66,f,f,unr
-1023,bolia,274,f,f,bli
-1024,bori,382,f,f,adi
-1025,cashinahua,342,f,f,cbs
-1026,chuukese,87,f,f,chk
-1027,desano,452,f,f,des
-1028,dharawal,42,f,f,tbh
-1029,dharumbal,42,f,f,bjy
-1030,ebira,278,f,f,igb
-1031,godie,277,f,f,god
-1032,johari,389,f,f,
-1033,kambot,232,f,f,kbx
-1034,kanembu,309,f,f,kbl
-1035,kanumbadi,255,f,f,khd
-1036,katiinwestpapuaindonesia,441,f,f,yon
-1037,kazakh,19,f,f,kaz
-1038,konyagi,276,f,f,cou
-1039,madurese,519,f,f,mad
-1040,makonde,274,f,f,kde
-1041,maringarr,28,f,f,zmt
-1042,mombum,253,f,f,mso
-1043,moni,436,f,f,mnz
-1044,mundani,274,f,f,mnf
-1045,nakkara,36,f,f,nck
-1046,nambasbig,87,f,f,nmb
-1047,nauruan,87,f,f,nau
-1048,rendille,12,f,f,rel
-1049,saa,87,f,f,apb
-1050,sengele,274,f,f,szg
-1051,sila,318,f,f,dau
-1052,talinga,274,f,f,tlj
-1053,toratan,524,f,f,rth
-1054,tupi,457,f,f,
-1055,warrnambool,42,f,f,
-1056,yaoinmalawi,274,f,f,yao
-1057,yei,255,f,f,jei
-1058,yelmek,112,f,f,jel
-1059,zoqueostuacan,252,f,f,zoc
-1060,aguacatec,250,f,f,agu
-1061,alsea,328,f,f,aes
-1062,ayoman,196,f,f,
-1063,bugun,374,f,f,
-1064,chameastern,519,f,f,cjm
-1065,chichimecajonaz,340,f,f,pei
-1066,cholon,136,f,f,"cht, clh"
-1067,crimeantatar,19,f,f,crh
-1068,edolo,111,f,f,etr
-1069,esmeraldeno,402,f,f,
-1070,hemba,274,f,f,hem
-1071,holoholo,274,f,f,hoo
-1072,jabuti,194,f,f,jbt
-1073,jino,380,f,f,"jiu, jiy"
-1074,jugli,388,f,f,nst
-1075,kaluli,111,f,f,bco
-1076,karadjeri,42,f,f,gbd
-1077,karankawa,201,f,f,zkk
-1078,khinalug,267,f,f,kjj
-1079,kire,234,f,f,geb
-1080,kuiinindia,147,f,f,kxu
-1081,lamba,274,f,f,lam
-1082,madaincameroon,5,f,f,mxu
-1083,magi,450,f,f,mgu
-1084,mairasi,448,f,f,zrs
-1085,maklew,112,f,f,mgf
-1086,malto,150,f,f,kmj
-1087,mbole,274,f,f,mdq
-1088,mojave,170,f,f,mov
-1089,oksapmin,326,f,f,opm
-1090,ono,434,f,f,ons
-1091,ronga,274,f,f,rng
-1092,runyororutooro,274,f,f,nyo
-1093,sikuani,164,f,f,guh
-1094,spitian,389,f,f,bod
-1095,thompson,362,f,f,thp
-1096,wagiman,61,f,f,waq
-1097,yaqay,246,f,f,jaq
-1098,zaparo,509,f,f,zro
-1099,aja,301,f,f,aja
-1100,amara,87,f,f,aie
-1101,arapeshabu,427,f,f,
-1102,bankon,274,f,f,abb
-1103,bira,274,f,f,"bip, brf"
-1104,boazi,246,f,f,kvg
-1105,buliinindonesia,79,f,f,bzq
-1106,catawba,391,f,f,chc
-1107,chontalhighland,413,f,f,chd
-1108,chuave,438,f,f,cjv
-1109,chuj,250,f,f,"cac, cnm"
-1110,chumashineseno,141,f,f,inz
-1111,deuri,383,f,f,der
-1112,dhivehi,182,f,f,div
-1113,faroese,181,f,f,fao
-1114,gworok,283,f,f,kcg
-1115,hani,380,f,f,hni
-1116,hehe,274,f,f,heh
-1117,huitotomuinane,180,f,f,hux
-1118,kabatei,183,f,f,xkp
-1119,kamu,54,f,f,xmu
-1120,kodava,149,f,f,kfa
-1121,koluri,183,f,f,shm
-1122,konjo,525,f,f,kjc
-1123,kraho,238,f,f,xra
-1124,kuku,320,f,f,bfa
-1125,kwerba,224,f,f,kwe
-1126,lebeo,274,f,f,agh
-1127,lucazi,274,f,f,lch
-1128,madngele,54,f,f,zml
-1129,mandinka,292,f,f,mnk
-1130,marshallese,87,f,f,mah
-1131,mbere,274,f,f,mdt
-1132,minaveha,87,f,f,mvn
-1133,mongolkhamnigan,20,f,f,
-1134,moraori,527,f,f,mok
-1135,natugu,87,f,f,stc
-1136,nend,437,f,f,anh
-1137,one,426,f,f,aun
-1138,ordos,20,f,f,mvf
-1139,paiutesouthern,477,f,f,ute
-1140,pisa,445,f,f,psa
-1141,rao,233,f,f,rao
-1142,sahaptinumatilla,348,f,f,uma
-1143,shekhawati,182,f,f,swv
-1144,talyshsouthern,183,f,f,tly
-1145,tatana,518,f,f,txx
-1146,tatisouthern,183,f,f,tks
-1147,tinani,389,f,f,lbf
-1148,tsez,269,f,f,ddo
-1149,tuaregair,4,f,f,thv
-1150,worora,29,f,f,unp
-1151,yi,380,f,f,iii
-1152,yiryiront,42,f,f,yiy
-1153,ache,457,f,f,guq
-1154,aizi,277,f,f,ahp
-1155,ayiwo,87,f,f,nfl
-1156,bafia,274,f,f,ksf
-1157,bafut,274,f,f,bfd
-1158,balanta,276,f,f,"bjt, ble"
-1159,baoan,20,f,f,peh
-1160,bariba,290,f,f,bba
-1161,brokskat,182,f,f,bkk
-1162,bularnu,42,f,f,
-1163,chayahuita,116,f,f,cbt
-1164,coeurdalene,362,f,f,crd
-1165,cuiba,164,f,f,cui
-1166,dulong,385,f,f,duu
-1167,emmi,28,f,f,amy
-1168,gaanda,5,f,f,gqa
-1169,galela,494,f,f,gbi
-1170,guhusamane,442,f,f,ghs
-1171,idoma,289,f,f,idu
-1172,idu,376,f,f,clk
-1173,ixil,250,f,f,"ixi, ixl"
-1174,kabiye,290,f,f,kbp
-1175,kadiweu,165,f,f,kbc
-1176,kamoro,447,f,f,kgq
-1177,kayapo,238,f,f,txu
-1178,khowar,182,f,f,khw
-1179,kohumono,293,f,f,bcs
-1180,koyukon,262,f,f,koy
-1181,kurmanji,183,f,f,kmr
-1182,langi,274,f,f,lag
-1183,larike,75,f,f,alo
-1184,lega,274,f,f,lea
-1185,lhomi,389,f,f,lhm
-1186,lungchang,388,f,f,nst
-1187,ma,287,f,f,msj
-1188,machiguenga,536,f,f,mcb
-1189,maranao,513,f,f,mrw
-1190,mekeo,87,f,f,mek
-1191,mixtecmolinos,334,f,f,mig
-1192,munduruku,459,f,f,myu
-1193,ngadjumaja,42,f,f,nju
-1194,nguna,87,f,f,llp
-1195,nyamkad,389,f,f,tpq
-1196,orya,422,f,f,ury
-1197,patwin,349,f,f,wit
-1198,saban,518,f,f,snv
-1199,saramaccan,331,f,f,srm
-1200,sharanahua,342,f,f,mcd
-1201,slovak,185,f,f,slk
-1202,taiap,160,f,f,gpn
-1203,tekesouthern,274,f,f,kkw
-1204,tiv,274,f,f,tiv
-1205,tsakhur,267,f,f,tkr
-1206,westerndesertooldea,42,f,f,
-1207,wirangu,42,f,f,wiw
-1208,womo,393,f,f,
-1209,wuchangzhou,375,f,f,wuu
-1210,alladian,275,f,f,ald
-1211,arbore,12,f,f,arv
-1212,bachamal,43,f,f,wdj
-1213,bagvalal,269,f,f,kva
-1214,bakairi,119,f,f,bkq
-1215,bardi,46,f,f,bcj
-1216,beembe,274,f,f,beq
-1217,bisu,380,f,f,"bzi, lwm"
-1218,bobangi,274,f,f,bni
-1219,bobo madare northern,292,f,f,bbo
-1220,bruwestern,72,f,f,brv
-1221,caddo,115,f,f,cad
-1222,chiquitano,133,f,f,cax
-1223,coahuilteco,142,f,f,xcw
-1224,dadibi,411,f,f,mps
-1225,dajudarfur,318,f,f,daj
-1226,dangaleatwestern,2,f,f,daa
-1227,darai,182,f,f,dry
-1228,deti,210,f,f,shg
-1229,toroso,296,f,f,dts
-1230,ega,275,f,f,ega
-1231,fuzhou,375,f,f,cdo
-1232,gelao,405,f,f,gio
-1233,gola,291,f,f,gol
-1234,guato,241,f,f,gta
-1235,hadza,166,f,f,hts
-1236,hebrewmodernashkenazic,10,f,f,heb
-1237,irishdonegal,187,f,f,gle
-1238,isoko,295,f,f,iso
-1239,ivatansouthern,516,f,f,ivv
-1240,japreria,119,f,f,jru
-1241,jomang,281,f,f,tlo
-1242,kamzhanglu,404,f,f,doc
-1243,karkaryuri,203,f,f,yuj
-1244,katcha,198,f,f,xtc
-1245,kedang,75,f,f,ksx
-1246,kinga,274,f,f,zga
-1247,kisisouthern,291,f,f,kss
-1248,kpan,283,f,f,kpk
-1249,kwaza,223,f,f,
-1250,lakkia,405,f,f,lbc
-1251,lame,11,f,f,lme
-1252,laz,205,f,f,lzz
-1253,lua,279,f,f,nie
-1254,maya,79,f,f,slz
-1255,makua,274,f,f,"mgh, xsq"
-1256,mungaka,274,f,f,mhk
-1257,nalik,87,f,f,nal
-1258,nengone,87,f,f,nen
-1259,nyahkurthapong,65,f,f,cbn
-1260,nyangi,316,f,f,nyp
-1261,ogbia,293,f,f,ogb
-1262,parauk,69,f,f,prk
-1263,phlong,378,f,f,pww
-1264,poai,87,f,f,fwa
-1265,popolocasanjuanatzingo,339,f,f,poe
-1266,pungupungu,43,f,f,wdj
-1267,rawa,434,f,f,rwo
-1268,romanikalderash,182,f,f,rmy
-1269,romanschscharans,184,f,f,roh
-1270,rotokas,489,f,f,roo
-1271,saamicentralsouth,462,f,f,sma
-1272,savosavo,397,f,f,svs
-1273,seme,277,f,f,sif
-1274,shambala,274,f,f,ksb
-1275,simeulue,521,f,f,smr
-1276,soddo,10,f,f,gru
-1277,sui,404,f,f,swi
-1278,tampulma,290,f,f,tpm
-1279,tarok,283,f,f,yer
-1280,tzeltalaguacatenango,250,f,f,tzh
-1281,uma,526,f,f,ppk
-1282,umbundu,274,f,f,umb
-1283,venda,274,f,f,ven
-1284,waiwai,119,f,f,waw
-1285,wantoat,434,f,f,wnc
-1286,wapishana,530,f,f,wap
-1287,xiamen,375,f,f,nan
-1288,zazaki,183,f,f,diq
-1289,achang,380,f,f,acn
-1290,aikana,528,f,f,tba
-1291,akawaio,119,f,f,ake
-1292,aleuteastern,157,f,f,ale
-1293,anamuxra,437,f,f,imi
-1294,balinese,519,f,f,ban
-1295,basaa,274,f,f,bas
-1296,bemba,274,f,f,bmy
-1297,bongu,437,f,f,bpu
-1298,bugis,525,f,f,bug
-1299,capanahua,342,f,f,kaq
-1300,chulupi,249,f,f,cag
-1301,daw,261,f,f,kwa
-1302,day,279,f,f,dai
-1303,djinang,42,f,f,dji
-1304,fefe,274,f,f,fmp
-1305,fongbe,275,f,f,fon
-1306,hangahundi,368,f,f,wos
-1307,itzaj,250,f,f,itz
-1308,jeli,292,f,f,
-1309,kagulu,274,f,f,kki
-1310,kefa,9,f,f,kbr
-1311,kiluba,274,f,f,lub
-1312,kotoko,5,f,f,aal
-1313,lu,404,f,f,khb
-1314,magar,512,f,f,mgp
-1315,matuumbi,274,f,f,mgw
-1316,mussau,87,f,f,emi
-1317,nahali,265,f,f,nll
-1318,neoaramaicpersianazerbaijan,10,f,f,trg
-1319,ngangityemerri,50,f,f,nam
-1320,ngawun,42,f,f,nxn
-1321,ngbakaminagende,537,f,f,nga
-1322,nsenga,274,f,f,nse
-1323,nyigina,46,f,f,nyh
-1324,omaha,391,f,f,oma
-1325,ormuri,183,f,f,oru
-1326,pame,338,f,f,pbs
-1327,romanschsursilvan,184,f,f,roh
-1328,ron,6,f,f,cla
-1329,senadi,290,f,f,sef
-1330,shabo,310,f,f,sbf
-1331,soninke,292,f,f,snk
-1332,tikar,274,f,f,tik
-1333,waris,110,f,f,wrs
-1334,wathawurrung,42,f,f,
-1335,waunana,135,f,f,noa
-1336,xam,211,f,f,xam
-1337,xavante,238,f,f,xav
-1338,xokleng,238,f,f,xok
-1339,yaminahua,342,f,f,yaa
-1340,adynyamathanha,42,f,f,adt
-1341,anindilyakwa,41,f,f,aoi
-1342,babole,274,f,f,bvx
-1343,bakueri,274,f,f,bri
-1344,bandjalangyugumbir,42,f,f,bdy
-1345,barambu,287,f,f,brm
-1346,barasanonorthern,452,f,f,bao
-1347,baruya,449,f,f,byr
-1348,bisa,273,f,f,bib
-1349,cacua,114,f,f,cbv
-1350,carapana,452,f,f,cbc
-1351,damana,130,f,f,mbp
-1352,gaagudju,49,f,f,gbu
-1353,igede,289,f,f,ige
-1354,iwam,367,f,f,iwm
-1355,jeh,63,f,f,jeh
-1356,kekchi,250,f,f,kek
-1357,kachari,383,f,f,xac
-1358,kakiae,155,f,f,tbd
-1359,kete,274,f,f,kcv
-1360,kullo,13,f,f,gmo
-1361,kyuquot,481,f,f,noo
-1362,mandinkagambian,292,f,f,mnk
-1363,maxakali,239,f,f,mbl
-1364,mbodomo,537,f,f,gmm
-1365,mixetotontepec,252,f,f,mto
-1366,musom,87,f,f,msu
-1367,nyawaygi,42,f,f,nyt
-1368,rashad,282,f,f,ras
-1369,sobei,87,f,f,sob
-1370,sorbian,185,f,f,"dsb, hsb"
-1371,thangmi,512,f,f,thf
-1372,tirmaga,322,f,f,suq
-1373,toaripi,156,f,f,tqo
-1374,tokelauan,87,f,f,tkl
-1375,tongainzambia,274,f,f,toi
-1376,torwali,182,f,f,trw
-1377,wedau,87,f,f,wed
-1378,yawuru,46,f,f,ywr
-1379,yeyi,274,f,f,yey
-1380,afrikaans,181,f,f,afr
-1381,aghem,274,f,f,agq
-1382,ahtna,262,f,f,aht
-1383,baule,275,f,f,bci
-1384,bini,295,f,f,bin
-1385,bunuba,30,f,t,bck
-1386,camling,512,f,f,rab
-1387,chaldeanmodern,10,f,f,cld
-1388,degema,295,f,f,deg
-1389,dongo,287,f,f,doo
-1390,dumaki,182,f,f,dmk
-1391,eyak,264,f,f,eya
-1392,gunin,29,f,f,gww
-1393,gurrgoni,31,f,f,gge
-1394,heiltsuk,482,f,f,hei
-1395,isaka,395,f,f,ksi
-1396,jiarong,390,f,f,jya
-1397,kalalagawya,42,f,f,mwp
-1398,kamba,274,f,f,kam
-1399,khakas,19,f,f,kjh
-1400,konkow,345,f,f,mjd
-1401,kota,149,f,f,kfe
-1402,kuukuyau,42,f,f,kuy
-1403,londo,274,f,f,bdu
-1404,lushootseed,360,f,f,lut
-1405,maale,13,f,f,mdy
-1406,masakin,281,f,f,jle
-1407,massachusett,17,f,f,wam
-1408,mazatechuautla,339,f,f,mau
-1409,mikasuki,260,f,f,mik
-1410,mofugudur,5,f,f,mif
-1411,mongo,274,f,f,lol
-1412,mundang,279,f,f,mua
-1413,nankina,434,f,f,nnk
-1414,ngalkbun,44,f,f,ngk
-1415,nobiin,307,f,f,fia
-1416,pacoh,72,f,f,pac
-1417,prasuni,182,f,f,prn
-1418,punu,169,f,f,buh
-1419,quechuacochabamba,356,f,f,quh
-1420,roro,87,f,f,rro
-1421,sambaleko,279,f,f,ndi
-1422,savi,182,f,f,sdg
-1423,soqotri,10,f,f,sqt
-1424,sothonorthern,274,f,f,nso
-1425,tabwa,274,f,f,tap
-1426,taiof,87,f,f,sps
-1427,thulung,512,f,f,tdh
-1428,tokpisin,331,f,f,tpi
-1429,toussian,290,f,f,"tsp, wib"
-1430,tuaregghat,4,f,f,thv
-1431,tungak,87,f,f,lcm
-1432,vafsi,183,f,f,vaf
-1433,wangkumara,42,f,f,nbx
-1434,yahgan,497,f,f,yag
-1435,zoquesoteapan,252,f,f,poi
-1436,adygheabzakh,325,f,f,ady
-1437,alaala,87,f,f,nrz
-1438,angaatiha,449,f,f,agm
-1439,arrerntewestern,42,f,f,are
-1440,baining,104,f,f,byx
-1441,bakainsudan,305,f,f,bdh
-1442,bidiya,2,f,f,bid
-1443,binandere,442,f,f,bhg
-1444,chickasaw,260,f,f,cic
-1445,cofan,143,f,f,con
-1446,comox,360,f,f,coo
-1447,dahalo,1,f,f,dal
-1448,dhargari,42,f,f,dhr
-1449,dimasa,383,f,f,dis
-1450,djabugay,42,f,f,dyy
-1451,duala,274,f,f,dua
-1452,ejagham,274,f,f,etu
-1453,galo,382,f,f,adi
-1454,guahibo,164,f,f,guh
-1455,gurenggureng,42,f,f,gnr
-1456,kalami,182,f,f,gwc
-1457,karenpwo,378,f,f,"kjp, pwo"
-1458,kate,434,f,f,kmg
-1459,konkani,182,f,f,knn
-1460,kuman,438,f,f,kue
-1461,kumauni,182,f,f,kfy
-1462,kurukh,150,f,f,kru
-1463,lacandon,250,f,f,lac
-1464,lewo,87,f,f,lww
-1465,lou,87,f,f,loj
-1466,manadonese,519,f,f,xmm
-1467,marrithiyel,28,f,f,mfr
-1468,matses,342,f,f,mcf
-1469,muisca,124,f,f,chb
-1470,mursi,322,f,f,muz
-1471,nagazeme,386,f,f,nzm
-1472,natchez,271,f,f,ncz
-1473,ndumu,274,f,f,nmd
-1474,nehan,87,f,f,nsn
-1475,noghay,19,f,f,nog
-1476,nubiankunuz,307,f,f,kzh
-1477,podoko,5,f,f,pbi
-1478,sangu,274,f,f,snq
-1479,seminole,260,f,f,mus
-1480,shan,404,f,f,shn
-1481,shatt,318,f,f,shj
-1482,sherpa,389,f,f,xsr
-1483,siar,87,f,f,sjr
-1484,sudest,87,f,f,tgo
-1485,tairora,430,f,f,tbg
-1486,tarao,386,f,f,tro
-1487,tausug,513,f,f,tsg
-1488,tigrinya,10,f,f,tir
-1489,tiruray,517,f,f,tiy
-1490,tobati,87,f,f,tti
-1491,tugun,75,f,f,tzn
-1492,uzbeknorthern,19,f,f,uzn
-1493,votic,465,f,f,vot
-1494,adzera,87,f,f,adz
-1495,amuzgo,337,f,f,amu
-1496,avokaya,304,f,f,avu
-1497,azariiranian,19,f,f,azb
-1498,busa,273,f,f,bqp
-1499,cashibo,342,f,f,cbr
-1500,cavinena,403,f,f,cav
-1501,ciluba,274,f,f,lua
-1502,dhaasanac,12,f,f,dsh
-1503,djambarrpuyngu,42,f,f,djr
-1504,gaviao,455,f,f,gvo
-1505,guambiano,106,f,f,gum
-1506,gunbalang,44,f,f,wlg
-1507,iwaidja,38,f,f,ibd
-1508,jarawainnigeria,274,f,f,jar
-1509,kadazan,518,f,f,kzj
-1510,kele,87,f,f,sbc
-1511,keresansantaana,209,f,f,kee
-1512,kirma,290,f,f,cme
-1513,limilngan,45,f,f,lmc
-1514,maanyan,73,f,f,mhy
-1515,mamvu,303,f,f,mdi
-1516,mazahua,336,f,f,"maz, mmc"
-1517,mekens,454,f,f,skf
-1518,meryammir,490,f,f,ulk
-1519,mpur,492,f,f,akc
-1520,naxi,384,f,f,nbf
-1521,omie,439,f,f,aom
-1522,onge,399,f,f,oon
-1523,orig,282,f,f,ras
-1524,panare,119,f,f,pbh
-1525,pumi,387,f,f,"pmi, pmj"
-1526,santa,20,f,f,sce
-1527,sapuan,63,f,f,spu
-1528,siane,430,f,f,snp
-1529,sindhi,182,f,f,snd
-1530,sougb,151,f,f,mnx
-1531,susu,292,f,f,sus
-1532,swati,274,f,f,ssw
-1533,kuukthaayorre,42,f,f,thd
-1534,timucua,419,f,f,tjm
-1535,totonacpapantla,429,f,f,top
-1536,warembori,79,f,f,wsa
-1537,balivitu,87,f,f,"bbn, wiv"
-1538,bauzi,153,f,f,bvz
-1539,bete,277,f,f,bev
-1540,chontalhuamelultecoaxaca,413,f,f,clo
-1541,crow,391,f,f,cro
-1542,darma,389,f,f,drd
-1543,dime,9,f,f,dim
-1544,enets,463,f,f,"enf, enh"
-1545,gamo,13,f,f,gmo
-1546,gapapaiwa,87,f,f,pwg
-1547,gbayakara,537,f,f,gya
-1548,gela,87,f,f,nlg
-1549,gitksan,352,f,f,git
-1550,hiligaynon,513,f,f,hil
-1551,iau,228,f,f,tmu
-1552,kenga,305,f,f,kyq
-1553,koreguaje,452,f,f,coe
-1554,lamaholot,75,f,f,slp
-1555,matis,342,f,f,mpq
-1556,mbili,274,f,f,baw
-1557,mixecoatlan,252,f,f,mco
-1558,movima,258,f,f,mzp
-1559,nadeb,261,f,f,mbj
-1560,nagatman,496,f,f,nce
-1561,nimboran,323,f,f,nir
-1562,nisenan,345,f,f,nsz
-1563,nzakara,287,f,f,nzk
-1564,oriya,182,f,f,ori
-1565,osage,391,f,f,osa
-1566,palaung,69,f,f,"pce, rbb"
-1567,pare,274,f,f,asa
-1568,patep,87,f,f,ptp
-1569,roviana,87,f,f,rug
-1570,santali,66,f,f,sat
-1571,tehuelche,137,f,f,teh
-1572,tenyer,290,f,f,kza
-1573,tshangla,389,f,f,tsj
-1574,tutelo,391,f,f,tta
-1575,tuyuca,452,f,f,tue
-1576,udi,267,f,f,udi
-1577,usarufa,430,f,f,usa
-1578,yalekosarek,446,f,f,kkl
-1579,yana,175,f,f,ynn
-1580,yawa,501,f,f,yva
-1581,amanab,110,f,f,amn
-1582,ambaelolovolinortheast,87,f,f,omb
-1583,apachewestern,262,f,f,apw
-1584,arabicmodernstandard,10,f,f,arb
-1585,awa,430,f,f,awb
-1586,balti,389,f,f,bft
-1587,banoni,87,f,f,bcm
-1588,bushoong,274,f,f,buf
-1589,candoshi,118,f,f,cbu
-1590,chinookupper,346,f,f,wac
-1591,creeswampy,17,f,f,"crj, csw"
-1592,domari,182,f,f,rmt
-1593,gahuku,430,f,f,gah
-1594,gugada,42,f,f,ktd
-1595,gununakune,138,f,f,pue
-1596,haya,274,f,f,hay
-1597,hidatsa,391,f,f,hid
-1598,ho,66,f,f,hoc
-1599,iduna,87,f,f,viv
-1600,ila,274,f,f,ilb
-1601,kalam,437,f,f,kmh
-1602,kharia,66,f,f,khr
-1603,kinnauri,389,f,f,kfk
-1604,koita,439,f,f,kqi
-1605,komipermyak,468,f,f,koi
-1606,konni,290,f,f,kma
-1607,lagwan,5,f,f,kot
-1608,mambila,274,f,f,"mcu, mzk"
-1609,mangapmbula,87,f,f,mna
-1610,masa,11,f,f,mcn
-1611,mbabaram,42,f,f,
-1612,meyah,151,f,f,mej
-1613,mondunga,287,f,f,ndt
-1614,mwera,274,f,f,mwe
-1615,nocte,388,f,f,njb
-1616,orok,21,f,f,oaa
-1617,pawnee,115,f,f,paw
-1618,piaroa,358,f,f,pid
-1619,qiang,387,f,f,"cng, qxs"
-1620,sahaptinnorthern,348,f,f,"waa, yak"
-1621,sawu,75,f,f,hvn
-1622,shoshone,477,f,f,shh
-1623,takia,87,f,f,tbc
-1624,tanacross,262,f,f,tcb
-1625,thakali,389,f,f,ths
-1626,toba,165,f,f,tob
-1627,turkmen,19,f,f,tuk
-1628,warrwa,46,f,f,wwr
-1629,zapotecyatzachi,332,f,f,zav
-1630,zarma,308,f,f,dje
-1631,arabela,509,f,f,arl
-1632,aroplokep,87,f,f,apr
-1633,awngi,7,f,f,awn
-1634,bagiro,305,f,f,fuu
-1635,baure,535,f,f,brg
-1636,caribdekwana,119,f,f,mch
-1637,chehalisupper,364,f,f,cjh
-1638,gidabal,42,f,f,bdy
-1639,goemai,6,f,f,ank
-1640,hmar,386,f,f,hmr
-1641,ilocano,514,f,f,ilo
-1642,kamass,463,f,f,xas
-1643,karaincentralafricanrepublic,305,f,f,kah
-1644,kiliwa,170,f,f,klb
-1645,klao,277,f,f,klu
-1646,koialimountain,439,f,f,kpx
-1647,kuna,127,f,f,kvn
-1648,kxoe,210,f,f,xuu
-1649,laal,227,f,f,gdm
-1650,lotha,386,f,f,njh
-1651,madimadi,42,f,f,
-1652,maipure,530,f,f,
-1653,mangbetu,315,f,f,mdj
-1654,mbara,5,f,f,mpk
-1655,mixtecjicaltepec,334,f,f,mio
-1656,mixtecyosondua,334,f,f,mpm
-1657,mlabriminor,69,f,f,mra
-1658,ngandi,32,f,f,nid
-1659,ocaina,180,f,f,oca
-1660,orokaiva,442,f,f,okv
-1661,oromowaata,12,f,f,ssn
-1662,salibaincolombia,357,f,f,slc
-1663,shina,182,f,f,scl
-1664,tabla,366,f,f,tnm
-1665,ura,87,f,f,uur
-1666,wakhi,183,f,f,wbl
-1667,yokutsyaudanchi,344,f,f,yok
-1668,aari,9,f,f,aiw
-1669,agarabi,430,f,f,agd
-1670,anguthimri,42,f,f,lnj
-1671,badimaya,42,f,f,bia
-1672,bikol,513,f,f,bcl
-1673,bimoba,290,f,f,bim
-1674,bongo,305,f,f,bot
-1675,buma,87,f,f,tkw
-1676,buru,75,f,f,mhs
-1677,chai,322,f,f,suq
-1678,dargwa,266,f,f,dar
-1679,eudeve,475,f,f,opt
-1680,frisian,181,f,f,frs
-1681,golin,438,f,f,gvf
-1682,gulaincentralafricanrepublic,305,f,f,glu
-1683,iranxe,529,f,f,irn
-1684,jaminjung,39,f,f,djd
-1685,kadugli,198,f,f,xtc
-1686,kaulong,87,f,f,pss
-1687,kimaghama,217,f,f,kig
-1688,koegu,322,f,f,xwg
-1689,kokota,87,f,f,kkk
-1690,kyaka,433,f,f,kyc
-1691,laragia,59,f,f,lrg
-1692,lisu,380,f,f,lis
-1693,maleu,87,f,f,mgl
-1694,mamanwa,513,f,f,mmn
-1695,maru,380,f,f,mhx
-1696,monoinunitedstates,477,f,f,mnr
-1697,mwotlap,87,f,f,mlv
-1698,ngoni,274,f,f,ngo
-1699,nhanda,42,f,f,
-1700,pattani,389,f,f,lae
-1701,pokorawo,393,f,f,rwa
-1702,purki,389,f,f,prx
-1703,ritharngu,42,f,f,rit
-1704,romaniwelsh,182,f,f,rmw
-1705,rumu,460,f,f,klq
-1706,runga,313,f,f,rou
-1707,sardinian,184,f,f,sro
-1708,seediq,89,f,f,trv
-1709,sora,66,f,f,srb
-1710,tobelo,494,f,f,tlb
-1711,yucuna,530,f,f,ycn
-1712,akha,380,f,f,ahk
-1713,anggor,365,f,f,agg
-1714,arabiciraqi,10,f,f,acm
-1715,assamese,182,f,f,asm
-1716,cakchiquel,250,f,f,ckf
-1717,chatinoyaitepec,332,f,f,ctp
-1718,gondi,147,f,f,"ggo, gno"
-1719,hualapai,170,f,f,yuf
-1720,hunde,274,f,f,hke
-1721,hup,261,f,f,jup
-1722,javae,243,f,f,kpj
-1723,katla,284,f,f,kcr
-1724,kwangali,274,f,f,kwn
-1725,lendu,299,f,f,led
-1726,leti,75,f,f,lti
-1727,mae,87,f,f,mme
-1728,motuna,152,f,f,siw
-1729,muruwari,42,f,f,zmu
-1730,nagamao,386,f,f,nbi
-1731,nahuatlmichoacan,476,f,f,ncl
-1732,narphu,389,f,f,npa
-1733,paa,6,f,f,pqa
-1734,pokot,320,f,f,pko
-1735,runyankore,274,f,f,nyn
-1736,sakao,87,f,f,sku
-1737,shasta,174,f,f,sht
-1738,sisiqa,87,f,f,baa
-1739,sonsoroltobi,87,f,f,sov
-1740,stieng,63,f,f,"sti, stt"
-1741,tibetanmodernliterary,389,f,f,bod
-1742,tsou,96,f,f,tsu
-1743,warndarang,60,f,f,wnd
-1744,yucatec,250,f,f,yua
-1745,zayse,13,f,f,zay
-1746,apatani,382,f,f,apt
-1747,belorussian,185,f,f,bel
-1748,bilua,398,f,f,blb
-1749,biri,42,f,f,bzr
-1750,chang,388,f,f,nbc
-1751,chinmara,386,f,f,mrh
-1752,chinsiyin,386,f,f,csy
-1753,dlaproper,365,f,f,kbv
-1754,greatandamanese,163,f,f,apq
-1755,guarijio,479,f,f,var
-1756,jukun,283,f,f,jbu
-1757,kabyle,4,f,f,kab
-1758,kalispel,362,f,f,fla
-1759,karoarara,456,f,f,arr
-1760,kemant,7,f,f,ahg
-1761,kinyarwanda,274,f,f,kin
-1762,majang,322,f,f,mpe
-1763,malgwa,5,f,f,mfi
-1764,mano,273,f,f,mev
-1765,manobowesternbukidnon,513,f,f,mbb
-1766,meen,322,f,f,mym
-1767,monoalu,87,f,f,mte
-1768,nahuatlhuasteca,476,f,f,"nhe, nhw"
-1769,nevome,478,f,f,ood
-1770,newardolakha,512,f,f,new
-1771,ngaanyatjarra,42,f,f,ntj
-1772,nkonya,275,f,f,nko
-1773,nyamwezi,274,f,f,nym
-1774,ocuilteco,336,f,f,ocu
-1775,pangasinan,514,f,f,pag
-1776,sandawe,214,f,f,sad
-1777,sare,370,f,f,dju
-1778,sikkimese,389,f,f,sip
-1779,telefol,441,f,f,tlf
-1780,tuaregahaggar,4,f,f,thv
-1781,uldeme,5,f,f,udl
-1782,uyghur,19,f,f,uig
-1783,walman,428,f,f,van
-1784,yingkarta,42,f,f,yia
-1785,zoquechimalapa,252,f,f,zoh
-1786,achagua,530,f,f,aca
-1787,alabama,260,f,f,akz
-1788,aleut,157,f,f,ale
-1789,ambai,79,f,f,amk
-1790,bhojpuri,182,f,f,bho
-1791,bontok,514,f,f,bnc
-1792,camsa,117,f,f,kbh
-1793,chinooklower,346,f,f,chh
-1794,duka,286,f,f,dud
-1795,enggano,520,f,f,eno
-1796,gokana,293,f,f,gkn
-1797,guajajara,457,f,f,gub
-1798,halia,87,f,f,hla
-1799,hamer,9,f,f,amf
-1800,huichol,471,f,f,hch
-1801,ifugaobatad,514,f,f,ifb
-1802,karenbwe,378,f,f,bwe
-1803,kokborok,383,f,f,trp
-1804,kresh,301,f,f,krs
-1805,kuvi,147,f,f,kxv
-1806,longgu,87,f,f,lgu
-1807,mising,382,f,f,mrg
-1808,mutsun,347,f,f,css
-1809,namia,372,f,f,nnm
-1810,ndebeleinsouthafrica,274,f,f,nbl
-1811,ngada,75,f,f,nxg
-1812,olo,428,f,f,ong
-1813,pilaga,165,f,f,plg
-1814,qafar,12,f,f,aar
-1815,sebei,320,f,f,kpz
-1816,teop,87,f,f,tio
-1817,timugon,518,f,f,tih
-1818,xhosa,274,f,f,xho
-1819,yay,404,f,f,pcc
-1820,zapotecmitla,332,f,f,zaw
-1821,adioukrou,275,f,f,adj
-1822,agtacentral,513,f,f,agt
-1823,angami,386,f,f,"njm, nri"
-1825,bakaincameroon,287,f,f,bkc
-1826,berberrif,4,f,f,rif
-1827,brao,63,f,f,brb
-1828,chantyal,389,f,f,chx
-1829,chepang,512,f,f,cdm
-1830,fore,430,f,f,for
-1831,gurung,389,f,f,"ggn, gvr"
-1832,hakka,375,f,f,hak
-1833,izi,272,f,f,izi
-1834,khaling,512,f,f,klr
-1835,korowai,445,f,f,khe
-1836,lamang,5,f,f,hia
-1837,lillooet,362,f,f,lil
-1838,macedonian,185,f,f,mkd
-1839,margany,42,f,f,zmc
-1840,mikir,386,f,f,mjw
-1841,mixtecocotepec,334,f,f,mie
-1842,muinane,179,f,f,bmr
-1843,nabak,434,f,f,naf
-1844,nanai,21,f,f,gld
-1845,pimabajo,478,f,f,pia
-1846,tama,311,f,f,tma
-1847,tarahumaracentral,479,f,f,tar
-1848,temein,297,f,f,teq
-1849,tepehuatlachichilco,429,f,f,tpt
-1850,tiriyo,119,f,f,tri
-1851,tsafiki,106,f,f,cof
-1852,tunen,274,f,f,baz
-1853,tzotzil,250,f,f,tzc
-1854,watjarri,42,f,f,wbv
-1855,wayampi,457,f,f,oym
-1856,wolaytta,13,f,f,wal
-1857,yanyuwa,42,f,f,jao
-1858,alune,75,f,f,alp
-1859,anem,23,f,f,anz
-1860,arabana,42,f,f,ard
-1861,bandjalang,42,f,f,bdy
-1862,cemuhi,87,f,f,cam
-1863,chaha,10,f,f,sgw
-1864,dagaare,290,f,f,dga
-1865,efik,293,f,f,efi
-1866,ga,275,f,f,gaa
-1867,gumuz,321,f,f,guk
-1868,ignaciano,535,f,f,ign
-1869,kapampangan,515,f,f,pam
-1870,karakalpak,19,f,f,kaa
-1871,kipea,202,f,f,kzw
-1872,lalo,380,f,f,ywt
-1873,lamani,182,f,f,lmn
-1874,lunda,274,f,f,lun
-1875,moghol,20,f,f,mhj
-1876,mor,79,f,f,mhz
-1877,nagatangkhul,386,f,f,nmf
-1878,ndjebbana,35,f,f,djj
-1879,nyulnyul,46,f,f,nyv
-1880,ogbronuagum,293,f,f,ogu
-1881,tboli,517,f,f,tbl
-1882,tennet,322,f,f,tex
-1883,teso,320,f,f,teo
-1884,woisika,417,f,f,woi
-1885,wolio,526,f,f,wlo
-1886,acholi,320,f,f,ach
-1887,andoke,22,f,f,ano
-1888,athpare,512,f,f,aph
-1889,chimariko,172,f,f,cid
-1890,chinantecpalantla,335,f,f,cpa
-1891,dumi,512,f,f,dus
-1892,fulacameroonian,276,f,f,fub
-1893,fulnio,237,f,f,fun
-1894,iquito,509,f,f,iqu
-1895,itonama,193,f,f,ito
-1896,javanese,90,f,f,jav
-1897,khalaj,19,f,f,klj
-1898,kikuyu,274,f,f,kik
-1899,koiari,439,f,f,kbk
-1900,maisin,87,f,f,mbq
-1901,mandan,391,f,f,mhq
-1902,maninkawestern,292,f,f,mlq
-1903,mazatecchiquihuitlan,339,f,f,maq
-1904,mba,287,f,f,mfc
-1905,mon,65,f,f,mnw
-1906,moru,304,f,f,mgd
-1907,musgu,5,f,f,mug
-1908,nancowry,68,f,f,ncb
-1909,nuer,320,f,f,nus
-1910,paakantyi,42,f,f,drl
-1911,panyjima,42,f,f,pnw
-1912,puluwat,87,f,f,puw
-1913,shilluk,320,f,f,shk
-1914,sinaugoro,87,f,f,snc
-1915,tepehuansoutheastern,478,f,f,stp
-1916,tuscarora,192,f,f,tus
-1917,uraklawoi,519,f,f,urk
-1918,yawelmani,344,f,f,yok
-1919,ambulas,368,f,f,abt
-1920,amo,286,f,f,amo
-1921,amuesha,531,f,f,ame
-1922,bilin,7,f,f,byn
-1923,burarra,31,f,f,bvr
-1924,chamwestern,519,f,f,cja
-1925,chontalmaya,250,f,f,chf
-1926,cocama,457,f,f,cod
-1927,didinga,322,f,f,did
-1928,digaro,376,f,f,mhu
-1929,fasu,440,f,f,faa
-1930,gimira,13,f,f,bcq
-1931,gujarati,182,f,f,guj
-1932,jurmodo,305,f,f,bex
-1933,kairiru,87,f,f,kxa
-1934,kugunganhcara,42,f,f,uwa
-1935,manggarai,75,f,f,mqy
-1936,mara,60,f,f,mec
-1937,mauka,292,f,f,mxx
-1938,motu,87,f,f,meu
-1939,ngankikurungkurr,50,f,f,nam
-1940,nyimang,302,f,f,nyi
-1941,paulohi,75,f,f,plh
-1942,pomoeastern,176,f,f,peb
-1943,sarcee,262,f,f,srs
-1944,siona,452,f,f,snn
-1945,tulu,149,f,f,tcy
-1946,anywa,320,f,f,anu
-1947,arosi,87,f,f,aia
-1948,bajausama,76,f,f,bdl
-1949,biloxi,391,f,f,bll
-1950,chichewa,274,f,f,nya
-1951,chumashbarbareno,141,f,f,boi
-1952,dong,404,f,f,"doc, kmc"
-1953,embera northern,135,f,f,emp
-1954,gadsup,430,f,f,gaj
-1955,godoberi,269,f,f,gdo
-1956,ingessana,298,f,f,tbi
-1957,korana,210,f,f,kqz
-1958,kpelle,292,f,f,xpe
-1959,mbum,279,f,f,mdd
-1960,mehri,10,f,f,gdq
-1961,ngambay,305,f,f,sba
-1962,sema,386,f,f,nsm
-1963,sesotho,274,f,f,sot
-1964,sio,87,f,f,xsi
-1965,tarahumarawestern,479,f,f,tac
-1966,ticuna,414,f,f,tca
-1967,tuvaluan,87,f,f,tvl
-1968,ubykh,325,f,f,uby
-1969,urdu,182,f,f,urd
-1970,warayinaustralia,57,f,f,wrz
-1971,warrgamay,42,f,f,wgy
-1972,wikmunkan,42,f,f,wim
-1973,yindjibarndi,42,f,f,yij
-1974,au,428,f,f,avt
-1975,berberfiguig,4,f,f,
-1976,karimojong,320,f,f,kdj
-1977,moore,290,f,f,mos
-1978,mordvinerzya,467,f,f,myv
-1979,nupe,278,f,f,nup
-1980,pawaian,412,f,f,pwa
-1981,pech,126,f,f,pay
-1982,salibainpapuanewguinea,87,f,f,sbe
-1983,slovene,185,f,f,slv
-1984,tajik,183,f,f,tgk
-1985,temiar,62,f,f,tea
-1986,tiwanorthern,215,f,f,twf
-1987,tondano,523,f,f,tdn
-1988,totonacmisantla,429,f,f,tlc
-1989,wembawemba,42,f,f,
-1990,wikchamni,344,f,f,yok
-1991,buduma,5,f,f,bdm
-1992,cornish,187,f,f,cor
-1993,engenni,295,f,f,enn
-1994,eseejja,403,f,f,ese
-1995,garifuna,530,f,f,cab
-1996,huitotominica,180,f,t,hto
-1997,komo,300,f,f,xom
-1998,korku,66,f,f,kfq
-1999,kunimaipa,435,f,f,kup
-2000,lampung,88,f,f,ljp
-2001,lelemi,275,f,f,lef
-2002,lingala,274,f,f,lin
-2003,ndonga,274,f,f,ndo
-2004,neoaramaicarbeljewish,10,f,f,aij
-2005,nisgha,352,f,f,ncg
-2006,nishi,382,f,f,dap
-2007,pari,320,f,f,lkr
-2008,rawang,385,f,f,raw
-2009,rutul,267,f,f,rut
-2010,tariana,530,f,f,tae
-2011,yareba,499,f,f,yrb
-2012,yessanmayo,371,f,f,yss
-2013,yupiksiberian,158,f,f,ess
-2014,yuwaalaraay,42,f,f,kld
-2015,zapotecisthmus,332,f,f,zai
-2016,armenianwestern,189,f,f,hye
-2017,barai,439,f,f,"bbb, nvm"
-2018,cebuano,513,f,f,ceb
-2019,chintiddim,386,f,f,ctd
-2020,cora,471,f,f,crn
-2021,djaru,42,f,f,ddj
-2022,hayu,512,f,f,vay
-2023,jabem,87,f,f,jae
-2024,kamaiura,457,f,f,kay
-2025,kuot,220,f,f,kto
-2026,luganda,274,f,f,lug
-2027,nakanai,87,f,f,nak
-2028,palikur,533,f,f,plu
-2029,siroi,437,f,f,ssd
-2030,sulka,400,f,f,sua
-2031,totonacxicotepecdejuarez,429,f,f,too
-2032,triquecopala,334,f,f,trc
-2033,xoo,211,f,f,nmn
-2034,yulu,305,f,f,yul
-2035,anejom,87,f,f,aty
-2036,arabicsyrian,10,f,f,apc
-2037,belhare,512,f,f,byw
-2038,burunge,1,f,f,bds
-2039,chinanteccomaltepec,335,f,f,cco
-2040,chitimacha,134,f,f,ctm
-2041,gumawana,87,f,f,gvs
-2042,kaingang,238,f,f,kgp
-2043,kalmyk,20,f,f,xal
-2044,karachaybalkar,19,f,f,krc
-2045,madi,304,f,f,mhi
-2046,manam,87,f,f,mva
-2047,ndut,276,f,f,ndv
-2048,nganasan,463,f,f,nio
-2049,obolo,293,f,f,ann
-2050,udmurt,468,f,f,udm
-2051,wambon,445,f,f,wms
-2052,woleaian,87,f,f,woe
-2053,yukaghirtundra,505,f,f,ykg
-2054,amahuaca,342,f,f,amc
-2055,bai,381,f,f,bca
-2056,byansi,389,f,f,bee
-2057,cayapa,106,f,f,cbi
-2058,chipewyan,262,f,f,chp
-2059,djingili,58,f,f,jig
-2060,kham,512,f,f,kgj
-2061,kolami,148,f,f,"kfb, nit"
-2062,koryak,139,f,f,kpy
-2063,minangkabau,519,f,f,min
-2064,mixtecpenoles,334,f,f,mil
-2065,mohawk,192,f,f,moh
-2066,moseten,257,f,f,cas
-2067,nuaulu,75,f,f,"nni, nxl"
-2068,ute,477,f,f,ute
-2069,achumawi,173,f,f,acv
-2070,angas,6,f,f,anc
-2071,apinaye,238,f,f,apn
-2072,bodo,383,f,f,brx
-2073,chinantecquiotepec,335,f,f,chq
-2074,dan,273,f,f,daf
-2075,dizi,13,f,f,mdx
-2076,gude,5,f,f,gde
-2077,irarutu,79,f,f,irh
-2078,koya,147,f,f,kff
-2079,menomini,17,f,f,mez
-2080,mien,169,f,f,ium
-2081,nias,521,f,f,nia
-2082,pittapitta,42,f,f,pit
-2083,remo,66,f,f,bfw
-2084,rotuman,87,f,f,rtm
-2085,selepet,434,f,f,spl
-2086,shiriana,498,f,f,shb
-2087,tol,420,f,f,jic
-2088,tubu,309,f,f,"dzg, tuq"
-2089,tucano,452,f,f,tuo
-2090,ani,210,f,f,hnh
-2091,blackfoot,17,f,f,bla
-2092,cocopa,170,f,f,coc
-2093,futunaaniwa,87,f,f,fut
-2094,huitotomurui,180,f,f,huu
-2095,jivaro,197,f,f,jiv
-2096,kambera,75,f,f,xbr
-2097,komizyrian,468,f,f,kpv
-2098,lao,404,f,f,lao
-2099,linda,287,f,f,liy
-2100,maithili,182,f,f,mai
-2101,masalit,313,f,f,mls
-2102,nahuatlnorthpuebla,476,f,f,ncj
-2103,saltyui,438,f,f,sll
-2104,seri,171,f,f,sei
-2105,shona,274,f,f,sna
-2106,sre,63,f,f,kpm
-2107,tongan,87,f,f,ton
-2108,vai,292,f,f,vai
-2109,warlpiri,42,f,f,wbp
-2110,gumbaynggir,42,f,f,kgs
-2111,gwari,278,f,f,gbr
-2112,kawaiisu,477,f,f,xaw
-2113,kirghiz,19,f,f,kir
-2114,kombai,445,f,f,"tyn, wng"
-2115,loniu,87,f,f,los
-2116,mende,292,f,f,men
-2117,ngabere,122,f,f,gym
-2118,niuean,87,f,f,niu
-2119,noon,276,f,f,snf
-2120,paiutenorthern,477,f,f,pao
-2121,salinan,359,f,f,sln
-2122,alyawarra,42,f,f,aly
-2123,chacobo,342,f,f,cao
-2124,kana,293,f,f,ogo
-2125,kiwai,216,f,f,"kiw, kjd"
-2126,kwoma,368,f,f,kmo
-2127,manchu,21,f,f,mnc
-2128,noni,274,f,f,nhu
-2129,pero,6,f,f,pip
-2130,tawala,87,f,f,tbo
-2131,bellacoola,363,f,f,blc
-2132,berta,319,f,f,wti
-2133,chatinosierraoccidental,332,f,f,ctp
-2134,chemehuevi,477,f,f,ute
-2135,ewondo,274,f,f,ewo
-2136,karensgaw,378,f,f,ksw
-2137,kwakwala,482,f,f,kwk
-2138,maltese,10,f,f,mlt
-2139,mizo,386,f,f,lus
-2140,rukai,522,f,f,dru
-2141,wahgi,438,f,f,"wgi, whg"
-2142,warekena,530,f,f,gae
-2143,atayal,89,f,f,tay
-2144,azerbaijani,19,f,f,"azb, azj"
-2145,bare,530,f,f,bae
-2146,bari,320,f,f,bfa
-2147,bengali,182,f,f,ben
-2148,buriat,20,f,f,bxm
-2149,chechen,268,f,f,che
-2150,erromangan,87,f,f,erg
-2151,hua,430,f,f,ygr
-2152,iban,519,f,f,iba
-2153,jebero,116,f,f,jeb
-2154,jingpho,377,f,f,kac
-2155,marimeadow,466,f,f,mhr
-2156,mbay,305,f,f,myb
-2157,murrinhpatha,37,f,f,mwf
-2158,newarikathmandu,512,f,f,new
-2159,saaminorthern,462,f,f,sme
-2160,ukrainian,185,f,f,ukr
-2161,washo,487,f,f,was
-2162,yukulta,52,f,f,gcd
-2163,kaliaikove,87,f,f,"khl, kvc"
-2164,kukuyalanji,42,f,f,gvn
-2165,sahu,494,f,f,saj
-2166,selkup,463,f,f,sel
-2167,tsovatush,268,f,f,bbl
-2168,waskia,437,f,f,wsk
-2169,alawa,60,f,f,alh
-2170,ao,386,f,f,njo
-2171,apalai,119,f,f,apy
-2172,bininjgunwok,44,f,f,gup
-2173,fyem,283,f,f,pym
-2174,garrwa,47,f,f,gbc
-2175,kalkatungu,42,f,f,ktg
-2176,lai,386,f,f,cnh
-2177,moro,285,f,f,mor
-2178,narainethiopia,314,f,f,nrb
-2179,tamang eastern,389,f,f,"taj, tge"
-2180,tatar,19,f,f,tat
-2181,tepehuannorthern,478,f,f,ntp
-2182,tibetanstandardspoken,389,f,f,bod
-2183,tlapanec,333,f,f,tcf
-2184,udihe,21,f,f,ude
-2185,zande,287,f,f,zne
-2186,choctaw,260,f,f,cho
-2187,coptic,8,f,f,cop
-2188,dagbani,290,f,f,dag
-2189,dumo,392,f,f,vam
-2190,kosraean,87,f,f,kos
-2191,nuuchahnulth,481,f,f,noo
-2192,ossetic,183,f,f,oss
-2193,sinhala,182,f,f,sin
-2194,tashlhiyt,4,f,f,shi
-2195,teribe,123,f,f,tfr
-2196,tiipayjamul,170,f,f,dih
-2197,tolai,87,f,f,ksd
-2198,yelidnye,502,f,f,yle
-2199,arabicmoroccan,10,f,f,ary
-2200,arawak,530,f,f,arw
-2201,bataktoba,521,f,f,bbc
-2202,birom,283,f,f,bom
-2203,dinka,320,f,f,dip
-2204,even,21,f,f,eve
-2205,goajiro,530,f,f,guc
-2206,mangghuer,20,f,f,mjg
-2207,ojibwaeastern,17,f,f,"ojg, otw"
-2208,resigaro,530,f,f,rgr
-2209,seneca,192,f,f,see
-2210,siriono,457,f,f,srq
-2211,tahitian,87,f,f,tah
-2212,takelma,407,f,f,tkm
-2213,uradhi,42,f,f,urf
-2214,cherokee,191,f,f,chr
-2215,czech,185,f,f,ces
-2216,danish,181,f,f,dan
-2217,hupa,262,f,f,hup
-2218,itelmen,140,f,f,itl
-2219,kabardian,325,f,f,kbd
-2220,kanakuru,6,f,f,kna
-2221,kwaio,87,f,f,kwd
-2222,lele,2,f,f,lln
-2223,shuswap,362,f,f,shs
-2224,so,316,f,f,teu
-2225,temne,291,f,f,tem
-2226,catalan,184,f,f,cat
-2227,fulanigerian,276,f,f,fuv
-2228,luiseno,474,f,f,lui
-2229,nambikuara,270,f,f,nab
-2230,nasioi,152,f,f,nas
-2231,portuguese,184,f,f,por
-2232,siuslaw,329,f,f,sis
-2233,sundanese,519,f,f,sun
-2234,chrau,63,f,f,crw
-2235,estonian,465,f,f,est
-2236,gaelicscots,187,f,f,gla
-2237,guuguyimidhirr,42,f,f,kky
-2238,hopi,473,f,f,hop
-2239,miskito,251,f,f,miq
-2240,mumuye,279,f,f,mzm
-2241,tacana,403,f,f,tna
-2242,tera,5,f,f,ttr
-2243,westmakian,494,f,f,mqs
-2244,wiyot,18,f,f,wiy
-2245,abun,493,f,f,kgr
-2246,babungo,274,f,f,bav
-2247,bororo,242,f,f,bor
-2248,djapu,42,f,f,duj
-2249,doyayo,279,f,f,dow
-2250,kurdishcentral,183,f,f,kmr
-2251,lenakel,87,f,f,tnl
-2252,mam,250,f,f,mvc
-2253,nicobaresecar,68,f,f,caq
-2254,qawasqar,15,f,t,alc
-2255,tetun,75,f,f,tet
-2256,tidore,494,f,f,tvo
-2257,yagaria,430,f,f,ygr
-2258,arabicgulf,10,f,f,afb
-2259,cubeo,452,f,f,cub
-2260,dagur,20,f,f,dta
-2261,huastec,250,f,f,hsf
-2262,ik,316,f,f,ikx
-2263,nunginvietnam,404,f,f,nut
-2264,paez,341,f,f,pbb
-2265,sedang,63,f,f,sed
-2266,bashkir,19,f,f,bak
-2267,malakmalak,51,f,f,mpb
-2268,mansi,464,f,f,mns
-2269,muna,526,f,f,mnb
-2270,mupun,6,f,f,sur
-2271,ngalakan,34,f,f,nig
-2272,serbiancroatian,185,f,f,"bos, hrv, srp"
-2273,tinrin,87,f,f,cir
-2274,archi,267,f,f,aqc
-2275,avar,269,f,f,ava
-2276,gbeyabossangoa,537,f,f,gbp
-2277,limbu,512,f,f,lif
-2278,miya,6,f,f,mkf
-2279,ngizim,6,f,f,ngi
-2280,pohnpeian,87,f,f,pon
-2281,turkana,320,f,f,tuv
-2282,uzbek,19,f,f,"uzn, uzs"
-2283,huavesanmateodelmar,178,f,f,huv
-2284,khanty,464,f,f,kca
-2285,malayalam,149,f,f,mal
-2286,telugu,147,f,f,tel
-2287,yakut,19,f,f,sah
-2288,awtuw,369,f,f,kmn
-2289,klamath,353,f,f,kla
-2290,nepali,182,f,f,nep
-2291,tigre,10,f,f,tig
-2292,tuvan,19,f,f,tyv
-2293,hatam,495,f,f,had
-2294,mokilese,87,f,f,mkj
-2295,norwegian,181,f,f,nob
-2296,quileute,131,f,f,qui
-2297,retuara,452,f,f,tnc
-2298,tauya,437,f,f,tya
-2299,breton,187,f,f,bre
-2300,ijokolokuma,288,f,f,ijc
-2301,luo,320,f,f,luo
-2302,palauan,85,f,f,pau
-2303,pashto,183,f,f,pst
-2304,samoan,87,f,f,smo
-2305,selknam,137,f,t,ona
-2306,waorani,483,f,f,auc
-2307,wappo,485,f,f,wao
-2308,wintu,349,f,f,wit
-2309,akan,275,f,f,aka
-2310,bribri,123,f,t,bzd
-2311,kisi,291,f,f,"kqs, kss"
-2312,campaaxininca,536,f,f,"cni, cpc"
-2313,kongo,274,f,t,"kng, kwy"
-2314,lugbara,304,f,f,lgg
-2315,maasai,320,f,f,mas
-2316,tumpisashoshone,477,f,f,par
-2317,welsh,187,f,f,cym
-2318,yapese,82,f,f,yap
-2319,iaai,87,f,f,iai
-2320,jaqaru,102,f,f,jqr
-2321,tigak,87,f,f,tgc
-2322,tonkawa,421,f,f,tqw
-2323,marathi,182,f,f,mar
-2324,pipil,476,f,f,ppl
-2325,tzutujil,250,f,f,"tzj, tzt"
-2326,arrerntemparntwe,42,f,f,aer
-2327,dieguenomesagrande,170,f,f,dih
-2328,diyari,42,f,f,dif
-2329,icelandic,181,f,f,isl
-2330,panjabi,182,f,f,pan
-2331,lak,266,f,t,lbe
-2332,maidunortheast,345,f,f,nmu
-2333,ekari,436,f,t,ekg
-2334,hamtai,449,f,t,hmt
-2335,margi,5,f,f,mrt
-2336,nandi,320,f,f,kln
-2337,macushi,119,f,f,mbc
-2338,marind,246,f,t,mrz
-2339,abipon,165,f,t,axb
-2340,maba,313,f,t,mde
-2341,swedish,181,f,f,swe
-2342,wolof,276,f,f,wol
-2343,acehnese,519,f,f,ace
-2344,chuvash,19,f,f,chv
-2345,dutch,181,f,f,nld
-2346,kashmiri,182,f,f,kas
-2347,purepecha,408,f,f,tsz
-2348,una,446,f,t,mtg
-2349,dyirbal,42,f,f,dbl
-2350,hawaiian,87,f,f,haw
-2351,italian,184,f,f,ita
-2352,koyrachiini,308,f,f,khq
-2353,lithuanian,188,f,f,lit
-2354,oodham,478,f,f,ood
-2355,romanian,184,f,f,ron
-2356,tamil,149,f,f,tam
-2357,bulgarian,185,f,f,bul
-2358,lahu,380,f,f,lhu
-2359,yuchi,504,f,t,yuc
-2360,pomosoutheastern,176,f,t,pom
-2361,zuni,510,f,f,zun
-2362,sentani,366,f,t,set
-2363,kiribati,87,f,t,gil
-2364,somali,12,f,f,som
-2365,yupikcentral,158,f,t,esu
-2366,cantonese,375,f,f,yue
-2367,fur,306,f,t,fvr
-2368,polish,185,f,f,pol
-2369,kera,2,f,t,ker
-2370,ladakhi,389,f,t,lbj
-2371,lepcha,379,f,t,lep
-2372,tlingit,263,f,t,tli
-2373,wambaya,58,f,t,wmb
-2374,albanian,190,f,f,"aln, als"
-2375,bambara,292,f,t,bam
-2376,kayahlieastern,378,f,t,eky
-2377,ngiti,299,f,t,niy
-2378,carib,119,f,t,car
-2379,makah,481,t,t,myh
-2380,tsimshiancoast,352,f,t,tsi
-2381,tunica,453,f,t,tun
-2382,suena,442,f,t,sue
-2383,maranungku,28,f,t,zmr
-2384,murle,322,f,t,mur
-2385,passamaquoddymaliseet,17,f,t,pqm
-2386,pitjantjatjara,42,f,t,pjt
-2387,amharic,10,f,f,amh
-2388,araona,403,f,t,aro
-2389,cayuvava,120,f,t,cyb
-2390,diolafogny,276,f,t,dyo
-2391,armenianeastern,189,f,t,hye
-2392,aymara,102,f,t,"ayc, ayr"
-2393,bawm,386,f,t,bgr
-2394,nubiandongolese,307,f,t,kzh
-2395,wardaman,33,f,t,wrr
-2396,haida,167,f,t,"hax, hdn"
-2397,khmu,69,f,t,kjg
-2398,usan,437,f,t,wnu
-2399,paiwan,86,t,t,pwn
-2400,ungarinjin,29,f,t,ung
-2401,beja,3,f,t,bej
-2402,drehu,87,f,t,dhv
-2403,garo,383,f,t,grt
-2404,paamese,87,f,t,pma
-2405,miwoksouthernsierra,350,f,t,skd
-2406,semelai,62,f,t,sza
-2407,yurok,16,f,t,yur
-2408,daga,146,t,t,dgz
-2409,otomimezquital,336,t,t,ote
-2410,igbo,272,f,t,ibo
-2411,nezperce,348,f,t,nez
-2412,brahui,150,f,t,brh
-2413,cahuilla,474,f,t,chl
-2414,chinanteclealao,335,f,t,cle
-2415,kunama,317,f,t,kun
-2416,navajo,262,f,t,nav
-2417,zoquecopainala,252,t,t,zoc
-2418,batakkaro,521,f,t,btx
-2419,comanche,477,f,t,com
-2420,irish,187,f,t,gle
-2421,nkorekiga,274,f,t,cgg
-2422,squamish,360,f,t,squ
-2423,trumai,451,f,t,tpy
-2424,danilowergrandvalley,432,t,t,dni
-2425,nenets,463,f,t,yrk
-2426,urubukaapor,457,f,t,urb
-2427,cooshanis,327,f,t,csz
-2428,creeplains,17,t,t,crk
-2429,nahuatltetelcingo,476,f,t,nhg
-2430,yimas,231,f,t,yee
-2431,ika,130,f,t,arh
-2432,koyraborosenni,308,t,t,ses
-2433,mundari,66,f,t,unr
-2434,yidiny,42,f,t,yii
-2435,karok,204,t,t,kyh
-2436,barasano,452,t,t,bsn
-2437,taba,79,f,t,mky
-2438,acoma,209,t,t,kjq
-2439,paumari,24,f,t,pad
-2440,arapeshmountain,427,t,t,ape
-2441,oneida,192,t,t,one
-2442,asmat,447,t,t,tml
-2443,ewe,275,f,t,ewe
-2444,grebo,277,t,t,grj
-2445,hmongnjua,169,t,t,"cqd, hnj"
-2446,khasi,71,f,t,kha
-2447,khmer,70,f,t,khm
-2448,kiowa,215,t,t,kio
-2449,wichita,115,t,t,wic
-2450,juhoan,212,f,t,ktz
-2451,kilivila,87,f,t,kij
-2452,nunggubuyu,48,f,t,nuy
-2453,iraqw,1,f,t,irk
-2454,kewa,433,t,t,"kew, kjs"
-2455,sanuma,498,t,t,xsu
-2456,shipibokonibo,342,f,t,shp
-2457,epenapedee,135,f,t,sja
-2458,ket,503,f,t,ket
-2459,koasati,260,t,t,cku
-2460,luvale,274,t,t,lue
-2461,sango,287,t,t,sag
-2462,bagirmi,305,t,t,bmi
-2463,hunzib,269,f,t,huz
-2464,ingush,268,f,t,inh
-2465,maung,38,t,t,mph
-2466,koromfe,290,f,t,kfz
-2467,quechuaimbabura,356,t,t,qvi
-2468,rama,125,t,t,rma
-2469,wichi,249,t,t,mzh
-2470,yagua,343,t,t,yad
-2471,nivkh,324,f,t,niv
-2472,apurina,534,t,t,apu
-2473,berbermiddleatlas,4,t,t,tzm
-2474,warao,486,t,t,wba
-2475,imonda,110,t,t,imn
-2476,awapit,106,f,t,kwi
-2477,kobon,437,f,t,kpw
-2478,latvian,188,f,t,lav
-2479,maricopa,170,t,t,mrc
-2480,alamblak,370,t,t,amp
-2481,gooniyandi,30,t,t,gni
-2482,kutenai,222,t,t,kut
-2483,mixtecchalcatongo,334,t,t,mig
-2484,lavukaleve,396,t,t,lvk
-2485,rapanui,87,t,t,rap
-2486,ainu,14,f,t,ain
-2487,jakaltek,250,t,t,"jac, jai"
-2488,lakhota,391,t,t,lkt
-2489,martuthunira,42,t,t,vma
-2490,piraha,259,t,t,myp
-2491,wari,121,t,t,pav
-2492,guarani,457,t,t,gug
-2493,khoekhoe,210,t,t,naq
-2494,meithei,386,t,t,mni
-2495,ngiyambaa,42,t,t,wyb
-2496,burmese,380,t,t,mya
-2497,krongo,198,t,t,kgo
-2498,mangarrayi,55,t,t,mpc
-2499,tiwi,53,t,t,tiw
-2500,kanuri,309,f,t,knc
-2501,kayardild,52,t,t,gyd
-2502,mapudungun,25,t,t,arn
-2503,yoruba,294,t,t,yor
-2504,yukaghirkolyma,505,f,t,yux
-2505,maybrat,493,t,t,ayz
-2506,tukangbesi,526,t,t,"bhq, khc"
-2507,burushaski,113,t,t,bsk
-2508,chamorro,74,t,t,cha
-2509,chukchi,139,t,t,ckt
-2510,fijian,87,t,t,fij
-2511,hebrewmodern,10,t,t,heb
-2512,lango,320,t,t,laj
-2513,oromoharar,12,t,t,hae
-2514,thai,404,t,t,tha
-2515,yaqui,475,t,t,yaq
-2516,zulu,274,t,t,zul
-2517,slave,262,t,t,"scs, xsl"
-2518,arabicegyptian,10,t,t,arz
-2519,greenlandicwest,158,t,t,kal
-2520,hixkaryana,119,t,t,hix
-2521,swahili,274,t,t,swh
-2522,vietnamese,67,t,t,vie
-2523,hindi,182,t,t,hin
-2524,canelakraho,238,t,t,"ram, xra"
-2525,tagalog,513,t,t,tgl
-2526,georgian,205,t,t,kat
-2527,kannada,149,t,t,kan
-2528,khalkha,20,t,t,khk
-2529,malagasy,73,t,t,plt
-2530,supyire,290,t,t,spp
-2531,hausa,6,t,t,hau
-2532,maori,87,f,t,mri
-2533,basque,107,t,t,eus
-2534,abkhaz,325,t,t,abk
-2535,evenki,21,f,t,evn
-2536,korean,218,t,t,kor
-2537,persian,183,t,t,pes
-2538,amele,437,t,t,aey
-2539,german,181,t,t,deu
-2540,greekmodern,186,t,t,ell
-2541,lezgian,267,t,t,lez
-2542,japanese,195,t,t,jpn
-2543,mandarin,375,t,t,cmn
-2544,hungarian,464,f,t,hun
-2545,indonesian,519,t,t,ind
-2546,finnish,465,t,t,fin
-2547,russian,185,t,t,rus
-2548,spanish,184,t,t,spa
-2549,turkish,19,t,t,tur
-2550,french,184,t,t,fra
-2551,english,181,t,t,eng
-2552,gadabakondekor,148,f,f,gdb
-2553,diolakasa,276,f,f,csk
-2554,halkomelemisland,360,f,f,hur
-2555,halkomelemupriver,360,f,f,hur
-2556,donnoso,296,f,f,dds
-2557,tommoso,296,f,f,
-2558,balyku,42,f,f,nad
-2559,bayungu,42,f,f,bxj
-2560,dhalandji,42,f,f,dhl
-2561,gugadj,42,f,f,ggd
-2562,gupapuyngu,42,f,f,guf
-2563,kariera,42,f,f,vka
-2564,kaytej,42,f,f,gbb
-2565,linngithig,42,f,f,lnj
-2566,mirniny,42,f,f,nju
-2567,ngarla,42,f,f,nlr
-2568,nyamal,42,f,f,nly
-2569,umpila,42,f,f,ump
-2570,wagawaga,42,f,f,wkw
-2571,wangkangurru,42,f,f,wgg
-2572,wanman,42,f,f,wbt
-2573,warumungu,42,f,f,wrm
-2574,yalarnnga,42,f,f,ylr
-2575,leggbo,293,f,f,agb
-2576,welshcolloquial,187,f,f,cym
-2577,tima,284,f,f,tms
-2578,wan,273,f,f,wan
-2579,dadjriwale,277,f,f,god
-2580,neyo,277,f,f,ney
-2581,jamsay,296,f,f,djm
-2582,nanerge,290,f,f,sen
-2583,waama,290,f,f,wwa
-2584,ncam,290,f,f,bud
-2585,kasim,290,f,f,xsm
-2586,mambai,279,f,f,mcs
-2587,mayogo,287,f,f,mdm
-2588,munzumbo,287,f,f,moj
-2589,ajagbe,275,f,f,ajg
-2590,gungbe,275,f,f,guw
-2591,avikam,275,f,f,avi
-2592,mankon,274,f,f,nge
-2593,mbosi,274,f,f,mdw
-2594,budu,274,f,f,buu
-2595,vili,274,f,f,vif
-2596,iwoyo,274,f,f,kwy
-2597,suku,274,f,f,sub
-2598,bangime,105,f,f,dba
-2599,beria,312,f,f,zag
-2600,mango,305,f,f,mge
-2601,tamashek,4,f,f,taq
-2602,mina,5,f,f,hna
-2603,sidaama,12,f,f,sid
-2604,arabickuwaiti,10,f,f,afb
-2605,shuri,195,f,f,ryu
-2606,bettakurumba,149,f,f,xub
-2607,raji,389,f,f,rji
-2608,kasong,64,f,f,
-2609,manange,389,f,f,nmm
-2610,tangbe,389,f,f,skj
-2611,tibetandingri,389,f,f,bod
-2612,tibetandrokpa,389,f,f,bod
-2613,kyirong,389,f,f,kgy
-2614,amdothemchen,389,f,f,adx
-2615,shigatse,389,f,f,bod
-2616,rangpas,389,f,f,bod
-2617,khamtibetannangchen,389,f,f,khg
-2618,khamdege,389,f,f,khg
-2619,kanashi,389,f,f,xns
-2620,wambule,512,f,f,wme
-2621,yamphu,512,f,f,ybi
-2622,gyarongcogtse,390,f,f,jya
-2623,rgyalrongcaodeng,390,f,f,jya
-2624,tutsa,388,f,f,tvt
-2625,ralte,386,f,f,ral
-2626,mirihill,382,f,f,mrg
-2627,hlaibaoding,406,f,f,lic
-2628,khun,404,f,f,kkh
-2629,shompen,373,f,f,
-2630,agtadupaningan,513,f,f,duo
-2631,banggi,73,f,f,bdg
-2632,bajauwestcoast,76,f,f,bdr
-2633,tetundili,75,f,f,tet
-2634,labu,87,f,f,lbu
-2635,vinmavis,87,f,f,vnm
-2636,portsandwich,87,f,f,psw
-2637,lamen,87,f,f,lmu
-2638,efatesouth,87,f,f,erk
-2639,nadroga,87,f,f,fij
-2640,ifiramele,87,f,f,mxe
-2641,momuna,443,f,f,mqf
-2642,mian,441,f,f,mpt
-2643,makasae,416,f,f,mkz
-2644,abui,417,f,f,abz
-2645,adang,417,f,f,adn
-2646,baham,488,f,f,bdw
-2647,dlamenggwa,365,f,f,kbv
-2648,barupu,394,f,f,wra
-2649,momu,226,f,f,fqs
-2650,kwomtari,225,f,f,kwo
-2651,nai,225,f,f,bio
-2652,ama,229,f,f,amm
-2653,owininga,229,f,f,owi
-2654,urat,428,f,f,urt
-2655,kombio,427,f,f,xbi
-2656,mufian,427,f,f,aoj
-2657,kamasau,425,f,f,kms
-2658,innamincka,42,f,f,ynd
-2659,musqueam,360,f,f,hur
-2660,tepehuahuehuetla,429,f,f,tee
-2661,mixeayutla,252,f,f,
-2662,sipakapense,250,f,f,qum
-2663,leko,230,f,f,lec
-2664,emerillon,457,f,f,eme
-2665,kayabi,457,f,f,kyz
-2666,kanoe,200,f,f,
-2667,chipaya,470,f,f,cap
-2668,kuikuro,119,f,f,kui
-2669,panara,238,f,f,kre
-2670,krenak,240,f,f,kqq
-2671,hoan,213,f,f,huc
-2672,urarina,469,f,f,ura
-2673,taushiro,410,f,f,trr
-2674,achuar,197,f,f,acu
-2675,quechuahuallaga,356,f,f,qvh
-2676,piro,534,f,f,pib
-2677,mocovi,165,f,f,moc
-2678,ndyuka,331,f,t,djk
-2679,ngbakamabo,287,f,f,nbm
+pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
+910,amis,595,f,f,ami,Papunesia
+217,siraya,595,f,f,fos,Papunesia
+1869,kapampangan,515,f,f,pam,Papunesia
+2441,oneida,192,t,t,one,North America
+1038,konyagi,276,f,f,cou,Africa
+1765,manobowesternbukidnon,513,f,f,mbb,Papunesia
+1200,sharanahua,342,f,f,mcd,South America
+1175,kadiweu,165,f,f,kbc,South America
+2304,samoan,87,f,f,smo,Papunesia
+643,bambam,525,f,f,ptu,Papunesia
+2527,kannada,149,t,t,kan,Eurasia
+1565,osage,391,f,f,osa,North America
+344,kalasha,182,f,f,kls,Eurasia
+345,kangiryuarmiut,158,f,f,ikt,North America
+346,kanjobaleastern,250,f,f,kjb,North America
+347,kankanay,514,f,f,kne,Papunesia
+340,jemez,215,f,f,tow,North America
+341,juang,66,f,f,jun,Eurasia
+342,kaian,235,f,f,kct,Papunesia
+343,kalanga,274,f,f,kck,Africa
+1791,bontok,514,f,f,bnc,Papunesia
+348,kanyok,274,f,f,kny,Africa
+349,kapingamarangi,87,f,f,kpg,Papunesia
+1739,sonsoroltobi,87,f,f,sov,Papunesia
+595,sangir,524,f,f,sxn,Papunesia
+1976,karimojong,320,f,f,kdj,Africa
+1511,keresansantaana,209,f,f,kee,North America
+2123,chacobo,342,f,f,cao,South America
+1653,mangbetu,315,f,f,mdj,Africa
+1738,sisiqa,87,f,f,baa,Papunesia
+2528,khalkha,20,t,t,khk,Eurasia
+736,pemon,119,f,f,aoc,South America
+1567,pare,274,f,f,asa,Africa
+2318,yapese,82,f,f,yap,Papunesia
+1974,au,428,f,f,avt,Papunesia
+2316,tumpisashoshone,477,f,f,par,North America
+2317,welsh,187,f,f,cym,Eurasia
+2314,lugbara,304,f,f,lgg,Africa
+2315,maasai,320,f,f,mas,Africa
+2312,campaaxininca,536,f,f,"cni, cpc",South America
+2310,bribri,123,f,t,bzd,North America
+1657,mlabriminor,69,f,f,mra,Eurasia
+2184,udihe,21,f,f,ude,Eurasia
+298,chastacosta,262,f,f,,North America
+299,chatinotataltepec,332,f,f,cta,North America
+296,carolinian,87,f,f,cal,Papunesia
+297,catio,135,f,f,cto,South America
+294,canamari,206,f,f,knm,South America
+295,canela,238,f,f,ram,South America
+292,bujeba,274,f,f,nmg,Africa
+293,cabecar,123,f,f,cjp,North America
+290,boruca,123,f,f,brn,North America
+291,britishsignlanguage,330,f,f,bfi,Eurasia
+2289,klamath,353,f,f,kla,North America
+270,ajie,87,f,f,aji,Papunesia
+271,akhvakh,269,f,f,akv,Eurasia
+272,algonquin,17,f,f,alq,North America
+273,amdo,389,f,f,adx,Eurasia
+274,americansignlanguage,330,f,f,ase,North America
+275,arabicabbechechad,10,f,f,shu,Africa
+276,areare,87,f,f,alu,Papunesia
+277,atikamekw,17,f,f,atj,North America
+278,auslan,330,f,f,asf,Australia
+279,bade,6,f,f,bde,Africa
+2408,daga,146,t,t,dgz,Papunesia
+2405,miwoksouthernsierra,350,f,t,skd,North America
+1454,guahibo,164,f,f,guh,South America
+2541,lezgian,267,t,t,lez,Eurasia
+2385,passamaquoddymaliseet,17,f,t,pqm,North America
+2547,russian,185,t,t,rus,Eurasia
+2546,finnish,465,t,t,fin,Eurasia
+1780,tuaregahaggar,4,f,f,thv,Africa
+1455,gurenggureng,42,f,f,gnr,Australia
+2558,balyku,42,f,f,nad,Australia
+2549,turkish,19,t,t,tur,Eurasia
+2548,spanish,184,t,t,spa,Eurasia
+1456,kalami,182,f,f,gwc,Eurasia
+2373,wambaya,58,f,t,wmb,Australia
+2381,tunica,453,f,t,tun,North America
+2380,tsimshiancoast,352,f,t,tsi,North America
+2268,mansi,464,f,f,mns,Eurasia
+1457,karenpwo,378,f,f,"kjp, pwo",Eurasia
+2188,dagbani,290,f,f,dag,Africa
+2384,murle,322,f,t,mur,Africa
+2387,amharic,10,f,f,amh,Africa
+1349,cacua,114,f,f,cbv,South America
+2262,ik,316,f,f,ikx,Africa
+1450,djabugay,42,f,f,dyy,Australia
+2260,dagur,20,f,f,dta,Eurasia
+2261,huastec,250,f,f,hsf,North America
+2266,bashkir,19,f,f,bak,Eurasia
+2267,malakmalak,51,f,f,mpb,Australia
+2264,paez,341,f,f,pbb,South America
+1451,duala,274,f,f,dua,Africa
+2442,asmat,447,t,t,tml,Papunesia
+2443,ewe,275,f,t,ewe,Africa
+2440,arapeshmountain,427,t,t,ape,Papunesia
+2283,huavesanmateodelmar,178,f,f,huv,North America
+1781,uldeme,5,f,f,udl,Africa
+1452,ejagham,274,f,f,etu,Africa
+2444,grebo,277,t,t,grj,Africa
+2445,hmongnjua,169,t,t,"cqd, hnj",Eurasia
+2572,wanman,42,f,f,wbt,Australia
+2127,manchu,21,f,f,mnc,Eurasia
+2448,kiowa,215,t,t,kio,North America
+2449,wichita,115,t,t,wic,North America
+2189,dumo,392,f,f,vam,Papunesia
+2285,malayalam,149,f,f,mal,Eurasia
+2514,thai,404,t,t,tha,Eurasia
+1949,biloxi,391,f,f,bll,North America
+2589,ajagbe,275,f,f,ajg,Africa
+1135,natugu,87,f,f,stc,Papunesia
+2102,nahuatlnorthpuebla,476,f,f,ncj,North America
+902,tangga,87,f,f,tgg,Papunesia
+903,thadou,386,f,f,tcz,Eurasia
+900,sorbianupper,185,f,f,hsb,Eurasia
+901,spokane,362,f,f,spo,North America
+906,yaygir,42,f,f,,Australia
+907,zenaga,4,f,f,zen,Africa
+904,tsogo,274,f,f,tsv,Africa
+2588,munzombo,287,f,f,moj,Africa
+905,tuamotuan,87,f,f,pmt,Papunesia
+2163,lusi,87,f,f,khl,Papunesia
+1843,nabak,434,f,f,naf,Papunesia
+1458,kate,434,f,f,kmg,Papunesia
+908,abaza,325,f,f,abq,Eurasia
+909,amarakaeri,168,f,f,amr,South America
+1847,tarahumaracentral,479,f,f,tar,North America
+1846,tama,311,f,f,tma,Africa
+1845,pimabajo,478,f,f,pia,North America
+1510,kele,87,f,f,sbc,Papunesia
+1212,bachamal,43,f,f,wdj,Australia
+2169,alawa,60,f,f,alh,Australia
+1513,limilngan,45,f,f,lmc,Australia
+2165,sahu,494,f,f,saj,Papunesia
+2164,kukuyalanji,42,f,f,gvn,Australia
+2167,tsovatush,268,f,f,bbl,Eurasia
+1512,kirma,290,f,f,cme,Africa
+2159,saaminorthern,462,f,f,sme,Eurasia
+2160,ukrainian,185,f,f,ukr,Eurasia
+2162,yukulta,52,f,f,gcd,Australia
+1783,walman,428,f,f,van,Papunesia
+2616,rangpas,389,f,f,bod,Eurasia
+1156,bafia,274,f,f,ksf,Africa
+2614,amdothemchen,389,f,f,adx,Eurasia
+2613,kyirong,389,f,f,kgy,Eurasia
+2129,pero,6,f,f,pip,Africa
+2611,tibetandingri,389,f,f,bod,Eurasia
+2610,tangbe,389,f,f,skj,Eurasia
+2147,bengali,182,f,f,ben,Eurasia
+1364,mbodomo,537,f,f,gmm,Africa
+1213,bagvalal,269,f,f,kva,Eurasia
+1947,arosi,87,f,f,aia,Papunesia
+1708,seediq,89,f,f,trv,Papunesia
+1372,tirmaga,322,f,f,suq,Africa
+1189,maranao,513,f,f,mrw,Papunesia
+2038,burunge,1,f,f,bds,Africa
+1908,nancowry,68,f,f,ncb,Eurasia
+1909,nuer,320,f,f,nus,Africa
+1906,moru,304,f,f,mgd,Africa
+1907,musgu,5,f,f,mug,Africa
+1904,mba,287,f,f,mfc,Africa
+1905,mon,65,f,f,mnw,Eurasia
+1902,maninkawestern,292,f,f,mlq,Africa
+1903,mazatecchiquihuitlan,339,f,f,maq,North America
+1900,maisin,87,f,f,mbq,Papunesia
+1901,mandan,391,f,f,mhq,North America
+854,alutiiq,158,f,f,ems,North America
+855,arabicpalestinian,10,f,f,ajp,Eurasia
+856,aribwatsa,87,f,f,laz,Papunesia
+857,asurini,457,f,f,asu,South America
+850,yansi,274,f,f,yns,Africa
+851,yazgulyam,183,f,f,yah,Eurasia
+852,zapotecquiegolani,332,f,f,zpi,North America
+853,aghul,267,f,f,agx,Eurasia
+566,mongondow,513,f,f,mog,Papunesia
+858,atacameno,219,f,f,kuz,South America
+859,bandjalangwaalubal,42,f,f,bdy,Australia
+1375,tongainzambia,274,f,f,toi,Africa
+6,akacari,163,f,f,aci,Eurasia
+2388,araona,403,f,t,aro,South America
+2463,hunzib,269,f,t,huz,Eurasia
+641,balangao,514,f,f,blw,Papunesia
+1785,zoquechimalapa,252,f,f,zoh,North America
+1655,mixtecjicaltepec,334,f,f,mio,North America
+1150,worora,29,f,f,unp,Australia
+1000,otomiixtenco,336,f,f,otz,North America
+645,bantik,524,f,f,bnq,Papunesia
+1374,tokelauan,87,f,f,tkl,Papunesia
+2276,gbeyabossangoa,537,f,f,gbp,Africa
+1623,takia,87,f,f,tbc,Papunesia
+1622,shoshone,477,f,f,shh,North America
+1621,sawu,75,f,f,hvn,Papunesia
+1620,sahaptinnorthern,348,f,f,"waa, yak",North America
+1627,turkmen,19,f,f,tuk,Eurasia
+1626,toba,165,f,f,tob,South America
+1625,thakali,389,f,f,ths,Eurasia
+1624,tanacross,262,f,f,tcb,North America
+1216,beembe,274,f,f,beq,Africa
+1998,korku,66,f,f,kfq,Eurasia
+1629,zapotecyatzachi,332,f,f,zav,North America
+1377,wedau,87,f,f,wed,Papunesia
+2609,manange,389,f,f,nmm,Eurasia
+2417,zoquecopainala,252,t,t,zoc,North America
+740,riantana,217,f,f,ran,Papunesia
+741,romaniajiavarvara,182,f,f,rmn,Eurasia
+742,rundi,274,f,f,run,Africa
+743,saamikildin,462,f,f,sjd,Eurasia
+559,mehek,371,f,f,nux,Papunesia
+558,mayo,475,f,f,mfy,North America
+746,selaru,75,f,f,slu,Papunesia
+747,selayar,525,f,f,sly,Papunesia
+555,luyia,274,f,f,luy,Africa
+749,shinassha,13,f,f,bwo,Africa
+557,marquesan,87,f,f,"mqm, mrq",Papunesia
+556,mamasa,525,f,f,mqj,Papunesia
+551,kott,503,f,f,,Eurasia
+550,konua,489,f,f,kyx,Papunesia
+553,lamulamu,42,f,f,lby,Australia
+2573,warumungu,42,f,f,wrm,Australia
+1798,halia,87,f,f,hla,Papunesia
+1502,dhaasanac,12,f,f,dsh,Africa
+1439,arrerntewestern,42,f,f,are,Australia
+2146,bari,320,f,f,bfa,Africa
+1050,sengele,274,f,f,szg,Africa
+1051,sila,318,f,f,dau,Africa
+1052,talinga,274,f,f,tlj,Africa
+2409,otomimezquital,336,t,t,ote,North America
+1055,warrnambool,42,f,f,,Australia
+1056,yaoinmalawi,274,f,f,yao,Africa
+1057,yei,255,f,f,jei,Papunesia
+1058,yelmek,112,f,f,jel,Papunesia
+1059,zoqueostuacan,252,f,f,zoc,North America
+1193,ngadjumaja,42,f,f,nju,Australia
+1192,munduruku,459,f,f,myu,South America
+1195,nyamkad,389,f,f,tpq,Eurasia
+1194,nguna,87,f,f,llp,Papunesia
+1197,patwin,349,f,f,wit,North America
+1196,orya,422,f,f,ury,Papunesia
+1696,monoinunitedstates,477,f,f,mnr,North America
+1697,mwotlap,87,f,f,mlv,Papunesia
+1694,mamanwa,513,f,f,mmn,Papunesia
+1695,maru,380,f,f,mhx,Eurasia
+1692,lisu,380,f,f,lis,Eurasia
+1693,maleu,87,f,f,mgl,Papunesia
+1690,kyaka,433,f,f,kyc,Papunesia
+1691,laragia,59,f,f,lrg,Australia
+1757,kabyle,4,f,f,kab,Africa
+1756,jukun,283,f,f,jbu,Africa
+1755,guarijio,479,f,f,var,North America
+1754,greatandamanese,163,f,f,apq,Eurasia
+1753,dlaproper,365,f,f,kbv,Papunesia
+1752,chinsiyin,386,f,f,csy,Eurasia
+1698,ngoni,274,f,f,ngo,Africa
+1699,nhanda,42,f,f,,Australia
+1177,kayapo,238,f,f,txu,South America
+1176,kamoro,447,f,f,kgq,Papunesia
+618,wayana,119,f,f,way,South America
+619,xerente,238,f,f,xer,South America
+1173,ixil,250,f,f,"ixi, ixl",North America
+1172,idu,376,f,f,clk,Eurasia
+1171,idoma,289,f,f,idu,Africa
+1170,guhusamane,442,f,f,ghs,Papunesia
+1270,rotokas,489,f,f,roo,Papunesia
+1271,saamicentralsouth,462,f,f,sma,Eurasia
+610,thaypan,42,f,f,typ,Australia
+25,bahuana,530,f,f,,
+611,timorese,75,f,f,aoz,Papunesia
+616,waigali,182,f,f,wbk,Eurasia
+617,wallisian,87,f,f,wls,Papunesia
+1179,kohumono,293,f,f,bcs,Africa
+615,tzotzilzinacantan,250,f,f,tzz,North America
+1007,southeastambrym,87,f,f,tvk,Papunesia
+1001,pamona,526,f,f,pmf,Papunesia
+2360,pomosoutheastern,176,f,t,pom,North America
+1795,enggano,520,f,f,eno,Papunesia
+1006,roti,75,f,f,twu,Papunesia
+2452,nunggubuyu,48,f,t,nuy,Australia
+1794,duka,286,f,f,dud,Africa
+1005,rikbaktsa,244,f,f,rkb,South America
+2208,resigaro,530,f,f,rgr,South America
+1285,wantoat,434,f,f,wnc,Papunesia
+1284,waiwai,119,f,f,waw,South America
+1287,xiamen,375,f,f,nan,Eurasia
+1004,quechuacuzco,356,f,f,quz,South America
+1281,uma,526,f,f,ppk,Papunesia
+1280,tzeltalaguacatenango,250,f,f,tzh,North America
+1283,venda,274,f,f,ven,Africa
+1282,umbundu,274,f,f,umb,Africa
+515,binukid,513,f,f,bkd,Papunesia
+1813,pilaga,165,f,f,plg,South America
+1289,achang,380,f,f,acn,Eurasia
+1288,zazaki,183,f,f,diq,Eurasia
+2469,wichi,249,t,t,mzh,South America
+1002,pangwa,274,f,f,pbr,Africa
+1472,natchez,271,f,f,ncz,North America
+1473,ndumu,274,f,f,nmd,Africa
+1470,mursi,322,f,f,muz,Africa
+1471,nagazeme,386,f,f,nzm,Eurasia
+689,inuktitutsalluit,158,f,f,ike,North America
+688,inuktitutquebeclabrador,158,f,f,ike,North America
+1474,nehan,87,f,f,nsn,Papunesia
+1475,noghay,19,f,f,nog,Eurasia
+685,hokkien,375,f,f,nan,Eurasia
+684,hoava,87,f,f,hoa,Papunesia
+687,iatmul,368,f,f,ian,Papunesia
+686,huitoto,180,f,f,hto,South America
+681,gunu,274,f,f,yas,Africa
+680,gorowa,1,f,f,gow,Africa
+683,halbi,182,f,f,hlb,Eurasia
+682,haidanorthern,167,f,f,hdn,North America
+1304,fefe,274,f,f,fmp,Africa
+623,yuki,484,f,f,yuk,North America
+1306,hangahundi,368,f,f,wos,Papunesia
+1307,itzaj,250,f,f,itz,North America
+1300,chulupi,249,f,f,cag,South America
+1301,daw,261,f,f,kwa,South America
+1302,day,279,f,f,dai,Africa
+622,yil,428,f,f,yll,Papunesia
+1818,xhosa,274,f,f,xho,Africa
+614,tsat,519,f,f,huq,Eurasia
+1240,japreria,119,f,f,jru,South America
+1308,jeli,292,f,f,,Africa
+1225,dajudarfur,318,f,f,daj,Africa
+1819,yay,404,f,f,pcc,Eurasia
+1815,sebei,320,f,f,kpz,Africa
+1224,dadibi,411,f,f,mps,Papunesia
+498,altaisouthern,19,f,f,alt,Eurasia
+499,alutor,139,f,f,alr,Eurasia
+2590,gungbe,275,f,f,guw,Africa
+494,zapotecmixtepec,332,f,f,zpm,North America
+495,zapoteczoogocho,332,f,f,zpq,North America
+496,zoquefranciscoleon,252,f,f,zos,North America
+497,allentiac,177,f,f,,South America
+490,yiddish,181,f,f,"ydd, yih",Eurasia
+491,yortayorta,42,f,f,,Australia
+492,yuruti,452,f,f,yui,South America
+493,zapotecjuarez,332,f,f,zaa,North America
+24,bagri,182,f,f,bgq,Eurasia
+26,bajausemporna,76,f,f,ssb,Papunesia
+27,bamun,274,f,f,bax,Africa
+20,auyana,430,f,f,auy,Papunesia
+21,avatime,275,f,f,avn,Africa
+22,aynu,19,f,f,aib,Eurasia
+23,badaga,149,f,f,bfq,Eurasia
+1220,bruwestern,72,f,f,brv,Eurasia
+28,bana,5,f,f,bcw,Africa
+29,bandi,292,f,f,bza,Africa
+407,nagapidgin,331,f,f,nag,Eurasia
+406,muyuw,87,f,f,myw,Papunesia
+405,motilonchibchan,128,f,f,mot,South America
+404,moca,13,f,f,moy,Africa
+403,mnongeastern,63,f,f,mng,Eurasia
+402,mixtecsilacayoapan,334,f,f,mks,North America
+401,mixtecsanmiguelelgrande,334,f,f,mig,North America
+400,mixtecsanjuancolorado,334,f,f,mjc,North America
+1379,yeyi,274,f,f,yey,Africa
+1378,yawuru,46,f,f,ywr,Australia
+1219,bobo madare northern,292,f,f,bbo,Africa
+1342,babole,274,f,f,bvx,Africa
+1700,pattani,389,f,f,lae,Eurasia
+628,abidji,275,f,f,abi,Africa
+1524,panare,119,f,f,pbh,South America
+1701,pokorawo,393,f,f,rwa,Papunesia
+1344,bandjalangyugumbir,42,f,f,bdy,Australia
+758,tibetanshigatse,389,f,f,bod,Eurasia
+2030,sulka,400,f,f,sua,Papunesia
+1345,barambu,287,f,f,brm,Africa
+1934,kugunganhcara,42,f,f,uwa,Australia
+1703,ritharngu,42,f,f,rit,Australia
+2407,yurok,16,f,t,yur,North America
+1229,toroso,296,f,f,dts,Africa
+1751,chinmara,386,f,f,mrh,Eurasia
+1228,deti,210,f,f,shg,Africa
+1876,mor,79,f,f,mhz,Papunesia
+1018,baluchi,183,f,f,bgp,Eurasia
+1728,motuna,152,f,f,siw,Papunesia
+2319,iaai,87,f,f,iai,Papunesia
+2324,pipil,476,f,f,ppl,North America
+379,logoti,304,f,f,log,Africa
+378,lobi,290,f,f,lob,Africa
+1875,moghol,20,f,f,mhj,Eurasia
+1750,chang,388,f,f,nbc,Eurasia
+1709,sora,66,f,f,srb,Eurasia
+371,lau,87,f,f,llu,Papunesia
+370,lardil,42,f,f,lbz,Australia
+373,lenguadesenasespanola,330,f,f,ssp,Eurasia
+372,lenguadesenasargentina,330,f,f,aed,South America
+375,lesserantilleanfrenchcreole,331,f,f,"acf, gcf",North America
+374,lese,303,f,f,les,Africa
+377,linguaitalianadeisegni,330,f,f,ise,Eurasia
+376,linguadesinaisbrasileira,330,f,f,bzs,South America
+2526,georgian,205,t,t,kat,Eurasia
+605,talaud,524,f,f,tld,Papunesia
+1334,wathawurrung,42,f,f,,Australia
+2478,latvian,188,f,t,lav,Eurasia
+1870,karakalpak,19,f,f,kaa,Eurasia
+1987,tondano,523,f,f,tdn,Papunesia
+1871,kipea,202,f,f,kzw,South America
+2313,kongo,274,f,t,"kng, kwy",Africa
+393,mituku,274,f,f,zmq,Africa
+392,mingrelian,205,f,f,xmf,Eurasia
+391,mikarew,234,f,f,msy,Papunesia
+390,miju,382,f,f,mxj,Eurasia
+397,mixetlahuitoltepec,252,f,f,mxp,North America
+396,miwokplains,350,f,f,pmw,North America
+395,miwoklake,350,f,f,lmw,North America
+394,miwokbodega,350,f,f,csi,North America
+399,mixteccoatzospan,334,f,f,miz,North America
+398,mixtecchayuco,334,f,f,mih,North America
+895,pileni,87,f,f,piv,Papunesia
+2309,akan,275,f,f,aka,Africa
+1247,kisisouthern,291,f,f,kss,Africa
+2490,piraha,259,t,t,myp,South America
+2152,iban,519,f,f,iba,Papunesia
+1812,olo,428,f,f,ong,Papunesia
+2301,luo,320,f,f,luo,Africa
+2300,ijokolokuma,288,f,f,ijc,Africa
+2303,pashto,183,f,f,pst,Eurasia
+2302,palauan,85,f,f,pau,Papunesia
+2305,selknam,137,f,t,ona,South America
+1984,tajik,183,f,f,tgk,Eurasia
+2307,wappo,485,f,f,wao,North America
+2306,waorani,483,f,f,auc,South America
+7,akakede,163,f,f,akx,Eurasia
+1538,bauzi,153,f,f,bvz,Papunesia
+1879,nyulnyul,46,f,f,nyv,Australia
+1246,kinga,274,f,f,zga,Africa
+2288,awtuw,369,f,f,kmn,Papunesia
+2051,wambon,445,f,f,wms,Papunesia
+2050,udmurt,468,f,f,udm,Eurasia
+2280,pohnpeian,87,f,f,pon,Papunesia
+2281,turkana,320,f,f,tuv,Africa
+2282,uzbek,19,f,f,"uzn, uzs",Eurasia
+1404,lushootseed,360,f,f,lut,North America
+2284,khanty,464,f,f,kca,Eurasia
+2053,yukaghirtundra,505,f,f,ykg,Eurasia
+2286,telugu,147,f,f,tel,Eurasia
+2287,yakut,19,f,f,sah,Eurasia
+245,vata,277,f,f,dic,Africa
+244,urum,19,f,f,uum,Eurasia
+247,waraywaray,513,f,f,war,Papunesia
+246,veps,465,f,f,vep,Eurasia
+241,umaua,119,f,f,cbd,South America
+240,ulcha,21,f,f,ulc,Eurasia
+243,urubusignlanguage,330,f,f,uks,South America
+242,urhobo,295,f,f,urh,Africa
+2055,bai,381,f,f,bca,Eurasia
+2171,apalai,119,f,f,apy,South America
+249,xasonga,292,f,f,kao,Africa
+248,wemenugbe,275,f,f,wem,Africa
+2054,amahuaca,342,f,f,amc,South America
+2275,avar,269,f,f,ava,Eurasia
+2274,archi,267,f,f,aqc,Eurasia
+2277,limbu,512,f,f,lif,Eurasia
+1664,tabla,366,f,f,tnm,Papunesia
+2271,ngalakan,34,f,f,nig,Australia
+2057,cayapa,106,f,f,cbi,South America
+2273,tinrin,87,f,f,cir,Papunesia
+2272,serbiancroatian,185,f,f,"bos, hrv, srp",Eurasia
+2576,welshcolloquial,187,f,f,cym,Eurasia
+2577,tima,284,f,f,tms,Africa
+2574,yalarnnga,42,f,f,ylr,Australia
+2056,byansi,389,f,f,bee,Eurasia
+2279,ngizim,6,f,f,ngi,Africa
+2278,miya,6,f,f,mkf,Africa
+2570,wagawaga,42,f,f,wkw,Australia
+2571,wangkangurru,42,f,f,wgg,Australia
+2395,wardaman,33,f,t,wrr,Australia
+2378,carib,119,f,t,car,South America
+2379,makah,481,t,t,myh,North America
+1666,wakhi,183,f,f,wbl,Eurasia
+2374,albanian,190,f,f,"aln, als",Eurasia
+2375,bambara,292,f,t,bam,Africa
+2376,kayahlieastern,378,f,t,eky,Eurasia
+1248,kpan,283,f,f,kpk,Africa
+2370,ladakhi,389,f,t,lbj,Eurasia
+2371,lepcha,379,f,t,lep,Eurasia
+2198,yelidnye,502,f,f,yle,Papunesia
+1729,muruwari,42,f,f,zmu,Australia
+2594,budu,274,f,f,buu,Africa
+1087,mbole,274,f,f,mdq,Africa
+2596,iwoyo,274,f,f,kwy,Africa
+2597,suku,274,f,f,sub,Africa
+2459,koasati,260,t,t,cku,North America
+2458,ket,503,f,t,ket,Eurasia
+2592,mankon,274,f,f,nge,Africa
+1129,mandinka,292,f,f,mnk,Africa
+2455,sanuma,498,t,t,xsu,South America
+2454,kewa,433,t,t,"kew, kjs",Papunesia
+2457,epenapedee,135,f,t,sja,South America
+2456,shipibokonibo,342,f,t,shp,South America
+2451,kilivila,87,f,t,kij,Papunesia
+1085,maklew,112,f,f,mgf,Papunesia
+2453,iraqw,1,f,t,irk,Africa
+2049,obolo,293,f,f,ann,Africa
+1862,cemuhi,87,f,f,cam,Papunesia
+1877,nagatangkhul,386,f,f,nmf,Eurasia
+1874,lunda,274,f,f,lun,Africa
+1084,mairasi,448,f,f,zrs,Papunesia
+1872,lalo,380,f,f,ywt,Eurasia
+1873,lamani,182,f,f,lmn,Eurasia
+1878,ndjebbana,35,f,f,djj,Australia
+977,chocho,339,f,f,coz,North America
+976,chaudangsi,389,f,f,cdn,Eurasia
+975,chambri,231,f,f,can,Papunesia
+974,chaga,274,f,f,old,Africa
+973,buin,152,f,f,buo,Papunesia
+972,berik,423,f,f,bkl,Papunesia
+971,atsugewi,173,f,f,atw,North America
+970,arabiclebanese,10,f,f,apc,Eurasia
+2059,djingili,58,f,f,jig,Australia
+2058,chipewyan,262,f,f,chp,North America
+1080,kuiinindia,147,f,f,kxu,Eurasia
+1500,cavinena,403,f,f,cav,South America
+979,cuica,418,f,f,,South America
+978,costanoan,347,f,f,"css, cst",North America
+2110,gumbaynggir,42,f,f,kgs,Australia
+1506,gunbalang,44,f,f,wlg,Australia
+2114,kombai,445,f,f,"tyn, wng",Papunesia
+2115,loniu,87,f,f,los,Papunesia
+2116,mende,292,f,f,men,Africa
+1507,iwaidja,38,f,f,ibd,Australia
+2622,gyarongcogtse,390,f,f,jya,Eurasia
+2623,rgyalrongcaodeng,390,f,f,jya,Eurasia
+2620,wambule,512,f,f,wme,Eurasia
+1367,nyawaygi,42,f,f,nyt,Australia
+2626,mirihill,382,f,f,mrg,Eurasia
+1504,gaviao,455,f,f,gvo,South America
+2624,tutsa,388,f,f,tvt,Eurasia
+1991,buduma,5,f,f,bdm,Africa
+2628,khun,404,f,f,kkh,Eurasia
+1505,guambiano,106,f,f,gum,South America
+2168,waskia,437,f,f,wsk,Papunesia
+2390,diolafogny,276,f,t,dyo,Africa
+1919,ambulas,368,f,f,abt,Papunesia
+1918,yawelmani,344,f,f,yok,North America
+1148,tsez,269,f,f,ddo,Eurasia
+1126,lebeo,274,f,f,agh,Africa
+2111,gwari,278,f,f,gbr,Africa
+1911,panyjima,42,f,f,pnw,Australia
+1910,paakantyi,42,f,f,drl,Australia
+1913,shilluk,320,f,f,shk,Africa
+1127,lucazi,274,f,f,lch,Africa
+1501,ciluba,274,f,f,lua,Africa
+1914,sinaugoro,87,f,f,snc,Papunesia
+1227,darai,182,f,f,dry,Eurasia
+1916,tuscarora,192,f,f,tus,North America
+869,cua,63,f,f,cua,Eurasia
+868,chorote,249,f,f,"crq, crt",South America
+2113,kirghiz,19,f,f,kir,Eurasia
+2094,huitotomurui,180,f,f,huu,South America
+861,baniwa,530,f,f,bwi,South America
+860,banggai,526,f,f,bgz,Papunesia
+863,berberaytseghrouchenmiddleatlas,4,f,f,tzm,Africa
+862,benalulua,274,f,f,lua,Africa
+865,binga,305,f,f,yul,Africa
+864,biak,79,f,f,bhw,Papunesia
+867,bozotigemaxo,292,f,f,boz,Africa
+866,bora,179,f,f,boa,South America
+2024,kamaiura,457,f,f,kay,South America
+1977,moore,290,f,f,mos,Africa
+2026,luganda,274,f,f,lug,Africa
+2027,nakanai,87,f,f,nak,Papunesia
+2020,cora,471,f,f,crn,North America
+2021,djaru,42,f,f,ddj,Australia
+2022,hayu,512,f,f,vay,Eurasia
+1541,crow,391,f,f,cro,North America
+2554,halkomelemisland,360,f,f,hur,North America
+2117,ngabere,122,f,f,gym,North America
+1226,dangaleatwestern,2,f,f,daa,Africa
+2029,siroi,437,f,f,ssd,Papunesia
+1365,mixetotontepec,252,f,f,mto,North America
+883,kumyk,19,f,f,kum,Eurasia
+882,kohlakka,279,f,f,xuo,Africa
+881,kashaya,176,f,f,kju,North America
+880,karelian,465,f,f,krl,Eurasia
+887,monumbo,254,f,f,mxk,Papunesia
+886,miriwung,56,f,f,mep,Australia
+885,mazanderani,183,f,f,mzn,Eurasia
+884,mambwe,274,f,f,mgr,Africa
+1973,yindjibarndi,42,f,f,yij,Australia
+889,nahuatlmecayapanisthmus,476,f,f,nhx,North America
+888,mordvinmoksha,467,f,f,mdf,Eurasia
+1972,wikmunkan,42,f,f,wim,Australia
+2621,yamphu,512,f,f,ybi,Eurasia
+1971,warrgamay,42,f,f,wgy,Australia
+1115,hani,380,f,f,hni,Eurasia
+1362,mandinkagambian,292,f,f,mnk,Africa
+2627,hlaibaoding,406,f,f,lic,Eurasia
+2044,karachaybalkar,19,f,f,krc,Eurasia
+1968,ubykh,325,f,f,uby,Eurasia
+1969,urdu,182,f,f,urd,Eurasia
+1618,piaroa,358,f,f,pid,South America
+1619,qiang,387,f,f,"cng, qxs",Eurasia
+1616,orok,21,f,f,oaa,Eurasia
+1617,pawnee,115,f,f,paw,North America
+1614,mwera,274,f,f,mwe,Africa
+1615,nocte,388,f,f,njb,Eurasia
+1612,meyah,151,f,f,mej,Papunesia
+1613,mondunga,287,f,f,ndt,Africa
+1610,masa,11,f,f,mcn,Africa
+1611,mbabaram,42,f,f,,Australia
+1363,maxakali,239,f,f,mbl,South America
+2450,juhoan,212,f,t,ktz,Africa
+775,yupikchevak,158,f,f,esu,North America
+774,yulparija,42,f,f,mpj,Australia
+777,yupikstlawrenceisland,158,f,f,ess,Eurasia
+776,yupiknortonsound,158,f,f,esu,North America
+771,yakan,76,f,f,yka,Papunesia
+770,woiwurrung,42,f,f,,Australia
+773,yukpa,119,f,f,yup,South America
+772,yazva,465,f,f,kpv,Eurasia
+2399,paiwan,86,t,t,pwn,Papunesia
+779,zimakani,246,f,f,zik,Papunesia
+778,zapotectexmelucan,332,f,f,zpz,North America
+655,basquesouletin,107,f,f,eus,Eurasia
+2598,bangime,105,f,f,dba,Africa
+1043,moni,436,f,f,mnz,Papunesia
+1042,mombum,253,f,f,mso,Papunesia
+1041,maringarr,28,f,f,zmt,Australia
+1040,makonde,274,f,f,kde,Africa
+1047,nauruan,87,f,f,nau,Papunesia
+1046,nambasbig,87,f,f,nmb,Papunesia
+1045,nakkara,36,f,f,nck,Australia
+1044,mundani,274,f,f,mnf,Africa
+1049,saa,87,f,f,apb,Papunesia
+1048,rendille,12,f,f,rel,Africa
+1681,golin,438,f,f,gvf,Papunesia
+1680,frisian,181,f,f,frs,Eurasia
+1683,iranxe,529,f,f,irn,South America
+1682,gulaincentralafricanrepublic,305,f,f,glu,Africa
+1222,chiquitano,133,f,f,cax,South America
+1684,jaminjung,39,f,f,djd,Australia
+1687,kimaghama,217,f,f,kig,Papunesia
+1686,kaulong,87,f,f,pss,Papunesia
+1689,kokota,87,f,f,kkk,Papunesia
+1688,koegu,322,f,f,xwg,Africa
+1760,kemant,7,f,f,ahg,Africa
+1761,kinyarwanda,274,f,f,kin,Africa
+1766,meen,322,f,f,mym,Africa
+1767,monoalu,87,f,f,mte,Papunesia
+1764,mano,273,f,f,mev,Africa
+1912,puluwat,87,f,f,puw,Papunesia
+1142,sahaptinumatilla,348,f,f,uma,North America
+1143,shekhawati,182,f,f,swv,Eurasia
+1140,pisa,445,f,f,psa,Papunesia
+1141,rao,233,f,f,rao,Papunesia
+1146,tatisouthern,183,f,f,tks,Eurasia
+1147,tinani,389,f,f,lbf,Eurasia
+669,cupeno,474,f,f,cup,North America
+668,cogui,130,f,f,kog,South America
+667,clallam,360,f,f,clm,North America
+666,chumburung,275,f,f,ncu,Africa
+665,chorti,250,f,f,caa,North America
+664,carrier,262,f,f,crx,North America
+663,carijona,119,f,f,cbd,South America
+662,burum,434,f,f,bmu,Papunesia
+661,burji,12,f,f,bji,Africa
+660,buglere,122,f,f,sab,North America
+1221,caddo,115,f,f,cad,North America
+1722,javae,243,f,f,kpj,South America
+2402,drehu,87,f,t,dhv,Papunesia
+1546,gapapaiwa,87,f,f,pwg,Papunesia
+693,kalapuya,199,f,f,kyl,North America
+690,isekiri,294,f,f,its,Africa
+691,jarawara,24,f,f,jaa,South America
+696,karainpapuanewguinea,87,f,f,leu,Papunesia
+697,karaim,19,f,f,kdr,Eurasia
+694,kamanokafe,430,f,f,kbq,Papunesia
+695,kami,274,f,f,kcu,Africa
+1915,tepehuansoutheastern,478,f,f,stp,North America
+698,karata,269,f,f,kpt,Eurasia
+699,kasem,290,f,f,xsm,Africa
+1409,mikasuki,260,f,f,mik,North America
+1548,gela,87,f,f,nlg,Papunesia
+1549,gitksan,352,f,f,git,North America
+542,isirawa,224,f,f,srl,Papunesia
+543,jamamadi,24,f,f,jaa,South America
+540,inupiaq,158,f,f,esi,North America
+541,irishmunster,187,f,f,gle,Eurasia
+546,kelaapoze,87,f,f,kcl,Papunesia
+547,kirikiri,228,f,f,kiy,Papunesia
+544,kaili,526,f,f,lew,Papunesia
+545,kaiwa,457,f,f,kgk,South America
+1465,lou,87,f,f,loj,Papunesia
+8,akwa,286,f,f,png,Africa
+548,kowinye,290,f,f,kst,Africa
+549,konda,147,f,f,kfc,Eurasia
+1461,kumauni,182,f,f,kfy,Eurasia
+1460,kuman,438,f,f,kue,Papunesia
+1463,lacandon,250,f,f,lac,North America
+1462,kurukh,150,f,f,kru,Eurasia
+1317,nahali,265,f,f,nll,Eurasia
+1316,mussau,87,f,f,emi,Papunesia
+57,elseng,256,f,f,mrf,Papunesia
+58,embaloh,525,f,f,emb,Papunesia
+1315,matuumbi,274,f,f,mgw,Africa
+1314,magar,512,f,f,mgp,Eurasia
+1313,lu,404,f,f,khb,Eurasia
+1312,kotoko,5,f,f,aal,Africa
+1311,kiluba,274,f,f,lub,Africa
+1310,kefa,9,f,f,kbr,Africa
+1784,yingkarta,42,f,f,yia,Australia
+2516,zulu,274,t,t,zul,Africa
+2386,pitjantjatjara,42,f,t,pjt,Australia
+1319,ngangityemerri,50,f,f,nam,Australia
+1318,neoaramaicpersianazerbaijan,10,f,f,trg,Eurasia
+1403,londo,274,f,f,bdu,Africa
+1522,onge,399,f,f,oon,Eurasia
+1786,achagua,530,f,f,aca,South America
+1402,kuukuyau,42,f,f,kuy,Australia
+1787,alabama,260,f,f,akz,North America
+1401,kota,149,f,f,kfe,Eurasia
+2158,newarikathmandu,512,f,f,new,Eurasia
+2150,erromangan,87,f,f,erg,Papunesia
+1400,konkow,345,f,f,mjd,North America
+1128,madngele,54,f,f,zml,Australia
+1731,nahuatlmichoacan,476,f,f,ncl,North America
+1010,tojolabal,250,f,f,toj,North America
+1747,belorussian,185,f,f,bel,Eurasia
+1011,uru,470,f,f,ure,South America
+414,nateni,290,f,f,ntm,Africa
+415,ndogo,287,f,f,ndz,Africa
+416,nederlandsegebarentaal,330,f,f,dse,Eurasia
+417,negidal,21,f,f,neg,Eurasia
+410,nahuatlpajapan,476,f,f,nhp,North America
+411,nahuatlxalitla,476,f,f,ngu,North America
+412,nanumea,87,f,f,tvl,Papunesia
+413,naskapi,17,f,f,nsk,North America
+1384,bini,295,f,f,bin,Africa
+1385,bunuba,30,f,t,bck,Australia
+1386,camling,512,f,f,rab,Eurasia
+1387,chaldeanmodern,10,f,f,cld,Eurasia
+418,newzealandsignlanguage,330,f,f,nzs,Papunesia
+419,ngarluma,42,f,f,nrl,Australia
+1382,ahtna,262,f,f,aht,North America
+1383,baule,275,f,f,bci,Africa
+319,fulasenegal,276,f,f,fuc,Africa
+318,finnishsignlanguage,330,f,f,fse,Eurasia
+313,degexitan,262,f,f,ing,North America
+312,datooga,320,f,f,tcc,Africa
+311,curripaco,530,f,f,kpc,South America
+310,cuitlatec,145,f,f,,North America
+317,eweanglo,275,f,f,ewe,Africa
+316,enya,274,f,f,gey,Africa
+315,dyula,292,f,f,dyu,Africa
+314,dumagatcasiguran,514,f,f,dgc,Papunesia
+1237,irishdonegal,187,f,f,gle,Eurasia
+1804,kresh,301,f,f,krs,Africa
+1339,yaminahua,342,f,f,yaa,South America
+1338,xokleng,238,f,f,xok,South America
+2513,oromoharar,12,t,t,hae,Africa
+2025,kuot,220,f,f,kto,Papunesia
+2403,garo,383,f,t,grt,Eurasia
+443,roglainorthern,519,f,f,rog,Eurasia
+368,languedessignesfrancaise,330,f,f,fsl,Eurasia
+369,languedessignesquebecoise,330,f,f,fcs,North America
+366,lachi,405,f,f,lbt,Eurasia
+367,ladin,184,f,f,lld,Eurasia
+364,kulung,512,f,f,kle,Eurasia
+365,kutchin,262,f,f,gwi,North America
+362,korafe,442,f,f,kpr,Papunesia
+363,ksingmul,69,f,f,puo,Eurasia
+360,kituba,331,f,f,ktu,Africa
+361,kolana,415,f,f,kvw,Papunesia
+440,rade,519,f,f,rad,Eurasia
+2322,tonkawa,421,f,f,tqw,North America
+128,umbu ungu,438,f,f,ubu,Papunesia
+1238,isoko,295,f,f,iso,Africa
+2023,jabem,87,f,f,jae,Papunesia
+1330,shabo,310,f,f,sbf,Africa
+380,loko,292,f,f,lok,Africa
+382,lyele,290,f,f,lee,Africa
+383,macaguan,164,f,f,mbn,South America
+384,macuna,452,f,f,myy,South America
+385,mahican,17,f,f,mof,North America
+386,maku,245,f,f,,South America
+387,manjaku,276,f,f,mfv,Africa
+388,mapoyo,119,f,f,mcg,South America
+389,mattole,262,f,f,mvb,North America
+1997,komo,300,f,f,xom,Africa
+2176,lai,386,f,f,cnh,Eurasia
+1773,nyamwezi,274,f,f,nym,Africa
+2028,palikur,533,f,f,plu,South America
+1039,madurese,519,f,f,mad,Papunesia
+1772,nkonya,275,f,f,nko,Africa
+1174,kabiye,290,f,f,kbp,Africa
+109,indonesianjakarta,519,f,f,ind,Papunesia
+2393,bawm,386,f,t,bgr,Eurasia
+1223,coahuilteco,142,f,f,xcw,North America
+2045,madi,304,f,f,mhi,Africa
+2461,sango,287,t,t,sag,Africa
+2299,breton,187,f,f,bre,Eurasia
+2298,tauya,437,f,f,tya,Papunesia
+2293,hatam,495,f,f,had,Papunesia
+1779,telefol,441,f,f,tlf,Papunesia
+2291,tigre,10,f,f,tig,Africa
+2290,nepali,182,f,f,nep,Eurasia
+2297,retuara,452,f,f,tnc,South America
+2296,quileute,131,f,f,qui,North America
+2295,norwegian,181,f,f,nob,Eurasia
+1778,sikkimese,389,f,f,sip,Eurasia
+2190,kosraean,87,f,f,kos,Papunesia
+2191,nuuchahnulth,481,f,f,noo,North America
+258,yugh,503,f,f,yuu,Eurasia
+259,yuracare,506,f,f,yuz,South America
+2194,tashlhiyt,4,f,f,shi,Africa
+2195,teribe,123,f,f,tfr,North America
+2196,tiipayjamul,170,f,f,dih,North America
+2197,tolai,87,f,f,ksd,Papunesia
+252,yamba,274,f,f,yam,Africa
+253,yanomami,498,f,f,wca,South America
+250,yagdii,279,f,f,dur,Africa
+251,yaghnobi,183,f,f,yai,Eurasia
+256,yiddishlithuanian,181,f,f,ydd,Eurasia
+257,yiddishlodz,181,f,f,ydd,Eurasia
+254,yemba,274,f,f,ybb,Africa
+255,yiddishbessarabian,181,f,f,ydd,Eurasia
+2200,arawak,530,f,f,arw,South America
+2551,english,181,t,t,eng,Eurasia
+2202,birom,283,f,f,bom,Africa
+2203,dinka,320,f,f,dip,Africa
+2204,even,21,f,f,eve,Eurasia
+2205,goajiro,530,f,f,guc,South America
+2206,mangghuer,20,f,f,mjg,Eurasia
+2207,ojibwaeastern,17,f,f,"ojg, otw",North America
+2561,gugadj,42,f,f,ggd,Australia
+2209,seneca,192,f,f,see,North America
+2563,kariera,42,f,f,vka,Australia
+2562,gupapuyngu,42,f,f,guf,Australia
+2565,linngithig,42,f,f,lnj,Australia
+2564,kaytej,42,f,f,gbb,Australia
+2567,ngarla,42,f,f,nlr,Australia
+2566,mirniny,42,f,f,nju,Australia
+2433,mundari,66,f,t,unr,Eurasia
+1521,omie,439,f,f,aom,Papunesia
+2369,kera,2,f,t,ker,Africa
+2368,polish,185,f,f,pol,Eurasia
+2367,fur,306,f,t,fvr,Africa
+2366,cantonese,375,f,f,yue,Eurasia
+2365,yupikcentral,158,f,t,esu,North America
+2364,somali,12,f,f,som,Africa
+2363,kiribati,87,f,t,gil,Papunesia
+2362,sentani,366,f,t,set,Papunesia
+2361,zuni,510,f,f,zun,North America
+1679,eudeve,475,f,f,opt,North America
+2428,creeplains,17,t,t,crk,North America
+2046,manam,87,f,f,mva,Papunesia
+2400,ungarinjin,29,f,t,ung,Australia
+2584,ncam,290,f,f,bud,Africa
+2583,waama,290,f,f,wwa,Africa
+2582,nanerge,290,f,f,sen,Africa
+2581,jamsay,296,f,f,djm,Africa
+2047,ndut,276,f,f,ndv,Africa
+2420,irish,187,f,t,gle,Eurasia
+2421,nkorekiga,274,f,t,cgg,Africa
+2422,squamish,360,f,t,squ,North America
+2423,trumai,451,f,t,tpy,South America
+2424,danilowergrandvalley,432,t,t,dni,Papunesia
+1849,tepehuatlachichilco,429,f,f,tpt,North America
+2426,urubukaapor,457,f,t,urb,South America
+2427,cooshanis,327,f,t,csz,North America
+1861,bandjalang,42,f,f,bdy,Australia
+1860,arabana,42,f,f,ard,Australia
+1863,chaha,10,f,f,sgw,Africa
+1848,temein,297,f,f,teq,Africa
+168,martiniquecreole,331,f,f,gcf,North America
+169,matukar,87,f,f,mjk,Papunesia
+1867,gumuz,321,f,f,guk,Africa
+1866,ga,275,f,f,gaa,Africa
+164,mandaicmodern,10,f,f,mid,Eurasia
+1868,ignaciano,535,f,f,ign,South America
+166,maninka,292,f,f,emk,Africa
+167,mankanya,276,f,f,knf,Africa
+160,malaykualalumpur,519,f,f,zlm,Eurasia
+161,malayulumuar,519,f,f,zmi,Eurasia
+162,mali,104,f,f,gcc,Papunesia
+163,manambu,368,f,f,mle,Papunesia
+964,wikngathana,42,f,f,wig,Australia
+965,winnebago,391,f,f,win,North America
+966,yankuntjatjara,42,f,f,kdd,Australia
+967,zapotecsanlucasquiavini,332,f,f,zab,North America
+960,tunebo,124,f,f,tnd,South America
+961,ulithian,87,f,f,uli,Papunesia
+962,vagla,290,f,f,vag,Africa
+963,walmatjari,42,f,f,wmt,Australia
+2041,gumawana,87,f,f,gvs,Papunesia
+968,abau,367,f,f,aau,Papunesia
+969,alagwa,1,f,f,wbj,Africa
+2431,ika,130,f,t,arh,South America
+2109,warlpiri,42,f,f,wbp,Australia
+2108,vai,292,f,f,vai,Africa
+2518,arabicegyptian,10,t,t,arz,Africa
+2519,greenlandicwest,158,t,t,kal,Eurasia
+1842,muinane,179,f,f,bmr,South America
+2103,saltyui,438,f,f,sll,Papunesia
+1551,iau,228,f,f,tmu,Papunesia
+2101,masalit,313,f,f,mls,Africa
+2100,maithili,182,f,f,mai,Eurasia
+2107,tongan,87,f,f,ton,Papunesia
+1841,mixtecocotepec,334,f,f,mie,North America
+2105,shona,274,f,f,sna,Africa
+2104,seri,171,f,f,sei,North America
+1840,mikir,386,f,f,mjw,Eurasia
+2639,nadroga,87,f,f,fij,Papunesia
+2638,efatesouth,87,f,f,erk,Papunesia
+2635,vinmavis,87,f,f,vnm,Papunesia
+2634,labu,87,f,f,lbu,Papunesia
+2637,lamen,87,f,f,lmu,Papunesia
+2636,portsandwich,87,f,f,psw,Papunesia
+2631,banggi,73,f,f,bdg,Papunesia
+2630,agtadupaningan,513,f,f,duo,Papunesia
+2633,tetundili,75,f,f,tet,Papunesia
+2632,bajauwestcoast,76,f,f,bdr,Papunesia
+2042,kaingang,238,f,f,kgp,South America
+1717,chatinoyaitepec,332,f,f,ctp,North America
+2462,bagirmi,305,t,t,bmi,Africa
+2048,nganasan,463,f,f,nio,Eurasia
+629,aklanon,513,f,f,akl,Papunesia
+1090,ono,434,f,f,ons,Papunesia
+2073,chinantecquiotepec,335,f,f,chq,North America
+1844,nanai,21,f,f,gld,Eurasia
+1298,bugis,525,f,f,bug,Papunesia
+1158,balanta,276,f,f,"bjt, ble",Africa
+1814,qafar,12,f,f,aar,Africa
+1537,balivitu,87,f,f,"bbn, wiv",Papunesia
+1816,teop,87,f,f,tio,Papunesia
+1817,timugon,518,f,f,tih,Papunesia
+1810,ndebeleinsouthafrica,274,f,f,nbl,Africa
+1811,ngada,75,f,f,nxg,Papunesia
+878,iha,488,f,f,ihp,Papunesia
+879,jarawainandamans,399,f,f,anq,Eurasia
+71,germanbern,181,f,f,gsw,Eurasia
+70,germanberlin,181,f,f,deu,Eurasia
+876,hdi,5,f,f,xed,Africa
+877,hmongdaw,169,f,f,mww,Eurasia
+874,gurenne,290,f,f,gur,Africa
+875,hawrami,183,f,f,hac,Eurasia
+872,fiote,274,f,f,kng,Africa
+873,fox,17,f,f,sac,North America
+870,dakota,391,f,f,dak,North America
+871,emberachami,135,f,f,cmi,South America
+2037,belhare,512,f,f,byw,Eurasia
+1155,ayiwo,87,f,f,nfl,Papunesia
+2035,anejom,87,f,f,aty,Papunesia
+1534,timucua,419,f,f,tjm,North America
+2033,xoo,211,f,f,nmn,Africa
+2032,triquecopala,334,f,f,trc,North America
+2031,totonacxicotepecdejuarez,429,f,f,too,North America
+1154,aizi,277,f,f,ahp,Africa
+9,alas,521,f,f,btz,Papunesia
+1533,kuukthaayorre,42,f,f,thd,Australia
+1157,bafut,274,f,f,bfd,Africa
+2039,chinanteccomaltepec,335,f,f,cco,North America
+1244,katcha,198,f,f,xtc,Africa
+890,nivkhsouthsakhalin,324,f,f,niv,Eurasia
+891,nyiha,274,f,f,nih,Africa
+892,occitan,184,f,f,oci,Eurasia
+893,ojibwasevern,17,f,f,ojs,North America
+894,papiamentu,331,f,f,pap,North America
+647,basquebidasoavalley,107,f,f,eus,Eurasia
+896,pintupi,42,f,f,piu,Australia
+897,pogoro,274,f,f,poy,Africa
+898,popolocametzontla,339,f,f,pbe,North America
+899,quechan,170,f,f,yum,North America
+646,basquebasaburuaandimoz,107,f,f,eus,Eurasia
+1099,aja,301,f,f,aja,Africa
+2128,noni,274,f,f,nhu,Africa
+649,basquehondarribia,107,f,f,eus,Eurasia
+1153,ache,457,f,f,guq,South America
+648,basquegernica,107,f,f,eus,Eurasia
+1152,yiryiront,42,f,f,yiy,Australia
+2294,mokilese,87,f,f,mkj,Papunesia
+1609,mangapmbula,87,f,f,mna,Papunesia
+1608,mambila,274,f,f,"mcu, mzk",Africa
+2166,selkup,463,f,f,sel,Eurasia
+1979,nupe,278,f,f,nup,Africa
+1978,mordvinerzya,467,f,f,myv,Eurasia
+1601,kalam,437,f,f,kmh,Papunesia
+1600,ila,274,f,f,ilb,Africa
+1603,kinnauri,389,f,f,kfk,Eurasia
+1602,kharia,66,f,f,khr,Eurasia
+1605,komipermyak,468,f,f,koi,Eurasia
+1604,koita,439,f,f,kqi,Papunesia
+1607,lagwan,5,f,f,kot,Africa
+1606,konni,290,f,f,kma,Africa
+1964,sio,87,f,f,xsi,Papunesia
+809,kriolngukurr,331,f,f,rop,Australia
+1539,bete,277,f,f,bev,Africa
+1965,tarahumarawestern,479,f,f,tac,North America
+803,kanjobalwestern,250,f,f,knj,North America
+802,jurluwo,320,f,f,lwo,Africa
+801,inga,356,f,f,inb,South America
+800,ifumu,274,f,f,ifm,Africa
+807,kola,75,f,f,kvv,Papunesia
+806,kisar,75,f,f,kje,Papunesia
+805,kerek,139,f,f,krk,Eurasia
+804,kanumngkalmpw,255,f,f,kcd,Papunesia
+1788,aleut,157,f,f,ale,North America
+1789,ambai,79,f,f,amk,Papunesia
+768,wobe,277,f,f,wob,Africa
+769,wogamusin,367,f,f,wog,Papunesia
+2434,yidiny,42,f,t,yii,Australia
+762,vasavi,182,f,f,vas,Eurasia
+763,warluwara,42,f,f,wrb,Australia
+760,tillamook,361,f,f,til,North America
+761,unami,17,f,f,unm,North America
+766,weri,435,f,f,wer,Papunesia
+767,wetan,75,f,f,lex,Papunesia
+764,waropen,79,f,f,wrp,Papunesia
+765,waura,532,f,f,wau,South America
+1962,sema,386,f,f,nsm,Eurasia
+2585,kasim,290,f,f,xsm,Africa
+1963,sesotho,274,f,f,sot,Africa
+2612,tibetandrokpa,389,f,f,bod,Eurasia
+1775,pangasinan,514,f,f,pag,Papunesia
+1774,ocuilteco,336,f,f,ocu,North America
+1777,sare,370,f,f,dju,Papunesia
+1776,sandawe,214,f,f,sad,Africa
+1771,ngaanyatjarra,42,f,f,ntj,Australia
+1770,newardolakha,512,f,f,new,Eurasia
+1078,khinalug,267,f,f,kjj,Eurasia
+1079,kire,234,f,f,geb,Papunesia
+1076,karadjeri,42,f,f,gbd,Australia
+1077,karankawa,201,f,f,zkk,North America
+1074,jugli,388,f,f,nst,Eurasia
+1075,kaluli,111,f,f,bco,Papunesia
+1072,jabuti,194,f,f,jbt,South America
+1073,jino,380,f,f,"jiu, jiy",Eurasia
+1070,hemba,274,f,f,hem,Africa
+1071,holoholo,274,f,f,hoo,Africa
+1294,balinese,519,f,f,ban,Papunesia
+1678,dargwa,266,f,f,dar,Eurasia
+1561,nimboran,323,f,f,nir,Papunesia
+1674,bongo,305,f,f,bot,Africa
+1675,buma,87,f,f,tkw,Papunesia
+1676,buru,75,f,f,mhs,Papunesia
+1677,chai,322,f,f,suq,Africa
+1670,anguthimri,42,f,f,lnj,Australia
+1671,badimaya,42,f,f,bia,Australia
+1672,bikol,513,f,f,bcl,Papunesia
+1673,bimoba,290,f,f,bim,Africa
+1094,spitian,389,f,f,bod,Eurasia
+1095,thompson,362,f,f,thp,North America
+1096,wagiman,61,f,f,waq,Australia
+1097,yaqay,246,f,f,jaq,Papunesia
+678,gaalpu,42,f,f,dhg,Australia
+1091,ronga,274,f,f,rng,Africa
+1092,runyororutooro,274,f,f,nyo,Africa
+1093,sikuani,164,f,f,guh,South America
+674,dyimini,290,f,f,dyi,Africa
+77,germanthuringian,181,f,f,deu,Eurasia
+76,germanthurgau,181,f,f,gsw,Eurasia
+75,germanripuarian,181,f,f,ksh,Eurasia
+74,germanostschweiz,181,f,f,gsw,Eurasia
+73,germanmansfeldisch,181,f,f,deu,Eurasia
+72,germanhannover,181,f,f,deu,Eurasia
+675,enga,433,f,f,enq,Papunesia
+676,esselen,159,f,f,esq,North America
+677,fulamauritanian,276,f,f,fuc,Africa
+670,dabida,274,f,f,dav,Africa
+671,dhurga,42,f,f,dhu,Australia
+672,doutai,228,f,f,tds,Papunesia
+673,dullaygollango,12,f,f,gwd,Africa
+2553,diolakasa,276,f,f,csk,Africa
+2619,kanashi,389,f,f,xns,Eurasia
+1555,matis,342,f,f,mpq,South America
+2618,khamdege,389,f,f,khg,Eurasia
+2555,halkomelemupriver,360,f,f,hur,North America
+1082,madaincameroon,5,f,f,mxu,Africa
+1550,hiligaynon,513,f,f,hil,Papunesia
+1553,koreguaje,452,f,f,coe,South America
+1552,kenga,305,f,f,kyq,Africa
+59,etsako,295,f,f,ets,Africa
+1554,lamaholot,75,f,f,slp,Papunesia
+1557,mixecoatlan,252,f,f,mco,North America
+1556,mbili,274,f,f,baw,Africa
+55,dutchlimburg,181,f,f,nld,Eurasia
+54,dutchbrabantic,181,f,f,nld,Eurasia
+56,dutchzeeuws,181,f,f,zea,Eurasia
+51,dhuwaldatiwuy,42,f,f,duj,Australia
+50,dhimal,511,f,f,dhi,Eurasia
+53,dolgan,19,f,f,dlg,Eurasia
+52,dogri,182,f,f,"dgo, xnr",Eurasia
+537,gunya,42,f,f,gyy,Australia
+536,guduf,5,f,f,gdf,Africa
+535,guanano,452,f,f,gvc,South America
+534,greenlandiceast,158,f,f,kal,Eurasia
+533,gojri,182,f,f,gju,Eurasia
+532,garus,437,f,f,gyb,Papunesia
+531,galician,184,f,f,glg,Eurasia
+530,gade,278,f,f,ged,Africa
+1410,mofugudur,5,f,f,mif,Africa
+1411,mongo,274,f,f,lol,Africa
+1412,mundang,279,f,f,mua,Africa
+1413,nankina,434,f,f,nnk,Papunesia
+1414,ngalkbun,44,f,f,ngk,Australia
+1415,nobiin,307,f,f,fia,Africa
+539,haruai,461,f,f,tmd,Papunesia
+538,halang,63,f,f,hal,Eurasia
+1322,nsenga,274,f,f,nse,Africa
+1323,nyigina,46,f,f,nyh,Australia
+1320,ngawun,42,f,f,nxn,Australia
+1321,ngbakaminagende,537,f,f,nga,Africa
+1326,pame,338,f,f,pbs,North America
+1327,romanschsursilvan,184,f,f,roh,Eurasia
+1324,omaha,391,f,f,oma,North America
+1325,ormuri,183,f,f,oru,Eurasia
+1328,ron,6,f,f,cla,Africa
+1329,senadi,290,f,f,sef,Africa
+2494,meithei,386,t,t,mni,Eurasia
+1480,shan,404,f,f,shn,Eurasia
+2496,burmese,380,t,t,mya,Eurasia
+2506,tukangbesi,526,t,t,"bhq, khc",Papunesia
+1418,punu,169,f,f,buh,Eurasia
+1917,uraklawoi,519,f,f,urk,Eurasia
+1419,quechuacochabamba,356,f,f,quh,South America
+2330,panjabi,182,f,f,pan,Eurasia
+2072,bodo,383,f,f,brx,Eurasia
+1053,toratan,524,f,f,rth,Papunesia
+429,pengo,147,f,f,peg,Eurasia
+428,otomisantiagomexquititlan,336,f,f,otq,North America
+1254,maya,79,f,f,slz,Papunesia
+1255,makua,274,f,f,"mgh, xsq",Africa
+1252,laz,205,f,f,lzz,Eurasia
+1253,lua,279,f,f,nie,Africa
+1250,lakkia,405,f,f,lbc,Eurasia
+1251,lame,11,f,f,lme,Africa
+421,nitinaht,481,f,f,noo,North America
+420,nihonshuwajapanesesignlanguage,330,f,f,jsl,Eurasia
+423,nukak,114,f,f,mbr,South America
+422,niuafoou,87,f,f,num,Papunesia
+425,onondaga,192,f,f,ono,North America
+424,nyungar,42,f,f,nys,Australia
+427,orokolo,156,f,f,oro,Papunesia
+426,oriyakotia,182,f,f,ort,Eurasia
+308,comorian,274,f,f,swb,Africa
+309,cuicatec,334,f,f,"cut, cux",North America
+2259,cubeo,452,f,f,cub,South America
+2510,fijian,87,t,t,fij,Papunesia
+2071,apinaye,238,f,f,apn,South America
+300,chemakum,131,f,f,xch,North America
+301,chicomuceltec,250,f,f,cob,North America
+302,chimila,129,f,f,cbg,South America
+303,chinantecsanfelipeusila,335,f,f,cuc,North America
+304,chinantectepetotutla,335,f,f,cnt,North America
+305,chinesesignlanguage,330,f,f,csl,Eurasia
+306,colac,42,f,f,,Australia
+307,comecrudo,144,f,f,xcm,North America
+2257,yagaria,430,f,f,ygr,Papunesia
+2529,malagasy,73,t,t,plt,Africa
+1491,tugun,75,f,f,tzn,Papunesia
+2068,ute,477,f,f,ute,North America
+2036,arabicsyrian,10,f,f,apc,Eurasia
+1792,camsa,117,f,f,kbh,South America
+2254,qawasqar,15,f,t,alc,South America
+2070,angas,6,f,f,anc,Africa
+1151,yi,380,f,f,iii,Eurasia
+2625,ralte,386,f,f,ral,Eurasia
+1485,tairora,430,f,f,tbg,Papunesia
+1416,pacoh,72,f,f,pac,Eurasia
+1417,prasuni,182,f,f,prn,Eurasia
+1249,kwaza,223,f,f,,South America
+2077,irarutu,79,f,f,irh,Papunesia
+2476,awapit,106,f,t,kwi,South America
+2429,nahuatltetelcingo,476,f,t,nhg,North America
+988,makassar,525,f,f,mak,Papunesia
+79,germanupperaustrian,181,f,f,bar,Eurasia
+78,germantimisoara,181,f,f,deu,Eurasia
+2398,usan,437,f,t,wnu,Papunesia
+2474,warao,486,t,t,wba,South America
+2156,mbay,305,f,f,myb,Africa
+2040,chitimacha,134,f,f,ctm,North America
+2076,gude,5,f,f,gde,Africa
+1966,ticuna,414,f,f,tca,South America
+2149,chechen,268,f,f,che,Eurasia
+657,begakidaan,518,f,f,dbj,Papunesia
+1970,warayinaustralia,57,f,f,wrz,Australia
+1685,kadugli,198,f,f,xtc,Africa
+1166,dulong,385,f,f,duu,Eurasia
+1446,comox,360,f,f,coo,North America
+2569,umpila,42,f,f,ump,Australia
+2331,lak,266,f,t,lbe,Eurasia
+2183,tlapanec,333,f,f,tcf,North America
+1589,candoshi,118,f,f,cbu,South America
+2181,tepehuannorthern,478,f,f,ntp,North America
+2180,tatar,19,f,f,tat,Eurasia
+2187,coptic,8,f,f,cop,Africa
+2186,choctaw,260,f,f,cho,North America
+229,tayo,331,f,f,cks,Papunesia
+228,taulil,103,f,f,tuh,Papunesia
+227,tatarnoghayalabugat,19,f,f,nog,Eurasia
+226,tatarmishar,19,f,f,tat,Eurasia
+225,tatarbaraba,19,f,f,tat,Eurasia
+224,tamilspoken,149,f,f,tam,Eurasia
+223,taiwanese,375,f,f,nan,Eurasia
+2074,dan,273,f,f,daf,Africa
+221,swedishvasterbotten,181,f,f,swe,Eurasia
+220,spanishcanaryislands,184,f,f,spa,Eurasia
+2213,uradhi,42,f,f,urf,Australia
+2212,takelma,407,f,f,tkm,North America
+2211,tahitian,87,f,f,tah,Papunesia
+2210,siriono,457,f,f,srq,South America
+2217,hupa,262,f,f,hup,North America
+2216,danish,181,f,f,dan,Eurasia
+2161,washo,487,f,f,was,North America
+2214,cherokee,191,f,f,chr,North America
+2122,alyawarra,42,f,f,aly,Australia
+2218,itelmen,140,f,f,itl,Eurasia
+2338,marind,246,f,t,mrz,Papunesia
+2358,lahu,380,f,f,lhu,Eurasia
+2359,yuchi,504,f,t,yuc,North America
+2230,nasioi,152,f,f,nas,Papunesia
+2352,koyrachiini,308,f,f,khq,Africa
+2353,lithuanian,188,f,f,lit,Eurasia
+1160,bariba,290,f,f,bba,Africa
+2351,italian,184,f,f,ita,Eurasia
+1167,emmi,28,f,f,amy,Australia
+1444,chickasaw,260,f,f,cic,North America
+2354,oodham,478,f,f,ood,North America
+2355,romanian,184,f,f,ron,Eurasia
+151,lummi,360,f,f,str,North America
+150,luangiua,87,f,f,ojv,Papunesia
+153,luri,183,f,f,lrc,Eurasia
+2438,acoma,209,t,t,kjq,North America
+155,maca,249,f,f,mca,South America
+154,luxemburgeois,181,f,f,ltz,Eurasia
+157,magarsyangja,512,f,f,mrd,Eurasia
+156,madainnigeria,283,f,f,mda,Africa
+159,mahmeri,62,f,f,mhe,Eurasia
+2235,estonian,465,f,f,est,Eurasia
+1293,anamuxra,437,f,f,imi,Papunesia
+2430,yimas,231,f,t,yee,Papunesia
+2437,taba,79,f,t,mky,Papunesia
+2436,barasano,452,t,t,bsn,South America
+2435,karok,204,t,t,kyh,North America
+2234,chrau,63,f,f,crw,Eurasia
+1898,kikuyu,274,f,f,kik,Africa
+1899,koiari,439,f,f,kbk,Papunesia
+1894,iquito,509,f,f,iqu,South America
+1895,itonama,193,f,f,ito,South America
+1896,javanese,90,f,f,jav,Papunesia
+1443,binandere,442,f,f,bhg,Papunesia
+1890,chinantecpalantla,335,f,f,cpa,North America
+1891,dumi,512,f,f,dus,Eurasia
+1892,fulacameroonian,276,f,f,fub,Africa
+1893,fulnio,237,f,f,fun,South America
+959,tumleo,87,f,f,tmq,Papunesia
+958,tuki,274,f,f,bag,Africa
+2134,chemehuevi,477,f,f,ute,North America
+2135,ewondo,274,f,f,ewo,Africa
+2132,berta,319,f,f,wti,Africa
+2133,chatinosierraoccidental,332,f,f,ctp,North America
+2130,tawala,87,f,f,tbo,Papunesia
+1347,baruya,449,f,f,byr,Papunesia
+951,skou,392,f,f,skv,Papunesia
+950,secoya,452,f,f,sey,South America
+953,tamagario,208,f,f,tcg,Papunesia
+952,tabare,438,f,f,sst,Papunesia
+955,tem,290,f,f,kdh,Africa
+954,tangale,6,f,f,tan,Africa
+957,tubatulabal,480,f,f,tub,North America
+956,toqabaqita,87,f,f,mlu,Papunesia
+2269,muna,526,f,f,mnb,Papunesia
+1769,nevome,478,f,f,ood,North America
+1558,movima,258,f,f,mzp,South America
+2509,chukchi,139,t,t,ckt,Eurasia
+2508,chamorro,74,t,t,cha,Papunesia
+2507,burushaski,113,t,t,bsk,Eurasia
+1442,bidiya,2,f,f,bid,Africa
+1967,tuvaluan,87,f,f,tvl,Papunesia
+2504,yukaghirkolyma,505,f,t,yux,Eurasia
+2503,yoruba,294,t,t,yor,Africa
+2502,mapudungun,25,t,t,arn,South America
+1260,nyangi,316,f,f,nyp,Africa
+2500,kanuri,309,f,t,knc,Africa
+2648,barupu,394,f,f,wra,Papunesia
+2649,momu,226,f,f,fqs,Papunesia
+2640,ifiramele,87,f,f,mxe,Papunesia
+2641,momuna,443,f,f,mqf,Papunesia
+2642,mian,441,f,f,mpt,Papunesia
+2643,makasae,416,f,f,mkz,Papunesia
+2644,abui,417,f,f,abz,Papunesia
+2645,adang,417,f,f,adn,Papunesia
+2646,baham,488,f,f,bdw,Papunesia
+2647,dlamenggwa,365,f,f,kbv,Papunesia
+1762,majang,322,f,f,mpe,Africa
+2075,dizi,594,f,f,mdx,Africa
+1763,malgwa,5,f,f,mfi,Africa
+1807,mising,382,f,f,mrg,Eurasia
+1806,longgu,87,f,f,lgu,Papunesia
+1805,kuvi,147,f,f,kxv,Eurasia
+1560,nagatman,496,f,f,nce,Papunesia
+2006,nyishi,382,f,f,dap,Eurasia
+1803,kokborok,383,f,f,trp,Eurasia
+1802,karenbwe,378,f,f,bwe,Eurasia
+1801,ifugaobatad,514,f,f,ifb,Papunesia
+1800,huichol,471,f,f,hch,North America
+1809,namia,372,f,f,nnm,Papunesia
+1808,mutsun,347,f,f,css,North America
+2002,lingala,274,f,f,lin,Africa
+2003,ndonga,274,f,f,ndo,Africa
+2000,lampung,88,f,f,ljp,Papunesia
+2001,lelemi,275,f,f,lef,Africa
+1440,baining,104,f,f,byx,Papunesia
+2004,neoaramaicarbeljewish,10,f,f,aij,Eurasia
+2005,nisgha,352,f,f,ncg,North America
+2008,rawang,385,f,f,raw,Eurasia
+2009,rutul,267,f,f,rut,Eurasia
+1547,gbayakara,537,f,f,gya,Africa
+2034,yulu,305,f,f,yul,Africa
+2118,niuean,87,f,f,niu,Papunesia
+1790,bhojpuri,182,f,f,bho,Eurasia
+1269,romanschscharans,184,f,f,roh,Eurasia
+1268,romanikalderash,182,f,f,rmy,Eurasia
+507,aralletabulahan,525,f,f,atq,Papunesia
+1256,mungaka,274,f,f,mhk,Africa
+1948,bajausama,76,f,f,bdl,Papunesia
+1544,enets,463,f,f,"enf, enh",Eurasia
+1144,talyshsouthern,183,f,f,tly,Eurasia
+1257,nalik,87,f,f,nal,Papunesia
+1942,pomoeastern,176,f,f,peb,North America
+1943,sarcee,262,f,f,srs,North America
+1940,nyimang,302,f,f,nyi,Africa
+1941,paulohi,75,f,f,plh,Papunesia
+1946,anywa,320,f,f,anu,Africa
+1526,santa,20,f,f,sce,Eurasia
+1944,siona,452,f,f,snn,South America
+1945,tulu,149,f,f,tcy,Eurasia
+818,milang,382,f,f,adi,Eurasia
+819,mochica,132,f,f,,South America
+1527,sapuan,63,f,f,spu,Eurasia
+2425,nenets,463,f,t,yrk,Eurasia
+1262,parauk,69,f,f,prk,Eurasia
+810,kuiinindonesia,417,f,f,kvd,Papunesia
+811,kunjen,42,f,f,kjn,Australia
+812,kunming,375,f,f,cmn,Eurasia
+813,kwamera,87,f,f,tnk,Papunesia
+814,lonwolwol,87,f,f,crc,Papunesia
+815,loven,63,f,f,lbo,Eurasia
+816,malaccacreole,331,f,f,mcm,Eurasia
+817,manx,187,f,f,glv,Eurasia
+1545,gamo,13,f,f,gmo,Africa
+1799,hamer,9,f,f,amf,Africa
+1149,tuaregair,4,f,f,thv,Africa
+1399,khakas,19,f,f,kjh,Eurasia
+719,mbugu,1,f,f,mhd,Africa
+718,mayiyapi,42,f,f,,Australia
+717,mawchi,182,f,f,mke,Eurasia
+716,martuwangka,42,f,f,mpj,Australia
+715,maring,438,f,f,mbw,Papunesia
+714,mantjiltjara,42,f,f,mpj,Australia
+713,manem,110,f,f,jet,Papunesia
+712,mampruli,290,f,f,maw,Africa
+711,malay,519,f,f,zsm,Eurasia
+710,lule,236,f,f,,South America
+1490,tobati,87,f,f,tti,Papunesia
+1397,kalalagawya,42,f,f,mwp,Papunesia
+1492,uzbeknorthern,19,f,f,uzn,Eurasia
+1493,votic,465,f,f,vot,Eurasia
+1267,rawa,434,f,f,rwo,Papunesia
+1265,popolocasanjuanatzingo,339,f,f,poe,North America
+1496,avokaya,304,f,f,avu,Africa
+1396,jiarong,390,f,f,jya,Eurasia
+1498,busa,273,f,f,bqp,Africa
+1499,cashibo,342,f,f,cbr,South America
+1264,poai,87,f,f,fwa,Papunesia
+1395,isaka,395,f,f,ksi,Papunesia
+1994,eseejja,403,f,f,ese,South America
+1069,esmeraldeno,402,f,f,,South America
+1068,edolo,111,f,f,etr,Papunesia
+1702,purki,389,f,f,prx,Eurasia
+1394,heiltsuk,482,f,f,hei,North America
+1704,romaniwelsh,182,f,f,rmw,Eurasia
+1705,rumu,460,f,f,klq,Papunesia
+1706,runga,313,f,f,rou,Africa
+1707,sardinian,184,f,f,sro,Eurasia
+1061,alsea,328,f,f,aes,North America
+1060,aguacatec,250,f,f,agu,North America
+1063,bugun,374,f,f,,Eurasia
+1996,huitotominica,180,f,t,hto,South America
+1065,chichimecajonaz,340,f,f,pei,North America
+1064,chameastern,519,f,f,cjm,Eurasia
+1067,crimeantatar,19,f,f,crh,Eurasia
+1066,cholon,136,f,f,"cht, clh",South America
+1628,warrwa,46,f,f,wwr,Australia
+1999,kunimaipa,435,f,f,kup,Papunesia
+2333,ekari,436,f,t,ekg,Papunesia
+1258,nengone,87,f,f,nen,Papunesia
+1669,agarabi,430,f,f,agd,Papunesia
+1668,aari,9,f,f,aiw,Africa
+1667,yokutsyaudanchi,344,f,f,yok,North America
+1525,pumi,387,f,f,"pmi, pmj",Eurasia
+1665,ura,87,f,f,uur,Papunesia
+1259,nyahkurthapong,65,f,f,cbn,Eurasia
+1663,shina,182,f,f,scl,Eurasia
+1662,salibaincolombia,357,f,f,slc,South America
+1661,oromowaata,12,f,f,ssn,Africa
+1660,orokaiva,442,f,f,okv,Papunesia
+591,saho,12,f,f,ssy,Africa
+1086,malto,150,f,f,kmj,Eurasia
+593,salishsouthernpugetsound,360,f,f,slh,North America
+592,salishsamishstraits,360,f,f,str,North America
+1083,magi,450,f,f,mgu,Papunesia
+594,samabalangingi,76,f,f,sse,Papunesia
+84,ghotuo,295,f,f,aaa,Africa
+90,guaque,119,f,f,,South America
+597,shawnee,17,f,f,sjw,North America
+596,sena,274,f,f,seh,Africa
+1120,kodava,149,f,f,kfa,Eurasia
+598,shor,19,f,f,cjs,Eurasia
+1122,konjo,525,f,f,kjc,Papunesia
+1123,kraho,238,f,f,xra,South America
+1124,kuku,320,f,f,bfa,Africa
+1125,kwerba,224,f,f,kwe,Papunesia
+1089,oksapmin,326,f,f,opm,Papunesia
+1088,mojave,170,f,f,mov,North America
+1864,dagaare,290,f,f,dga,Africa
+2603,sidaama,12,f,f,sid,Africa
+1359,kete,274,f,f,kcv,Africa
+524,deni,24,f,f,dny,South America
+525,deutschegebardensprache,330,f,f,gsg,Eurasia
+526,ding,274,f,f,diz,Africa
+527,eipo,446,f,f,eip,Papunesia
+520,chamalal,269,f,f,cji,Eurasia
+1019,basari,276,f,f,bsc,Africa
+522,daba,5,f,f,"dbq, dkx",Africa
+523,defaka,288,f,f,afn,Africa
+1014,yavapai,170,f,f,yuf,North America
+1015,aghu,445,f,f,ahh,Papunesia
+1016,anyi,275,f,f,any,Africa
+1017,ayoreo,508,f,f,ayo,South America
+528,frisianwestern,181,f,f,fry,Eurasia
+529,fulaguinean,276,f,f,fuf,Africa
+1012,watam,235,f,f,wax,Papunesia
+1013,wyandot,192,f,f,wya,North America
+1234,guato,241,f,f,gta,South America
+1235,hadza,166,f,f,hts,Africa
+449,slavey,262,f,f,xsl,North America
+448,siriano,452,f,f,sri,South America
+1230,ega,275,f,f,ega,Africa
+1231,fuzhou,375,f,f,cdo,Eurasia
+1232,gelao,405,f,f,gio,Eurasia
+1233,gola,291,f,f,gol,Africa
+1335,waunana,135,f,f,noa,South America
+442,rennellese,87,f,f,mnv,Papunesia
+441,rengao,63,f,f,ren,Eurasia
+1336,xam,211,f,f,xam,Africa
+447,sherdukpen,374,f,f,sdp,Eurasia
+446,semai,62,f,f,sea,Eurasia
+445,russiansignlanguage,330,f,f,rsl,Eurasia
+1332,tikar,274,f,f,tik,Africa
+1520,naxi,384,f,f,nbf,Eurasia
+1542,darma,389,f,f,drd,Eurasia
+1543,dime,9,f,f,dim,Africa
+39,buliinghana,290,f,f,bwu,Africa
+38,brueastern,72,f,f,bru,Eurasia
+1540,chontalhuamelultecoaxaca,413,f,f,clo,North America
+33,berberwargla,4,f,f,oua,Africa
+32,bathari,10,f,f,bhm,Eurasia
+30,baragaunle,389,f,f,loy,Eurasia
+37,bosnian,185,f,f,bos,Eurasia
+35,biatah,95,f,f,bth,Papunesia
+34,biafada,276,f,f,bif,Africa
+1241,jomang,281,f,f,tlo,Africa
+640,bahinemo,370,f,f,bjh,Papunesia
+1243,karkaryuri,203,f,f,yuj,Papunesia
+1242,kamzhanglu,404,f,f,doc,Eurasia
+1245,kedang,75,f,f,ksx,Papunesia
+644,banawa,24,f,f,jaa,South America
+438,quechuaancash,356,f,f,qxa,South America
+439,quechuacajamarca,356,f,f,qvc,South America
+436,powhatan,17,f,f,pim,North America
+437,puinave,354,f,f,pui,South America
+434,popolocasanvicentecoyotepec,339,f,f,pbf,North America
+435,potawatomi,17,f,f,pot,North America
+432,playero,164,f,f,gob,South America
+433,pocomamoriental,250,f,f,poa,North America
+430,piapoco,530,f,f,pio,South America
+431,piratapuyo,452,f,f,pir,South America
+2545,indonesian,519,t,t,ind,Papunesia
+2485,rapanui,87,t,t,rap,Papunesia
+339,jahai,62,f,f,jhi,Eurasia
+338,ixcatec,339,f,f,ixc,North America
+335,irishsignlanguage,330,f,f,isg,Eurasia
+334,inuktitutrankininlet,158,f,f,ikt,North America
+337,itawis,514,f,f,itv,Papunesia
+336,israelisignlanguage,330,f,f,isr,Eurasia
+331,illinois,17,f,f,mia,North America
+330,icelandicsignlanguage,330,f,f,icl,Eurasia
+333,indopakistanisignlanguageindiandialects,330,f,f,ins,Eurasia
+332,inanwatan,247,f,f,szp,Papunesia
+744,salar,19,f,f,slr,Eurasia
+2481,gooniyandi,30,t,t,gni,Australia
+745,sayultec,252,f,f,pos,North America
+1494,adzera,87,f,f,adz,Papunesia
+2559,bayungu,42,f,f,bxj,Australia
+1993,engenni,295,f,f,enn,Africa
+2018,cebuano,513,f,f,ceb,Papunesia
+1145,tatana,518,f,f,txx,Papunesia
+1523,orig,282,f,f,ras,Africa
+748,seychellescreole,331,f,f,crs,Eurasia
+554,lauje,526,f,f,law,Papunesia
+1469,muisca,124,f,f,chb,South America
+2550,french,184,t,t,fra,Eurasia
+2007,pari,320,f,f,lkr,Africa
+1495,amuzgo,337,f,f,amu,North America
+1468,matses,342,f,f,mcf,South America
+2512,lango,320,t,t,laj,Africa
+1960,mehri,10,f,f,gdq,Eurasia
+1528,siane,430,f,f,snp,Papunesia
+2063,minangkabau,519,f,f,min,Papunesia
+1464,lewo,87,f,f,lww,Papunesia
+552,kulamanen,513,f,f,mbt,Papunesia
+2308,wintu,349,f,f,wit,North America
+1467,marrithiyel,28,f,f,mfr,Australia
+1353,igede,289,f,f,ige,Africa
+2542,japanese,195,t,t,jpn,Eurasia
+1466,manadonese,519,f,f,xmm,Papunesia
+1961,ngambay,305,f,f,sba,Africa
+2219,kabardian,325,f,f,kbd,Eurasia
+2265,sedang,63,f,f,sed,Eurasia
+2406,semelai,62,f,t,sza,Eurasia
+91,guere,277,f,f,"gxx, wec",Africa
+93,guineabissaucrioulo,331,f,f,pov,Africa
+92,guianesefrenchcreole,331,f,f,gcr,South America
+2064,mixtecpenoles,334,f,f,mil,North America
+1497,azariiranian,19,f,f,azb,Eurasia
+2560,dhalandji,42,f,f,dhl,Australia
+1352,gaagudju,49,f,f,gbu,Australia
+2464,ingush,268,f,t,inh,Eurasia
+2106,sre,63,f,f,kpm,Eurasia
+2465,maung,38,t,t,mph,Australia
+2505,maybrat,493,t,t,ayz,Papunesia
+2466,koromfe,290,f,t,kfz,Africa
+2065,mohawk,192,f,f,moh,North America
+2439,paumari,24,f,t,pad,South America
+2372,tlingit,263,f,t,tli,North America
+2467,quechuaimbabura,356,t,t,qvi,South America
+238,turkicwestxorasan,19,f,f,kmz,Eurasia
+239,twana,360,f,f,twa,North America
+234,tod,389,f,f,sbu,Eurasia
+235,toussianwin,290,f,f,wib,Africa
+236,tumak,2,f,f,tmc,Africa
+237,turkiceastcentralxorasan,19,f,f,kmz,Eurasia
+230,teco,250,f,f,ttc,North America
+231,tepecano,478,f,f,tep,North America
+233,tindi,269,f,f,tin,Eurasia
+1098,zaparo,509,f,f,zro,South America
+2344,chuvash,19,f,f,chv,Eurasia
+2347,purepecha,408,f,f,tsz,North America
+2346,kashmiri,182,f,f,kas,Eurasia
+2341,swedish,181,f,f,swe,Eurasia
+2340,maba,313,f,t,mde,Africa
+2228,luiseno,474,f,f,lui,North America
+2342,wolof,276,f,f,wol,Africa
+2226,catalan,184,f,f,cat,Eurasia
+2227,fulanigerian,276,f,f,fuv,Africa
+2224,so,316,f,f,teu,Africa
+2225,temne,291,f,f,tem,Africa
+2222,lele,2,f,f,lln,Africa
+2223,shuswap,362,f,f,shs,North America
+2220,kanakuru,6,f,f,kna,Africa
+2221,kwaio,87,f,f,kwd,Papunesia
+1,apucikwar,163,f,f,apq,Eurasia
+146,lamnso,274,f,f,lns,Africa
+147,linguagestualportuguesa,330,f,f,psr,Eurasia
+144,kutai,519,f,f,vkt,Papunesia
+145,laha,405,f,f,lha,Eurasia
+142,kryz,267,f,f,kry,Eurasia
+1579,yana,175,f,f,ynn,North America
+141,krymchak,19,f,f,uzn,Eurasia
+2468,rama,125,t,t,rma,North America
+2067,nuaulu,75,f,f,"nni, nxl",Papunesia
+148,loma,292,f,f,lom,Africa
+149,lowgerman,181,f,f,nds,Eurasia
+2148,buriat,20,f,f,bxm,Eurasia
+1889,chimariko,172,f,f,cid,North America
+1888,athpare,512,f,f,aph,Eurasia
+1887,andoke,22,f,f,ano,South America
+1886,acholi,320,f,f,ach,Africa
+1885,wolio,526,f,f,wlo,Papunesia
+1884,woisika,417,f,f,woi,Papunesia
+1883,teso,320,f,f,teo,Africa
+1882,tennet,322,f,f,tex,Africa
+1881,tboli,517,f,f,tbl,Papunesia
+1880,ogbronuagum,293,f,f,ogu,Africa
+2121,salinan,359,f,f,sln,North America
+1529,sindhi,182,f,f,snd,Eurasia
+2088,tubu,309,f,f,"dzg, tuq",Africa
+2089,tucano,452,f,f,tuo,South America
+2125,kiwai,216,f,f,"kiw, kjd",Papunesia
+2119,noon,276,f,f,snf,Africa
+948,quiche,250,f,f,quc,North America
+949,rembarnga,40,f,f,rmb,Australia
+946,pomocentral,176,f,f,poo,North America
+947,quechuaayacucho,356,f,f,quy,South America
+944,nande,274,f,f,nnb,Africa
+945,nkem,274,f,f,isi,Africa
+942,mixtecatatlahuca,334,f,f,mib,North America
+943,mpongwe,274,f,f,mye,Africa
+940,miwokcentralsierra,350,f,f,csm,North America
+941,miwoknorthernsierra,350,f,f,nsq,North America
+1191,mixtecmolinos,334,f,f,mig,North America
+2538,amele,437,t,t,aey,Papunesia
+2539,german,181,t,t,deu,Eurasia
+1356,kekchi,250,f,f,kek,North America
+1190,mekeo,87,f,f,mek,Papunesia
+2532,maori,87,f,t,mri,Papunesia
+2533,basque,107,t,t,eus,Eurasia
+2530,supyire,290,t,t,spp,Africa
+2531,hausa,6,t,t,hau,Africa
+2536,korean,218,t,t,kor,Eurasia
+2537,persian,183,t,t,pes,Eurasia
+2534,abkhaz,325,t,t,abk,Eurasia
+2410,igbo,272,f,t,ibo,Africa
+2659,musqueam,360,f,f,hur,North America
+2658,innamincka,42,f,f,ynd,Australia
+642,balantak,526,f,f,blz,Papunesia
+2339,abipon,165,f,t,axb,South America
+2653,owininga,229,f,f,owi,Papunesia
+2349,dyirbal,42,f,f,dbl,Australia
+2651,nai,225,f,f,bio,Papunesia
+2650,kwomtari,225,f,f,kwo,Papunesia
+2657,kamasau,425,f,f,kms,Papunesia
+2656,mufian,427,f,f,aoj,Papunesia
+2655,kombio,427,f,f,xbi,Papunesia
+2348,una,446,f,t,mtg,Papunesia
+133,kenyansignlanguage,330,f,f,xki,Africa
+2172,bininjgunwok,44,f,f,gup,Australia
+131,keo,75,f,f,xxk,Papunesia
+130,kayuagung,88,f,f,kge,Papunesia
+137,kitja,56,f,f,gia,Australia
+136,kirghizfuyu,19,f,f,kir,Eurasia
+135,khvarshi,269,f,f,khv,Eurasia
+134,ketapang,519,f,f,zlm,Eurasia
+2270,mupun,6,f,f,sur,Africa
+139,kosop,279,f,f,kia,Africa
+138,kom,274,f,f,bkm,Africa
+2671,hoan,213,f,f,huc,Africa
+1832,hakka,375,f,f,hak,Eurasia
+1833,izi,272,f,f,izi,Africa
+232,thao,596,f,f,ssf,Papunesia
+98,haisla,482,f,f,has,North America
+95,gurmatogo,290,f,f,gux,Africa
+94,gumatj,42,f,f,gnn,Australia
+97,gusii,274,f,f,guz,Africa
+96,guro,273,f,f,goa,Africa
+1830,fore,430,f,f,for,Papunesia
+1831,gurung,389,f,f,"ggn, gvr",Eurasia
+1836,lamang,5,f,f,hia,Africa
+1837,lillooet,362,f,f,lil,North America
+1834,khaling,512,f,f,klr,Eurasia
+1835,korowai,445,f,f,khe,Papunesia
+1716,cakchiquel,250,f,f,ckf,North America
+1239,ivatansouthern,516,f,f,ivv,Papunesia
+1838,macedonian,185,f,f,mkd,Eurasia
+1839,margany,42,f,f,zmc,Australia
+2154,jingpho,377,f,f,kac,Eurasia
+2155,marimeadow,466,f,f,mhr,Eurasia
+939,miisiirii,311,f,f,tma,Africa
+938,midob,307,f,f,mei,Africa
+2019,chintiddim,386,f,f,ctd,Eurasia
+2151,hua,430,f,f,ygr,Papunesia
+1930,gimira,13,f,f,bcq,Africa
+2153,jebero,116,f,f,jeb,South America
+933,lozi,274,f,f,loz,Africa
+932,lengua,248,f,f,leg,South America
+931,kwami,6,f,f,ksq,Africa
+930,kusunda,221,f,f,kgg,Eurasia
+937,marihill,466,f,f,mrj,Eurasia
+936,marchha,389,f,f,rnp,Eurasia
+935,makaa,274,f,f,mcp,Africa
+934,magahi,182,f,f,mag,Eurasia
+1759,karoarara,456,f,f,arr,South America
+2356,tamil,149,f,f,tam,Eurasia
+1758,kalispel,362,f,f,fla,North America
+1955,godoberi,269,f,f,gdo,Eurasia
+1954,gadsup,430,f,f,gaj,Papunesia
+1957,korana,210,f,f,kqz,Africa
+1956,ingessana,298,f,f,tbi,Africa
+1951,chumashbarbareno,141,f,f,boi,North America
+1950,chichewa,274,f,f,nya,Africa
+1953,embera northern,135,f,f,emp,South America
+1952,dong,404,f,f,"doc, kmc",Eurasia
+1829,chepang,512,f,f,cdm,Eurasia
+1578,yalekosarek,446,f,f,kkl,Papunesia
+1793,chinooklower,346,f,f,chh,North America
+1828,chantyal,389,f,f,chx,Eurasia
+2486,ainu,14,f,t,ain,Eurasia
+2357,bulgarian,185,f,f,bul,Eurasia
+2629,shompen,373,f,f,,Eurasia
+2112,kawaiisu,477,f,f,xaw,North America
+1990,wikchamni,344,f,f,yok,North America
+829,paita,87,f,f,duf,Papunesia
+828,padoe,526,f,f,pdo,Papunesia
+825,olutec,252,f,f,plo,North America
+824,okanagan,362,f,f,oka,North America
+827,oromowestcentral,12,f,f,gaz,Africa
+826,oroch,21,f,f,oac,Eurasia
+821,ngarinyeri,42,f,f,nay,Australia
+820,mopan,250,f,f,mop,North America
+823,nyangumarda,42,f,f,nna,Australia
+822,ghulfan,307,f,f,ghl,Africa
+2523,hindi,182,t,t,hin,Eurasia
+1278,tampulma,290,f,f,tpm,Africa
+708,ladino,184,f,f,lad,Eurasia
+709,lafofa,280,f,f,laf,Africa
+1536,warembori,79,f,f,wsa,Papunesia
+1279,tarok,283,f,f,yer,Africa
+704,kokni,182,f,f,kex,Eurasia
+705,konkomba,290,f,f,xon,Africa
+706,koranko,292,f,f,knk,Africa
+707,kposo,275,f,f,kpo,Africa
+700,kaure,207,f,f,bpp,Papunesia
+701,kemtuik,323,f,f,kmt,Papunesia
+702,ketengban,446,f,f,xte,Papunesia
+703,kitsai,115,f,f,kii,North America
+1483,siar,87,f,f,sjr,Papunesia
+1482,sherpa,389,f,f,xsr,Eurasia
+88,greekcypriot,186,f,f,ell,Eurasia
+89,guadeloupecreole,331,f,f,gcf,North America
+1487,tausug,513,f,f,tsg,Papunesia
+1486,tarao,386,f,f,tro,Eurasia
+1263,phlong,378,f,f,pww,Eurasia
+1484,sudest,87,f,f,tgo,Papunesia
+82,germanwestphalian,181,f,f,wep,Eurasia
+83,germanzurich,181,f,f,gsw,Eurasia
+80,germanviennese,181,f,f,bar,Eurasia
+81,mamsouthern,250,f,f,mms,North America
+86,giziga,5,f,f,"gis, giz",Africa
+87,gorontalo,513,f,f,gor,Papunesia
+85,gidar,5,f,f,gid,Africa
+1713,anggor,365,f,f,agg,Papunesia
+796,gogodala,162,f,f,ggw,Papunesia
+795,gutob,66,f,f,gbj,Eurasia
+794,ekoti,274,f,f,eko,Africa
+793,duna,431,f,f,duc,Papunesia
+792,dobel,75,f,f,kvo,Papunesia
+791,dari,183,f,f,prs,Eurasia
+790,culina,24,f,f,cul,South America
+1719,hualapai,170,f,f,yuf,North America
+1718,gondi,147,f,f,"ggo, gno",Eurasia
+2413,cahuilla,474,f,t,chl,North America
+799,herero,274,f,f,her,Africa
+798,hawaiiancreole,331,f,f,hwc,North America
+612,tontemboan,523,f,f,tnt,Papunesia
+1658,ngandi,32,f,f,nid,Australia
+1659,ocaina,180,f,f,oca,South America
+613,toraja,525,f,f,sda,Papunesia
+1652,maipure,530,f,f,,South America
+1388,degema,295,f,f,deg,Africa
+1650,lotha,386,f,f,njh,Eurasia
+1656,mixtecyosondua,334,f,f,mpm,North America
+1272,savosavo,397,f,f,svs,Papunesia
+1654,mbara,5,f,f,mpk,Africa
+1389,dongo,287,f,f,doo,Africa
+586,rejang,84,f,f,rej,Papunesia
+587,romaninorthrussian,182,f,f,rml,Eurasia
+584,pulopetak,73,f,f,nij,Papunesia
+585,quechuatarma,356,f,f,qvn,South America
+582,parecis,532,f,f,pab,South America
+100,havasupai,170,f,f,yuf,North America
+99,harari,10,f,f,har,Africa
+583,polabian,185,f,f,pox,Eurasia
+580,otoro,285,f,f,otr,Africa
+581,pagu,494,f,f,pgu,Papunesia
+1132,minaveha,87,f,f,mvn,Papunesia
+1131,mbere,274,f,f,mdt,Africa
+1130,marshallese,87,f,f,mah,Papunesia
+1137,one,426,f,f,aun,Papunesia
+1136,nend,437,f,f,anh,Papunesia
+588,romansch,184,f,f,roh,Eurasia
+589,romanschsurmeiran,184,f,f,roh,Eurasia
+2419,comanche,477,f,t,com,North America
+1261,ogbia,293,f,f,ogb,Africa
+1985,temiar,62,f,f,tea,Eurasia
+1276,soddo,10,f,f,gru,Africa
+2061,kolami,148,f,f,"kfb, nit",Eurasia
+2182,tibetanstandardspoken,389,f,f,bod,Eurasia
+1982,salibainpapuanewguinea,87,f,f,sbe,Papunesia
+1178,khowar,182,f,f,khw,Eurasia
+2062,koryak,139,f,f,kpy,Eurasia
+1348,bisa,273,f,f,bib,Africa
+1983,slovene,185,f,f,slv,Eurasia
+1436,adygheabzakh,325,f,f,ady,Eurasia
+1437,alaala,87,f,f,nrz,Papunesia
+1434,yahgan,497,f,f,yag,South America
+1435,zoquesoteapan,252,f,f,poi,North America
+1432,vafsi,183,f,f,vaf,Eurasia
+1433,wangkumara,42,f,f,nbx,Australia
+1430,tuaregghat,4,f,f,thv,Africa
+1431,tungak,87,f,f,lcm,Papunesia
+1380,afrikaans,181,f,f,afr,Africa
+1637,chehalisupper,364,f,f,cjh,North America
+1438,angaatiha,449,f,f,agm,Papunesia
+1381,aghem,274,f,f,agq,Africa
+519,bulu,274,f,f,bum,Africa
+518,bukusu,274,f,f,bxk,Africa
+2066,moseten,257,f,f,cas,South America
+1009,sungor,311,f,f,sjg,Africa
+1008,sranan,331,f,f,srn,South America
+511,banggarla,42,f,f,bjb,Australia
+510,bakundu,274,f,f,bdu,Africa
+513,benga,274,f,f,bng,Africa
+512,bayso,12,f,f,bsw,Africa
+1003,pomonorthern,176,f,f,pej,North America
+514,bima,75,f,f,bhp,Papunesia
+517,bole,6,f,f,bol,Africa
+516,boiken,368,f,f,bzf,Papunesia
+458,tananalower,262,f,f,taa,North America
+459,tanzaniasignlanguage,330,f,f,tza,Africa
+621,yakoma,287,f,f,yky,Africa
+620,xunekoka,212,f,f,knw,Africa
+627,juma,457,f,f,jua,South America
+626,zhangzhung,389,f,f,jna,Eurasia
+625,yupiksirenik,158,f,f,ysr,Eurasia
+624,yupiknaukan,158,f,f,ynk,Eurasia
+450,songe,274,f,f,sop,Africa
+451,sorbianlower,185,f,f,dsb,Eurasia
+452,southkoreansignlanguage,330,f,f,kvk,Eurasia
+453,svenskateckenspraket,330,f,f,swl,Eurasia
+454,tabassaran,267,f,f,tab,Eurasia
+455,taiwanesesignlanguageziranshouyu,330,f,f,tss,Papunesia
+456,talyshazerbaijan,183,f,f,tly,Eurasia
+457,tanaina,262,f,f,tfn,North America
+1988,totonacmisantla,429,f,f,tlc,North America
+1139,paiutesouthern,477,f,f,ute,North America
+1535,totonacpapantla,429,f,f,top,North America
+2157,murrinhpatha,37,f,f,mwf,Australia
+2060,kham,512,f,f,kgj,Eurasia
+222,tagbanwaaborlan,513,f,f,tbw,Papunesia
+2412,brahui,150,f,t,brh,Eurasia
+1266,pungupungu,43,f,f,wdj,Australia
+1645,klao,277,f,f,klu,Africa
+656,basquezeberio,107,f,f,eus,Eurasia
+1503,djambarrpuyngu,42,f,f,djr,Australia
+654,basquesakana,107,f,f,eus,Eurasia
+2,achi,250,f,f,"acc, acr",North America
+652,basqueonati,107,f,f,eus,Eurasia
+653,basqueroncalese,107,f,f,eus,Eurasia
+650,basquelekeitio,107,f,f,eus,Eurasia
+651,basquenorthernhighnavarrese,107,f,f,eus,Eurasia
+1508,jarawainnigeria,274,f,f,jar,Africa
+1509,kadazan,518,f,f,kzj,Papunesia
+658,bhili,182,f,f,bhb,Eurasia
+659,binumarien,430,f,f,bjr,Papunesia
+2599,beria,312,f,f,zag,Africa
+2120,paiutenorthern,477,f,f,pao,North America
+1644,kiliwa,170,f,f,klb,North America
+1331,soninke,292,f,f,snk,Africa
+1286,wapishana,530,f,f,wap,South America
+2124,kana,293,f,f,ogo,Africa
+11,andi,269,f,f,ani,Eurasia
+10,alsatian,181,f,f,gsw,Eurasia
+13,arabicbornonigerian,10,f,f,shu,Africa
+12,arabicbahrain,10,f,f,abv,Eurasia
+15,arandai,247,f,f,jbj,Papunesia
+14,arakanesemarma,380,f,f,mhv,Eurasia
+17,arrernte,42,f,f,"aer, are",Australia
+16,armenianiranian,189,f,f,hye,Eurasia
+19,aulua,87,f,f,aul,Papunesia
+18,asturian,184,f,f,ast,Eurasia
+2126,kwoma,368,f,f,kmo,Papunesia
+2179,tamang eastern,389,f,f,"taj, tge",Eurasia
+2082,pittapitta,42,f,f,pit,Australia
+2382,suena,442,f,t,sue,Papunesia
+2083,remo,66,f,f,bfw,Eurasia
+1210,alladian,275,f,f,ald,Africa
+2080,mien,169,f,f,ium,Eurasia
+753,svan,205,f,f,sva,Eurasia
+2081,nias,521,f,f,nia,Papunesia
+752,stoney,391,f,f,sto,North America
+2086,shiriana,498,f,f,shb,South America
+2617,khamtibetannangchen,389,f,f,khg,Eurasia
+2087,tol,420,f,f,jic,North America
+2578,wan,273,f,f,wan,Africa
+1292,aleuteastern,157,f,f,ale,North America
+2084,rotuman,87,f,f,rtm,Papunesia
+2085,selepet,434,f,f,spl,Papunesia
+1519,mpur,492,f,f,akc,Papunesia
+102,hinukh,269,f,f,gin,Eurasia
+101,hianacoto,119,f,f,cbd,South America
+756,taranganwest,75,f,f,txn,Papunesia
+2177,moro,285,f,f,mor,Africa
+1376,torwali,182,f,f,trw,Eurasia
+599,sikule,521,f,f,skh,Papunesia
+1081,lamba,274,f,f,lam,Africa
+2236,gaelicscots,187,f,f,gla,Eurasia
+2579,dadjriwale,277,f,f,god,Africa
+322,guana,248,f,f,gva,South America
+323,guayabero,164,f,f,guo,South America
+320,greeksignlanguage,330,f,f,gss,Eurasia
+321,greenlandicsouth,158,f,f,kal,Eurasia
+326,gurma,290,f,f,gux,Africa
+327,harsusi,10,f,f,hss,Eurasia
+324,gulairo,279,f,f,glj,Africa
+325,gurindji,42,f,f,gue,Australia
+1476,nubiankunuz,307,f,f,kzh,Africa
+328,hongkongsignlanguage,330,f,f,,Eurasia
+329,huambisa,197,f,f,hub,South America
+759,tifal,441,f,f,tif,Papunesia
+1477,podoko,5,f,f,pbi,Africa
+201,pocomam,250,f,f,poc,North America
+200,plainsindianssignlanguage,330,f,f,psd,North America
+203,provencal,184,f,f,oci,Eurasia
+202,principense,331,f,f,pre,Africa
+205,raga,87,f,f,lml,Papunesia
+204,quechuabolivian,356,f,f,"quh, qul",South America
+207,romaniburgenland,182,f,f,rmo,Eurasia
+206,romanibugurdzi,182,f,f,rmn,Eurasia
+209,rushan,183,f,f,sgh,Eurasia
+208,romanilovari,182,f,f,rmy,Eurasia
+2615,shigatse,389,f,f,bod,Eurasia
+1340,adynyamathanha,42,f,f,adt,Australia
+1573,tshangla,389,f,f,tsj,Eurasia
+1730,nagamao,386,f,f,nbi,Eurasia
+1572,tenyer,290,f,f,kza,Africa
+112,isnag,514,f,f,isd,Papunesia
+1478,sangu,274,f,f,snq,Africa
+2239,miskito,251,f,f,miq,North America
+2238,hopi,473,f,f,hop,North America
+2332,maidunortheast,345,f,f,nmu,North America
+1479,seminole,260,f,f,mus,North America
+2334,hamtai,449,f,t,hmt,Papunesia
+2335,margi,5,f,f,mrt,Africa
+2336,nandi,320,f,f,kln,Africa
+1594,gugada,42,f,f,ktd,Australia
+2231,portuguese,184,f,f,por,Eurasia
+1577,usarufa,430,f,f,usa,Papunesia
+2233,sundanese,519,f,f,sun,Papunesia
+2232,siuslaw,329,f,f,sis,North America
+1341,anindilyakwa,41,f,f,aoi,Australia
+1597,hidatsa,391,f,f,hid,North America
+2237,guuguyimidhirr,42,f,f,kky,Australia
+1576,udi,267,f,f,udi,Eurasia
+1575,tuyuca,452,f,f,tue,South America
+1995,garifuna,530,f,f,cab,North America
+2201,bataktoba,521,f,f,bbc,Papunesia
+1574,tutelo,391,f,f,tta,North America
+2446,khasi,71,f,t,kha,Eurasia
+2185,zande,287,f,f,zne,Africa
+1305,fongbe,275,f,f,fon,Africa
+1592,domari,182,f,f,rmt,Eurasia
+2095,jivaro,197,f,f,jiv,South America
+1992,cornish,187,f,f,cor,Eurasia
+2097,komizyrian,468,f,f,kpv,Eurasia
+2096,kambera,75,f,f,xbr,Papunesia
+2091,blackfoot,17,f,f,bla,North America
+2090,ani,210,f,f,hnh,Africa
+2093,futunaaniwa,87,f,f,fut,Papunesia
+2092,cocopa,170,f,f,coc,North America
+2013,yupiksiberian,158,f,f,ess,Eurasia
+2099,linda,287,f,f,liy,Africa
+2098,lao,404,f,f,lao,Eurasia
+2525,tagalog,513,t,t,tgl,Papunesia
+2524,canelakraho,238,t,t,"ram, xra",South America
+2447,khmer,70,f,t,khm,Eurasia
+1236,hebrewmodernashkenazic,10,f,f,heb,Eurasia
+2521,swahili,274,t,t,swh,Africa
+2520,hixkaryana,119,t,t,hix,South America
+2488,lakhota,391,t,t,lkt,North America
+2489,martuthunira,42,t,t,vma,Australia
+1343,bakueri,274,f,f,bri,Africa
+2487,jakaltek,250,t,t,"jac, jai",North America
+2484,lavukaleve,396,t,t,lvk,Papunesia
+1303,djinang,42,f,f,dji,Australia
+2482,kutenai,222,t,t,kut,North America
+2483,mixtecchalcatongo,334,t,t,mig,North America
+2480,alamblak,370,t,t,amp,Papunesia
+1598,ho,66,f,f,hoc,Eurasia
+1518,meryammir,490,f,f,ulk,Papunesia
+2248,djapu,42,f,f,duj,Australia
+2249,doyayo,279,f,f,dow,Africa
+2652,ama,229,f,f,amm,Papunesia
+2244,wiyot,18,f,f,wiy,North America
+2012,yessanmayo,371,f,f,yss,Papunesia
+2246,babungo,274,f,f,bav,Africa
+2247,bororo,242,f,f,bor,South America
+2240,mumuye,279,f,f,mzm,Africa
+2241,tacana,403,f,f,tna,South America
+2242,tera,5,f,f,ttr,Africa
+2243,westmakian,494,f,f,mqs,Papunesia
+995,munsee,17,f,f,umu,North America
+994,mulao,404,f,f,mlm,Eurasia
+997,ntomba,274,f,f,nto,Africa
+996,nelemwa,87,f,f,nee,Papunesia
+2460,luvale,274,t,t,lue,Africa
+990,mbalanhu,274,f,f,lnb,Africa
+993,montagnais,17,f,f,moe,North America
+992,micmac,17,f,f,mic,North America
+999,oirat,20,f,f,xal,Eurasia
+998,nusu,380,f,f,nuf,Eurasia
+1309,kagulu,274,f,f,kki,Africa
+120,jamaicancreole,331,f,f,jam,North America
+121,jibbali,10,f,f,shv,Eurasia
+122,juruna,457,f,f,jur,South America
+123,kabui,386,f,f,nkf,Eurasia
+124,kagoma,283,f,f,kdm,Africa
+125,kalmykissykkul,20,f,f,xal,Eurasia
+126,karao,514,f,f,kyj,Papunesia
+127,kashubian,185,f,f,csb,Eurasia
+31,batak,513,f,f,bya,Papunesia
+36,bilaan,517,f,f,"bps, smk",Papunesia
+2391,armenianeastern,189,f,t,hye,Eurasia
+129,kayanbaram,518,f,f,kys,Papunesia
+2654,urat,428,f,f,urt,Papunesia
+2078,koya,147,f,f,kff,Eurasia
+2515,yaqui,475,t,t,yaq,North America
+1351,damana,130,f,f,mbp,South America
+1188,machiguenga,536,f,f,mcb,South America
+2383,maranungku,28,f,t,zmr,Australia
+132,kelabit,518,f,f,kzi,Papunesia
+1825,bakaincameroon,287,f,f,bkc,Africa
+1824,atakapa,27,f,f,aqp,North America
+1827,brao,63,f,f,brb,Eurasia
+1826,berberrif,4,f,f,rif,Africa
+1821,adioukrou,275,f,f,adj,Africa
+1820,zapotecmitla,332,f,f,zaw,North America
+1823,angami,386,f,f,"njm, nri",Eurasia
+1822,agtacentral,513,f,f,agt,Papunesia
+928,karitiana,458,f,f,ktn,South America
+929,kickapoo,17,f,f,kic,North America
+2145,bare,530,f,f,bae,South America
+2144,azerbaijani,19,f,f,"azb, azj",Eurasia
+2143,atayal,89,f,f,tay,Papunesia
+2142,warekena,530,f,f,gae,South America
+2141,wahgi,438,f,f,"wgi, whg",Papunesia
+1187,ma,287,f,f,msj,Africa
+920,cheyenne,17,f,f,chy,North America
+921,chiriguano,457,f,f,gui,South America
+922,creek,260,f,f,mus,North America
+923,doko,274,f,f,ngc,Africa
+924,fordata,75,f,f,frd,Papunesia
+925,gagauz,19,f,f,gag,Eurasia
+926,gilaki,183,f,f,glk,Eurasia
+927,jad,389,f,f,bod,Eurasia
+521,daa,526,f,f,kzf,Papunesia
+1346,barasanonorthern,452,f,f,bao,South America
+1182,langi,274,f,f,lag,Africa
+2263,nunginvietnam,404,f,f,nut,Eurasia
+1183,larike,75,f,f,alo,Papunesia
+1920,amo,286,f,f,amo,Africa
+1921,amuesha,531,f,f,ame,South America
+1922,bilin,7,f,f,byn,Africa
+1923,burarra,31,f,f,bvr,Australia
+1924,chamwestern,519,f,f,cja,Eurasia
+1925,chontalmaya,250,f,f,chf,North America
+1926,cocama,457,f,f,cod,South America
+1927,didinga,322,f,f,did,Africa
+1928,digaro,376,f,f,mhu,Eurasia
+1929,fasu,440,f,f,faa,Papunesia
+1181,kurmanji,183,f,f,kmr,Eurasia
+1723,katla,284,f,f,kcr,Africa
+1134,moraori,527,f,f,mok,Papunesia
+832,puquina,355,f,f,,South America
+833,rimi,274,f,f,rim,Africa
+830,palor,276,f,f,fap,Africa
+831,parjidravidian,148,f,f,pci,Eurasia
+836,shirayughur,20,f,f,yuy,Eurasia
+837,sukuma,274,f,f,suk,Africa
+834,sawai,79,f,f,szw,Papunesia
+835,serrano,474,f,f,ser,North America
+838,sulung,401,f,f,suv,Eurasia
+839,sursurunga,87,f,f,sgz,Papunesia
+1398,kamba,274,f,f,kam,Africa
+2666,kanoe,200,f,f,,South America
+2667,chipaya,470,f,f,cap,South America
+3,adygheshapsugh,325,f,f,ady,Eurasia
+2595,vili,274,f,f,vif,Africa
+2662,sipakapense,250,f,f,qum,North America
+2663,leko,230,f,f,lec,South America
+2660,tepehuahuehuetla,429,f,f,tee,North America
+1748,bilua,398,f,f,blb,Papunesia
+2668,kuikuro,119,f,f,kui,South America
+1749,biri,42,f,f,bzr,Australia
+1168,gaanda,5,f,f,gqa,Africa
+2337,macushi,119,f,f,mbc,South America
+2178,narainethiopia,314,f,f,nrb,Africa
+2664,emerillon,457,f,f,eme,South America
+1986,tiwanorthern,215,f,f,twf,North America
+1559,nadeb,261,f,f,mbj,South America
+2511,hebrewmodern,10,t,t,heb,Eurasia
+2350,hawaiian,87,f,f,haw,Papunesia
+1532,swati,274,f,f,ssw,Africa
+784,bokar,382,f,f,adi,Eurasia
+785,budukh,267,f,f,bdk,Eurasia
+1647,kuna,127,f,f,kvn,South America
+787,cayuga,192,f,f,cay,North America
+780,aguaruna,197,f,f,agr,South America
+781,anong,385,f,f,nun,Eurasia
+782,berbicedutchcreole,331,f,f,brc,South America
+783,bezhta,269,f,f,kap,Eurasia
+1726,leti,75,f,f,lti,Papunesia
+1727,mae,87,f,f,mme,Papunesia
+1724,kwangali,274,f,f,kwn,Africa
+1725,lendu,299,f,f,led,Africa
+788,chavacano,331,f,f,cbk,Papunesia
+789,chol,250,f,f,"cti, ctu",North America
+1720,hunde,274,f,f,hke,Africa
+1721,hup,261,f,f,jup,South America
+1371,thangmi,512,f,f,thf,Eurasia
+1742,tsou,96,f,f,tsu,Papunesia
+786,campapajonalasheninca,536,f,f,cjo,South America
+1743,warndarang,60,f,f,wnd,Australia
+2415,kunama,317,f,t,kun,Africa
+579,otomisierra,336,f,f,otm,North America
+578,oto,391,f,f,iow,North America
+1165,cuiba,164,f,f,cui,South America
+573,nomatsiguenga,536,f,f,not,South America
+572,nharo,210,f,f,nhr,Africa
+571,ngbandi,287,f,f,"nbw, ngb",Africa
+570,neoaramaicassyrian,10,f,f,aii,Eurasia
+577,orejon,452,f,f,ore,South America
+576,nyelayu,87,f,f,yly,Papunesia
+575,nyanga,274,f,f,nyj,Africa
+574,nubi,331,f,f,kcn,Africa
+60,fijianwayan,87,f,f,wyy,Papunesia
+61,frisianeastern,181,f,f,frs,Eurasia
+62,frisiannorth,181,f,f,frr,Eurasia
+63,fulliptako,276,f,f,fuh,Africa
+64,fulaburkinafaso,276,f,f,fuh,Africa
+65,fulanigombe,276,f,f,fub,Africa
+158,magindanao,513,f,f,mdh,Papunesia
+165,mandar,525,f,f,mdr,Papunesia
+199,pingilapese,87,f,f,pif,Papunesia
+198,pakanha,42,f,f,pkn,Australia
+195,omagua,457,f,f,omg,South America
+194,oku,274,f,f,oku,Africa
+197,paite,386,f,f,pck,Eurasia
+196,emai,295,f,f,ema,Africa
+191,norsktegnsprak,330,f,f,nsl,Eurasia
+190,noghaykaragash,19,f,f,nog,Eurasia
+193,oi,63,f,f,oyb,Eurasia
+192,nuninorthern,290,f,f,nuv,Africa
+108,indonesianpapuan,519,f,f,pmy,Papunesia
+103,hre,63,f,f,hre,Eurasia
+106,ibibio,293,f,f,ibb,Africa
+107,indopakistanisignlanguagekarachidialect,330,f,f,pks,Eurasia
+104,hyow,386,f,f,csh,Eurasia
+105,ibanag,514,f,f,ibg,Papunesia
+171,melanau,518,f,f,mel,Papunesia
+179,mun,169,f,f,mji,Eurasia
+178,muher,10,f,f,sgw,Africa
+177,mudburra,42,f,f,mwd,Australia
+176,moldavian,184,f,f,ron,Eurasia
+175,molala,351,f,f,mbe,North America
+174,mixtecalacatlatzala,334,f,f,mim,North America
+173,miskitocoastenglishcreole,331,f,f,bzj,North America
+172,michif,17,f,f,crg,North America
+170,mbe,274,f,f,mtk,Africa
+182,nahuatlpochutla,476,f,f,,North America
+183,nanticoke,17,f,f,nnt,North America
+180,muong,67,f,t,mtq,Eurasia
+181,nahuatlcentral,476,f,f,nhn,North America
+186,neoaramaicamadiya,10,f,f,cld,Eurasia
+187,ngarinyman,42,f,f,nbj,Australia
+184,narom,518,f,f,nrm,Papunesia
+185,nenetstundra,463,f,f,yrk,Eurasia
+188,ngemba,274,f,f,nge,Africa
+189,nicobarese,68,f,f,ncb,Eurasia
+143,kualan,95,f,f,,
+356,kenyahumalung,518,f,f,,
+381,lughatalisharatallubnaniya,330,f,f,,
+408,nahuatlhuauchinango,476,f,f,,
+409,nahuatlmilpaalta,476,f,f,,
+444,romanisepecides,182,f,f,,
+461,tasmanianoysterbaytopitwater,409,f,f,,
+590,russianchinesepidginbirobidjan,331,f,f,,
+692,juat,42,f,f,,
+808,kriolfitzroycrossing,331,f,f,,
+841,tasmanian,409,f,f,,
+1032,johari,389,f,f,,
+1054,tupi,457,f,f,,
+1062,ayoman,196,f,f,,
+1101,arapeshabu,427,f,f,,
+1133,mongolkhamnigan,20,f,f,,
+1206,westerndesertooldea,42,f,f,,
+1651,madimadi,42,f,f,,
+1975,berberfiguig,4,f,f,,
+1989,wembawemba,42,f,f,,
+2557,tommoso,296,f,f,,
+2661,mixeayutla,252,f,f,,
+2580,neyo,277,f,f,ney,Africa
+2556,donnoso,296,f,f,dds,Africa
+2543,mandarin,375,t,t,cmn,Eurasia
+66,fulfuldemaasina,276,f,f,ffm,Africa
+67,gamilaraay,42,f,f,kld,Australia
+68,germanappenzell,181,f,f,gsw,Eurasia
+69,germanbavarian,181,f,f,bar,Eurasia
+1161,brokskat,182,f,f,bkk,Eurasia
+1421,sambaleko,279,f,f,ndi,Africa
+1420,roro,87,f,f,rro,Papunesia
+1423,soqotri,10,f,f,sqt,Africa
+1422,savi,182,f,f,sdg,Eurasia
+1425,tabwa,274,f,f,tap,Africa
+1162,bularnu,42,f,f,,Australia
+1427,thulung,512,f,f,tdh,Eurasia
+1370,sorbian,185,f,f,"dsb, hsb",Eurasia
+1429,toussian,290,f,f,"tsp, wib",Africa
+1428,tokpisin,331,f,f,tpi,Papunesia
+1580,yawa,501,f,f,yva,Papunesia
+1163,chayahuita,116,f,f,cbt,South America
+1586,balti,389,f,f,bft,Eurasia
+1373,toaripi,156,f,f,tqo,Papunesia
+1584,arabicmodernstandard,10,f,f,arb,Eurasia
+1585,awa,430,f,f,awb,Papunesia
+731,obokuitai,228,f,f,afz,Papunesia
+730,nyambo,274,f,f,now,Africa
+733,olohmangtangai,73,f,f,nij,Papunesia
+732,ojibweminnesota,17,f,f,ciw,North America
+735,patpatar,87,f,f,gfk,Papunesia
+734,oromoboraana,12,f,f,gax,Africa
+508,arapaho,17,f,f,arp,North America
+509,baale,322,f,f,koe,Africa
+506,araki,87,f,f,akr,Papunesia
+738,pokomchi,250,f,f,"pob, poh",North America
+504,arabickormakiti,10,f,f,acy,Eurasia
+505,arabicnorthlevantinespoken,10,f,f,apc,Eurasia
+502,arabicbanihassan,10,f,f,mey,Africa
+503,arabichijazi,10,f,f,acw,Eurasia
+500,anufo,275,f,f,cko,Africa
+501,apachejicarilla,262,f,f,apj,North America
+630,ampeeli,449,f,f,apz,Papunesia
+631,angolar,331,f,f,aoa,Africa
+632,apachechiricahua,262,f,f,apm,North America
+633,arabicbeirut,10,f,f,apc,Eurasia
+469,toda,149,f,f,tcx,Eurasia
+468,tiwasouthern,215,f,f,tix,North America
+636,arabicsanani,10,f,f,ayn,Eurasia
+637,arikara,115,f,f,ari,North America
+465,tewasanjuanpueblo,215,f,f,tew,North America
+464,tewariogrande,215,f,f,tew,North America
+467,tigrebeniamer,10,f,f,tig,Africa
+466,thaisignlanguage,330,f,f,tsq,Eurasia
+1357,kachari,383,f,f,xac,Eurasia
+460,tapiete,457,f,f,tpj,South America
+463,tatuyo,452,f,f,tav,South America
+462,tatmuslim,183,f,f,ttt,Eurasia
+2015,zapotecisthmus,332,f,f,zai,North America
+1646,koialimountain,439,f,f,kpx,Papunesia
+2140,rukai,522,f,f,dru,Papunesia
+2014,yuwaalaraay,42,f,f,kld,Australia
+1169,galela,494,f,f,gbi,Papunesia
+1641,ilocano,514,f,f,ilo,Papunesia
+2416,navajo,262,f,t,nav,North America
+2017,barai,439,f,f,"bbb, nvm",Papunesia
+1273,seme,277,f,f,sif,Africa
+1640,hmar,386,f,f,hmr,Eurasia
+1392,gunin,29,f,f,gww,Australia
+2016,armenianwestern,189,f,f,hye,Eurasia
+1643,karaincentralafricanrepublic,305,f,f,kah,Africa
+2011,yareba,499,f,f,yrb,Papunesia
+1642,kamass,463,f,f,xas,Eurasia
+2010,tariana,530,f,f,tae,South America
+1106,catawba,391,f,f,chc,North America
+1107,chontalhighland,413,f,f,chd,North America
+1104,boazi,246,f,f,kvg,Papunesia
+1105,buliinindonesia,79,f,f,bzq,Papunesia
+1102,bankon,274,f,f,abb,Africa
+1103,bira,274,f,f,"bip, brf",Africa
+1100,amara,87,f,f,aie,Papunesia
+1453,galo,382,f,f,adi,Eurasia
+1515,mamvu,303,f,f,mdi,Africa
+1514,maanyan,73,f,f,mhy,Papunesia
+1517,mekens,454,f,f,skf,South America
+1516,mazahua,336,f,f,"maz, mmc",North America
+1274,shambala,274,f,f,ksb,Africa
+1459,konkani,182,f,f,knn,Eurasia
+1108,chuave,438,f,f,cjv,Papunesia
+1109,chuj,250,f,f,"cac, cnm",North America
+2517,slave,262,t,t,"scs, xsl",North America
+1649,laal,227,f,f,gdm,Africa
+2229,nambikuara,270,f,f,nab,South America
+1648,kxoe,210,f,f,xuu,Africa
+1981,pech,126,f,f,pay,North America
+2245,abun,493,f,f,kgr,Papunesia
+2418,batakkaro,521,f,t,btx,Papunesia
+1275,simeulue,521,f,f,smr,Papunesia
+1390,dumaki,182,f,f,dmk,Eurasia
+1897,khalaj,19,f,f,klj,Eurasia
+2540,greekmodern,186,t,t,ell,Eurasia
+2432,koyraborosenni,308,t,t,ses,Africa
+140,koorete,13,f,f,kqy,Africa
+2136,karensgaw,378,f,f,ksw,Eurasia
+1408,mazatechuautla,339,f,f,mau,North America
+2137,kwakwala,482,f,f,kwk,North America
+1138,ordos,20,f,f,mvf,Eurasia
+679,gayo,521,f,f,gay,Papunesia
+1199,saramaccan,331,f,f,srm,South America
+1358,kakiae,155,f,f,tbd,Papunesia
+1277,sui,404,f,f,swi,Eurasia
+2575,leggbo,293,f,f,agb,Africa
+2069,achumawi,173,f,f,acv,North America
+1393,gurrgoni,31,f,f,gge,Australia
+2131,bellacoola,363,f,f,blc,North America
+357,kenyang,274,f,f,ken,Africa
+1198,saban,518,f,f,snv,Papunesia
+355,kaurna,42,f,f,,Australia
+354,kato,262,f,f,ktw,North America
+353,katiinafghanistan,182,f,f,bsh,Eurasia
+352,katakolok,330,f,f,bqy,Papunesia
+351,karipunadoguapore,342,f,f,kuq,South America
+350,karanga,274,f,f,sna,Africa
+2665,kayabi,457,f,f,kyz,South America
+359,kilba,5,f,f,hbb,Africa
+358,khumi,386,f,f,cnk,Eurasia
+216,sika,75,f,f,ski,Papunesia
+214,semandang,95,f,f,sdm,Papunesia
+215,shoshonewindriver,477,f,f,shh,North America
+212,salishstraits,360,f,f,str,North America
+213,sarygyughur,19,f,f,ybe,Eurasia
+210,saanich,360,f,f,str,North America
+211,saek,404,f,f,skb,Eurasia
+1530,sougb,151,f,f,mnx,Papunesia
+218,songish,360,f,f,str,North America
+219,sooke,360,f,f,str,North America
+2138,maltese,10,f,f,mlt,Eurasia
+2605,shuri,195,f,f,ryu,Eurasia
+2139,mizo,386,f,f,lus,Eurasia
+2544,hungarian,464,f,t,hun,Eurasia
+2323,marathi,182,f,f,mar,Eurasia
+1447,dahalo,1,f,f,dal,Africa
+2321,tigak,87,f,f,tgc,Papunesia
+2320,jaqaru,102,f,f,jqr,South America
+2327,dieguenomesagrande,170,f,f,dih,North America
+2326,arrerntemparntwe,42,f,f,aer,Australia
+2325,tzutujil,250,f,f,"tzj, tzt",North America
+1110,chumashineseno,141,f,f,inz,North America
+2343,acehnese,519,f,f,ace,Eurasia
+1959,mbum,279,f,f,mdd,Africa
+2329,icelandic,181,f,f,isl,Eurasia
+2328,diyari,42,f,f,dif,Australia
+1445,cofan,143,f,f,con,South America
+1958,kpelle,292,f,f,xpe,Africa
+289,bislama,331,f,f,bis,Papunesia
+288,birri,305,f,f,bvq,Africa
+1299,capanahua,342,f,f,kaq,South America
+2414,chinanteclealao,335,f,t,cle,North America
+4,aka,274,f,f,axk,Africa
+2292,tuvan,19,f,f,tyv,Eurasia
+281,bandjalangcasino,42,f,f,bdy,Australia
+280,bahnarpleibongmangyang,63,f,f,bdq,Eurasia
+283,benabena,430,f,f,bef,Papunesia
+282,bau,437,f,f,bbd,Papunesia
+285,bengalichittagong,182,f,f,ctg,Eurasia
+284,beng,273,f,f,nhb,Africa
+287,berbermzab,4,f,f,mzb,Africa
+286,beothuk,108,f,f,bue,North America
+2670,krenak,240,f,f,kqq,South America
+1441,bakainsudan,305,f,f,bdh,Africa
+2593,mbosi,274,f,f,mdw,Africa
+1116,hehe,274,f,f,heh,Africa
+2669,panara,238,f,f,kre,South America
+263,zhuangnorthern,404,f,f,zgb,Eurasia
+262,zapotecixtlan,332,f,f,zpd,North America
+261,yurttatar,19,f,f,nog,Eurasia
+260,yurimangi,507,f,f,,South America
+267,abenakiwestern,17,f,f,abe,North America
+266,zulusouthern,274,f,f,zul,Africa
+265,zulunorthern,274,f,f,zul,Africa
+264,zoquerayon,252,f,f,zor,North America
+1121,koluri,183,f,f,shm,Eurasia
+1031,godie,277,f,f,god,Africa
+269,adyghetemirgoy,325,f,f,ady,Eurasia
+268,adamorobesignlanguage,330,f,f,ads,Africa
+1562,nisenan,345,f,f,nsz,North America
+2499,tiwi,53,t,t,tiw,Australia
+2498,mangarrayi,55,t,t,mpc,Australia
+2552,gadabakondekor,148,f,f,gdb,Eurasia
+1563,nzakara,287,f,f,nzk,Africa
+2389,cayuvava,120,f,t,cyb,South America
+1980,pawaian,412,f,f,pwa,Papunesia
+1215,bardi,46,f,f,bcj,Australia
+2491,wari,121,t,t,pav,South America
+1564,oriya,182,f,f,ori,Eurasia
+2493,khoekhoe,210,t,t,naq,Africa
+2492,guarani,457,t,t,gug,South America
+2495,ngiyambaa,42,t,t,wyb,Australia
+2192,ossetic,183,f,f,oss,Eurasia
+2497,krongo,198,t,t,kgo,Africa
+1297,bongu,437,f,f,bpu,Papunesia
+2396,haida,167,f,t,"hax, hdn",North America
+2397,khmu,69,f,t,kjg,Eurasia
+2394,nubiandongolese,307,f,t,kzh,Africa
+2193,sinhala,182,f,f,sin,Eurasia
+2392,aymara,102,f,t,"ayc, ayr",South America
+1566,palaung,69,f,f,"pce, rbb",Eurasia
+1571,tehuelche,137,f,f,teh,South America
+2258,arabicgulf,10,f,f,afb,Eurasia
+1337,xavante,238,f,f,xav,South America
+2256,tidore,494,f,f,tvo,Papunesia
+2255,tetun,75,f,f,tet,Papunesia
+1448,dhargari,42,f,f,dhr,Australia
+2253,nicobaresecar,68,f,f,caq,Eurasia
+2252,mam,250,f,f,mvc,North America
+2251,lenakel,87,f,f,tnl,Papunesia
+2250,kurdishcentral,183,f,f,kmr,Eurasia
+2477,kobon,437,f,t,kpw,Papunesia
+1768,nahuatlhuasteca,476,f,f,"nhe, nhw",North America
+2475,imonda,110,t,t,imn,Papunesia
+989,mauritiancreole,331,f,f,mfe,Africa
+2473,berbermiddleatlas,4,t,t,tzm,Africa
+2472,apurina,534,t,t,apu,South America
+2471,nivkh,324,f,t,niv,Eurasia
+2470,yagua,343,t,t,yad,South America
+982,gahri,389,f,f,bfu,Eurasia
+983,foe,444,f,f,foi,Papunesia
+980,duma,274,f,f,dma,Africa
+981,futunaeast,87,f,f,fud,Papunesia
+986,katu,72,f,f,"ktv, kuf",Eurasia
+987,kei,75,f,f,kei,Papunesia
+984,haitiancreole,331,f,f,hat,North America
+985,jurchen,21,f,f,juc,Eurasia
+115,italiangenoa,184,f,f,lij,Eurasia
+114,italianfiorentino,184,f,f,ita,Eurasia
+117,italianturinese,184,f,f,pms,Eurasia
+116,italiannapolitanian,184,f,f,nap,Eurasia
+111,ishkashmi,183,f,f,sgl,Eurasia
+110,internationalsign,330,f,f,,North America
+113,italianbologna,184,f,f,eml,Eurasia
+2199,arabicmoroccan,10,f,f,ary,Africa
+119,izhor,465,f,f,izh,Eurasia
+118,ivatan,516,f,f,ivv,Papunesia
+1858,alune,75,f,f,alp,Papunesia
+1859,anem,23,f,f,anz,Papunesia
+1568,patep,87,f,f,ptp,Papunesia
+2535,evenki,21,f,t,evn,Eurasia
+1850,tiriyo,119,f,f,tri,South America
+1851,tsafiki,106,f,f,cof,South America
+1852,tunen,274,f,f,baz,Africa
+1853,tzotzil,250,f,f,tzc,North America
+1854,watjarri,42,f,f,wbv,Australia
+1855,wayampi,457,f,f,oym,South America
+1856,wolaytta,13,f,f,wal,Africa
+1857,yanyuwa,42,f,f,jao,Australia
+1797,guajajara,457,f,f,gub,South America
+2173,fyem,283,f,f,pym,Africa
+2079,menomini,17,f,f,mez,North America
+1034,kanembu,309,f,f,kbl,Africa
+919,bubi,274,f,f,bvb,Africa
+918,broken,331,f,f,tcs,Australia
+2174,garrwa,47,f,f,gbc,Australia
+2175,kalkatungu,42,f,f,ktg,Australia
+915,berbersiwa,4,f,f,siz,Africa
+914,bagasitemu,291,f,f,bsp,Africa
+917,boko,273,f,f,bqc,Africa
+916,bilinara,42,f,f,nbj,Australia
+911,arabictunisian,10,f,f,aeb,Africa
+913,awyi,110,f,f,auw,Papunesia
+912,atchin,87,f,f,upv,Papunesia
+2604,arabickuwaiti,10,f,f,afb,Eurasia
+1569,roviana,87,f,f,rug,Papunesia
+2606,bettakurumba,149,f,f,xub,Eurasia
+2607,raji,389,f,f,rji,Eurasia
+2600,mango,305,f,f,mge,Africa
+2601,tamashek,4,f,f,taq,Africa
+2602,mina,5,f,f,hna,Africa
+2568,nyamal,42,f,f,nly,Australia
+2522,vietnamese,67,t,t,vie,Eurasia
+2608,kasong,64,f,f,,Eurasia
+1588,bushoong,274,f,f,buf,Africa
+1796,gokana,293,f,f,gkn,Africa
+1933,kairiru,87,f,f,kxa,Papunesia
+1932,jurmodo,305,f,f,bex,Africa
+1931,gujarati,182,f,f,guj,Eurasia
+1407,massachusett,17,f,f,wam,North America
+1937,mauka,292,f,f,mxx,Africa
+1936,mara,60,f,f,mec,Australia
+1935,manggarai,75,f,f,mqy,Papunesia
+1587,banoni,87,f,f,bcm,Papunesia
+1939,ngankikurungkurr,50,f,f,nam,Australia
+1938,motu,87,f,f,meu,Papunesia
+1424,sothonorthern,274,f,f,nso,Africa
+847,upperkuskokwim,262,f,f,kuu,North America
+846,tyeraity,51,f,f,woa,Australia
+845,tupuri,279,f,f,tui,Africa
+844,tswana,274,f,f,tsn,Africa
+843,tsonga,274,f,f,tso,Africa
+842,tetela,274,f,f,tll,Africa
+840,tanglapui,415,f,f,swt,Papunesia
+1426,taiof,87,f,f,sps,Papunesia
+849,yamdena,75,f,f,jmd,Papunesia
+848,yali,432,f,f,yli,Papunesia
+1333,waris,110,f,f,wrs,Papunesia
+1406,masakin,281,f,f,jle,Africa
+2673,taushiro,410,f,f,trr,South America
+2672,urarina,469,f,f,ura,South America
+2675,quechuahuallaga,356,f,f,qvh,South America
+2674,achuar,197,f,f,acu,South America
+2677,mocovi,165,f,f,moc,South America
+1583,apachewestern,262,f,f,apw,North America
+2679,ngbakamabo,287,f,f,nbm,Africa
+2678,ndyuka,331,f,t,djk,South America
+1209,wuchangzhou,375,f,f,wuu,Eurasia
+2345,dutch,181,f,f,nld,Eurasia
+1581,amanab,110,f,f,amn,Papunesia
+2377,ngiti,299,f,t,niy,Africa
+2311,kisi,291,f,f,"kqs, kss",Africa
+1570,santali,66,f,f,sat,Eurasia
+1405,maale,13,f,f,mdy,Africa
+1159,baoan,20,f,f,peh,Eurasia
+1391,eyak,264,f,f,eya,North America
+1208,womo,393,f,f,,Papunesia
+1481,shatt,318,f,f,shj,Africa
+797,hanunoo,513,f,f,hnn,Papunesia
+1582,ambaelolovolinortheast,87,f,f,omb,Papunesia
+1630,zarma,308,f,f,dje,Africa
+1631,arabela,509,f,f,arl,South America
+1632,aroplokep,87,f,f,apr,Papunesia
+1633,awngi,7,f,f,awn,Africa
+1634,bagiro,305,f,f,fuu,Africa
+1635,baure,535,f,f,brg,South America
+1636,caribdekwana,119,f,f,mch,South America
+1531,susu,292,f,f,sus,Africa
+1638,gidabal,42,f,f,bdy,Australia
+1639,goemai,6,f,f,ank,Africa
+1733,paa,6,f,f,pqa,Africa
+1732,narphu,389,f,f,npa,Eurasia
+1735,runyankore,274,f,f,nyn,Africa
+1734,pokot,320,f,f,pko,Africa
+1737,shasta,174,f,f,sht,North America
+1736,sakao,87,f,f,sku,Papunesia
+2587,mayogo,287,f,f,mdm,Africa
+2404,paamese,87,f,t,pma,Papunesia
+2215,czech,185,f,f,ces,Eurasia
+2052,woleaian,87,f,f,woe,Papunesia
+568,murik,231,f,f,mtf,Papunesia
+569,nahuatlsierradezacapoaxtla,476,f,f,azz,North America
+751,sisaala,290,f,f,sld,Africa
+750,sikaritai,228,f,f,tty,Papunesia
+757,ternate,494,f,f,tft,Papunesia
+737,folopa,411,f,f,ppo,Papunesia
+755,tannasouthwest,87,f,f,nwi,Papunesia
+754,tabaru,494,f,f,tby,Papunesia
+560,melayubetawi,331,f,f,bew,Papunesia
+561,migama,2,f,f,mmy,Africa
+562,mixtecayutla,334,f,f,miy,North America
+563,liv,465,f,f,liv,Eurasia
+564,mixtecjamiltepec,334,f,f,mxt,North America
+565,mokilko,2,f,f,moz,Africa
+2586,mambai,279,f,f,mcs,Africa
+567,mugil,437,f,f,mlp,Papunesia
+1595,gununakune,138,f,f,pue,South America
+739,quechuaecuadorean,356,f,f,qug,South America
+1354,iwam,367,f,f,iwm,Papunesia
+1596,haya,274,f,f,hay,Africa
+1591,creeswampy,17,f,f,"crj, csw",North America
+1590,chinookupper,346,f,f,wac,North America
+1593,gahuku,430,f,f,gah,Papunesia
+1033,kambot,232,f,f,kbx,Papunesia
+2501,kayardild,52,t,t,gyd,Australia
+2676,piro,534,f,f,pib,South America
+1599,iduna,87,f,f,viv,Papunesia
+1030,ebira,278,f,f,igb,Africa
+1025,cashinahua,342,f,f,cbs,South America
+1024,bori,382,f,f,adi,Eurasia
+1027,desano,452,f,f,des,South America
+1026,chuukese,87,f,f,chk,Papunesia
+1021,betoi,109,f,f,,South America
+1020,berberchaouia,4,f,f,shy,Africa
+1023,bolia,274,f,f,bli,Africa
+1022,bhumij,66,f,f,unr,Eurasia
+1186,lungchang,388,f,f,nst,Eurasia
+1036,katiinwestpapuaindonesia,441,f,f,yon,Papunesia
+1184,lega,274,f,f,lea,Africa
+1185,lhomi,389,f,f,lhm,Eurasia
+1029,dharumbal,42,f,f,bjy,Australia
+1028,dharawal,42,f,f,tbh,Australia
+1180,koyukon,262,f,f,koy,North America
+1037,kazakh,19,f,f,kaz,Eurasia
+726,nigerianpidgin,331,f,f,pcm,Africa
+727,ningil,428,f,f,niz,Papunesia
+724,napu,526,f,f,npy,Papunesia
+725,ngombe,274,f,f,ngc,Africa
+722,mundu,287,f,f,muh,Africa
+723,nafaanra,290,f,f,nfr,Africa
+720,mentuhtapuh,95,f,f,sdo,Papunesia
+721,menya,449,f,f,mcr,Papunesia
+1744,yucatec,250,f,f,yua,North America
+1745,zayse,13,f,f,zay,Africa
+1746,apatani,382,f,f,apt,Eurasia
+1035,kanumbadi,255,f,f,khd,Papunesia
+1740,stieng,63,f,f,"sti, stt",Eurasia
+1741,tibetanmodernliterary,389,f,f,bod,Eurasia
+728,nomad,154,f,f,smq,Papunesia
+729,nukuoro,87,f,f,nkr,Papunesia
+1164,coeurdalene,362,f,f,crd,North America
+604,sumu,251,f,f,sum,North America
+607,tehit,491,f,f,kps,Papunesia
+606,tamabo,87,f,f,mla,Papunesia
+601,solon,21,f,f,evn,Eurasia
+600,slovincian,185,f,f,csb,Eurasia
+603,suki,161,f,f,sui,Papunesia
+602,subiya,274,f,f,sbs,Africa
+1205,tsakhur,267,f,f,tkr,Eurasia
+1204,tiv,274,f,f,tiv,Africa
+1207,wirangu,42,f,f,wiw,Australia
+609,tewaarizona,215,f,f,tew,North America
+608,terena,535,f,f,ter,South America
+1203,tekesouthern,274,f,f,kkw,Africa
+1202,taiap,160,f,f,gpn,Papunesia
+2043,kalmyk,20,f,f,xal,Eurasia
+1211,arbore,12,f,f,arv,Africa
+152,lundayeh,518,f,f,lnd,Papunesia
+634,arabiceasternlibyan,10,f,f,ayl,Africa
+1489,tiruray,517,f,f,tiy,Papunesia
+2479,maricopa,170,t,t,mrc,North America
+635,arabicnegev,10,f,f,ajp,Eurasia
+1366,musom,87,f,f,msu,Papunesia
+1488,tigrinya,10,f,f,tir,Africa
+1214,bakairi,119,f,f,bkq,South America
+48,columbiawenatchi,362,f,f,col,North America
+49,danblowo,273,f,f,daf,Africa
+46,chru,519,f,f,cje,Eurasia
+47,chulym,19,f,f,clw,Eurasia
+44,chinantecsochiapan,335,f,f,cso,North America
+45,chippewaredlakeandpillager,17,f,f,ciw,North America
+42,chatinonopala,332,f,f,cya,North America
+43,chekeholo,87,f,f,mrn,Papunesia
+40,burapabir,5,f,f,bwr,Africa
+41,chaozhou,375,f,f,nan,Eurasia
+1111,deuri,383,f,f,der,Eurasia
+638,awadhi,182,f,f,awa,Eurasia
+1113,faroese,181,f,f,fao,Eurasia
+1112,dhivehi,182,f,f,div,Eurasia
+5,akabiada,163,f,f,abj,Eurasia
+1114,gworok,283,f,f,kcg,Africa
+1117,huitotomuinane,180,f,f,hux,South America
+639,aekyom,101,f,f,awi,Papunesia
+1119,kamu,54,f,f,xmu,Australia
+1118,kabatei,183,f,f,xkp,Eurasia
+1290,aikana,528,f,f,tba,South America
+1291,akawaio,119,f,f,ake,South America
+1296,bemba,274,f,f,bmy,Africa
+1218,bobangi,274,f,f,bni,Africa
+1449,dimasa,383,f,f,dis,Eurasia
+1295,basaa,274,f,f,bas,Africa
+2591,avikam,275,f,f,avi,Africa
+1350,carapana,452,f,f,cbc,South America
+1360,kullo,13,f,f,gmo,Africa
+1712,akha,380,f,f,ahk,Eurasia
+1782,uyghur,19,f,f,uig,Eurasia
+2401,beja,3,f,t,bej,Africa
+1361,kyuquot,481,f,f,noo,North America
+1711,yucuna,530,f,f,ycn,South America
+1217,bisu,380,f,f,"bzi, lwm",Eurasia
+1710,tobelo,494,f,f,tlb,Papunesia
+1355,jeh,63,f,f,jeh,Eurasia
+489,yemsa,13,f,f,jnj,Africa
+488,yaruro,500,f,f,yae,South America
+487,yami,516,f,f,tao,Papunesia
+486,yaka,274,f,f,yaf,Africa
+485,xaracuu,87,f,f,ane,Papunesia
+484,warrungu,42,f,f,wrg,Australia
+483,vlaamsegebarentaal,330,f,f,bvs,Eurasia
+482,vedda,182,f,f,ved,Eurasia
+481,urim,424,f,f,uri,Papunesia
+480,ugandansignlanguage,330,f,f,ugn,Africa
+991,mentawai,521,f,f,mwv,Papunesia
+2411,nezperce,348,f,t,nez,North America
+1715,assamese,182,f,f,asm,Eurasia
+1201,slovak,185,f,f,slk,Eurasia
+1714,arabiciraqi,10,f,f,acm,Eurasia
+2170,ao,386,f,f,njo,Eurasia
+472,triquechicahuaxtla,334,f,f,trs,North America
+473,tubar,472,f,f,tbu,North America
+470,tofa,19,f,f,kim,Eurasia
+471,totonacsierra,429,f,f,tos,North America
+476,tzeltal,250,f,f,"tzb, tzh",North America
+477,tzeltalbachajon,250,f,f,tzb,North America
+474,turkisaretdili,330,f,f,tsm,Eurasia
+475,tutchonenorthern,262,f,f,ttm,North America
+1865,efik,293,f,f,efi,Africa
+478,tzeltaltenejapa,250,f,f,tzh,North America
+479,tzotzilsanandres,250,f,f,tzs,North America
+1368,rashad,282,f,f,ras,Africa
+1369,sobei,87,f,f,sob,Papunesia

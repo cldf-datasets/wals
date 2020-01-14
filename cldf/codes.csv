@@ -12,7 +12,7 @@ ID,Parameter_ID,Name,Description,Number,icon
 3A-3,3A,Average,Average,3,cffffff
 3A-4,3A,Moderately high,Moderately high,4,cff66ff
 3A-5,3A,High,High,5,cdd0000
-4A-1,4A,No voicing constrast,No voicing contrast,1,cffffff
+4A-1,4A,No voicing contrast,No voicing contrast,1,cffffff
 4A-2,4A,In plosives alone,Voicing contrast in plosives alone,2,cdd0000
 4A-3,4A,In fricatives alone,Voicing contrast in fricatives alone,3,c0000dd
 4A-4,4A,In both plosives and fricatives,Voicing contrast in both plosives and fricatives,4,c990099

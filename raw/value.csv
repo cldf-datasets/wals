@@ -5902,7 +5902,6 @@ jsondata,polymorphic_type,id,name,description,markup_description,pk,valueset_pk,
 ,base,138A-che,,,,5913,5913,637,,,1
 ,base,138A-cyn,,,,5914,5914,637,,,1
 ,base,138A-cic,,,,5915,5915,636,,,1
-,base,138A-chp,,,,5916,5916,637,,,1
 ,base,138A-chr,,,,5917,5917,635,,,1
 ,base,138A-crh,,,,5918,5918,636,,,1
 ,base,138A-chv,,,,5919,5919,635,,,1
@@ -5915,7 +5914,6 @@ jsondata,polymorphic_type,id,name,description,markup_description,pk,valueset_pk,
 ,base,138A-dga,,,,5926,5926,636,,,1
 ,base,138A-dah,,,,5927,5927,635,,,1
 ,base,138A-dsh,,,,5928,5928,636,,,1
-,base,138A-dhi,,,,5929,5929,637,,,1
 ,base,138A-din,,,,5930,5930,635,,,1
 ,base,138A-dio,,,,5931,5931,636,,,1
 ,base,138A-nbd,,,,5932,5932,635,,,1
@@ -5983,7 +5981,6 @@ jsondata,polymorphic_type,id,name,description,markup_description,pk,valueset_pk,
 ,base,138A-lad,,,,5994,5994,637,,,1
 ,base,138A-lmp,,,,5995,5995,636,,,1
 ,base,138A-lao,,,,5996,5996,637,,,1
-,base,138A-lat,,,,5997,5997,635,,,1
 ,base,138A-lcr,,,,5998,5998,635,,,1
 ,base,138A-lin,,,,5999,5999,636,,,1
 ,base,138A-fli,,,,6000,6000,637,,,1
@@ -15121,8 +15118,11 @@ jsondata,polymorphic_type,id,name,description,markup_description,pk,valueset_pk,
 ,base,1A-nen,,,,15140,15140,4,,,1
 ,base,1A-nap,,,,15141,15141,3,,,1
 ,base,1A-nep,,,,15142,15142,4,,,1
+,base,138A-chp,,,,5916,5916,636,,,2
 ,base,1A-new,,,,15144,15144,3,,,1
 ,base,1A-nez,,,,15145,15145,4,,,1
+,base,138A-dhi,,,,5929,5929,635,,,2
+,base,138A-lat,,,,5997,5997,636,,,2
 ,base,1A-nti,,,,15148,15148,5,,,1
 ,base,1A-nnc,,,,15150,15150,2,,,1
 ,base,1A-nim,,,,15151,15151,1,,,1
