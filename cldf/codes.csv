@@ -1013,7 +1013,7 @@ ID,Parameter_ID,Name,Description,Number,icon
 144N-4,144N,SONeg[V-Neg],SONeg[V-Neg],4,c0000dd
 144N-5,144N,SO[Neg-V]Neg,SO[Neg-V]Neg,5,c66ff33
 144N-6,144N,SO[Neg-V-Neg],SO[Neg-V-Neg],6,c009900
-144N-7,144N,SO[Neg-V] with negative tone on verb	SO[Neg-V]&NegTone,SO[Neg-V] with negative tone on verb	SO[Neg-V]&NegTone,7,c000000
+144N-7,144N,SO[Neg-V] with negative tone on verb  SO[Neg-V]&NegTone,SO[Neg-V] with negative tone on verb  SO[Neg-V]&NegTone,7,c000000
 144N-8,144N,SONegVNeg/SONeg[V-Neg],SONegVNeg/SONeg[V-Neg],8,c9999ff
 144N-9,144N,SVO but SONeg[V-Neg]/SO[Neg-V-Neg],SONeg[V-Neg]/SO[Neg-V-Neg] but SVO in affirmative clauses,9,cffffcc
 144N-10,144N,SNegO[V-Neg]/SONeg[V-Neg],SNegO[V-Neg]/SONeg[V-Neg],10,cff66ff
@@ -1112,8 +1112,8 @@ ID,Parameter_ID,Name,Description,Number,icon
 144U-14,144U,VS&VO&NegV/[(Neg-)V-Neg],VS & VO & NegV/[(Neg-)V-Neg],14,d99ffff
 144U-15,144U,VOS & NegVNeg,VOS & NegVNeg,15,tcccccc
 144U-16,144U,VSO/SVO & (Neg)V(Neg),VSO/SVO & (Neg)V(Neg),16,s990099
-144V-1,144V,"Separate word, no double negation	Word&NoDoubleNeg","Separate word, no double negation	Word&NoDoubleNeg",1,cdd0000
-144V-2,144V,"Prefix, no double negation	Prefix&NoDoubleNeg","Prefix, no double negation	Prefix&NoDoubleNeg",2,cffff00
+144V-1,144V,"Separate word, no double negation  Word&NoDoubleNeg","Separate word, no double negation  Word&NoDoubleNeg",1,cdd0000
+144V-2,144V,"Prefix, no double negation  Prefix&NoDoubleNeg","Prefix, no double negation  Prefix&NoDoubleNeg",2,cffff00
 144V-3,144V,Word&Opt,"Separate word, optional single or double negation, with preverbal negative word possible without a second negative",3,c0000dd
 144V-4,144V,Prefix&OptDoubleNeg,"Prefix, optional double negation, with negative prefix possible without a second negative",4,c99ffff
 144V-5,144V,Word&OnlyWithAnotherNeg,"Separate word, only occurs with another negative morpheme",5,c66ff33

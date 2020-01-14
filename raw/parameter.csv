@@ -15,6 +15,38 @@ pk,jsondata,id,name,description,markup_description,version
 14,,14A,Fixed Stress Locations,,,1
 15,,15A,Weight-Sensitive Stress,,,1
 16,,16A,Weight Factors in Weight-Sensitive Stress Systems,,,1
+77,,77A,Semantic Distinctions of Evidentiality,,,1
+78,,78A,Coding of Evidentiality,,,1
+79,,79A,Suppletion According to Tense and Aspect,,,1
+80,,80A,Verbal Number and Suppletion,,,1
+84,,84A,"Order of Object, Oblique, and Verb",,,1
+85,,85A,Order of Adposition and Noun Phrase,,,1
+89,,89A,Order of Numeral and Noun,,,1
+90,,90A,Order of Relative Clause and Noun,,,1
+94,,94A,Order of Adverbial Subordinator and Clause,,,1
+95,,95A,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,,,1
+96,,96A,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,,,1
+97,,97A,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,,,1
+98,,98A,Alignment of Case Marking of Full Noun Phrases,,,1
+99,,99A,Alignment of Case Marking of Pronouns,,,1
+105,,105A,Ditransitive Constructions: The Verb 'Give',,,1
+106,,106A,Reciprocal Constructions,,,1
+108,,108A,Antipassive Constructions,,,1
+109,,109A,Applicative Constructions,,,1
+110,,110A,Periphrastic Causative Constructions,,,1
+111,,111A,Nonperiphrastic Causative Constructions,,,1
+151,,144X,Verb-Initial with Clause-Final Negative,,,1
+153,,90G,Double-headed relative clauses,,,1
+154,,90E,Correlative relative clauses,,,1
+155,,144V,Verb-Initial with Preverbal Negative,,,1
+157,,144R,SONegV Order,,,1
+158,,143B,Obligatory Double Negation,,,1
+159,,144M,Multiple Negative Constructions in SOV Languages,,,1
+160,,144U,Double negation in verb-initial languages,,,1
+161,,144G,Optional Double Negation in SVO languages,,,1
+164,,144F,Obligatory Double Negation in SVO languages,,,1
+165,,90D,Internally-headed relative clauses,,,1
+166,,144E,Multiple Negative Constructions in SVO Languages,,,1
 17,,17A,Rhythm Types,,,1
 18,,18A,Absence of Common Consonants,,,1
 19,,19A,Presence of Uncommon Consonants,,,1
@@ -59,26 +91,6 @@ pk,jsondata,id,name,description,markup_description,version
 68,,68A,The Perfect,,,1
 69,,69A,Position of Tense-Aspect Affixes,,,1
 73,,73A,The Optative,,,1
-77,,77A,Semantic Distinctions of Evidentiality,,,1
-78,,78A,Coding of Evidentiality,,,1
-79,,79A,Suppletion According to Tense and Aspect,,,1
-80,,80A,Verbal Number and Suppletion,,,1
-84,,84A,"Order of Object, Oblique, and Verb",,,1
-85,,85A,Order of Adposition and Noun Phrase,,,1
-89,,89A,Order of Numeral and Noun,,,1
-90,,90A,Order of Relative Clause and Noun,,,1
-94,,94A,Order of Adverbial Subordinator and Clause,,,1
-95,,95A,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,,,1
-96,,96A,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,,,1
-97,,97A,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,,,1
-98,,98A,Alignment of Case Marking of Full Noun Phrases,,,1
-99,,99A,Alignment of Case Marking of Pronouns,,,1
-105,,105A,Ditransitive Constructions: The Verb 'Give',,,1
-106,,106A,Reciprocal Constructions,,,1
-108,,108A,Antipassive Constructions,,,1
-109,,109A,Applicative Constructions,,,1
-110,,110A,Periphrastic Causative Constructions,,,1
-111,,111A,Nonperiphrastic Causative Constructions,,,1
 112,,112A,Negative Morphemes,,,1
 113,,113A,Symmetric and Asymmetric Standard Negation,,,1
 114,,114A,Subtypes of Asymmetric Standard Negation,,,1
@@ -107,18 +119,6 @@ pk,jsondata,id,name,description,markup_description,version
 149,,144N,Obligatory Double Negation in SOV languages,,,1
 150,,144S,SOVNeg Order,,,1
 131,,131A,Numeral Bases,,,2
-151,,144X,Verb-Initial with Clause-Final Negative,,,1
-153,,90G,Double-headed relative clauses,,,1
-154,,90E,Correlative relative clauses,,,1
-155,,144V,Verb-Initial with Preverbal Negative,,,1
-157,,144R,SONegV Order,,,1
-158,,143B,Obligatory Double Negation,,,1
-159,,144M,Multiple Negative Constructions in SOV Languages,,,1
-160,,144U,Double negation in verb-initial languages,,,1
-161,,144G,Optional Double Negation in SVO languages,,,1
-164,,144F,Obligatory Double Negation in SVO languages,,,1
-165,,90D,Internally-headed relative clauses,,,1
-166,,144E,Multiple Negative Constructions in SVO Languages,,,1
 168,,81B,"Languages with two Dominant Orders of Subject, Object, and Verb",,,1
 170,,143C,Optional Double Negation,,,1
 171,,90F,Adjoined relative clauses,,,1

@@ -4091,7 +4091,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4091,,Tohono O'odham,other,,,name,en,1
 4092,,Caiman Nuevo,other,,,name,en,1
 4093,,Merong,other,,,name,en,1
-4094,,Miwok (Bodega),other,,,name,en,1
 4095,,"Mixe, Totontepec",other,,,name,en,1
 4096,,Kitalinga,other,,,name,en,1
 4097,,Aiki,other,,,name,en,1
@@ -4131,7 +4130,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4131,,Chulup,other,,,name,en,1
 4132,,Siyin Chin,other,,,name,en,1
 4133,,"Basque, Lekeitio ",other,,,name,en,1
-4134,,Kwoma,other,,,name,en,1
 4135,,Hmong (White),other,,,name,en,1
 4136,,Shulla,other,,,name,en,1
 4137,,Nambiquara,other,,,name,en,1
@@ -4163,7 +4161,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4163,,Selkirk,other,,,name,en,1
 4164,,Kassena,other,,,name,en,1
 4165,,Moseteno,other,,,name,en,1
-4166,,Pima Bajo,other,,,name,en,1
 4167,,West Armenian,other,,,name,en,1
 4168,,Shipibo-Conibo,other,,,name,en,1
 4169,,Yir-Yiront,other,,,name,en,1
@@ -4231,9 +4228,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4231,,Maula,other,,,name,en,1
 4232,,Palestinian Arabic,other,,,name,en,1
 4233,,Autu,other,,,name,en,1
-4234,,Kanembu,other,,,name,en,1
 4235,,Sinhalese,other,,,name,en,1
-4236,,Nivacle,other,,,name,en,1
 4237,,Luritja,other,,,name,en,1
 4238,,Eastern Kayah,other,,,name,en,1
 4239,,"Apache, Jicarilla",other,,,name,en,1
@@ -4337,13 +4332,11 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4337,,Inupiaq,other,,,name,en,1
 4338,,"Rukai, Tanan dialect",other,,,name,en,1
 4339,,Songhai (Koyraboro Senni),other,,,name,en,1
-4340,,Mongo,other,,,name,en,1
 4341,,Cemuhi,other,,,name,en,1
 4342,,Tarascan,other,,,name,en,1
 4343,,Cheremis (Eastern),other,,,name,en,1
 4344,,Douala,other,,,name,en,1
 4345,,Chewa,other,,,name,en,1
-4346,,Halkomelem (Upriver),other,,,name,en,1
 4347,,Khaliji,other,,,name,en,1
 4348,,Awroman,other,,,name,en,1
 4349,,Jei,other,,,name,en,1
@@ -4377,7 +4370,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4377,,Santa Ana Keresan,other,,,name,en,1
 4378,,Baraba Tatar,other,,,name,en,1
 4379,,Nubian (Aswan),other,,,name,en,1
-4380,,Poqomam,other,,,name,en,1
 4381,,Seychellois,other,,,name,en,1
 4382,,Tetun (Fehan),other,,,name,en,1
 4383,,Gbeya,other,,,name,en,1
@@ -4451,7 +4443,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4451,,Fante,other,,,name,en,1
 4452,,Ma'diti,other,,,name,en,1
 4453,,Motumotu,other,,,name,en,1
-4454,,Walman,other,,,name,en,1
 4455,,Kapriman,other,,,name,en,1
 4456,,Fanti,other,,,name,en,1
 4457,,Westfaelisch,other,,,name,en,1
@@ -4507,7 +4498,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4507,,Kogui,other,,,name,en,1
 4508,,Bislaman,other,,,name,en,1
 4509,,Bajau Asli,other,,,name,en,1
-4510,,Luwo,other,,,name,en,1
 4511,,Buryat,other,,,name,en,1
 4512,,Southern Mam,other,,,name,en,1
 4513,,Boro,other,,,name,en,1
@@ -4552,7 +4542,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4552,,Paya,other,,,name,en,1
 4553,,Murinhpatha,other,,,name,en,1
 4554,,Rungu,other,,,name,en,1
-4555,,Runga,other,,,name,en,1
 4556,,Miaro,other,,,name,en,1
 4557,,Maragat,other,,,name,en,1
 4558,,"Daju, Dar Fur dialect",other,,,name,en,1
@@ -4569,7 +4558,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4569,,Mosquito,other,,,name,en,1
 4570,,Volga Tatar,other,,,name,en,1
 4571,,Rappang Buginese,other,,,name,en,1
-4572,,Matngele,other,,,name,en,1
 4573,,Yidin,other,,,name,en,1
 4574,,Hottentot,other,,,name,en,1
 4575,,Romani (Vlach),other,,,name,en,1
@@ -4611,7 +4599,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4611,,Lue,other,,,name,en,1
 4612,,Wik-Munkan,other,,,name,en,1
 4613,,Karen (Red),other,,,name,en,1
-4614,,Keo,other,,,name,en,1
 4615,,Tapiro,other,,,name,en,1
 4616,,Sirenik Eskimo,other,,,name,en,1
 4617,,Köho,other,,,name,en,1
@@ -4657,10 +4644,8 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4657,,Mongor,other,,,name,en,1
 4658,,"Oshinonga, Oshiwambo",other,,,name,en,1
 4659,,SiSwati,other,,,name,en,1
-4660,,Wayampi,other,,,name,en,1
 4661,,Siuslawan,other,,,name,en,1
 4662,,Mongo-Nkundu,other,,,name,en,1
-4663,,Yupik (Siberian),other,,,name,en,1
 4664,,"Nyah Kur, Tha Pong dialect",other,,,name,en,1
 4665,,Guayakí,other,,,name,en,1
 4666,,Campa Ashaninca,other,,,name,en,1
@@ -4778,7 +4763,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4778,,Kimatuumbi,other,,,name,en,1
 4779,,"Ubde-Nehern, Macú, Makú",other,,,name,en,1
 4780,,Tjamoro,other,,,name,en,1
-4781,,Hunde,other,,,name,en,1
 4782,,Fuchow,other,,,name,en,1
 4783,,Dargi,other,,,name,en,1
 4784,,Rong,other,,,name,en,1
@@ -4919,13 +4903,11 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4919,,Chukchee,other,,,name,en,1
 4920,,Dholuo,other,,,name,en,1
 4921,,Mocovi,other,,,name,en,1
-4922,,Yaqay,other,,,name,en,1
 4923,,"Chinantec, San Felipe Usila",other,,,name,en,1
 4924,,Ineseno Chumash,other,,,name,en,1
 4925,,Siwora,other,,,name,en,1
 4926,,Ma'a,other,,,name,en,1
 4927,,Basque (Central),other,,,name,en,1
-4928,,Passamaquoddy-Maliseet,other,,,name,en,1
 4929,,N. Pomo,other,,,name,en,1
 4930,,Wongaibon,other,,,name,en,1
 4931,,Sephardic,other,,,name,en,1
@@ -4962,7 +4944,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4962,,Ijo (Central Western),other,,,name,en,1
 4963,,Towolhi,other,,,name,en,1
 4964,,Kaladdarsch,other,,,name,en,1
-4965,,O'odham,other,,,name,en,1
 4966,,Dolakha Newari,other,,,name,en,1
 4967,,Baragaon,other,,,name,en,1
 4968,,Hianacoto-Umaua ,other,,,name,en,1
@@ -4970,7 +4951,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 4970,,Tarahumara-Cent,other,,,name,en,1
 4971,,Alaska,other,,,name,en,1
 4972,,"Ladakhi, dialect of Leh",other,,,name,en,1
-4973,,Nyamwezi,other,,,name,en,1
 4974,,Enga (Kyaka),other,,,name,en,1
 4975,,Clear Lake Pomo,other,,,name,en,1
 4976,,Gaelic (Scottish),other,,,name,en,1
@@ -5037,7 +5017,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5037,,Mofu-Sud,other,,,name,en,1
 5038,,"W. Desert, as spoken at Ooldea",other,,,name,en,1
 5039,,Aramaic (Arbel Jewish),other,,,name,en,1
-5040,,Tsafiki,other,,,name,en,1
 5041,,Ndebele (South Africa),other,,,name,en,1
 5042,,Khanty (Northern),other,,,name,en,1
 5043,,Nyima,other,,,name,en,1
@@ -5052,7 +5031,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5052,,Kangiryuarmiut Eskimo,other,,,name,en,1
 5053,,"Yupik, Chevak",other,,,name,en,1
 5054,,Arabic (Modern Literary),other,,,name,en,1
-5055,,Sayula Popoluca,other,,,name,en,1
 5056,,Wolof (Dakar),other,,,name,en,1
 5057,,Brunka,other,,,name,en,1
 5058,,Ra-txa Hu-ni-ku-i,other,,,name,en,1
@@ -5087,7 +5065,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5087,,Kaliai,other,,,name,en,1
 5088,,S. Tati,other,,,name,en,1
 5089,,Wikchamni (Yokuts),other,,,name,en,1
-5090,,Bunan,other,,,name,en,1
 5091,,High Lugbara,other,,,name,en,1
 5092,,North Agaw,other,,,name,en,1
 5093,,Irish Gaelic,other,,,name,en,1
@@ -5098,7 +5075,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5098,,Yup'ik (Sirenik),other,,,name,en,1
 5099,,Sharanawa,other,,,name,en,1
 5100,,Sedik,other,,,name,en,1
-5101,,Harari,other,,,name,en,1
 5102,,Wadiri,other,,,name,en,1
 5103,,Toabaita,other,,,name,en,1
 5104,,Amadi,other,,,name,en,1
@@ -5189,15 +5165,12 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5189,,Gruzinski,other,,,name,en,1
 5190,,Thargari,other,,,name,en,1
 5191,,Dyolof,other,,,name,en,1
-5192,,Buin,other,,,name,en,1
 5193,,Daloka,other,,,name,en,1
 5194,,Tatana,other,,,name,en,1
-5195,,Arabic (Chadian),other,,,name,en,1
 5196,,Ufromi,other,,,name,en,1
 5197,,Araucana,other,,,name,en,1
 5198,,Tadzhik,other,,,name,en,1
 5199,,Aurès (Ait Frah),other,,,name,en,1
-5200,,Miwok (Southern Sierra),other,,,name,en,1
 5201,,S Greenlandic,other,,,name,en,1
 5202,,Darra,other,,,name,en,1
 5203,,Tangkhul Naga,other,,,name,en,1
@@ -5238,7 +5211,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5238,,Lower Grand Valley Dani,other,,,name,en,1
 5239,,Tatar (Volga),other,,,name,en,1
 5240,,Berber (Ayt Ayache Middle Atlas),other,,,name,en,1
-5241,,Nyelâyu,other,,,name,en,1
 5242,,Jemez Towa,other,,,name,en,1
 5243,,E. Uvea,other,,,name,en,1
 5244,,Dagare,other,,,name,en,1
@@ -5266,7 +5238,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5266,,Yawelmani Yokuts,other,,,name,en,1
 5267,,Yup'ik (Central Alaskan),other,,,name,en,1
 5268,,Abelam,other,,,name,en,1
-5269,,Retuarã,other,,,name,en,1
 5270,,Kundu,other,,,name,en,1
 5271,,Yâlayu,other,,,name,en,1
 5272,,Awa-Kwaiker,other,,,name,en,1
@@ -5292,7 +5263,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5292,,Karamojong,other,,,name,en,1
 5293,,Tuvaluan (North),other,,,name,en,1
 5294,,"Maybrat, Mayhapeh dialect of Ayawasi village",other,,,name,en,1
-5295,,Qawasqar,other,,,name,en,1
 5296,,Nawar,other,,,name,en,1
 5297,,Airmati,other,,,name,en,1
 5298,,!Xóõ (Lone Tree),other,,,name,en,1
@@ -5304,7 +5274,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5304,,Yuman (Delta River),other,,,name,en,1
 5305,,Djambarbwingu,other,,,name,en,1
 5306,,Cebuano Visayan,other,,,name,en,1
-5307,,Great Andamanese,other,,,name,en,1
 5308,,Enindhilyagwa,other,,,name,en,1
 5309,,Camsa,other,,,name,en,1
 5310,,Wo'tiheh,other,,,name,en,1
@@ -5426,7 +5395,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5426,,Kusundu,other,,,name,en,1
 5427,,Kashaya (Southwestern Pomo),other,,,name,en,1
 5428,,Siswati,other,,,name,en,1
-5429,,Yessan-Mayo,other,,,name,en,1
 5430,,Mískito Coast Creole English,other,,,name,en,1
 5431,,Lezgi,other,,,name,en,1
 5432,,Moba,other,,,name,en,1
@@ -5441,7 +5409,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5441,,Tiri (Grand Couli),other,,,name,en,1
 5442,,Kristang,other,,,name,en,1
 5443,,Magindanaw,other,,,name,en,1
-5444,,Jiarong,other,,,name,en,1
 5445,,Romani (Wallachian),other,,,name,en,1
 5446,,Karatay,other,,,name,en,1
 5447,,Tamazight (Middle Atlas),other,,,name,en,1
@@ -5554,7 +5521,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5554,,Western Bru,other,,,name,en,1
 5555,,Chin (Lai),other,,,name,en,1
 5556,,"Zapotec, Mixtepec",other,,,name,en,1
-5557,,Pisa,other,,,name,en,1
 5558,,Areare,other,,,name,en,1
 5559,,Heve,other,,,name,en,1
 5560,,Bukidnon,other,,,name,en,1
@@ -5627,7 +5593,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5627,,Calabar,other,,,name,en,1
 5628,,Fante Akan,other,,,name,en,1
 5629,,KiSwahili,other,,,name,en,1
-5630,,Bira,other,,,name,en,1
 5631,,Coreguaja,other,,,name,en,1
 5632,,Muruwurri,other,,,name,en,1
 5633,,Bwe Karen,other,,,name,en,1
@@ -5650,7 +5615,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5650,,Buyi,other,,,name,en,1
 5651,,Central Pomo,other,,,name,en,1
 5652,,Alacaluf,other,,,name,en,1
-5653,,Romansch,other,,,name,en,1
 5654,,Saa,other,,,name,en,1
 5655,,Paanci,other,,,name,en,1
 5656,,Naga (Kachcha),other,,,name,en,1
@@ -5700,7 +5664,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5700,,Ambrym,other,,,name,en,1
 5701,,"Arabic, Damascene",other,,,name,en,1
 5702,,Masset Haida,other,,,name,en,1
-5703,,Khoekhoe,other,,,name,en,1
 5704,,Miriam,other,,,name,en,1
 5705,,"Slave, Hare dialect",other,,,name,en,1
 5706,,Zoque (San Miguel Chimalapa),other,,,name,en,1
@@ -5813,7 +5776,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5813,,Karo-Batak,other,,,name,en,1
 5814,,NE Maidu,other,,,name,en,1
 5815,,Gadsup (Agarabi),other,,,name,en,1
-5816,,Skou,other,,,name,en,1
 5817,,Tongoa,other,,,name,en,1
 5818,,Chad Arabic,other,,,name,en,1
 5819,,Poko,other,,,name,en,1
@@ -5825,7 +5787,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5825,,Tsova-Tush (Batsbi),other,,,name,en,1
 5826,,Ayutla Mixteco,other,,,name,en,1
 5827,,Nederlands,other,,,name,en,1
-5828,,Dong (Southern),other,,,name,en,1
 5829,,Western Yi,other,,,name,en,1
 5830,,Eastern Cree,other,,,name,en,1
 5831,,Yankunytjatjara,other,,,name,en,1
@@ -5840,7 +5801,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5840,,Bangla,other,,,name,en,1
 5841,,Ngenkikurunggkur,other,,,name,en,1
 5842,,Totonaca (Xicotepec de Juaréz),other,,,name,en,1
-5843,,Ju|'hoan,other,,,name,en,1
 5844,,Chinese (Kunming),other,,,name,en,1
 5845,,Ta'e,other,,,name,en,1
 5846,,Donno So Dogon,other,,,name,en,1
@@ -5853,7 +5813,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5853,,Gwe,other,,,name,en,1
 5854,,Mekeo-Kovio,other,,,name,en,1
 5855,,Kibo,other,,,name,en,1
-5856,,Dhaasanac,other,,,name,en,1
 5857,,Tegem,other,,,name,en,1
 5858,,Lala,other,,,name,en,1
 5859,,S. Maidu,other,,,name,en,1
@@ -5868,7 +5827,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5868,,Ngadha,other,,,name,en,1
 5869,,"Lakota, Dakota, Teton",other,,,name,en,1
 5870,,W Apache,other,,,name,en,1
-5871,,Mien,other,,,name,en,1
 5872,,Adare,other,,,name,en,1
 5873,,Shilha,other,,,name,en,1
 5874,,Buma (in Solomon Islands),other,,,name,en,1
@@ -5969,7 +5927,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 5969,,Tequistlatec,other,,,name,en,1
 5970,,Votyak,other,,,name,en,1
 5971,,Osmanli,other,,,name,en,1
-5972,,Kipea,other,,,name,en,1
 5973,,Ponape Proper,other,,,name,en,1
 5974,,Ijo (North-Central),other,,,name,en,1
 5975,,Ocotepec Mixtec,other,,,name,en,1
@@ -6284,7 +6241,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 6284,,"Asurini, Tocantins",ethnologue,,ethnologue-asu,name,en,1
 6285,,Aceh,ethnologue,,ethnologue-ace,name,en,1
 6286,,Aralle-Tabulahan,ethnologue,,ethnologue-atq,name,en,1
-8615,,abq,Abaza,,abq,iso639-3,en,1
+8618,,aca,Achagua,,aca,iso639-3,en,1
 6287,,Atsugewi,ethnologue,,ethnologue-atw,name,en,1
 6288,,Aneityum,ethnologue,,ethnologue-aty,name,en,1
 6289,,Asturian,ethnologue,,ethnologue-ast,name,en,1
@@ -6465,7 +6422,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 6464,,Bube,ethnologue,,ethnologue-bvb,name,en,1
 6465,,Birri,ethnologue,,ethnologue-bvq,name,en,1
 6466,,Burarra,ethnologue,,ethnologue-bvr,name,en,1
-6467,,Identifier bvs has been changed,ethnologue,,ethnologue-bvs,name,en,1
 6468,,Dibole,ethnologue,,ethnologue-bvx,name,en,1
 6469,,"Karen, Bwe",ethnologue,,ethnologue-bwe,name,en,1
 6470,,Borna,ethnologue,,ethnologue-bwo,name,en,1
@@ -6648,6 +6604,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 6646,,Unami,ethnologue,,ethnologue-unm,name,en,1
 6647,,Deori,ethnologue,,ethnologue-der,name,en,1
 6648,,Desano,ethnologue,,ethnologue-des,name,en,1
+8619,,acc,"Achi', Cubulco",,acc,iso639-3,en,1
 6649,,Shua,ethnologue,,ethnologue-shg,name,en,1
 6650,,Dehu,ethnologue,,ethnologue-dhv,name,en,1
 6651,,"Dagaare, Southern",ethnologue,,ethnologue-dga,name,en,1
@@ -6752,6 +6709,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 6750,,Fordata,ethnologue,,ethnologue-frd,name,en,1
 6751,,Guianese Creole French,ethnologue,,ethnologue-gcr,name,en,1
 6752,,"Frisian, Western",ethnologue,,ethnologue-fry,name,en,1
+8650,,agm,Angaataha,,agm,iso639-3,en,1
 6753,,French,ethnologue,,ethnologue-fra,name,en,1
 6754,,"Frisian, Northern",ethnologue,,ethnologue-frr,name,en,1
 6755,,"Frisian, Eastern",ethnologue,,ethnologue-frs,name,en,1
@@ -6864,7 +6822,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 6862,,Golin,ethnologue,,ethnologue-gvf,name,en,1
 6863,,Kuku-Yalanji,ethnologue,,ethnologue-gvn,name,en,1
 6864,,Gavião do Jiparaná,ethnologue,,ethnologue-gvo,name,en,1
-8616,,abt,Ambulas,,abt,iso639-3,en,1
 6865,,"Gurung, Western",ethnologue,,ethnologue-gvr,name,en,1
 6866,,Gumawana,ethnologue,,ethnologue-gvs,name,en,1
 6867,,Kalami,ethnologue,,ethnologue-gwc,name,en,1
@@ -6897,6 +6854,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 6894,,Hemba,ethnologue,,ethnologue-hem,name,en,1
 6895,,Herero,ethnologue,,ethnologue-her,name,en,1
 6896,,Lamang,ethnologue,,ethnologue-hia,name,en,1
+8651,,agq,Aghem,,agq,iso639-3,en,1
 6897,,Hidatsa,ethnologue,,ethnologue-hid,name,en,1
 6898,,Hiligaynon,ethnologue,,ethnologue-hil,name,en,1
 6899,,Hixkaryána,ethnologue,,ethnologue-hix,name,en,1
@@ -7086,6 +7044,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 7083,,Korowai,ethnologue,,ethnologue-khe,name,en,1
 7084,,Khasi,ethnologue,,ethnologue-kha,name,en,1
 7085,,"Mongolian, Halh",ethnologue,,ethnologue-khk,name,en,1
+8620,,abj,Aka-Bea,,abj,iso639-3,en,1
 7086,,Lusi,ethnologue,,ethnologue-khl,name,en,1
 7087,,Kuo,ethnologue,,ethnologue-xuo,name,en,1
 7088,,"Songhay, Koyra Chiini",ethnologue,,ethnologue-khq,name,en,1
@@ -7410,7 +7369,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 7407,,Mandan,ethnologue,,ethnologue-mhq,name,en,1
 7408,,Buru,ethnologue,,ethnologue-mhs,name,en,1
 7409,,Digaro-Mishmi,ethnologue,,ethnologue-mhu,name,en,1
-7410,,Identifier mhv has been changed,ethnologue,,ethnologue-mhv,name,en,1
 7411,,Lhao Vo,ethnologue,,ethnologue-mhx,name,en,1
 7412,,Ma'anyan,ethnologue,,ethnologue-mhy,name,en,1
 7413,,Mor,ethnologue,,ethnologue-mhz,name,en,1
@@ -7914,6 +7872,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 7910,,Rawa,ethnologue,,ethnologue-rwo,name,en,1
 7911,,Buglere,ethnologue,,ethnologue-sab,name,en,1
 7912,,Meskwaki,ethnologue,,ethnologue-sac,name,en,1
+8652,,agr,Aguaruna,,agr,iso639-3,en,1
 7913,,Sango,ethnologue,,ethnologue-sag,name,en,1
 7914,,Selkup,ethnologue,,ethnologue-sel,name,en,1
 7915,,Salinan,ethnologue,,ethnologue-sln,name,en,1
@@ -7987,6 +7946,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 7983,,Lamaholot,ethnologue,,ethnologue-slp,name,en,1
 7984,,Salar,ethnologue,,ethnologue-slr,name,en,1
 7985,,Selaru,ethnologue,,ethnologue-slu,name,en,1
+8819,,bds,Burunge,,bds,iso639-3,en,1
 7986,,Slovene,ethnologue,,ethnologue-slv,name,en,1
 7987,,Selayar,ethnologue,,ethnologue-sly,name,en,1
 7988,,Ma'ya,ethnologue,,ethnologue-slz,name,en,1
@@ -8033,6 +7993,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 8029,,"Sisaala, Western",ethnologue,,ethnologue-ssl,name,en,1
 8030,,Waata,ethnologue,,ethnologue-ssn,name,en,1
 8031,,"Sotho, Southern",ethnologue,,ethnologue-sot,name,en,1
+8621,,acv,Achumawi,,acv,iso639-3,en,1
 8032,,Spanish Sign Language,ethnologue,,ethnologue-ssp,name,en,1
 8033,,Sinasina,ethnologue,,ethnologue-sst,name,en,1
 8034,,Saho,ethnologue,,ethnologue-ssy,name,en,1
@@ -8059,6 +8020,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 8055,,Maore,ethnologue,,ethnologue-swb,name,en,1
 8056,,Swedish,ethnologue,,ethnologue-swe,name,en,1
 8057,,Sui,ethnologue,,ethnologue-swi,name,en,1
+8820,,bdu,Oroko,,bdu,iso639-3,en,1
 8058,,Swedish Sign Language,ethnologue,,ethnologue-swl,name,en,1
 8059,,Sawila,ethnologue,,ethnologue-swt,name,en,1
 8060,,Swati,ethnologue,,ethnologue-ssw,name,en,1
@@ -8132,6 +8094,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 8128,,Thai,ethnologue,,ethnologue-tha,name,en,1
 8129,,Thompson,ethnologue,,ethnologue-thp,name,en,1
 8130,,Thakali,ethnologue,,ethnologue-ths,name,en,1
+8821,,bdy,Bandjalang,,bdy,iso639-3,en,1
 8131,,Tahitian,ethnologue,,ethnologue-tah,name,en,1
 8132,,"Tamahaq, Tahaggart",ethnologue,,ethnologue-thv,name,en,1
 8133,,"Tibetan, Central",ethnologue,,ethnologue-bod,name,en,1
@@ -8468,6 +8431,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 8464,,"Zapotec, Santa María Quiegolani",ethnologue,,ethnologue-zpi,name,en,1
 8465,,"Zapotec, Mixtepec",ethnologue,,ethnologue-zpm,name,en,1
 8466,,"Zapotec, Zoogocho",ethnologue,,ethnologue-zpq,name,en,1
+8622,,aci,Aka-Cari,,aci,iso639-3,en,1
 8467,,"Zapotec, Texmelucan",ethnologue,,ethnologue-zpz,name,en,1
 8468,,Záparo,ethnologue,,ethnologue-zro,name,en,1
 8469,,Zuni,ethnologue,,ethnologue-zun,name,en,1
@@ -8515,7 +8479,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 8511,,Rongpo,ethnologue,,ethnologue-rnp,name,en,1
 8512,,Warrwa,ethnologue,,ethnologue-wwr,name,en,1
 8513,,Opata,ethnologue,,ethnologue-opt,name,en,1
-8514,,,ethnologue,,ethnologue-zkk,name,en,1
 8515,,Legbo,ethnologue,,ethnologue-agb,name,en,1
 8516,,Chilisso,ethnologue,,ethnologue-clh,name,en,1
 8517,,Donno So Dogon,ethnologue,,ethnologue-dds,name,en,1
@@ -8608,18 +8571,14 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 8604,,Wanman,ethnologue,,ethnologue-wbt,name,en,1
 8605,,Warumungu,ethnologue,,ethnologue-wrm,name,en,1
 8606,,Yalarnnga,ethnologue,,ethnologue-ylr,name,en,1
-8607,,,ethnologue,,ethnologue-nob,name,en,1
 8608,,aaa,Ghotuo,,aaa,iso639-3,en,1
 8609,,aal,Afade,,aal,iso639-3,en,1
 8610,,aau,Abau,,aau,iso639-3,en,1
 8611,,abb,Bankon,,abb,iso639-3,en,1
 8612,,abe,"Abnaki, Western",,abe,iso639-3,en,1
+8615,,abq,Abaza,,abq,iso639-3,en,1
+8616,,abt,Ambulas,,abt,iso639-3,en,1
 8617,,arb,"Arabic, Standard",,arb,iso639-3,en,1
-8618,,aca,Achagua,,aca,iso639-3,en,1
-8619,,acc,"Achi', Cubulco",,acc,iso639-3,en,1
-8620,,abj,Aka-Bea,,abj,iso639-3,en,1
-8621,,acv,Achumawi,,acv,iso639-3,en,1
-8622,,aci,Aka-Cari,,aci,iso639-3,en,1
 8623,,acm,"Arabic, Mesopotamian Spoken",,acm,iso639-3,en,1
 8624,,acn,Achang,,acn,iso639-3,en,1
 8625,,ach,Acholi,,ach,iso639-3,en,1
@@ -8647,9 +8606,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 8647,,agd,Agarabi,,agd,iso639-3,en,1
 8648,,agg,Angor,,agg,iso639-3,en,1
 8649,,agh,Ngelima,,agh,iso639-3,en,1
-8650,,agm,Angaataha,,agm,iso639-3,en,1
-8651,,agq,Aghem,,agq,iso639-3,en,1
-8652,,agr,Aguaruna,,agr,iso639-3,en,1
 8653,,agt,"Agta, Central Cagayan",,agt,iso639-3,en,1
 8654,,agu,Awakateko,,agu,iso639-3,en,1
 8655,,agx,Aghul,,agx,iso639-3,en,1
@@ -8816,9 +8772,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 8816,,bdl,"Bajau, Indonesian",,bdl,iso639-3,en,1
 8817,,bdm,Buduma,,bdm,iso639-3,en,1
 8818,,bdq,Bahnar,,bdq,iso639-3,en,1
-8819,,bds,Burunge,,bds,iso639-3,en,1
-8820,,bdu,Oroko,,bdu,iso639-3,en,1
-8821,,bdy,Bandjalang,,bdy,iso639-3,en,1
 8822,,bee,Byangsi,,bee,iso639-3,en,1
 8823,,bef,Benabena,,bef,iso639-3,en,1
 8824,,bej,Bedawiyet,,bej,iso639-3,en,1
@@ -10062,6 +10015,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 10062,,ncb,"Nicobarese, Central",,ncb,iso639-3,en,1
 10063,,nce,Yale,,nce,iso639-3,en,1
 10064,,ncg,Nisga'a,,ncg,iso639-3,en,1
+10231,,bvz,Bauzi,,bvz,iso639-3,en,1
 10065,,ncj,"Nahuatl, Northern Puebla",,ncj,iso639-3,en,1
 10066,,nck,Nakara,,nck,iso639-3,en,1
 10067,,ncl,"Nahuatl, Michoacán",,ncl,iso639-3,en,1
@@ -10228,7 +10182,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 10228,,pao,"Paiute, Northern",,pao,iso639-3,en,1
 10229,,ood,Tohono O’odham,,ood,iso639-3,en,1
 10230,,par,Timbisha,,par,iso639-3,en,1
-10231,,bvz,Bauzi,,bvz,iso639-3,en,1
 10232,,pav,Pakaásnovos,,pav,iso639-3,en,1
 10233,,paw,Pawnee,,paw,iso639-3,en,1
 10234,,pay,Pech,,pay,iso639-3,en,1
@@ -11439,6 +11392,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 11439,,beli1260,Belize Kriol English,,gc-bzj,glottolog,en,1
 11440,,buli1255,Buli,,gc-bzq,glottolog,en,1
 11441,,biri1256,Biri,,gc-bzr,glottolog,en,1
+12273,,lush1249,Mizo,,gc-lus,glottolog,en,1
 11442,,braz1236,Brazilian Sign Language,,gc-bzs,glottolog,en,1
 11443,,chor1273,Ch'orti',,gc-caa,glottolog,en,1
 11444,,gari1256,Garifuna,,gc-cab,glottolog,en,1
@@ -11554,7 +11508,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 11554,,nort1552,"Cree, Northern East",,gc-crl,glottolog,en,1
 11555,,corn1251,Cornish,,gc-cor,glottolog,en,1
 11556,,crow1244,Crow,,gc-cro,glottolog,en,1
-11632,,duma1253,Duma,,gc-dma,glottolog,en,1
 11557,,plai1258,"Cree, Plains",,gc-crk,glottolog,en,1
 11558,,iyow1239,"Chorote, Iyo'wujwa",,gc-crq,glottolog,en,1
 11559,,sese1246,Seselwa Creole French,,gc-crs,glottolog,en,1
@@ -11630,6 +11583,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 11629,,djam1256,Djambarrpuyngu,,gc-djr,glottolog,en,1
 11630,,kapr1245,Kapriman,,gc-dju,glottolog,en,1
 11631,,dolg1241,Dolgan,,gc-dlg,glottolog,en,1
+11632,,duma1253,Duma,,gc-dma,glottolog,en,1
 11633,,doma1260,Domaaki,,gc-dmk,glottolog,en,1
 11634,,lowe1415,"Dani, Lower Grand Valley",,gc-dni,glottolog,en,1
 11635,,dani1285,Danish,,gc-dan,glottolog,en,1
@@ -11663,6 +11617,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 11663,,koti1238,Koti,,gc-eko,glottolog,en,1
 11664,,east2342,"Kayah, Eastern",,gc-eky,glottolog,en,1
 11665,,tuva1244,Tuvaluan,,gc-tvl,glottolog,en,1
+12274,,leti1246,Leti,,gc-lti,glottolog,en,1
 11666,,emai1241,Emai-Iuleha-Ora,,gc-ema,glottolog,en,1
 11667,,emba1238,Embaloh,,gc-emb,glottolog,en,1
 11668,,muss1246,Mussau-Emira,,gc-emi,glottolog,en,1
@@ -11932,6 +11887,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 11932,,ivat1242,Ivatan,,gc-ivv,glottolog,en,1
 11933,,iwam1256,Iwam,,gc-iwm,glottolog,en,1
 11934,,ixca1245,Ixcatec,,gc-ixc,glottolog,en,1
+12087,,rumu1243,Rumu,,gc-klq,glottolog,en,1
 11935,,ixil1253,"Ixil, Nebaj",,gc-ixi,glottolog,en,1
 11936,,ixil1251,"Ixil, San Juan Cotzal",,gc-ixl,glottolog,en,1
 11937,,ingr1248,Ingrian,,gc-izh,glottolog,en,1
@@ -12084,7 +12040,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 12084,,gami1243,Gamilaraay,,gc-kld,glottolog,en,1
 12085,,kulu1253,Kulung,,gc-kle,glottolog,en,1
 12086,,turk1303,"Khalaj, Turkic",,gc-klj,glottolog,en,1
-12087,,rumu1243,Rumu,,gc-klq,glottolog,en,1
 12088,,khal1275,Khaling,,gc-klr,glottolog,en,1
 12089,,kala1372,Kalasha,,gc-kls,glottolog,en,1
 12090,,klao1243,Klao,,gc-klu,glottolog,en,1
@@ -12270,8 +12225,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 12270,,kild1236,"Saami, Kildin",,gc-sjd,glottolog,en,1
 12271,,nort2671,"Saami, North",,gc-sme,glottolog,en,1
 12272,,lara1258,Laragia,,gc-lrg,glottolog,en,1
-12273,,lush1249,Mizo,,gc-lus,glottolog,en,1
-12274,,leti1246,Leti,,gc-lti,glottolog,en,1
 12275,,luba1249,Luba-Kasai,,gc-lua,glottolog,en,1
 12276,,luva1239,Luvale,,gc-lue,glottolog,en,1
 12277,,lugb1240,Lugbara,,gc-lgg,glottolog,en,1
@@ -13217,8 +13170,8 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 13217,,yaku1245,Yakut,,gc-sah,glottolog,en,1
 13218,,ulch1241,Ulch,,gc-ulc,glottolog,en,1
 13219,,ulit1238,Ulithian,,gc-uli,glottolog,en,1
-13296,,wint1259,Wintu,,gc-wit,glottolog,en,1
 13220,,meri1244,Meriam,,gc-ulk,glottolog,en,1
+13299,,wiyo1248,Wiyot,,gc-wiy,glottolog,en,1
 13221,,umat1237,Umatilla,,gc-uma,glottolog,en,1
 13222,,umbu1258,Umbu-Ungu,,gc-ubu,glottolog,en,1
 13223,,muns1251,Munsee,,gc-umu,glottolog,en,1
@@ -13229,7 +13182,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 13228,,urub1250,Kaapor,,gc-urb,glottolog,en,1
 13229,,urdu1245,Urdu,,gc-urd,glottolog,en,1
 13230,,uruu1244,Uru,,gc-ure,glottolog,en,1
-13231,,urad1239,Uradhi,,gc-urf,glottolog,en,1
 13232,,urho1239,Urhobo,,gc-urh,glottolog,en,1
 13233,,urim1252,Urim,,gc-uri,glottolog,en,1
 13234,,urak1238,Urak Lawoi',,gc-urk,glottolog,en,1
@@ -13294,9 +13246,8 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 13293,,wikn1245,Wik-Ngathana,,gc-wig,glottolog,en,1
 13294,,wikm1247,Wik-Mungkan,,gc-wim,glottolog,en,1
 13295,,hoch1243,Ho-Chunk,,gc-win,glottolog,en,1
+13296,,wint1259,Wintu,,gc-wit,glottolog,en,1
 13297,,mudu1242,Muduapa,,gc-wiv,glottolog,en,1
-13298,,wira1260,Wirangu,,gc-wiw,glottolog,en,1
-13299,,wiyo1248,Wiyot,,gc-wiy,glottolog,en,1
 13300,,kunb1251,Kunbarlang,,gc-wlg,glottolog,en,1
 13301,,woli1241,Wolio,,gc-wlo,glottolog,en,1
 13302,,wels1247,Welsh,,gc-cym,glottolog,en,1
@@ -13370,7 +13321,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 13370,,nort2745,"Yukaghir, Northern",,gc-ykg,glottolog,en,1
 13371,,yako1252,Yakoma,,gc-yky,glottolog,en,1
 13372,,yele1255,Yele,,gc-yle,glottolog,en,1
-13680,,kaur1267,,,kaur1267,glottolog,en,1
 13373,,angg1239,"Yali, Angguruk",,gc-yli,glottolog,en,1
 13374,,yill1241,Yil,,gc-yll,glottolog,en,1
 13375,,nyal1254,Nyâlayu,,gc-yly,glottolog,en,1
@@ -13655,7 +13605,6 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 13654,,poch1244,,,poch1244,glottolog,en,1
 13655,,yort1237,,,yort1237,glottolog,en,1
 13656,,kwaz1243,,,kwaz1243,glottolog,en,1
-13657,,nucl1667,,,nucl1667,glottolog,en,1
 13658,,ixil1250,,,ixil1250,glottolog,en,1
 13659,,yuru1243,,,yuru1243,glottolog,en,1
 13660,,wahg1249,,,wahg1249,glottolog,en,1
@@ -13678,9 +13627,105 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 13677,,nand1266,,,nand1266,glottolog,en,1
 13678,,kiss1245,,,kiss1245,glottolog,en,1
 13679,,indo1311,,,indo1311,glottolog,en,1
+13680,,kaur1267,,,kaur1267,glottolog,en,1
 13681,,basq1250,,,basq1250,glottolog,en,1
 13682,,kano1245,,,kano1245,glottolog,en,1
 13683,,anga1287,,,anga1287,glottolog,en,1
 13684,,tutu1242,,,tutu1242,glottolog,en,1
 13685,,boli1262,,,boli1262,glottolog,en,1
 13611,,lusi1240,,,kali1298,glottolog,en,1
+13686,,Warrungu,other,,,name,en,1
+13231,,atam1239,Uradhi,,gc-urf,glottolog,en,1
+13687,,west2443,west2443,,west2443,glottolog,en,1
+13688,,pitj1243,pitj1243,,pitj1243,glottolog,en,1
+13298,,wira1265,Wirangu,,gc-wiw,glottolog,en,1
+13689,,Kotiria,other,,,name,en,1
+13705,,xiri1243,xiri1243,,xiri1243,glottolog,en,1
+13706,,xir,Xiriâna,,xir,iso639-3,en,1
+13707,,Xiriâna,ethnologue,,ethnologue-xir,name,en,1
+13657,,cent2142,,,nucl1667,glottolog,en,1
+13708,,Jur Luwo,other,,,name,en,1
+13709,,Kayu Agung,other,,,name,en,1
+13710,,Achi,ethnologue,,,name,en,1
+13711,,rmz,,,rmz,iso639-3,en,1
+13712,,Marma,ethnologue,,,name,en,1
+13713,,bem,,,bem,iso639-3,en,1
+13714,,bemb1257,,,bemb1257,glottolog,en,1
+13715,,cak,,,cak,iso639-3,en,1
+13716,,kaqc1270,,,kaqc1270,glottolog,en,1
+13717,,Kaqchikel,ethnologue,,,name,en,1
+13718,,gmv,,,gmv,iso639-3,en,1
+13719,,gamo1243,,,gamo1243,glottolog,en,1
+13720,,Gamo,ethnologue,,,name,en,1
+13721,,gqu,,,gqu,iso639-3,en,1
+13722,,qaua1234,,,qaua1234,glottolog,en,1
+13723,,Qau,ethnologue,,,name,en,1
+13724,,wrk,,,wrk,iso639-3,en,1
+13725,,gara1269,,,gara1269,glottolog,en,1
+13726,,Garrwa,ethnologue,,,name,en,1
+13727,,hus,,,hus,iso639-3,en,1
+13728,,huas1242,,,huas1242,glottolog,en,1
+13729,,Huastec,ethnologue,,,name,en,1
+13730,,isk,,,isk,iso639-3,en,1
+13731,,sang1236,,,sang1236,glottolog,en,1
+13732,,Ishkashmi,ethnologue,,,name,en,1
+13733,,egl,,,egl,iso639-3,en,1
+13734,,emil1241,,,emil1241,glottolog,en,1
+13735,,Emilian,ethnologue,,,name,en,1
+13736,,Ixil,ethnologue,,,name,en,1
+13737,,izz,,,izz,iso639-3,en,1
+13738,,Izii,ethnologue,,,name,en,1
+13739,,nuk,,,nuk,iso639-3,en,1
+13740,,nuuc1236,,,nuuc1236,glottolog,en,1
+13741,,Nuu-chah-nulth,ethnologue,,,name,en,1
+13742,,enx,,,enx,iso639-3,en,1
+13743,,Enxet,ethnologue,,,name,en,1
+13744,,dmw,,,dmw,iso639-3,en,1
+13745,,Mudburra,ethnologue,,,name,en,1
+13746,,xpq,,,xpq,iso639-3,en,1
+13747,,Mohegan-Pequot,ethnologue,,,name,en,1
+13748,,nxq,,,nxq,iso639-3,en,1
+13749,,dgl,,,dgl,iso639-3,en,1
+13750,,Andaandi,ethnologue,,,name,en,1
+13751,,ntu,,,ntu,iso639-3,en,1
+13752,,natu1246,,,natu1246,glottolog,en,1
+13753,,njz,,,njz,iso639-3,en,1
+13754,,nyis1236,,,nyis1236,glottolog,en,1
+13755,,Nyishi,ethnologue,,,name,en,1
+13756,,dtd,,,dtd,iso639-3,en,1
+13757,,diti1235,,,diti1235,glottolog,en,1
+13758,,Ditidaht,ethnologue,,,name,en,1
+13759,,xnz,,,xnz,iso639-3,en,1
+13760,,Kenzi (Mattoki),ethnologue,,,name,en,1
+13761,,nrk,,,nrk,iso639-3,en,1
+13762,,Poqomchi',ethnologue,,,name,en,1
+13763,,pwu,,,pwu,iso639-3,en,1
+13764,,patw1250,,,patw1250,glottolog,en,1
+13765,,Patwin,ethnologue,,,name,en,1
+13766,,yan,,,yan,iso639-3,en,1
+13767,,maya1285,,,maya1285,glottolog,en,1
+13768,,Mayangna,ethnologue,,,name,en,1
+13769,,hrc,,,hrc,iso639-3,en,1
+13770,,Niwer Mil,ethnologue,,,name,en,1
+13771,,tvu,,,tvu,iso639-3,en,1
+13772,,tune1261,,,tune1261,glottolog,en,1
+13773,,tzo,,,tzo,iso639-3,en,1
+13774,,tzot1259,,,tzot1259,glottolog,en,1
+13775,,Tzotzil,ethnologue,,,name,en,1
+13776,,Tz'utujil,ethnologue,,,name,en,1
+13777,,vgt,,,vgt,iso639-3,en,1
+13778,,Flemish Sign Language,ethnologue,,,name,en,1
+13779,,xwk,,,xwk,iso639-3,en,1
+13780,,Wangkumara,ethnologue,,,name,en,1
+13781,,wnw,,,wnw,iso639-3,en,1
+13782,,wgu,,,wgu,iso639-3,en,1
+13783,,wro,,,wro,iso639-3,en,1
+13784,,Worrorra,ethnologue,,,name,en,1
+13785,,yyr,,,yyr,iso639-3,en,1
+13786,,yiry1247,,,yiry1247,glottolog,en,1
+13787,,yug,,,yug,iso639-3,en,1
+13788,,Yug,ethnologue,,,name,en,1
+13789,,bpr,,,bpr,iso639-3,en,1
+13790,,dnj,,,dnj,iso639-3,en,1
+13791,,ckb,,,ckb,iso639-3,en,1
+13792,,cent1972,,,cent1972,glottolog,en,1

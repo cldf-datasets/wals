@@ -1,5 +1,4 @@
 Language_ID,Name,Provider
-cmc cmk coa kkw nor tmc,,ethnologue
 xoo,!Xóõ,ethnologue
 arx,'Are'are,ethnologue
 apk gan,A-Pucikwar,ethnologue
@@ -15,8 +14,7 @@ abu,Abun,ethnologue
 ace,Aceh,ethnologue
 acg,Achagua,ethnologue
 acn,Achang,ethnologue
-aci,"Achi', Cubulco",ethnologue
-aci,"Achi', Rabinal",ethnologue
+aci,Achi,ethnologue
 acl,Acholi,ethnologue
 acu,Achuar-Shiwiar,ethnologue
 acm,Achumawi,ethnologue
@@ -87,6 +85,7 @@ ami,Amis,ethnologue
 amo,Amo,ethnologue
 amz,"Amuzgo, Guerrero",ethnologue
 amx,Anamgura,ethnologue
+nbd,Andaandi,ethnologue
 anx,Andi,ethnologue
 adk,Andoque,ethnologue
 anj,Aneityum,ethnologue
@@ -170,7 +169,6 @@ awn,Awngi,ethnologue
 awt,Awtuw,ethnologue
 awy,Awyi,ethnologue
 pis,"Awyu, Asue",ethnologue
-aym,"Aymara, Central",ethnologue
 aym,"Aymara, Southern",ethnologue
 ayr,Ayoreo,ethnologue
 aze,"Azerbaijani, North",ethnologue
@@ -525,6 +523,7 @@ dim,Dime,ethnologue
 zaz,Dimli,ethnologue
 dng,Ding,ethnologue
 din,"Dinka, Northeastern",ethnologue
+nit,Ditidaht,ethnologue
 diz,Dizi,ethnologue
 djm,Djambarrpuyngu,ethnologue
 jam,Djamindjung,ethnologue
@@ -575,13 +574,14 @@ emb,"Emberá, Northern",ethnologue
 cat,Emberá-Catío,ethnologue
 emc,Emberá-Chamí,ethnologue
 eme,Emerillon,ethnologue
-itb,Emiliano-Romagnolo,ethnologue
+itb,Emilian,ethnologue
 ene,"Enets, Forest",ethnologue
 ene,"Enets, Tundra",ethnologue
 ena,Enga,ethnologue
 egn,Engenni,ethnologue
 eno,Enggano,ethnologue
 eng,English,ethnologue
+lng,Enxet,ethnologue
 eny,Enya,ethnologue
 epe,Epena,ethnologue
 moe,Erzya,ethnologue
@@ -604,6 +604,7 @@ fij ndr,Fijian,ethnologue
 fiw,"Fijian, Western",ethnologue
 fin,Finnish,ethnologue
 fsl,Finnish Sign Language,ethnologue
+vla,Flemish Sign Language,ethnologue
 foe,Foi,ethnologue
 pdp,Folopa,ethnologue
 fon,Fon,ethnologue
@@ -639,13 +640,14 @@ ghr,Gahri,ethnologue
 gll,Galela,ethnologue
 glc,Galician,ethnologue
 gml yuw,Gamilaraay,ethnologue
-gam kul,Gamo-Gofa-Dawro,ethnologue
+gam,Gamo,ethnologue
+kul,Gamo-Gofa-Dawro,ethnologue
 lda,Ganda,ethnologue
 yuk,Ganggalida,ethnologue
 gap,Gapapaiwa,ethnologue
-grr,Garawa,ethnologue
 grf,Garifuna,ethnologue
 gar,Garo,ethnologue
+grr,Garrwa,ethnologue
 grs,Garus,ethnologue
 gav,Gavião do Jiparaná,ethnologue
 dug,Gawwada,ethnologue
@@ -657,7 +659,6 @@ gbb,Gbaya-Bossangoa,ethnologue
 mdo,Gbaya-Mbodomo,ethnologue
 wmn,"Gbe, Weme",ethnologue
 gel,Gela,ethnologue
-gla,Gelao,ethnologue
 geo,Georgian,ethnologue
 dge,German Sign Language,ethnologue
 gbl ger gha gma gth gti,"German, Standard",ethnologue
@@ -769,7 +770,7 @@ hop,Hopi,ethnologue
 hre,Hre,ethnologue
 hmb,Huambisa,ethnologue
 grj,Huarijío,ethnologue
-htc,"Huastec, Southeastern",ethnologue
+htc,Huastec,ethnologue
 hve,"Huave, San Mateo del Mar",ethnologue
 klb,Huba,ethnologue
 hui,Huichol,ethnologue
@@ -792,8 +793,6 @@ ibi,Ibibio,ethnologue
 ice,Icelandic,ethnologue
 ics,Icelandic Sign Language,ethnologue
 beg,Ida’an,ethnologue
-vla,Identifier bvs has been changed,ethnologue
-akm,Identifier mhv has been changed,ethnologue
 ido,Idoma,ethnologue
 idu,Idu-Mishmi,ethnologue
 idn,Iduna,ethnologue
@@ -826,6 +825,7 @@ irs,Irish Sign Language,ethnologue
 irx,Irántxe,ethnologue
 isa,Isaka,ethnologue
 ise,Isekiri,ethnologue
+ish,Ishkashmi,ethnologue
 isi,Isirawa,ethnologue
 isn,Isnag,ethnologue
 iso,Isoko,ethnologue
@@ -841,9 +841,8 @@ iva ivs,Ivatan,ethnologue
 iwa,Iwaidja,ethnologue
 iwm,Iwam,ethnologue
 ixc,Ixcatec,ethnologue
-ixi,"Ixil, Nebaj",ethnologue
-ixi,"Ixil, San Juan Cotzal",ethnologue
-izi,Izi-Ezaa-Ikwo-Mgbo,ethnologue
+ixi,Ixil,ethnologue
+izi,Izii,ethnologue
 ijo,Izon,ethnologue
 jbt,Jabutí,ethnologue
 jak,"Jakalteko, Eastern",ethnologue
@@ -929,7 +928,7 @@ knr,"Kanuri, Central",ethnologue
 kyo,Kanyok,ethnologue
 kpn,Kapingamarangi,ethnologue
 sar,Kapriman,ethnologue
-cak,"Kaqchikel, Southern",ethnologue
+cak,Kaqchikel,ethnologue
 kar kra,Kara,ethnologue
 tny,"Karaboro, Western",ethnologue
 krj,Karadjeri,ethnologue
@@ -984,9 +983,9 @@ klt,Kelabit,ethnologue
 kel,Kele,ethnologue
 kmt,Kemtuik,ethnologue
 ken,Kenga,ethnologue
-nbd nku,Kenuzi-Dongola,ethnologue
 ksl,Kenyan Sign Language,ethnologue
 kyg,Kenyang,ethnologue
+nku,Kenzi (Mattoki),ethnologue
 ker,Kera,ethnologue
 krq,Kerek,ethnologue
 ksa,"Keres, Eastern",ethnologue
@@ -1182,7 +1181,6 @@ lel,Lele,ethnologue
 llm,Lelemi,ethnologue
 len,Lenakel,ethnologue
 ldu,Lendu,ethnologue
-lng,Lengua,ethnologue
 agt lnj,Leningitij,ethnologue
 lep,Lepcha,ethnologue
 les,Lese,ethnologue
@@ -1337,6 +1335,7 @@ mrd,Marind,ethnologue
 mav,Maring,ethnologue
 mrr,Maringarr,ethnologue
 mrh,Marithiel,ethnologue
+akm,Marma,ethnologue
 mrq,"Marquesan, North",ethnologue
 mrq,"Marquesan, South",ethnologue
 msh,Marshallese,ethnologue
@@ -1355,6 +1354,7 @@ mwc,Mawchi,ethnologue
 max,Maxakalí,ethnologue
 mop,"Maya, Mopán",ethnologue
 yct,"Maya, Yucatán",ethnologue
+sum,Mayangna,ethnologue
 myo,Mayo,ethnologue
 myg,Mayogo,ethnologue
 dab,Mazagway,ethnologue
@@ -1437,7 +1437,7 @@ mof,Mofu-Gudur,ethnologue
 mog,Mogholi,ethnologue
 moj,Mohave,ethnologue
 moh,Mohawk,ethnologue
-mhc,Mohegan-Montauk-Narragansett,ethnologue
+mhc,Mohegan-Pequot,ethnologue
 mok,Mokilese,ethnologue
 bku,Mokpwe,ethnologue
 mmo,Moksha,ethnologue
@@ -1463,7 +1463,7 @@ mwo,Motlav,ethnologue
 mtu,Motu,ethnologue
 mov,Movima,ethnologue
 mpu,Mpur,ethnologue
-mdb,Mudbura,ethnologue
+mdb,Mudburra,ethnologue
 bvi,Muduapa,ethnologue
 aoj,Mufian,ethnologue
 mui,Muinane,ethnologue
@@ -1595,7 +1595,6 @@ nti,Ngiti,ethnologue
 ngz,Ngizim,ethnologue
 dok nbe,Ngombe,ethnologue
 ngo,Ngoni,ethnologue
-wan,Ngura,ethnologue
 nbr,Ngäbere,ethnologue
 nia,Nias,ethnologue
 nca,"Nicobarese, Car",ethnologue
@@ -1608,10 +1607,10 @@ shi,Ninam,ethnologue
 nin,Ningil,ethnologue
 nsn,Nisenan,ethnologue
 nsg,Nisga'a,ethnologue
-nis,Nisi,ethnologue
 nif,Niuafo'ou,ethnologue
 niu,Niue,ethnologue
 chu,Nivaclé,ethnologue
+tga,Niwer Mil,ethnologue
 nke,Nkem-Nkum,ethnologue
 nkn,Nkonya,ethnologue
 nob,Nobiin,ethnologue
@@ -1619,7 +1618,7 @@ nog nok tlb yta,Nogai,ethnologue
 nom,Nomatsiguenga,ethnologue
 noo,Noon,ethnologue
 non,Noone,ethnologue
-kyq nit nuu,Nootka,ethnologue
+nuu,Nootka,ethnologue
 nte,Norwegian Sign Language,ethnologue
 nse,Nsenga,ethnologue
 ncm,Ntcham,ethnologue
@@ -1637,6 +1636,7 @@ nnn,"Nuni, Northern",ethnologue
 yi,Nuosu,ethnologue
 nup,Nupe-Nupe-Tako,ethnologue
 nus,Nusu,ethnologue
+kyq,Nuu-chah-nulth,ethnologue
 nkt,Nyahkur,ethnologue
 nly,Nyamal,ethnologue
 nbo,Nyambo,ethnologue
@@ -1650,6 +1650,7 @@ rim,Nyaturu,ethnologue
 nya,Nyawaygi,ethnologue
 nyn,Nyigina,ethnologue
 nyh,"Nyiha, Tanzania",ethnologue
+nis,Nyishi,ethnologue
 rru,Nyoro,ethnologue
 nyu,Nyulnyul,ethnologue
 nju,Nyunga,ethnologue
@@ -1735,6 +1736,7 @@ psh,"Pashto, Central",ethnologue
 pat,Patep,ethnologue
 ptp,Patpatar,ethnologue
 ptt,Pattani,ethnologue
+ptw,Patwin,ethnologue
 plh,Paulohi,ethnologue
 pau,Paumarí,ethnologue
 paw,Pawaia,ethnologue
@@ -1775,8 +1777,7 @@ olu,"Popoluca, Oluta",ethnologue
 say,"Popoluca, Sayula",ethnologue
 pcm,"Poqomam, Central",ethnologue
 poc,"Poqomam, Eastern",ethnologue
-pkm,"Poqomchi', Eastern",ethnologue
-pkm,"Poqomchi', Western",ethnologue
+pkm,Poqomchi',ethnologue
 psw,Port Sandwich,ethnologue
 por,Portuguese,ethnologue
 lgp,Portuguese Sign Language,ethnologue
@@ -1802,6 +1803,7 @@ pkt,Pökoot,ethnologue
 kea,"Q'anjob'al, Eastern",ethnologue
 kek,Q'eqchi',ethnologue
 bng,Qaqet,ethnologue
+gla,Qau,ethnologue
 qaw,Qawasqar,ethnologue
 qia,"Qiang, Northern",ethnologue
 qia,"Qiang, Southern",ethnologue
@@ -1886,7 +1888,6 @@ nmd,Samo,ethnologue
 sam,Samoan,ethnologue
 sdw,Sandawe,ethnologue
 sgr,Sangir,ethnologue
-ish,Sanglechi-Ishkashimi,ethnologue
 san,Sango,ethnologue
 sgu,Sangu,ethnologue
 stl,Santali,ethnologue
@@ -1910,7 +1911,7 @@ sly,Selayar,ethnologue
 slp,Selepet,ethnologue
 skp,Selkup,ethnologue
 smj,Semai,ethnologue
-smd,Semandang,ethnologue
+kua smd,Semandang,ethnologue
 sml,Semelai,ethnologue
 sen,Sena,ethnologue
 snc,Seneca,ethnologue
@@ -2009,7 +2010,6 @@ sku,Suku,ethnologue
 skm,Sukuma,ethnologue
 sul,Sulka,ethnologue
 slg,Sulung,ethnologue
-sum,Sumo-Mayangna,ethnologue
 sun,Sunda,ethnologue
 cai trm,Suri,ethnologue
 sur,Sursurunga,ethnologue
@@ -2056,7 +2056,6 @@ tnc,Tanacross,ethnologue
 tnj,Tanaina,ethnologue
 tnl,"Tanana, Lower",ethnologue
 tan,Tangale,ethnologue
-tga,Tangga,ethnologue
 ret,Tanimuca-Retuarã,ethnologue
 tns,"Tanna, Southwest",ethnologue
 tsl,Tanzanian Sign Language,ethnologue
@@ -2211,13 +2210,12 @@ tuy,Tuyuca,ethnologue
 twa,Twana,ethnologue
 gwo,Tyap,ethnologue
 tye,Tyaraity,ethnologue
+tzu,Tz'utujil,ethnologue
 tzb tze,"Tzeltal, Bachajón",ethnologue
 tza tze tzt,"Tzeltal, Oxchuc",ethnologue
-tzo,"Tzotzil, Chamula",ethnologue
+tzo,Tzotzil,ethnologue
 tzs,"Tzotzil, San Andrés Larrainzar",ethnologue
 tzz,"Tzotzil, Zinacantán",ethnologue
-tzu,"Tz’utujil, Eastern",ethnologue
-tzu,"Tz’utujil, Western",ethnologue
 tbb,Tübatulabal,ethnologue
 tse,Uab Meto,ethnologue
 uby,Ubykh,ethnologue
@@ -2297,6 +2295,7 @@ wrn,Wandarang,ethnologue
 ngi,Wangaaybuwan-Ngiyambaa,ethnologue
 wgg,Wangganguru,ethnologue
 kmb,Wanggom,ethnologue
+wan,Wangkumara,ethnologue
 wbt,Wanman,ethnologue
 wnt,Wantoat,ethnologue
 wao,Waorani,ethnologue
@@ -2333,7 +2332,7 @@ wic,Wichita,ethnologue
 wch,Wichí Lhamtés Güisnay,ethnologue
 wmu,Wik-Mungkan,ethnologue
 wn,Wik-Ngathana,ethnologue
-ptw win,Wintu,ethnologue
+win,Wintu,ethnologue
 kow,Winyé,ethnologue
 wir,Wirangu,ethnologue
 wiy,Wiyot,ethnologue
@@ -2342,7 +2341,7 @@ wly,Wolaytta,ethnologue
 wol,Woleaian,ethnologue
 wlo,Wolio,ethnologue
 wlf,Wolof,ethnologue
-wor,Worora,ethnologue
+wor,Worrorra,ethnologue
 wau,Woun Meu,ethnologue
 uld,Wuzlam,ethnologue
 wya,Wyandot,ethnologue
@@ -2353,6 +2352,7 @@ xas,Xaasongaxango,ethnologue
 xav,Xavánte,ethnologue
 xer,Xerénte,ethnologue
 xho,Xhosa,ethnologue
+bah,Xiriâna,ethnologue
 xok,Xokleng,ethnologue
 xar,Xârâcùù,ethnologue
 jab,Yabem,ethnologue
@@ -2410,7 +2410,7 @@ kti,Yonggom,ethnologue
 yor,Yoruba,ethnologue
 yuc,Yuchi,ethnologue
 ycn,Yucuna,ethnologue
-yug,Yugh,ethnologue
+yug,Yug,ethnologue
 shy,"Yugur, East",ethnologue
 syg,"Yugur, West",ethnologue
 ytu,"Yukaghir, Northern",ethnologue
@@ -2541,7 +2541,6 @@ apu,Apurina,other
 abn,Arabana-Wangkangurru,other
 aeg,Arabic (Cairene Egyptian Colloquial),other
 aeg,Arabic (Cairene),other
-abb,Arabic (Chadian),other
 aeg,Arabic (Colloquial Egyptian),other
 ael,Arabic (Cyrenaican Libyan),other
 ael,Arabic (East Libyan),other
@@ -2692,7 +2691,6 @@ sho,Big Smokey Valley Shoshoni,other
 mai,Bihari,other
 nak,Bileki,other
 bur,Biltum,other
-bia,Bira,other
 ceb,Bisaya Cebuano,other
 bej,Bischari,other
 mei,Bishnupriya,other
@@ -2723,7 +2721,6 @@ bdk,Budux,other
 bug,Buginese,other
 rbu,Bugurdz,other
 rbu,Bugurdzi,other
-bun,Buin,other
 bkd mwb,Bukidnon,other
 arp,Bukiyip,other
 bsh,Bukuba,other
@@ -2732,7 +2729,6 @@ buw,Bulu (Cameroon),other
 buw,Bulu (in Cameroon),other
 bum,Buma (Solomon Islands),other
 bum,Buma (in Solomon Islands),other
-ghr,Bunan,other
 bnj,Bundjalung,other
 bgo,Bungu,other
 mab,Bura-Mabang,other
@@ -2910,7 +2906,6 @@ ccp,Delta River Yuman,other
 chp,Dene,other
 den,Deni,other
 deu,Deori,other
-dha,Dhaasanac,other
 omh,Dhegiha,other
 omh,Dhegiha (Ponca),other
 luo,Dholuo,other
@@ -2932,7 +2927,6 @@ dts,"Dogon, Toro So dialect",other
 dds,Dogoso,other
 eud,Dohema,other
 nwd,Dolakha Newari,other
-don,Dong (Southern),other
 nbd,Dongola,other
 nbd,Dongolese Nubian,other
 dds,Donno So Dogon,other
@@ -3089,7 +3083,6 @@ grm,Gourmanchema,other
 grm,Gourmantche,other
 gro,Gouro,other
 dni,Grand Valley Dani,other
-gan,Great Andamanese,other
 aba,Green River,other
 gre,"Greenlandic, East",other
 gso,"Greenlandic, South",other
@@ -3129,7 +3122,6 @@ kir,Gwe,other
 kth,Gwich'in,other
 lai,Haka,other
 hak,"Hakka, Moi-yan dialect",other
-hlu,Halkomelem (Upriver),other
 hmr,Hamar,other
 ham,Hamtai (=Kapau),other
 hal,Hanahan,other
@@ -3138,7 +3130,6 @@ coo,Hanis,other
 coo,Hanis Coos,other
 orh,Harar,other
 orh,Harar Oromo,other
-hrr,Harari,other
 sla,Hare,other
 saw,Havunese,other
 knd,Havyaka,other
@@ -3174,7 +3165,6 @@ htc,Huasteco,other
 hve,Huave,other
 ess,Huelel,other
 hmu,Huitoto Muinane,other
-hnd,Hunde,other
 wya,Huron,other
 iaa,Iai,other
 ful,Iate,other
@@ -3243,7 +3233,6 @@ yei,Jei,other
 ylm,Jelmek,other
 jem,Jemez (Towa),other
 jem,Jemez Towa,other
-jia,Jiarong,other
 jiv,Jibaro,other
 mxj,Jicaltepec Mixtec,other
 tol,Jicaque,other
@@ -3262,7 +3251,7 @@ yug,Jug,other
 agt,Jupangati,other
 hpd,Jupda,other
 jlu,Jur,other
-juh,Ju|'hoan,other
+jlu,Jur Luwo,other
 kab,Kabardino-Cherkes,other
 kbl,Kabyl,other
 nze,Kachcha Naga,other
@@ -3292,7 +3281,6 @@ knd,Kanarese,other
 knn,Kanauri,other
 kkv,Kandoka-Lusi,other
 cnl,Kanela,other
-kbu,Kanembu,other
 kgt,Kangiryuarmiut Eskimo,other
 mrs,Kaniran,other
 ham,Kapau,other
@@ -3329,12 +3317,12 @@ kgl,Kaugel,other
 qaw,Kawesqar,other
 kyl,Kayah Li,other
 kyp,Kayapo,other
+kag,Kayu Agung,other
 kaz,Kazax,other
 kei,Keiese,other
 kel,Kele (Papua New Guinea),other
 kel,Kele (in Papua New Guinea),other
 mom,Kemelom,other
-keo,Keo,other
 ksa,Keres (Santa Ana Pueblo),other
 skm,Kesukuma,other
 arg,Khaliji,other
@@ -3346,7 +3334,6 @@ kty,Khanty (Obdorsk),other
 kmu,Khmu,other
 kmu,"Khmu?, Northern",other
 bgn,Khoa,other
-kho,Khoekhoe,other
 kho,Khoekhoegowab,other
 hyo,Khyang,other
 kon,KiKongo,other
@@ -3366,7 +3353,6 @@ nde,Kinande,other
 mbt,Kingbetu,other
 nbo,Kinyambo,other
 nym,Kinyamwezi,other
-kri,Kipea,other
 kri,Kipea Kiriri,other
 kri,Kipeá,other
 krb,Kiribatese,other
@@ -3399,6 +3385,7 @@ kjo,Kondjo,other
 kut,Kootenai,other
 wal,Koruon,other
 kot,Kota (in India),other
+gno,Kotiria,other
 lag,Kotoko-Logone,other
 kfe,Kouroumba,other
 hln,Koyong,other
@@ -3440,7 +3427,6 @@ ypk,Kuskokwim Eskimo,other
 kus,Kusundu,other
 kuv,Kuwi,other
 kwk,Kwakwala,other
-kwo,Kwoma,other
 kyk,Kyaka Enga,other
 kgz,Kyrgyz,other
 kbu,Káidi-Kanembú,other
@@ -3513,7 +3499,6 @@ nun,Lungchow,other
 pin,Luritja,other
 miz,Lushai,other
 miz,Lushai (Mizo),other
-jlu,Luwo,other
 luv,Lwena,other
 lu,Ly,other
 mbg,Ma'a,other
@@ -3581,7 +3566,6 @@ hno,Masset Haida,other
 wch,Mataco,other
 mdm,Mathimathi,other
 mdl,Matngala,other
-mdl,Matngele,other
 mch,Matsigenga,other
 mka,Mau,other
 wlw,Maula,other
@@ -3621,7 +3605,6 @@ nhm,Michoacan Nahuatl,other
 nhm,Michoacán Aztec,other
 mid,Midob (Darfur Nubian),other
 mid,Midob Nubian,other
-mie,Mien,other
 mni,Migani,other
 shb,Mikeyir,other
 mil,Milan,other
@@ -3633,8 +3616,6 @@ msg,Miri,other
 mer,Miriam,other
 dig,Mishmi (Digaro),other
 zap,Mitla Zapotec,other
-mkb,Miwok (Bodega),other
-mss,Miwok (Southern Sierra),other
 mco,Mixe (Coatlan),other
 mco,Mixe (San José El Paraiso),other
 mco,"Mixe, Coatlan",other
@@ -3663,7 +3644,6 @@ mko,Mokulu,other
 mon,Mon (Burmese),other
 mno,Monache,other
 hmo,Mong Njua,other
-mgo,Mongo,other
 mgo,Mongo-Nkundu,other
 kha,Mongolian,other
 kha,"Mongolian, Khalkha ",other
@@ -3780,7 +3760,6 @@ nnc,Nicobarese (Nancowry),other
 npi,Nigerian Pidgin English,other
 nsn,Nisenan (Central Hill),other
 neh,Nissan,other
-chu,Nivacle,other
 chu,Nivaklé,other
 nog,Nogay,other
 bln,North Agaw,other
@@ -3819,11 +3798,8 @@ nuu,"Nuuchahnutlh (Tseshaht, Tsishaath)",other
 bco,Nuxalk,other
 nkt,"Nyah Kur, Tha Pong dialect",other
 nyk,Nyam-Kad,other
-nym,Nyamwezi,other
 rny,Nyankole,other
-nyl,Nyelâyu,other
 nyi,Nyima,other
-ood,O'odham,other
 chx,Oaxaca Chontal,other
 sou,Obersorbisch,other
 obk,Obogwitai,other
@@ -3892,7 +3868,6 @@ bnl,Parnkala,other
 bnl,Parnkalla,other
 par,Parï,other
 psm,Passamaquoddy-Malecite,other
-psm,Passamaquoddy-Maliseet,other
 pau,Paumari,other
 pno,Paviotso,other
 paw,"Pawaian, Oyobe dialect",other
@@ -3911,11 +3886,9 @@ twn,Picuris,other
 bla,Pikanii,other
 ood,Pima,other
 pba,Pima (Lower),other
-pba,Pima Bajo,other
 sin,Pioje,other
 sin,Pioje-Sioni,other
 pir,Piro Arawakan,other
-pis,Pisa,other
 pit,Pitjantjara = Western Desert,other
 ppi,Pitta-Pitta,other
 pkm,Pocomchi,other
@@ -3932,7 +3905,6 @@ pop,Popoloca De Metzontla,other
 psj,"Popoloca, San Juan Atzingo",other
 psv,"Popoloca, San Vicente Coyotepec",other
 olu,"Popoluca, Oluta",other
-pcm,Poqomam,other
 kda,Porja,other
 pum,Primi,other
 pum,Primmi,other
@@ -3940,7 +3912,6 @@ pum,Prinmi,other
 pnu,Pu Nu,other
 pan,Punjabi,other
 kek,Q'eqchi',other
-qaw,Qawasqar,other
 kem,Qemant,other
 iql,Quebec-Labrador Inuktitut,other
 qan,"Quechua, Ancash",other
@@ -3955,7 +3926,6 @@ jug,Rangpang,other
 trd,Rantepao,other
 bug,Rappang Buginese,other
 rnn,Rennellese-Bellonese,other
-ret,Retuarã,other
 rmc,Rhaeto-Romansch,other
 rsc,Rhaeto-Romansch (Scharans),other
 rsc,"Rhaeto-Romansch, Scharans dialect",other
@@ -3967,7 +3937,6 @@ mge,Rolom,other
 rse,Romani (Sepec*ides),other
 rka,Romani (Vlach),other
 rka,Romani (Wallachian),other
-rmc,Romansch,other
 rwe,Romany (Welsh),other
 tmn,Rone,other
 lep,Rong,other
@@ -3979,7 +3948,6 @@ kin,Ruanda,other
 sno,Ruija,other
 ruk,"Rukai, Tanan dialect",other
 rom,Rumanian,other
-run,Runga,other
 tbw,Rungu,other
 lav,Russell Island,other
 kin,Rwanda,other
@@ -4036,7 +4004,6 @@ mzn,Sari,other
 syg,Saryg-Uygur,other
 sav,Sau,other
 saw,Savu,other
-say,Sayula Popoluca,other
 gae,Scots Gaelic,other
 gae,Scottish Gaelic,other
 see,Sedik,other
@@ -4096,7 +4063,6 @@ siu,Siuslawan,other
 bsi,Siwa,other
 jiv,Siwora,other
 chs,Siyin Chin,other
-sko,Skou,other
 sla,"Slave, Hare dialect",other
 csc,Sochiapan Chinantec,other
 soq,Socotri,other
@@ -4269,7 +4235,6 @@ trc,Trique (de Chicahuaxtla),other
 cuu,Truk,other
 cuu,Trukese,other
 dul,Trung,other
-tsf,Tsafiki,other
 che,Tsalagi,other
 shk,Tschama,other
 cil,Tshiluba,other
@@ -4364,7 +4329,6 @@ hlp,Walapai,other
 wrl,Walbiri,other
 wrl,Waljbiri,other
 wll,Wallisien,other
-wal,Walman,other
 wlw,Walookera,other
 wlw,Waluwara,other
 usa,Wanuma,other
@@ -4378,11 +4342,11 @@ wrg,Wargamay,other
 bou,Wargla,other
 war,Wari,other
 war,Wari' (Chapacuva),other
+wgu,Warrungu,other
 cku,Wasco-Wishram,other
 kwo,Washkuk,other
 wau,Waumeo,other
 wur,Waura,other
-way,Wayampi,other
 way,Wayapi,other
 way,Wayãpi,other
 ill,Wea,other
@@ -4460,7 +4424,6 @@ yns,Yans,other
 yny,Yanyula,other
 yny,"Yanyula, Anyula",other
 pnu,Yao,other
-yqy,Yaqay,other
 yok,Yaudanchi,other
 yok,Yaudanchi Yokuts,other
 ewo,Yaunde,other
@@ -4470,7 +4433,6 @@ yyg,Yegir,other
 yel,Yeletnye,other
 ket,Yenisey Ostyak,other
 ene,Yenisey Samoyed,other
-yes,Yessan-Mayo,other
 bud,Yidena,other
 yid,Yidin,other
 yid,Yidinj,other
@@ -4502,7 +4464,6 @@ yna,Yup'ik (Naukan),other
 atq,Yup'ik (Pacific Gulf),other
 ysi,Yup'ik (Sirenik),other
 ypk,Yupik,other
-yus,Yupik (Siberian),other
 ych,"Yupik, Chevak",other
 yna,"Yupik, Naukan",other
 nen,Yurak Samoyed,other

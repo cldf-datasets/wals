@@ -555,7 +555,6 @@ pk,jsondata,id,name,description,markup_description,parameter_pk,number,abbr,vers
 694,"{""icon"": ""cffffff""}",144J-7,No SVNegO,"SVO, but SVNegO does not occur",,148,7,,2
 699,"{""icon"": ""c66ff33""}",144N-5,SO[Neg-V]Neg,SO[Neg-V]Neg,,149,5,,1
 700,"{""icon"": ""c009900""}",144N-6,SO[Neg-V-Neg],SO[Neg-V-Neg],,149,6,,1
-701,"{""icon"": ""c000000""}",144N-7,SO[Neg-V] with negative tone on verb	SO[Neg-V]&NegTone,SO[Neg-V] with negative tone on verb	SO[Neg-V]&NegTone,,149,7,,1
 702,"{""icon"": ""c9999ff""}",144N-8,SONegVNeg/SONeg[V-Neg],SONegVNeg/SONeg[V-Neg],,149,8,,1
 703,"{""icon"": ""cffffcc""}",144N-9,SVO but SONeg[V-Neg]/SO[Neg-V-Neg],SONeg[V-Neg]/SO[Neg-V-Neg] but SVO in affirmative clauses,,149,9,,1
 704,"{""icon"": ""cff66ff""}",144N-10,SNegO[V-Neg]/SONeg[V-Neg],SNegO[V-Neg]/SONeg[V-Neg],,149,10,,1
@@ -613,8 +612,6 @@ pk,jsondata,id,name,description,markup_description,parameter_pk,number,abbr,vers
 757,"{""icon"": ""cff6600""}",90E-5,Correlative or adjoined,Correlative or adjoined,,154,5,,1
 758,"{""icon"": ""t66ff33""}",90E-6,Correlative as nondominant type,Correlative as nondominant type,,154,6,,1
 759,"{""icon"": ""tffffcc""}",90E-7,Correlative exists,Correlative exists,,154,7,,1
-760,"{""icon"": ""cdd0000""}",144V-1,"Separate word, no double negation	Word&NoDoubleNeg","Separate word, no double negation	Word&NoDoubleNeg",,155,1,,1
-761,"{""icon"": ""cffff00""}",144V-2,"Prefix, no double negation	Prefix&NoDoubleNeg","Prefix, no double negation	Prefix&NoDoubleNeg",,155,2,,1
 762,"{""icon"": ""c0000dd""}",144V-3,Word&Opt,"Separate word, optional single or double negation, with preverbal negative word possible without a second negative",,155,3,,1
 763,"{""icon"": ""c99ffff""}",144V-4,Prefix&OptDoubleNeg,"Prefix, optional double negation, with negative prefix possible without a second negative",,155,4,,1
 764,"{""icon"": ""c66ff33""}",144V-5,Word&OnlyWithAnotherNeg,"Separate word, only occurs with another negative morpheme",,155,5,,1
@@ -1142,3 +1139,6 @@ pk,jsondata,id,name,description,markup_description,parameter_pk,number,abbr,vers
 1097,"{""icon"": ""cffffff""}",143G-4,None,"No negative tone, infix or stem change",,180,4,,2
 1107,"{""icon"": ""cdd0000""}",137B-2,m in second person singular,m in second person singular,,183,2,,2
 1109,"{""icon"": ""cdd0000""}",136B-2,m in first person singular,m in first person singular,,184,2,,2
+701,"{""icon"": ""c000000""}",144N-7,SO[Neg-V] with negative tone on verb  SO[Neg-V]&NegTone,SO[Neg-V] with negative tone on verb  SO[Neg-V]&NegTone,,149,7,,1
+760,"{""icon"": ""cdd0000""}",144V-1,"Separate word, no double negation  Word&NoDoubleNeg","Separate word, no double negation  Word&NoDoubleNeg",,155,1,,1
+761,"{""icon"": ""cffff00""}",144V-2,"Prefix, no double negation  Prefix&NoDoubleNeg","Prefix, no double negation  Prefix&NoDoubleNeg",,155,2,,1

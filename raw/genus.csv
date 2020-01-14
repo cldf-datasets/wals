@@ -10,7 +10,6 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 9,,southomotic,South Omotic,,,1,Omotic,ccccccc
 10,,semitic,Semitic,,,1,,cdd0000
 11,,masa,Masa,,,1,Chadic,cff4400
-12,,easterncushitic,Eastern Cushitic,,,1,Cushitic,cff6600
 13,,northomotic,North Omotic,,,1,Omotic,cff66ff
 14,,ainu,Ainu,,,2,,cffcc00
 15,,alacalufan,Alacalufan,,,3,,cffff00
@@ -25,40 +24,6 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 24,,arauan,Arauan,,,9,,d99ffff
 25,,araucanian,Araucanian,,,10,,daa0000
 27,,atakapa,Atakapa,,,12,,ddd0000
-28,,westerndaly,Western Daly,,,13,Daly,dff4400
-29,,wororan,Wororan,,,13,,dff6600
-30,,bunuban,Bunuban,,,13,,dff66ff
-31,,burarran,Burarran,,,13,,dffcc00
-32,,ngandi,Ngandi,,,13,Gunwinyguan,dffff00
-33,,yangmanic,Yangmanic,,,13,Gunwinyguan,dffffcc
-34,,ngalakan,Ngalakan,,,13,Gunwinyguan,dffffff
-35,,ndjebbana,Ndjébbana,,,13,,f000000
-36,,nakkara,Nakkara,,,13,,f0000dd
-37,,murrinhpatha,Murrinh-Patha,,,13,Daly,f009900
-38,,iwaidjan,Iwaidjan,,,13,,f66ff33
-39,,jaminjungan,Jaminjungan,,,13,,f990099
-40,,rembarnga,Rembarnga,,,13,Gunwinyguan,f9999ff
-41,,anindilyakwa,Anindilyakwa,,,13,Gunwinyguan,f99ffff
-42,,pamanyungan,Pama-Nyungan,,,13,,faa0000
-43,,ansonbay,Anson Bay,,,13,Daly,fcccccc
-44,,gunwinygic,Gunwinygic,,,13,Gunwinyguan,fdd0000
-45,,limilngan,Limilngan,,,13,,fff4400
-46,,nyulnyulan,Nyulnyulan,,,13,,fff6600
-47,,garrwan,Garrwan,,,13,,fff66ff
-48,,nunggubuyu,Nunggubuyu,,,13,Gunwinyguan,fffcc00
-49,,gaagudju,Gaagudju,,,13,,fffff00
-50,,southerndaly,Southern Daly,,,13,Daly,fffffcc
-51,,northerndaly,Northern Daly,,,13,Daly,fffffff
-52,,tangkic,Tangkic,,,13,,s000000
-53,,tiwian,Tiwian,,,13,,s0000dd
-54,,easterndaly,Eastern Daly,,,13,Daly,s009900
-55,,mangarrayi,Mangarrayi,,,13,,s66ff33
-56,,djeragan,Djeragan,,,13,,s990099
-57,,waray,Waray,,,13,Gunwinyguan,s9999ff
-58,,westbarkly,West Barkly,,,13,,s99ffff
-59,,laragiyan,Laragiyan,,,13,,saa0000
-60,,maran,Maran,,,13,,scccccc
-61,,wagiman,Wagiman,,,13,Gunwinyguan,sdd0000
 62,,aslian,Aslian,,,14,Mon-Khmer,sff4400
 63,,bahnaric,Bahnaric,,,14,Mon-Khmer,sff6600
 64,,pearic,Pearic,,,14,Mon-Khmer,sff66ff
@@ -75,6 +40,11 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 75,,centralmalayopolynesian,Central Malayo-Polynesian,,,15,,t99ffff
 76,,samabajaw,Sama-Bajaw,,,15,,taa0000
 79,,southhalmaherawestnewguinea,South Halmahera - West New Guinea,,,15,Eastern Malayo-Polynesian,tff4400
+46,,nyulnyulan,Nyulnyulan,,,412,,fff6600
+38,,iwaidjan,Iwaidjan,,,413,,f66ff33
+55,,mangarrayi,Mangarrayi,,,414,,s66ff33
+59,,laragiyan,Laragia,,,415,,saa0000
+45,,limilngan,Limilngan,,,415,,fff4400
 82,,yapese,Yapese,,,15,,tffcc00
 84,,rejang,Rejang,,,15,,tffffcc
 85,,palauan,Palauan,,,15,,tffffff
@@ -104,15 +74,12 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 119,,cariban,Cariban,,,32,,dffffff
 120,,cayuvava,Cayuvava,,,33,,f000000
 121,,chapacurawanham,Chapacura-Wanham,,,34,,f0000dd
-122,,guaymi,Guaymi,,,35,,f009900
 123,,talamanca,Talamanca,,,35,,f66ff33
-124,,chibchanproper,Chibchan Proper,,,35,,f990099
 125,,rama,Rama,,,35,,f9999ff
 126,,paya,Paya,,,35,,f99ffff
 127,,kuna,Kuna,,,35,,faa0000
 128,,motilon,Motilon,,,35,,fcccccc
 129,,chimila,Chimila,,,35,,fdd0000
-130,,aruak,Aruak,,,35,,fff4400
 131,,chimakuan,Chimakuan,,,36,,fff6600
 132,,chimuan,Chimúan,,,37,,fff66ff
 133,,chiquito,Chiquito,,,38,,fffcc00
@@ -149,7 +116,6 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 86,,paiwanic,Paiwan,,,15,,c000000
 96,,tsouic,Tsou,,,15,,cff4400
 164,,guahiban,Guahiban,,,60,,tff4400
-165,,guaicuruan,Guaicuruan,,,61,,tff6600
 166,,hadza,Hadza,,,62,,tff66ff
 167,,haida,Haida,,,63,,tffcc00
 168,,harakmbet,Harakmbet,,,64,,tffff00
@@ -194,11 +160,6 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 207,,kaure,Kaure,,,84,,f009900
 208,,kayagar,Kayagar,,,85,,f66ff33
 209,,keresan,Keresan,,,86,,f990099
-210,,centralkhoisan,Central Khoisan,,,87,,f9999ff
-211,,southernkhoisan,Southern Khoisan,,,87,,f99ffff
-212,,northernkhoisan,Northern Khoisan,,,87,,faa0000
-213,,hoan,=|Hoan,,,87,,fcccccc
-214,,sandawe,Sandawe,,,87,,fdd0000
 215,,kiowatanoan,Kiowa-Tanoan,,,88,,fff4400
 216,,kiwaian,Kiwaian,,,89,,fff6600
 217,,kolopom,Kolopom,,,90,,fff66ff
@@ -221,12 +182,9 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 234,,mikarew,Mikarew,,,100,,sff66ff
 235,,lowerramu,Lower Ramu,,,100,,sffcc00
 236,,lule,Lule,,,101,,sffff00
-237,,yate,Yatê,,,102,,sffffcc
 238,,gekaingang,Ge-Kaingang,,,102,,sffffff
 239,,maxakali,Maxakalí,,,102,,t000000
 240,,botocudo,Botocudo,,,102,,t0000dd
-241,,guato,Guató,,,102,,t009900
-242,,bororo,Bororo,,,102,,t66ff33
 243,,karaja,Karajá,,,102,,t990099
 244,,rikbaktsa,Rikbaktsa,,,102,,t9999ff
 245,,maku,Máku,,,103,,t99ffff
@@ -234,6 +192,10 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 247,,southbirdshead,South Bird's Head,,,104,,tcccccc
 248,,mascoian,Mascoian,,,105,,tdd0000
 249,,matacoan,Matacoan,,,106,,tff4400
+214,,sandawe,Sandawe,,,373,,fdd0000
+237,,yate,Yatê,,,407,,sffffcc
+241,,guato,Guató,,,409,,t009900
+242,,bororo,Bororoan,,,408,,t66ff33
 250,,mayan,Mayan,,,107,,tff6600
 251,,misumalpan,Misumalpan,,,108,,tff66ff
 252,,mixezoque,Mixe-Zoque,,,109,,tffcc00
@@ -257,55 +219,20 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 270,,nambikuaran,Nambikuaran,,,121,,cffff00
 271,,natchez,Natchez,,,122,,cffffcc
 272,,igboid,Igboid,,,123,Benue-Congo,cffffff
-273,,easternmande,Eastern Mande,,,123,Mande,d000000
 274,,bantoid,Bantoid,,,123,Benue-Congo,d0000dd
 275,,kwa,Kwa,,,123,,d009900
 276,,northernatlantic,Northern Atlantic,,,123,Atlantic,d66ff33
 277,,kru,Kru,,,123,,d990099
 278,,nupoid,Nupoid,,,123,Benue-Congo,d9999ff
 279,,adamawa,Adamawa,,,123,Adamawa-Ubangi,d99ffff
-280,,tegem,Tegem,,,123,Kordofanian,daa0000
-281,,talodiproper,Talodi Proper,,,123,Kordofanian,dcccccc
-282,,rashad,Rashad,,,123,Kordofanian,ddd0000
 283,,platoid,Platoid,,,123,Benue-Congo,dff4400
-284,,katlatima,Katla-Tima,,,123,Kordofanian,dff6600
-285,,heiban,Heiban,,,123,Kordofanian,dff66ff
 286,,kainji,Kainji,,,123,Benue-Congo,dffcc00
 287,,ubangi,Ubangi,,,123,Adamawa-Ubangi,dffff00
-288,,ijoid,Ijoid,,,123,,dffffcc
 289,,idomoid,Idomoid,,,123,Benue-Congo,dffffff
 290,,gur,Gur,,,123,,f000000
-292,,westernmande,Western Mande,,,123,Mande,f009900
 293,,crossriver,Cross River,,,123,Benue-Congo,f66ff33
 294,,defoid,Defoid,,,123,Benue-Congo,f990099
 295,,edoid,Edoid,,,123,Benue-Congo,f9999ff
-296,,dogon,Dogon,,,123,,f99ffff
-297,,temein,Temein,,,124,Eastern Sudanic,faa0000
-298,,easternjebel,Eastern Jebel,,,124,Eastern Sudanic,fcccccc
-299,,lendu,Lendu,,,124,Central Sudanic,fdd0000
-300,,koman,Koman,,,124,,fff4400
-301,,kresh,Kresh,,,124,Central Sudanic,fff6600
-302,,nyimang,Nyimang,,,124,Eastern Sudanic,fff66ff
-303,,mangbutuefe,Mangbutu-Efe,,,124,Central Sudanic,fffcc00
-304,,morumadi,Moru-Ma'di,,,124,Central Sudanic,fffff00
-305,,bongobagirmi,Bongo-Bagirmi,,,124,Central Sudanic,fffffcc
-306,,fur,Fur,,,124,,fffffff
-307,,nubian,Nubian,,,124,Eastern Sudanic,s000000
-308,,songhay,Songhay,,,124,,s0000dd
-309,,westernsaharan,Western Saharan,,,124,Saharan,s009900
-310,,shabo,Shabo,,,124,,s66ff33
-311,,taman,Taman,,,124,Eastern Sudanic,s990099
-312,,easternsaharan,Eastern Saharan,,,124,Saharan,s9999ff
-313,,maban,Maban,,,124,,s99ffff
-314,,nara,Nara,,,124,Eastern Sudanic,saa0000
-315,,mangbetu,Mangbetu,,,124,Central Sudanic,scccccc
-316,,kuliak,Kuliak,,,124,Eastern Sudanic,sdd0000
-317,,kunama,Kunama,,,124,,sff4400
-318,,daju,Daju,,,124,Eastern Sudanic,sff6600
-319,,berta,Berta,,,124,,sff66ff
-320,,nilotic,Nilotic,,,124,Eastern Sudanic,sffcc00
-321,,gumuz,Gumuz,,,124,,sffff00
-322,,surmic,Surmic,,,124,Eastern Sudanic,sffffcc
 323,,nimboran,Nimboran,,,125,,sffffff
 324,,nivkh,Nivkh,,,126,,t000000
 325,,northwestcaucasian,Northwest Caucasian,,,127,,t0000dd
@@ -313,6 +240,7 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 327,,coosan,Coosan,,,129,,t66ff33
 328,,alsea,Alsea,,,129,,t990099
 329,,siuslawan,Siuslawan,,,129,,t9999ff
+319,,berta,Berta,,,377,,sff66ff
 330,,signlanguages,Sign Languages,,,130,,t99ffff
 331,,creolesandpidgins,Creoles and Pidgins,,,130,,taa0000
 332,,zapotecan,Zapotecan,,,131,,tcccccc
@@ -373,7 +301,6 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 388,,northernnaga,Northern Naga,,,145,Tibeto-Burman,fffcc00
 389,,bodic,Bodic,,,145,Tibeto-Burman,fffff00
 390,,rgyalrong,rGyalrong,,,145,Tibeto-Burman,fffffcc
-391,,siouan,Siouan,,,146,,fffffff
 392,,westernskou,Western Skou,,,147,,s000000
 393,,serrahills,Serra Hills,,,147,,s0000dd
 394,,warapu,Warapu,,,147,,s009900
@@ -455,13 +382,11 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 471,,corachol,Corachol,,,176,,fff6600
 472,,tubar,Tubar,,,176,,fff66ff
 473,,hopi,Hopi,,,176,,fffcc00
-474,,takic,Takic,,,176,,fffff00
 475,,cahita,Cahita,,,176,,fffffcc
 476,,aztecan,Aztecan,,,176,,fffffff
 477,,numic,Numic,,,176,,s000000
 478,,tepiman,Tepiman,,,176,,s0000dd
 479,,tarahumaran,Tarahumaran,,,176,,s009900
-480,,tubatulabal,Tubatulabal,,,176,,s66ff33
 481,,southernwakashan,Southern Wakashan,,,178,,s990099
 482,,northernwakashan,Northern Wakashan,,,178,,s9999ff
 483,,waorani,Waorani,,,179,,s99ffff
@@ -513,15 +438,108 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 527,,moraori,Moraori,,,213,,c000000
 528,,aikana,Aikaná,,,214,,c000000
 529,,iranxe,Iranxe,,,215,,c000000
-530,,northernarawakan,Northern Arawakan,,,11,,c000000
-531,,westernarawakan,Western Arawakan,,,11,,c0000dd
 532,,centralarawakan,Central Arawakan,,,11,,c009900
 533,,easternarawakan,Eastern Arawakan,,,11,,c66ff33
 534,,purus,Purus,,,11,,c990099
 535,,boliviaparana,Bolivia-Parana,,,11,,c9999ff
 536,,preandinearawakan,Pre-Andine Arawakan,,,11,,c99ffff
 537,,gbayamanzangbaka,Gbaya-Manza-Ngbaka,,,123,,c000000
+531,,westernarawakan,Yanesha',,,11,,c0000dd
 594,,dizoid,Dizoid,,,1,Omotic,tdd0000
 595,,eastformosan,East Formosan,,,15,,fdd0000
 596,,westernplainsaustronesian,Western Plains Austronesian,,,15,,f0000dd
 291,,southernatlantic,Mel,,,123,Atlantic,f0000dd
+694,,nuristani,Nuristani,,,70,,c009900
+695,,kadiweu,Kadiwéu,,,61,,t009900
+696,,southguaicuruan,South Guaicuruan,,,61,,tff6600
+697,,highlandeastcushitic,Highland East Cushitic,,,1,Cushitic,c009900
+698,,lowlandeastcushitic,Lowland East Cushitic,,,1,Cushitic,cff6600
+699,,dahalo,Dahalo,,,1,Cushitic,ccccccc
+751,,rajiraute,Raji-Raute,,,145,Tibeto-Burman,tffff00
+212,,northernkhoisan,Ju-Kung,,,375,,faa0000
+210,,centralkhoisan,Khoe-Kwadi,,,376,,f9999ff
+213,,hoan,=|Hoan,,,375,,fcccccc
+317,,kunama,Kunama,,,378,,sff4400
+211,,southernkhoisan,Tu,,,374,,f99ffff
+308,,songhay,Songhay,,,379,,s0000dd
+321,,gumuz,Gumuz,,,380,,sffff00
+300,,koman,Koman,,,381,,fff4400
+310,,shabo,Shabo,,,382,,s66ff33
+313,,maban,Maban,,,384,,s99ffff
+306,,fur,Fur,,,385,,fffffff
+312,,easternsaharan,Eastern Saharan,,,386,Saharan,s9999ff
+309,,westernsaharan,Western Saharan,,,386,Saharan,s009900
+299,,lendu,Lendu,,,387,,fdd0000
+301,,kresh,Kresh,,,387,,fff6600
+303,,mangbutuefe,Mangbutu-Efe,,,387,,fffcc00
+304,,morumadi,Moru-Ma'di,,,387,,fffff00
+305,,bongobagirmi,Bongo-Bagirmi,,,387,,fffffcc
+315,,mangbetu,Mangbetu,,,387,,scccccc
+297,,temein,Temein,,,388,,faa0000
+298,,easternjebel,Eastern Jebel,,,388,,fcccccc
+302,,nyimang,Nyimang,,,388,,fff66ff
+307,,nubian,Nubian,,,388,,s000000
+311,,taman,Taman,,,388,,s990099
+314,,nara,Nara,,,388,,saa0000
+318,,daju,Daju,,,388,,sff6600
+320,,nilotic,Nilotic,,,388,,sffcc00
+322,,surmic,Surmic,,,388,,sffffcc
+316,,kuliak,Kuliak,,,388,,sdd0000
+273,,easternmande,Eastern Mande,,,389,,d000000
+292,,westernmande,Western Mande,,,389,,f009900
+282,,rashad,Rashad,,,390,,ddd0000
+284,,katlatima,Katla-Tima,,,390,,dff6600
+285,,heiban,Heiban,,,390,,dff66ff
+280,,tegem,Lafofa,,,390,,daa0000
+281,,talodiproper,Talodi,,,390,,dcccccc
+296,,dogon,Dogon,,,391,,f99ffff
+288,,ijoid,Ijoid,,,392,,dffffcc
+780,,matlatzincan,Matlatzincan,,,131,,t9999ff
+781,,inlandnorthernarawakan,Inland Northern Arawakan,,,11,,cdd0000
+782,,caribbeanarawakan,Caribbean Arawakan,,,11,,cffcc00
+783,,wapishanan,Wapishanan,,,11,,cffff00
+784,,bahuanic,Bahuanic,,,11,,cff6600
+785,,altoorinoco,Alto-Orinoco,,,11,,cffffcc
+788,,warndarang,Warndarang,,,414,,scccccc
+789,,mara,Mara,,,414,,saa0000
+790,,alawa,Alawa,,,414,,sffffcc
+61,,wagiman,Wagiman,,,416,Gunwinyguan,sdd0000
+51,,northerndaly,Northern Daly,,,417,Daly,fffffff
+47,,garrwan,Garrwan,,,418,,fff66ff
+791,,southeasternpamanyungan,Southeastern Pama-Nyungan,,,419,,tffffcc
+792,,centralpamanyungan,Central Pama-Nyungan,,,419,,tcccccc
+793,,westernpamanyungan,Western Pama-Nyungan,,,419,,t99ffff
+794,,northernpamanyungan,Northern Pama-Nyungan,,,419,,taa0000
+43,,ansonbay,Anson Bay,,,420,Daly,fcccccc
+39,,jaminjungan,Jaminjungan,,,421,,f990099
+795,,wambayan,Wambayan,,,421,,faa0000
+796,,djingili,Djingili,,,421,,fffffcc
+57,,waray,Warayic,,,422,Gunwinyguan,s9999ff
+48,,nunggubuyu,Nunggubuyu,,,422,Gunwinyguan,fffcc00
+34,,ngalakan,Ngalakan,,,422,Gunwinyguan,dffffff
+41,,anindilyakwa,Anindilyakwa,,,422,Gunwinyguan,f99ffff
+44,,gunwinygic,Gunwinygic,,,422,Gunwinyguan,fdd0000
+40,,rembarnga,Rembarnga,,,422,Gunwinyguan,f9999ff
+32,,ngandi,Ngandi,,,422,Gunwinyguan,dffff00
+37,,murrinhpatha,Murrinh-Patha,,,423,Daly,f009900
+797,,ngankikurungkurr,Ngankikurungkurr,,,423,,fffffcc
+53,,tiwian,Tiwian,,,424,,s0000dd
+798,,wagaydy,Wagaydy,,,425,,fffffcc
+799,,bringen,Bringen,,,425,,faa0000
+29,,wororan,Worrorran,,,426,,dff6600
+31,,burarran,Burarran,,,427,,dffcc00
+35,,ndjebbana,Ndjébbana,,,427,,f000000
+36,,nakkara,Nakkara,,,427,,f0000dd
+52,,tangkic,Tangkic,,,428,,s000000
+30,,bunuban,Bunuban,,,429,,dff66ff
+56,,djeragan,Jarrakan,,,430,,s990099
+54,,easterndaly,Eastern Daly,,,431,Daly,s009900
+33,,yangmanic,Yangmanic,,,432,Gunwinyguan,dffffcc
+49,,gaagudju,Gaagudju,,,433,,fffff00
+800,,californiautoaztecan,California Uto-Aztecan,,,176,,fffff00
+122,,guaymi,Guaymiic,,,35,,f009900
+130,,aruak,Arhuacic,,,35,,fff4400
+801,,chibchaduit,Chibcha-Duit,,,35,,fffff00
+802,,tunebo,Tunebo,,,35,,fffcc00
+803,,catawban,Catawban,,,146,,fffcc00
+391,,siouan,Core Siouan,,,146,,fffffff
