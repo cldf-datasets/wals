@@ -8,6 +8,7 @@ $ cldfbench wals.switchdata bia "Meinhof 1938/39" brq
 from cldfbench_wals import Dataset
 
 from .fixvids import run as fixvids_run
+from .languagesources import run as languagesources_run
 
 
 def register(parser):
@@ -33,3 +34,4 @@ def run(args):
         return r
     ds.rewrite('valueset.csv', repl)
     fixvids_run(args)
+    languagesources_run(args)
