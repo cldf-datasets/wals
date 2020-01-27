@@ -12,8 +12,8 @@ from .fixvids import run as fixvids_run
 
 def register(parser):
     parser.add_argument('from_language_id')
-    parser.add_argument('ref')
     parser.add_argument('to_language_id')
+    parser.add_argument('--ref', default=None)
 
 
 def run(args):
@@ -21,14 +21,14 @@ def run(args):
 
     fpk = ds.pk_from_id('language.csv', args.from_language_id)
     tpk = ds.pk_from_id('language.csv', args.to_language_id)
-    spk = ds.get_row('source.csv', cond=lambda r: r['name'] == args.ref)['pk']
+    spk = ds.get_row('source.csv', cond=lambda r: r['name'] == args.ref)['pk'] if args.ref else None
 
     vspks = set()
     for row in ds.iter_rows('valuesetreference.csv', lambda r: r['source_pk'] == spk):
         vspks.add(row['valueset_pk'])
 
     def repl(r):
-        if r['language_pk'] == fpk and r['pk'] in vspks:
+        if r['language_pk'] == fpk and (r['pk'] in vspks or (args.ref is None)):
             r['language_pk'] = tpk
         return r
     ds.rewrite('valueset.csv', repl)
