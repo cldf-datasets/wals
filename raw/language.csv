@@ -1144,7 +1144,7 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 1148,,tsz,Tsez,,,42.25,45.75,1
 1149,,tai,Tuareg (Air),,,19,9,1
 1150,,wor,Worora,,,-15.6666666667,124.666666667,1
-1151,,yi,Yi,,,24,104,1
+1151,,yi,Nuosu,,,28.0,103.0,1
 1152,,yir,Yir Yiront,,,-14.8333333333,141.833333333,1
 1153,,ach,Aché,,,-25.25,-55.1666666667,1
 1154,,aiz,Aizi,,,5.25,-4.5,1
@@ -2679,3 +2679,4 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 2661,,mxx,Mixe (Ayutla),,,17.0833333333,-96.0833333333,1
 582,,prc,Paresi,,,-14,-57.5,2
 2680,,brq,Bera,,,1.5,30.03,1
+2681,,yiw,Yi (Wuding-Luquan),,,25.5,102.5,1

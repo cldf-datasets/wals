@@ -901,7 +901,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1792,camsa,117,f,f,kbh,South America
 2254,qawasqar,15,f,t,alc,South America
 2070,angas,6,f,f,anc,Africa
-1151,yi,380,f,f,iii,Eurasia
+1151,nuosu,380,f,f,iii,Eurasia
 2625,ralte,386,f,f,ral,Eurasia
 1485,tairora,430,f,f,tbg,Papunesia
 1416,pacoh,72,f,f,pac,Eurasia
@@ -2679,3 +2679,4 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 495,zapotec (zoogocho),332,f,f,zpq,North America
 1209,wu,375,f,f,wuu,Eurasia
 2680,bera,274,f,f,brf,Africa
+2681,yi wudingluquan,380,f,f,ywq,Eurasia
