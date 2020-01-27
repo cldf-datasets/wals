@@ -1778,7 +1778,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1642,kamass,463,f,f,xas,Eurasia
 1104,boazi,246,f,f,kvg,Papunesia
 1102,bankon,274,f,f,abb,Africa
-1103,bira,274,f,f,"bip, brf",Africa
+1103,bila,274,f,f,bip,Africa
 1100,amara,87,f,f,aie,Papunesia
 1453,galo,382,f,f,adi,Eurasia
 1515,mamvu,303,f,f,mdi,Africa
@@ -2678,3 +2678,4 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1629,zapotec (yatzachi),332,f,f,zav,North America
 495,zapotec (zoogocho),332,f,f,zpq,North America
 1209,wu,375,f,f,wuu,Eurasia
+2680,bera,274,f,f,brf,Africa

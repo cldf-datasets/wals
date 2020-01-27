@@ -1103,7 +1103,7 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 1100,,ama,Amara,,,-5.66666666667,148.5,1
 1101,,aab,Arapesh (Abu),,,-3.45,142.95,1
 1102,,bnk,Bankon,,,4.41666666667,9.58333333333,1
-1103,,bia,Bira,,,1,28.75,1
+1103,,bia,Bila,,,1,28.75,1
 1104,,boa,Boazi,,,-7,141.333333333,1
 1105,,bui,Buli (in Indonesia),,,1,128.5,1
 1106,,ctw,Catawba,,,35.5,-80.5,1
@@ -2678,3 +2678,4 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 2125,,kiw, Kiwai (Southern),,,-8,143.5,1
 2661,,mxx,Mixe (Ayutla),,,17.0833333333,-96.0833333333,1
 582,,prc,Paresi,,,-14,-57.5,2
+2680,,brq,Bera,,,1.5,30.03,1
