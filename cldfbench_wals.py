@@ -4,6 +4,7 @@ import pathlib
 import itertools
 import collections
 
+from csvw import dsv
 from cldfbench import Dataset as BaseDataset
 from cldfbench import CLDFSpec, Metadata
 from pycldf.sources import Source, Reference
@@ -19,8 +20,8 @@ class MetadataWithTravis(Metadata):
                 title_found = True
                 lines.extend([
                     '',
-                    "[![Build Status](https://travis-ci.org/cldf-datasets/ewave.svg?branch=master)]"
-                    "(https://travis-ci.org/cldf-datasets/ewave)"
+                    "[![Build Status](https://travis-ci.org/cldf-datasets/wals.svg?branch=master)]"
+                    "(https://travis-ci.org/cldf-datasets/wals)"
                 ])
         return '\n'.join(lines)
 
@@ -278,3 +279,40 @@ class Dataset(BaseDataset):
         )
         cldf.add_foreign_key('ParameterTable', 'Contributor_ID', 'contributors.csv', 'ID')
         cldf.add_foreign_key('language_names.csv', 'Language_ID', 'LanguageTable', 'ID')
+
+    #
+    # Raw data curation functionality:
+    #
+    def pk_from_id(self, thing, id_):
+        if not thing.endswith('.csv'):
+            thing = thing + '.csv'
+        for row in self.raw_dir.read_csv(thing, dicts=True):
+            if row['id'] == id_:
+                return row['pk']
+
+    def iter_rows(self, fname, cond):
+        for row in self.raw_dir.read_csv(fname, dicts=True):
+            if cond(row):
+                yield row
+
+    def add_rows(self, fname, *rows):
+        dsv.add_rows(self.raw_dir / fname, *rows)
+
+    def get_row(self, fname, cond):
+        res = list(self.iter_rows(fname, cond))
+        assert len(res) == 1
+        return res[0]
+
+    def maxpk(self, fname):
+        return max(int(r['pk']) for r in self.raw_dir.read_csv(fname, dicts=True))
+
+    def rewrite(self, fname, v):
+        rows = list(dsv.reader(self.raw_dir / fname, dicts=True))
+
+        with dsv.UnicodeWriter(self.raw_dir / fname) as w:
+            for i, row in enumerate(rows):
+                if i == 0:
+                    w.writerow(row.keys())
+                res = v(row)
+                if res:
+                    w.writerow(res.values())

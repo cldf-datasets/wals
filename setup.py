@@ -9,7 +9,10 @@ setup(
     entry_points={
         'cldfbench.dataset': [
             'wals=cldfbench_wals:Dataset',
-        ]
+        ],
+        'cldfbench.commands': [
+            'wals=walscommands',
+        ],
     },
     install_requires=[
         'cldfbench',
