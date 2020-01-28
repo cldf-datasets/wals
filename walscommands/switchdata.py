@@ -28,6 +28,24 @@ def run(args):
     for row in ds.iter_rows('valuesetreference.csv', lambda r: r['source_pk'] == spk):
         vspks.add(row['valueset_pk'])
 
+    #
+    # FIXME: Determine whether there are any sentences related to values of the valuesets. If so,
+    # change the language_pk of the sentence!
+    #
+    vpks = set()
+    for row in ds.iter_rows('value.csv', lambda r: r['valueset_pk'] in vspks):
+        vpks.add(row['pk'])
+
+    spks = set()
+    for row in ds.iter_rows('valuesentence.csv', lambda r: r['value_pk'] in vpks):
+        spks.add(row['sentence_pk'])
+
+    def repl(r):
+        if r['language_pk'] == fpk and r['pk'] in spks:
+            r['language_pk'] = tpk
+        return r
+    ds.rewrite('sentence.csv', repl)
+
     def repl(r):
         if r['language_pk'] == fpk and (r['pk'] in vspks or (args.ref is None)):
             r['language_pk'] = tpk
