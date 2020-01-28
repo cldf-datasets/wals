@@ -2069,7 +2069,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 473,tubar,472,f,f,tbu,North America
 470,tofa,19,f,f,kim,Eurasia
 2392,aymara (central),102,f,t,ayc,South America
-476,tzeltal,250,f,f,"tzb, tzh",North America
+476,tzeltal,250,f,f,tzh,North America
 1865,efik,293,f,f,efi,Africa
 1368,rashad,282,f,f,ras,Africa
 1369,sobei,87,f,f,sob,Papunesia
@@ -2613,7 +2613,6 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 238,turkic (west xorasan),19,f,f,kmz,Eurasia
 2031,totonac (xicotepec de juarez),429,f,f,too,North America
 1280,tzeltal (aguacatenango),250,f,f,tzh,North America
-477,tzeltal (bachajon),250,f,f,tzb,North America
 455,taiwanese sign language (ziran shouyu),330,f,f,tss,Papunesia
 479,tzotzil (san andres),250,f,f,tzs,North America
 478,tzeltal (tenejapa),250,f,f,tzh,North America
