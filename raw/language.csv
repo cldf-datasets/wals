@@ -51,7 +51,6 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 156,,mdz,Mada (in Nigeria),,,8.75,8.25,1
 159,,mhm,Mah Meri,,,2.83333333333,101.5,1
 26,,bjs,Sama (Southern),,,4.5,118.5,1
-223,,taq,Taiwanese,,,25,121.5,1
 298,,cco,Chasta Costa,,,42.6666666667,-124,1
 299,,ctt,Chatino (Tataltepec),,,16.1666666667,-97.5833333333,1
 300,,cmk,Chemakum,,,48.0833333333,-122.916666667,1
@@ -179,7 +178,6 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 38,,bru,Bru (Eastern),,,17.3333333333,106,1
 39,,buy,Buli (in Ghana),,,10.5,-1.25,1
 40,,bpa,Bura-Pabir,,,10.5,12.25,1
-41,,chz,Chaozhou,,,23.6666666667,116.666666667,1
 42,,cht,Chatino (Nopala),,,16.0833333333,-97.1666666667,1
 43,,ckh,Cheke Holo,,,-8.33333333333,159.666666667,1
 44,,csc,Chinantec (Sochiapan),,,17.75,-96.6666666667,1
@@ -710,7 +708,7 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 682,,hno,Haida (Northern),,,54,-132.5,1
 683,,hlb,Halbi,,,21,81,1
 684,,hoa,Hoava,,,-8.08333333333,157.5,1
-685,,hok,Hokkien,,,25,118,1
+685,,hok,Min (Southern),,,25,118,1
 686,,htt,Huitoto,,,-1,-74,1
 687,,iat,Iatmul,,,-4.25,143.25,1
 688,,iql,Inuktitut (Quebec-Labrador),,,62,-73,1
@@ -1263,7 +1261,6 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 1283,,ven,Venda,,,-22,30,1
 1284,,wai,Wai Wai,,,1,-59,1
 1285,,wnt,Wantoat,,,-6.16666666667,146.5,1
-1287,,xia,Xiamen,,,24.5,118.166666667,1
 1288,,zaz,Zazaki,,,39,41,1
 1289,,acn,Achang,,,25,98.5,1
 1291,,akw,Akawaio,,,6,-59.5,1

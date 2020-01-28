@@ -227,7 +227,6 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1794,duka,286,f,f,dud,Africa
 1005,rikbaktsa,244,f,f,rkb,South America
 1285,wantoat,434,f,f,wnc,Papunesia
-1287,xiamen,375,f,f,nan,Eurasia
 1281,uma,526,f,f,ppk,Papunesia
 1283,venda,274,f,f,ven,Africa
 1282,umbundu,274,f,f,umb,Africa
@@ -241,7 +240,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1470,mursi,322,f,f,muz,Africa
 1474,nehan,87,f,f,nsn,Papunesia
 1475,noghay,19,f,f,nog,Eurasia
-685,hokkien,375,f,f,nan,Eurasia
+685,min southern,375,f,f,nan,Eurasia
 684,hoava,87,f,f,hoa,Papunesia
 687,iatmul,368,f,f,ian,Papunesia
 686,huitoto,180,f,f,hto,South America
@@ -933,7 +932,6 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 2186,choctaw,260,f,f,cho,North America
 229,tayo,331,f,f,cks,Papunesia
 228,taulil,103,f,f,tuh,Papunesia
-223,taiwanese,375,f,f,nan,Eurasia
 2212,takelma,407,f,f,tkm,North America
 2211,tahitian,87,f,f,tah,Papunesia
 2210,siriono,457,f,f,srq,South America
@@ -2031,7 +2029,6 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 46,chru,519,f,f,cje,Eurasia
 47,chulym,19,f,f,clw,Eurasia
 40,burapabir,5,f,f,bwr,Africa
-41,chaozhou,375,f,f,nan,Eurasia
 1111,deuri,383,f,f,der,Eurasia
 638,awadhi,182,f,f,awa,Eurasia
 1113,faroese,181,f,f,fao,Eurasia
