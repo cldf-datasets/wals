@@ -15,7 +15,7 @@ pk,jsondata,id,name,description,markup_description
 15,,austronesian,Austronesian,,
 16,,awinpare,Awin-Pare,,
 17,,aymaran,Aymaran,,
-18,,bainingtaulil,Baining-Taulil,,
+18,,taulil,Taulil,,
 19,,barbacoan,Barbacoan,,
 20,,basque,Basque,,
 21,,beothuk,Beothuk,,
@@ -256,3 +256,4 @@ pk,jsondata,id,name,description,markup_description
 431,,easterndaly,Eastern Daly,,
 432,,yangmanic,Yangmanic,,
 433,,gaagudju,Gaagudju,,
+434,,baining,Baining,,
