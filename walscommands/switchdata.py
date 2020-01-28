@@ -32,6 +32,8 @@ def run(args):
         for row in ds.iter_rows('valueset.csv', lambda r: r['language_pk'] == fpk):
             vspks.add(row['pk'])
 
+    print(len(vspks))
+
     #
     # FIXME: Determine whether there are any sentences related to values of the valuesets. If so,
     # change the language_pk of the sentence!
