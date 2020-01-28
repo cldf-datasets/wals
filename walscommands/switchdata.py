@@ -25,8 +25,12 @@ def run(args):
     spk = ds.get_row('source.csv', cond=lambda r: r['name'] == args.ref)['pk'] if args.ref else None
 
     vspks = set()
-    for row in ds.iter_rows('valuesetreference.csv', lambda r: r['source_pk'] == spk):
-        vspks.add(row['valueset_pk'])
+    if args.ref:
+        for row in ds.iter_rows('valuesetreference.csv', lambda r: r['source_pk'] == spk):
+            vspks.add(row['valueset_pk'])
+    else:
+        for row in ds.iter_rows('valueset.csv', lambda r: r['language_pk'] == fpk):
+            vspks.add(row['pk'])
 
     #
     # FIXME: Determine whether there are any sentences related to values of the valuesets. If so,
