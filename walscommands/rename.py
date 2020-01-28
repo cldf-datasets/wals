@@ -12,6 +12,7 @@ def register(parser):
     parser.add_argument('--keep-old-name', default=False, action='store_true')
     parser.add_argument('--latitude', type=float)
     parser.add_argument('--longitude', type=float)
+    parser.add_argument('--countries')
 
 
 def run(args):
@@ -34,6 +35,21 @@ def run(args):
 
     ds.rewrite('language.csv', _rename)
     ds.rewrite('walslanguage.csv', _rename)
+
+    if args.countries:
+        cpks = set()
+        for row in ds.iter_rows(
+                'country.csv',
+                lambda r:
+                r['id'] in args.countries.split(',') or r['name'] in args.countries.split(',')):
+            cpks.add(row['pk'])
+
+        #pk, jsondata, country_pk, language_pk
+        ds.rewrite('countrylanguage.csv', lambda r: r if r['language_pk'] != lpk else None)
+        clpk = ds.maxpk('countrylanguage.csv') + 1
+        ds.add_rows(
+            'countrylanguage.csv',
+            *[[clpk + i, '', cpk, lpk] for i, cpk in enumerate(sorted(cpks))])
 
     if args.keep_old_name:
         # Check whether the code exists:
