@@ -313,7 +313,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1870,karakalpak,19,f,f,kaa,Eurasia
 1987,tondano,523,f,f,tdn,Papunesia
 1871,kipea,202,f,f,kzw,South America
-2313,kongo,274,f,t,"kng, kwy",Africa
+2313,kongo,274,f,t,kng,Africa
 393,mituku,274,f,f,zmq,Africa
 392,mingrelian,205,f,f,xmf,Eurasia
 391,mikarew,234,f,f,msy,Papunesia
