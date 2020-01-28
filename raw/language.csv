@@ -547,7 +547,6 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 475,,tut,Tutchone (Northern),,,63,-137,1
 476,,tze,Tzeltal,,,16.8333333333,-92.25,1
 478,,tzt,Tzeltal (Tenejapa),,,16.6666666667,-92.3333333333,1
-479,,tzs,Tzotzil (San Andrés),,,17,-92.8333333333,1
 480,,ugs,Ugandan Sign Language,,,1,32.5,1
 481,,uri,Urim,,,-3.58333333333,142.666666667,1
 482,,ved,Vedda,,,7,81,1
@@ -647,7 +646,6 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 609,,tew,Tewa (Arizona),,,35.8333333333,-110.416666667,1
 610,,thp,Thaypan,,,-14.8333333333,143.166666667,1
 611,,tse,Timorese,,,-9.66666666667,124.5,1
-615,,tzz,Tzotzil (Zinacantán),,,16.8333333333,-92.8333333333,1
 617,,wll,Wallisian,,,-13.3,-176.2,1
 618,,wyn,Wayana,,,3.25,-54.1666666667,1
 619,,xer,Xerénte,,,-10,-48.1666666667,1
