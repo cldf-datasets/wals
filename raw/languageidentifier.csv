@@ -5412,7 +5412,6 @@ pk,jsondata,language_pk,identifier_pk,description,version
 5496,,2611,6039,,1
 5497,,2612,6039,,1
 5498,,2614,6020,,1
-5499,,2615,6039,,1
 5500,,2616,6039,,1
 5501,,2619,6040,,1
 5502,,2620,6020,,1
@@ -8028,7 +8027,6 @@ pk,jsondata,language_pk,identifier_pk,description,version
 8184,,2612,10612,isDialectOf,1
 8185,,2613,11046,,1
 8186,,2614,8634,isDialectOf,1
-8187,,2615,10612,isDialectOf,1
 8188,,2616,10612,isDialectOf,1
 8189,,2617,11059,isDialectOf,1
 8190,,2618,11059,isDialectOf,1
@@ -10653,7 +10651,6 @@ pk,jsondata,language_pk,identifier_pk,description,version
 10875,,2612,8133,isDialectOf,1
 10876,,2613,8560,,1
 10877,,2614,6165,isDialectOf,1
-10878,,2615,8133,isDialectOf,1
 10879,,2616,8133,isDialectOf,1
 10880,,2617,8573,isDialectOf,1
 10881,,2618,8573,isDialectOf,1
@@ -13205,7 +13202,6 @@ pk,jsondata,language_pk,identifier_pk,description,version
 13562,,2612,13094,isDialectOf,1
 13563,,2613,13528,,1
 13564,,2614,11120,isDialectOf,1
-13565,,2615,13094,isDialectOf,1
 13566,,2616,13094,isDialectOf,1
 13567,,2617,13541,isDialectOf,1
 13568,,2618,13541,isDialectOf,1
