@@ -1,0 +1,50 @@
+"""
+
+"""
+from clldutils.misc import slug
+
+from cldfbench_wals import Dataset
+
+
+def register(parser):
+    parser.add_argument('language_id')
+    parser.add_argument('genus')
+    parser.add_argument('--family', default=None)
+
+
+def run(args):
+    ds = Dataset()
+
+    lpk = ds.pk_from_id('language.csv', args.language_id)
+    wlang = ds.get_row('walslanguage.csv', lambda r: r['pk'] == lpk)
+
+    # Find genus:
+    gpk = None
+    for row in ds.iter_rows('genus.csv', lambda r: r['name'] == args.genus):
+        gpk = row['pk']
+        break
+    if not gpk:
+        # Create a new genus
+        if not args.family:
+            # determine the genus from the old family
+            fpk = ds.get_row('genus.csv', lambda r: r['pk'] == wlang['genus_pk'])['family_pk']
+        else:
+            fpk = None
+            for row in ds.iter_rows('family.csv', lambda r: r['name'] == args.family):
+                fpk = row['pk']
+                break
+            if not fpk:
+                # Create a new family
+                # pk,jsondata,id,name,description,markup_description
+                fpk = ds.maxpk('family.csv') + 1
+                ds.add_rows('family.csv', [fpk, '', slug(args.family), args.family, '', ''])
+
+        gpk = ds.maxpk('genus.csv') + 1
+        # pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
+        ds.add_rows(
+            'genus.csv', [gpk, '', slug(args.genus), args.genus, '', '', fpk, '', 'f222222'])
+    def recl(row):
+        if row['pk'] == lpk:
+            row['genus_pk'] = gpk
+        return row
+    ds.rewrite('walslanguage.csv', recl)
