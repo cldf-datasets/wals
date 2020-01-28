@@ -1254,7 +1254,7 @@ pk,jsondata,id,description,markup_description,language_pk,parameter_pk,contribut
 1256,,71A-way,,,1855,71,71,,1
 1257,,71A-wel,,,2317,71,71,,1
 1258,,71A-wic,,,2449,71,71,,1
-1259,,71A-htt,,,686,71,71,,1
+1259,,71A-hmi,,,1996,71,71,,1
 1260,,71A-wiy,,,2244,71,71,,1
 1261,,71A-wwr,,,770,71,71,,1
 1262,,71A-wlo,,,1885,71,71,,1
@@ -7496,7 +7496,7 @@ pk,jsondata,id,description,markup_description,language_pk,parameter_pk,contribut
 7508,,78A-wic,,,2449,78,78,,1
 7509,,78A-win,,,2308,78,78,,1
 7510,,78A-cku,,,1590,78,78,,1
-7511,,78A-htt,,,686,78,78,,1
+7511,,78A-hmi,,,1996,78,78,,1
 7512,,78A-wiy,,,2244,78,78,,1
 7513,,78A-wol,,,2052,78,78,,1
 7514,,78A-yag,,,2470,78,78,,1
@@ -7914,7 +7914,7 @@ pk,jsondata,id,description,markup_description,language_pk,parameter_pk,contribut
 7926,,77A-wic,,,2449,77,77,,1
 7927,,77A-win,,,2308,77,77,,1
 7928,,77A-cku,,,1590,77,77,,1
-7929,,77A-htt,,,686,77,77,,1
+7929,,77A-hmi,,,1996,77,77,,1
 7930,,77A-wiy,,,2244,77,77,,1
 7931,,77A-wol,,,2052,77,77,,1
 7932,,77A-yag,,,2470,77,77,,1
@@ -29201,7 +29201,7 @@ pk,jsondata,id,description,markup_description,language_pk,parameter_pk,contribut
 29359,,9A-usa,,,2398,9,9,,1
 29360,,9A-wam,,,2373,9,9,,1
 29361,,9A-wrd,,,2395,9,9,,1
-29362,,9A-htt,,,686,9,9,,1
+29362,,9A-hmi,,,1996,9,9,,1
 29363,,9A-yid,,,2434,9,9,,1
 29364,,9A-yim,,,2430,9,9,,1
 29365,,9A-yuc,,,2359,9,9,,1

@@ -1254,7 +1254,7 @@ jsondata,id,name,description,markup_description,pk,valueset_pk,domainelement_pk,
 ,71A-way,,,,1256,1256,348,,,1
 ,71A-wel,,,,1257,1257,346,,,1
 ,71A-wic,,,,1258,1258,345,,,1
-,71A-htt,,,,1259,1259,346,,,1
+,71A-hmi,,,,1259,1259,346,,,1
 ,71A-wiy,,,,1260,1260,348,,,1
 ,71A-wwr,,,,1261,1261,348,,,1
 ,71A-wlo,,,,1262,1262,346,,,1
@@ -7494,7 +7494,7 @@ jsondata,id,name,description,markup_description,pk,valueset_pk,domainelement_pk,
 ,78A-wic,,,,7508,7508,369,,,1
 ,78A-win,,,,7509,7509,369,,,1
 ,78A-cku,,,,7510,7510,369,,,1
-,78A-htt,,,,7511,7511,368,,,1
+,78A-hmi,,,,7511,7511,368,,,1
 ,78A-wiy,,,,7512,7512,368,,,1
 ,78A-wol,,,,7513,7513,368,,,1
 ,78A-yag,,,,7514,7514,368,,,1
@@ -7912,7 +7912,7 @@ jsondata,id,name,description,markup_description,pk,valueset_pk,domainelement_pk,
 ,77A-wic,,,,7926,7926,366,,,1
 ,77A-win,,,,7927,7927,367,,,1
 ,77A-cku,,,,7928,7928,366,,,1
-,77A-htt,,,,7929,7929,365,,,1
+,77A-hmi,,,,7929,7929,365,,,1
 ,77A-wiy,,,,7930,7930,365,,,1
 ,77A-wol,,,,7931,7931,365,,,1
 ,77A-yag,,,,7932,7932,365,,,1
@@ -29263,7 +29263,7 @@ jsondata,id,name,description,markup_description,pk,valueset_pk,domainelement_pk,
 ,9A-usa,,,,29359,29359,42,,,1
 ,9A-wam,,,,29360,29360,40,,,1
 ,9A-wrd,,,,29361,29361,40,,,1
-,9A-htt,,,,29362,29362,41,,,1
+,9A-hmi,,,,29362,29362,41,,,1
 ,9A-yid,,,,29363,29363,40,,,1
 ,9A-yim,,,,29364,29364,40,,,1
 ,9A-yuc,,,,29365,29365,42,,,1
