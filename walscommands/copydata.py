@@ -7,6 +7,9 @@ import collections
 
 from cldfbench_wals import Dataset
 
+from .fixvids import run as fixvids_run
+from .languagesources import run as languagesources_run
+
 
 def register(parser):
     parser.add_argument('from_language_id')
@@ -91,3 +94,5 @@ def run(args):
             r['valueset_pk'] = vspk_map[r['valueset_pk']]
         return r
     ds.rewrite('valuesetreference.csv', upd)
+    fixvids_run(args)
+    languagesources_run(args)

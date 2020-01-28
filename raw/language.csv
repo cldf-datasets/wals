@@ -281,7 +281,7 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 181,,nhc,Nahuatl (Central),,,19,-98.25,1
 182,,nhp,Nahuatl (Pochutla),,,15.75,-96.5,1
 183,,nnt,Nanticoke,,,38,-76.25,1
-185,,ntu,Nenets (Tundra),,,70,76,1
+185,,ntu,Nenets,,,70,76,1
 186,,naa,Neo-Aramaic (Amadiya),,,37,43,1
 187,,ngy,Ngarinyman,,,-16.5,130.5,1
 188,,nge,Ngemba,,,6.2,10,1
@@ -2287,7 +2287,7 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 2422,,squ,Squamish,,,49.6666666667,-123.166666667,1
 2423,,tru,Trumai,,,-11.9166666667,-53.5833333333,1
 2424,,dni,Dani (Lower Grand Valley),,,-4.33333333333,138.833333333,1
-2425,,nen,Nenets,,,69,72,1
+2425,,nen,Nenets (Forest),,,69,72,1
 2426,,urk,Urubú-Kaapor,,,-2.33333333333,-46.5,1
 2427,,coo,Coos (Hanis),,,43.5,-124.166666667,1
 2429,,nht,Nahuatl (Tetelcingo),,,19.6666666667,-99,1

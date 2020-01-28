@@ -1047,7 +1047,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 818,milang,382,f,f,adi,Eurasia
 819,mochica,132,f,f,,South America
 1527,sapuan,63,f,f,spu,Eurasia
-2425,nenets,463,f,t,yrk,Eurasia
+2425,nenets forest,463,f,t,yrk,Eurasia
 1262,parauk,69,f,f,prk,Eurasia
 812,kunming,375,f,f,cmn,Eurasia
 813,kwamera,87,f,f,tnk,Papunesia
@@ -2476,7 +2476,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 570,neoaramaic (assyrian),10,f,f,aii,Eurasia
 569,nahuatl (sierra de zacapoaxtla),476,f,f,azz,North America
 191,norsk tegnsprak,330,f,f,nsl,Eurasia
-185,nenets (tundra),463,f,f,yrk,Eurasia
+185,nenets,463,f,f,yrk,Eurasia
 2263,nung (in vietnam),404,f,f,nut,Eurasia
 890,nivkh (south sakhalin),324,f,f,niv,Eurasia
 1770,newar (dolakha),512,f,f,new,Eurasia
