@@ -1745,7 +1745,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1425,tabwa,274,f,f,tap,Africa
 1427,thulung,512,f,f,tdh,Eurasia
 1370,sorbian,185,f,f,"dsb, hsb",Eurasia
-1429,toussian,290,f,f,"tsp, wib",Africa
+1429,southern toussain,290,f,f,wib,Africa
 1580,yawa,501,f,f,yva,Papunesia
 1163,chayahuita,116,f,f,cbt,South America
 1586,balti,389,f,f,bft,Eurasia
@@ -2591,7 +2591,6 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 755,tanna (southwest),87,f,f,nwi,Papunesia
 471,totonac (sierra),429,f,f,tos,North America
 1988,totonac (misantla),429,f,f,tlc,North America
-235,toussian (win),290,f,f,wib,Africa
 461,tasmanian (oyster bay to pitwater),409,f,f,,
 1375,tonga (in zambia),274,f,f,toi,Africa
 1535,totonac (papantla),429,f,f,top,North America

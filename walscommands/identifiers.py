@@ -12,6 +12,7 @@ def register(parser):
 def run(args):
     ds = Dataset()
     lpk = ds.pk_from_id('language', args.language_id)
+    assert lpk
     iso_codes = set()
 
     ipks = set()
