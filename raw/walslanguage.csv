@@ -2192,7 +2192,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1110,chumash (ineseno),141,f,f,inz,North America
 43,cheke holo,87,f,f,mrn,Papunesia
 1793,chinook (lower),346,f,f,chh,North America
-1590,chinook (upper),346,f,f,wac,North America
+1590,chinook upper,346,f,f,wac,North America
 1387,chaldean (modern),10,f,f,cld,Eurasia
 2414,chinantec (lealao),335,f,t,cle,North America
 1064,cham (eastern),519,f,f,cjm,Eurasia
@@ -2659,3 +2659,4 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1209,wu,375,f,f,wuu,Eurasia
 2680,bera,274,f,f,brf,Africa
 2681,yi wudingluquan,380,f,f,ywq,Eurasia
+2682,kathlamet,346,f,f,,North America

@@ -1524,7 +1524,7 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 1587,,bnn,Banoni,,,-6.41666666667,155.25,1
 1588,,bsh,Bushoong,,,-4.5,21.5,1
 1589,,can,Candoshi,,,-4.16666666667,-77,1
-1590,,cku,Chinook (Upper),,,45.5,-122.5,1
+1590,,cku,Chinook (Upper),,,45.62,-121.16,1
 1592,,dom,Domari,,,32,35,1
 1593,,gah,Gahuku,,,-6,145.416666667,1
 1594,,gug,Gugada,,,-30,134,1
@@ -2659,3 +2659,4 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 582,,prc,Paresi,,,-14,-57.5,2
 2680,,brq,Bera,,,1.5,30.03,1
 2681,,yiw,Yi (Wuding-Luquan),,,25.5,102.5,1
+2682,,ktm,Kathlamet,,,46.14,-123.4,1
