@@ -22,15 +22,16 @@ def run(args):
 
     fpk = ds.pk_from_id('language.csv', args.from_language_id)
     tpk = ds.pk_from_id('language.csv', args.to_language_id)
+    assert fpk and tpk
     spk = ds.get_row('source.csv', cond=lambda r: r['name'] == args.ref)['pk'] if args.ref else None
 
     vspks = set()
+    vsrpks = set()
     if args.ref:
         for row in ds.iter_rows('valuesetreference.csv', lambda r: r['source_pk'] == spk):
-            vspks.add(row['valueset_pk'])
-    else:
-        for row in ds.iter_rows('valueset.csv', lambda r: r['language_pk'] == fpk):
-            vspks.add(row['pk'])
+            vsrpks.add(row['valueset_pk'])
+    for row in ds.iter_rows('valueset.csv', lambda r: r['language_pk'] == fpk and (r['pk'] in vsrpks or (not args.ref))):
+        vspks.add(row['pk'])
 
     print(len(vspks))
 

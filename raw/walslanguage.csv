@@ -372,7 +372,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 2279,ngizim,6,f,f,ngi,Africa
 2278,miya,6,f,f,mkf,Africa
 2395,wardaman,33,f,t,wrr,Australia
-861,baniwa,785,f,f,bwi,South America
+861,baniwa,830,f,f,bwi,South America
 2378,carib,119,f,t,car,South America
 2379,makah,481,t,t,myh,North America
 1666,wakhi,183,f,f,wbl,Eurasia
@@ -2660,3 +2660,4 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 2680,bera,274,f,f,brf,Africa
 2681,yi wudingluquan,380,f,f,ywq,Eurasia
 2682,kathlamet,346,f,f,,North America
+2683,baniva,785,f,f,bvv,South America
