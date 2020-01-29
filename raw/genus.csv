@@ -31,7 +31,6 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 66,,munda,Munda,,,14,,sffff00
 67,,vietmuong,Viet-Muong,,,14,Mon-Khmer,sffffcc
 68,,nicobarese,Nicobarese,,,14,Mon-Khmer,sffffff
-69,,palaungkhmuic,Palaung-Khmuic,,,14,Mon-Khmer,t000000
 70,,khmer,Khmer,,,14,Mon-Khmer,t0000dd
 71,,khasian,Khasian,,,14,Mon-Khmer,t009900
 72,,katuic,Katuic,,,14,Mon-Khmer,t66ff33
@@ -548,3 +547,5 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 807,,tusia,Tusia,,,123,Gur,f323232
 808,,northerncentralgur,Northern-Central Gur,,,123,Gur,f646464
 809,,southerncentralgur,Southern-Central Gur,,,123,Gur,f101010
+810,,palaungic,Palaungic,,,14,Mon-Khmer,fcccccc
+811,,khmuic,Khmuic,,,14,Mon-Khmer,fcccccc
