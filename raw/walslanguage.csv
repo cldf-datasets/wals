@@ -1865,7 +1865,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 2256,tidore,494,f,f,tvo,Papunesia
 2255,tetun,75,f,f,tet,Papunesia
 1853,tzotzil,250,f,f,tzo,North America
-2252,mam,250,f,f,mvc,North America
+2252,mam,250,f,f,mam,North America
 2251,lenakel,87,f,f,tnl,Papunesia
 2174,garrwa,47,f,f,wrk,Australia
 2477,kobon,437,f,t,kpw,Papunesia
@@ -2396,7 +2396,6 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 2155,mari (meadow),466,f,f,mhr,Eurasia
 888,mordvin (moksha),467,f,f,mdf,Eurasia
 161,malay (ulu muar),519,f,f,zmi,Eurasia
-81,mam (southern),250,f,f,mms,North America
 2332,maidu (northeast),345,f,f,nmu,North America
 1696,mono (in united states),477,f,f,mnr,North America
 1978,mordvin (erzya),467,f,f,myv,Eurasia
