@@ -274,7 +274,6 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 365,,senagi,Senagi,,,142,,daa0000
 366,,sentani,Sentani,,,143,,dcccccc
 367,,uppersepik,Upper Sepik,,,144,,ddd0000
-368,,middlesepik,Middle Sepik,,,144,,dff4400
 369,,ram,Ram,,,144,,dff6600
 370,,sepikhill,Sepik Hill,,,144,,dff66ff
 371,,tamasepik,Tama Sepik,,,144,,dffcc00
@@ -559,3 +558,5 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 822,,cangin,Cangin,,,123,Atlantic,f888888
 823,,wolof,Wolof,,,123,Atlantic,faaaaaa
 824,,baibaifas,Baibai-Fas,,,436,,fcccccc
+825,,nukuma,Nukuma,,,144,,dff4400
+826,,ndu,Ndu,,,144,,fcccccc

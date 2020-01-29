@@ -242,7 +242,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1475,noghay,19,f,f,nog,Eurasia
 685,min southern,375,f,f,nan,Eurasia
 684,hoava,87,f,f,hoa,Papunesia
-687,iatmul,368,f,f,ian,Papunesia
+687,iatmul,826,f,f,ian,Papunesia
 681,gunu,274,f,f,yas,Africa
 680,gorowa,1,f,f,gow,Africa
 683,halbi,182,f,f,hlb,Eurasia
@@ -434,7 +434,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1505,guambiano,106,f,f,gum,South America
 2168,waskia,437,f,f,wsk,Papunesia
 2390,diolafogny,818,f,t,dyo,Africa
-1919,ambulas,368,f,f,abt,Papunesia
+1919,ambulas,826,f,f,abt,Papunesia
 1918,yawelmani,344,f,f,yok,North America
 1148,tsez,269,f,f,ddo,Eurasia
 1193,ngadjumaja,793,f,f,nju,Australia
@@ -694,7 +694,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 166,maninka,292,f,f,emk,Africa
 167,mankanya,818,f,f,knf,Africa
 162,mali,104,f,f,gcc,Papunesia
-163,manambu,368,f,f,mle,Papunesia
+163,manambu,826,f,f,mle,Papunesia
 965,winnebago,391,f,f,win,North America
 961,ulithian,87,f,f,uli,Papunesia
 962,vagla,809,f,f,vag,Africa
@@ -1427,7 +1427,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 513,benga,274,f,f,bng,Africa
 514,bima,75,f,f,bhp,Papunesia
 517,bole,6,f,f,bol,Africa
-516,boiken,368,f,f,bzf,Papunesia
+516,boiken,826,f,f,bzf,Papunesia
 621,yakoma,287,f,f,yky,Africa
 627,juma,457,f,f,jua,South America
 450,songe,274,f,f,sop,Africa
@@ -1448,7 +1448,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 15,arandai,247,f,f,jbj,Papunesia
 19,aulua,87,f,f,aul,Papunesia
 18,asturian,184,f,f,ast,Eurasia
-2126,kwoma,368,f,f,kmo,Papunesia
+2126,kwoma,825,f,f,kmo,Papunesia
 2382,suena,442,f,t,sue,Papunesia
 2083,remo,66,f,f,bfw,Eurasia
 1210,alladian,275,f,f,ald,Africa
@@ -2287,7 +2287,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1236,hebrew (modern ashkenazic),10,f,f,heb,Eurasia
 984,haitian creole,331,f,f,hat,North America
 2511,hebrew (modern),10,t,t,heb,Eurasia
-1306,hanga hundi,368,f,f,wos,Papunesia
+1306,hanga hundi,826,f,f,wos,Papunesia
 328,hong kong sign language,330,f,f,,Eurasia
 2554,halkomelem (island),360,f,f,hur,North America
 2555,halkomelem (upriver),360,f,f,hur,North America
