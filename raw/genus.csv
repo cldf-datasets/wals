@@ -229,7 +229,6 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 286,,kainji,Kainji,,,123,Benue-Congo,dffcc00
 287,,ubangi,Ubangi,,,123,Adamawa-Ubangi,dffff00
 289,,idomoid,Idomoid,,,123,Benue-Congo,dffffff
-290,,gur,Gur,,,123,,f000000
 293,,crossriver,Cross River,,,123,Benue-Congo,f66ff33
 294,,defoid,Defoid,,,123,Benue-Congo,f990099
 295,,edoid,Edoid,,,123,Benue-Congo,f9999ff
@@ -545,3 +544,7 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 391,,siouan,Core Siouan,,,146,,fffffff
 804,,ega,Ega,,,123,,f009900
 805,,opataeudeve,Opata-Eudeve,,,176,,f222222
+806,,senufo,Senufo,,,123,,fcccccc
+807,,tusia,Tusia,,,123,Gur,f323232
+808,,northerncentralgur,Northern-Central Gur,,,123,Gur,f646464
+809,,southerncentralgur,Southern-Central Gur,,,123,Gur,f101010

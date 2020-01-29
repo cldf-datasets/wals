@@ -26,7 +26,7 @@ def recl(ds, lid, args):
         for row in ds.iter_rows('language.csv', lambda r: r['name'] == lid):
             lpk = row['pk']
             break
-    assert lpk
+    assert lpk, 'language {0} not found'.format(lid)
 
     wlang = ds.get_row('walslanguage.csv', lambda r: r['pk'] == lpk)
 
