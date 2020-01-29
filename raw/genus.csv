@@ -223,7 +223,6 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 276,,northernatlantic,Northern Atlantic,,,123,Atlantic,d66ff33
 277,,kru,Kru,,,123,,d990099
 278,,nupoid,Nupoid,,,123,Benue-Congo,d9999ff
-279,,adamawa,Adamawa,,,123,Adamawa-Ubangi,d99ffff
 283,,platoid,Platoid,,,123,Benue-Congo,dff4400
 286,,kainji,Kainji,,,123,Benue-Congo,dffcc00
 287,,ubangi,Ubangi,,,123,Adamawa-Ubangi,dffff00
@@ -548,4 +547,10 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 808,,northerncentralgur,Northern-Central Gur,,,123,Gur,f646464
 809,,southerncentralgur,Southern-Central Gur,,,123,Gur,f101010
 810,,palaungic,Palaungic,,,14,Mon-Khmer,fcccccc
-811,,khmuic,Khmuic,,,14,Mon-Khmer,fcccccc
+811,,khmuic,Khmuic,,,14,Mon-Khmer,t000000
+812,,day,Day,,,123,Adamawa-Ubangi,t161616
+813,,bua,Bua,,,123,Adamawa-Ubangi,t323232
+814,,kim,Kim,,,123,Adamawa-Ubangi,t646464
+815,,sambaduru,Samba-Duru,,,123,Adamawa-Ubangi,t969696
+816,,mumuyeyandang,Mumuye-Yandang,,,123,Adamawa-Ubangi,ta2a2a2
+817,,mbumic,Mbumic,,,123,Adamawa-Ubangi,tb6b6b6

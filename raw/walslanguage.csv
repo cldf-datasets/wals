@@ -250,7 +250,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 623,yuki,484,f,f,yuk,North America
 1307,itzaj,250,f,f,itz,North America
 1301,daw,261,f,f,kwa,South America
-1302,day,279,f,f,dai,Africa
+1302,day,812,f,f,dai,Africa
 622,yil,428,f,f,yll,Papunesia
 1818,xhosa,274,f,f,xho,Africa
 614,tsat,519,f,f,huq,Eurasia
@@ -852,7 +852,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 530,gade,278,f,f,ged,Africa
 1410,mofugudur,5,f,f,mif,Africa
 1411,mongo,274,f,f,lol,Africa
-1412,mundang,279,f,f,mua,Africa
+1412,mundang,817,f,f,mua,Africa
 1413,nankina,434,f,f,nnk,Papunesia
 1415,nobiin,307,f,f,fia,Africa
 539,haruai,461,f,f,tmd,Papunesia
@@ -874,7 +874,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1254,maya,79,f,f,slz,Papunesia
 1255,makua,274,f,f,"mgh, xsq",Africa
 1252,laz,205,f,f,lzz,Eurasia
-1253,lua,279,f,f,nie,Africa
+1253,lua,813,f,f,nie,Africa
 1250,lakkia,405,f,f,lbc,Eurasia
 1251,lame,11,f,f,lme,Africa
 423,nukak,114,f,f,mbr,South America
@@ -1285,7 +1285,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 2348,una,446,f,t,mtg,Papunesia
 134,ketapang,519,f,f,zlm,Eurasia
 2270,mupun,6,f,f,sur,Africa
-139,kosop,279,f,f,kia,Africa
+139,kosop,814,f,f,kia,Africa
 138,kom,274,f,f,bkm,Africa
 2671,hoan,213,f,f,huc,Africa
 1832,hakka,375,f,f,hak,Eurasia
@@ -1525,13 +1525,13 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 2482,kutenai,222,t,t,kut,North America
 2480,alamblak,370,t,t,amp,Papunesia
 1598,ho,66,f,f,hoc,Eurasia
-2249,doyayo,279,f,f,dow,Africa
+2249,doyayo,815,f,f,dow,Africa
 2652,ama,229,f,f,amm,Papunesia
 2244,wiyot,18,f,f,wiy,North America
 2012,yessanmayo,371,f,f,yss,Papunesia
 2246,babungo,274,f,f,bav,Africa
 2247,bororo,242,f,f,bor,South America
-2240,mumuye,279,f,f,mzm,Africa
+2240,mumuye,816,f,f,mzm,Africa
 2241,tacana,403,f,f,tna,South America
 2242,tera,5,f,f,ttr,Africa
 995,munsee,17,f,f,umu,North America
@@ -1821,7 +1821,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 2321,tigak,87,f,f,tgc,Papunesia
 2320,jaqaru,102,f,f,jqr,South America
 2343,acehnese,519,f,f,ace,Eurasia
-1959,mbum,279,f,f,mdd,Africa
+1959,mbum,817,f,f,mdd,Africa
 2329,icelandic,181,f,f,isl,Eurasia
 1445,cofan,143,f,f,con,South America
 1958,kpelle,292,f,f,xpe,Africa
@@ -1914,7 +1914,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1935,manggarai,75,f,f,mqy,Papunesia
 1587,banoni,87,f,f,bcm,Papunesia
 1938,motu,87,f,f,meu,Papunesia
-845,tupuri,279,f,f,tui,Africa
+845,tupuri,817,f,f,tui,Africa
 844,tswana,274,f,f,tsn,Africa
 843,tsonga,274,f,f,tso,Africa
 842,tetela,274,f,f,tll,Africa
@@ -1968,7 +1968,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 561,migama,2,f,f,mmy,Africa
 563,liv,465,f,f,liv,Eurasia
 565,mokilko,2,f,f,moz,Africa
-2586,mambai,279,f,f,mcs,Africa
+2586,mambai,817,f,f,mcs,Africa
 1354,iwam,367,f,f,iwm,Papunesia
 1596,haya,274,f,f,hay,Africa
 1593,gahuku,430,f,f,gah,Papunesia
@@ -2089,7 +2089,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 567,bargam,437,f,f,mlp,Papunesia
 201,poqomam,250,f,f,poc,North America
 230,tectiteco,250,f,f,ttc,North America
-250,dii,279,f,f,dur,Africa
+250,dii,815,f,f,dur,Africa
 1101,arapesh (abu),427,f,f,,
 275,arabic (chadian),10,f,f,shu,Africa
 633,arabic (beirut),10,f,f,apc,Eurasia
@@ -2264,7 +2264,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 92,guianese french creole,331,f,f,gcr,South America
 1455,gureng gureng,791,f,f,gnr,Australia
 72,german (hannover),181,f,f,deu,Eurasia
-324,gula iro,279,f,f,glj,Africa
+324,gula iro,813,f,f,glj,Africa
 1595,gununa kune,138,f,f,pue,South America
 73,german (mansfeldisch),181,f,f,deu,Eurasia
 74,german (ostschweiz),181,f,f,gsw,Eurasia
@@ -2339,7 +2339,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 125,kalmyk (issykkul),20,f,f,xal,Eurasia
 810,kui (in indonesia),417,f,f,kvd,Papunesia
 352,kata kolok,330,f,f,bqy,Papunesia
-882,koh (lakka),279,f,f,xuo,Africa
+882,koh (lakka),817,f,f,xuo,Africa
 1397,kala lagaw ya,794,f,f,mwp,Papunesia
 1646,koiali (mountain),439,f,f,kpx,Papunesia
 1035,kanum (badi),255,f,f,khd,Papunesia
@@ -2533,7 +2533,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 836,shira yughur,20,f,f,yuy,Eurasia
 743,saami (kildin),462,f,f,sjd,Eurasia
 1982,saliba (in papua new guinea),87,f,f,sbe,Papunesia
-1421,samba leko,279,f,f,ndi,Africa
+1421,samba leko,815,f,f,ndi,Africa
 1142,sahaptin (umatilla),348,f,f,uma,North America
 2159,saami (northern),462,f,f,sme,Eurasia
 900,sorbian (upper),185,f,f,hsb,Eurasia
