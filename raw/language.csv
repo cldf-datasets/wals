@@ -218,7 +218,6 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 92,,gfr,Guianese French Creole,,,5,-53,1
 93,,gbc,Guinea Bissau Crioulo,,,12,-15,1
 94,,gmt,Gumatj,,,-12.5,135.5,1
-95,,gut,Gurma (Togo),,,10.75,0.666666666667,1
 96,,gro,Guro,,,7,-6,1
 97,,gus,Gusii,,,-0.75,34.8333333333,1
 98,,hsl,Haisla,,,54,-128.75,1
@@ -2419,7 +2418,6 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 2582,,nrg,Nanerge,,,11.75,-5,1
 2583,,wwa,Waama,,,10.5833333333,1.66666666667,1
 2584,,ncm,Ncàm,,,9.33333333333,0.666666666667,1
-2585,,xsm,Kàsim,,,11,-1.33333333333,1
 2586,,mmi,Mambai,,,9.66666666667,14,1
 2587,,myg,Mayogo,,,3,29,1
 2589,,ajg,Ajagbe,,,7,1.75,1

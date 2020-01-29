@@ -10,12 +10,24 @@ def register(parser):
     parser.add_argument('language_id')
     parser.add_argument('genus')
     parser.add_argument('--family', default=None)
+    parser.add_argument('--subfamily', default=None)
+    parser.add_argument('--icon', default='fcccccc')
 
 
 def run(args):
     ds = Dataset()
+    for lid in args.language_id.split(','):
+        recl(ds, lid.strip(), args)
 
-    lpk = ds.pk_from_id('language.csv', args.language_id)
+
+def recl(ds, lid, args):
+    lpk = ds.pk_from_id('language.csv', lid)
+    if not lpk:
+        for row in ds.iter_rows('language.csv', lambda r: r['name'] == lid):
+            lpk = row['pk']
+            break
+    assert lpk
+
     wlang = ds.get_row('walslanguage.csv', lambda r: r['pk'] == lpk)
 
     if not args.family:
@@ -42,7 +54,7 @@ def run(args):
         gpk = ds.maxpk('genus.csv') + 1
         # pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
         ds.add_rows(
-            'genus.csv', [gpk, '', slug(args.genus), args.genus, '', '', fpk, '', 'f222222'])
+            'genus.csv', [gpk, '', slug(args.genus), args.genus, '', '', fpk, args.subfamily or '', args.icon])
 
     def recl(row):
         if row['pk'] == gpk:

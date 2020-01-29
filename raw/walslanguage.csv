@@ -794,7 +794,6 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 764,waropen,79,f,f,wrp,Papunesia
 765,waura,532,f,f,wau,South America
 1962,sema,386,f,f,nsm,Eurasia
-2585,kasim,290,f,f,xsm,Africa
 1963,sesotho,274,f,f,sot,Africa
 1775,pangasinan,514,f,f,pag,Papunesia
 1777,sare,370,f,f,dju,Papunesia
@@ -2280,7 +2279,6 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 77,german (thuringian),181,f,f,deu,Eurasia
 78,german (timisoara),181,f,f,deu,Eurasia
 1682,gula (in central african republic),305,f,f,glu,Africa
-95,gurma (togo),290,f,f,gux,Africa
 2237,guugu yimidhirr,794,f,f,kky,Australia
 80,german (viennese),181,f,f,bar,Eurasia
 82,german (westphalian),181,f,f,wep,Eurasia
