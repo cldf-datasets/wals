@@ -220,7 +220,6 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 272,,igboid,Igboid,,,123,Benue-Congo,cffffff
 274,,bantoid,Bantoid,,,123,Benue-Congo,d0000dd
 275,,kwa,Kwa,,,123,,d009900
-276,,northernatlantic,Northern Atlantic,,,123,Atlantic,d66ff33
 277,,kru,Kru,,,123,,d990099
 278,,nupoid,Nupoid,,,123,Benue-Congo,d9999ff
 283,,platoid,Platoid,,,123,Benue-Congo,dff4400
@@ -554,3 +553,9 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 815,,sambaduru,Samba-Duru,,,123,Adamawa-Ubangi,t969696
 816,,mumuyeyandang,Mumuye-Yandang,,,123,Adamawa-Ubangi,ta2a2a2
 817,,mbumic,Mbumic,,,123,Adamawa-Ubangi,tb6b6b6
+818,,bak,Bak,,,123,Atlantic,fcccccc
+819,,tenda,Tenda,,,123,Atlantic,fcccccc
+820,,biafada,Biafada,,,123,Atlantic,fcccccc
+821,,peulserer,Peul-Serer,,,123,Atlantic,fcccccc
+822,,cangin,Cangin,,,123,Atlantic,fcccccc
+823,,wolof,Wolof,,,123,Atlantic,fcccccc
