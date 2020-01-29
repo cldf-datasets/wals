@@ -186,8 +186,6 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 243,,karaja,Karajá,,,102,,t990099
 244,,rikbaktsa,Rikbaktsa,,,102,,t9999ff
 245,,maku,Máku,,,103,,t99ffff
-246,,marindproper,Marind Proper,,,104,,taa0000
-247,,southbirdshead,South Bird's Head,,,104,,tcccccc
 248,,mascoian,Mascoian,,,105,,tdd0000
 249,,matacoan,Matacoan,,,106,,tff4400
 214,,sandawe,Sandawe,,,373,,fdd0000
@@ -560,3 +558,6 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 824,,baibaifas,Baibai-Fas,,,436,,fcccccc
 825,,nukuma,Nukuma,,,144,,dff4400
 826,,ndu,Ndu,,,144,,fcccccc
+827,,inanwatan,Inanwatan,,,437,,fcccccc
+828,,southbirdsheadproper,South Bird's Head Proper,,,437,,fcccccc
+829,,marind,Marind,,,438,,fcccccc

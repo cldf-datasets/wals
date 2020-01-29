@@ -488,7 +488,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 771,yakan,76,f,f,yka,Papunesia
 773,yukpa,119,f,f,yup,South America
 2399,paiwan,86,t,t,pwn,Papunesia
-779,zimakani,246,f,f,zik,Papunesia
+779,zimakani,829,f,f,zik,Papunesia
 2598,bangime,105,f,f,dba,Africa
 1043,moni,436,f,f,mnz,Papunesia
 1042,mombum,253,f,f,mso,Papunesia
@@ -820,7 +820,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1094,spitian,389,f,f,bod,Eurasia
 1095,thompson,362,f,f,thp,North America
 1096,wagiman,61,f,f,waq,Australia
-1097,yaqay,246,f,f,jaq,Papunesia
+1097,yaqay,829,f,f,jaq,Papunesia
 1091,ronga,274,f,f,rng,Africa
 1092,runyororutooro,274,f,f,nyo,Africa
 674,dyimini,806,f,f,dyi,Africa
@@ -938,7 +938,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 2161,washo,487,f,f,was,North America
 2214,cherokee,191,f,f,chr,North America
 2218,itelmen,140,f,f,itl,Eurasia
-2338,marind,246,f,t,mrz,Papunesia
+2338,marind,829,f,t,mrz,Papunesia
 2358,lahu,380,f,f,lhu,Eurasia
 2359,yuchi,504,f,t,yuc,North America
 2230,nasioi,152,f,f,nas,Papunesia
@@ -1169,7 +1169,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 338,ixcatec,339,f,f,ixc,North America
 337,itawis,514,f,f,itv,Papunesia
 331,illinois,17,f,f,mia,North America
-332,inanwatan,247,f,f,szp,Papunesia
+332,inanwatan,827,f,f,szp,Papunesia
 744,salar,19,f,f,slr,Eurasia
 2481,gooniyandi,30,t,t,gni,Australia
 1494,adzera,87,f,f,adz,Papunesia
@@ -1445,7 +1445,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 2124,kana,293,f,f,ogo,Africa
 11,andi,269,f,f,ani,Eurasia
 10,alsatian,181,f,f,gsw,Eurasia
-15,arandai,247,f,f,jbj,Papunesia
+15,arandai,828,f,f,jbj,Papunesia
 19,aulua,87,f,f,aul,Papunesia
 18,asturian,184,f,f,ast,Eurasia
 2126,kwoma,825,f,f,kmo,Papunesia
@@ -1767,7 +1767,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1640,hmar,386,f,f,hmr,Eurasia
 2011,yareba,499,f,f,yrb,Papunesia
 1642,kamass,463,f,f,xas,Eurasia
-1104,boazi,246,f,f,kvg,Papunesia
+1104,boazi,829,f,f,kvg,Papunesia
 1102,bankon,274,f,f,abb,Africa
 1103,bila,274,f,f,bip,Africa
 1100,amara,87,f,f,aie,Papunesia
