@@ -169,8 +169,7 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 222,,kutenai,Kutenai,,,95,,s000000
 223,,kwaza,Kwaza,,,96,,s0000dd
 224,,kwerba,Kwerba,,,97,,s009900
-225,,kwomtari,Kwomtari,,,209,,s66ff33
-226,,fas,Fas,,,209,,s990099
+225,,kwomtari,Kwomtari,,,435,,s66ff33
 227,,laal,Laal,,,98,,s9999ff
 228,,lakesplain,Lakes Plain,,,99,,s99ffff
 229,,leftmay,Left May,,,210,,saa0000
@@ -553,9 +552,10 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 815,,sambaduru,Samba-Duru,,,123,Adamawa-Ubangi,t969696
 816,,mumuyeyandang,Mumuye-Yandang,,,123,Adamawa-Ubangi,ta2a2a2
 817,,mbumic,Mbumic,,,123,Adamawa-Ubangi,tb6b6b6
-818,,bak,Bak,,,123,Atlantic,fcccccc
-819,,tenda,Tenda,,,123,Atlantic,fcccccc
-820,,biafada,Biafada,,,123,Atlantic,fcccccc
-821,,peulserer,Peul-Serer,,,123,Atlantic,fcccccc
-822,,cangin,Cangin,,,123,Atlantic,fcccccc
-823,,wolof,Wolof,,,123,Atlantic,fcccccc
+818,,bak,Bak,,,123,Atlantic,f000000
+819,,tenda,Tenda,,,123,Atlantic,f222222
+820,,biafada,Biafada,,,123,Atlantic,f444444
+821,,peulserer,Peul-Serer,,,123,Atlantic,f666666
+822,,cangin,Cangin,,,123,Atlantic,f888888
+823,,wolof,Wolof,,,123,Atlantic,faaaaaa
+824,,baibaifas,Baibai-Fas,,,436,,fcccccc
