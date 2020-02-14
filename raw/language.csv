@@ -1516,7 +1516,7 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 1577,,usr,Usarufa,,,-6.41666666667,145.583333333,1
 1578,,yal,Yale (Kosarek),,,-4.08333333333,139.5,1
 1579,,yan,Yana,,,40.5,-122,1
-1547,,gbk,Gbaya Kara,,,6,15,2
+1547,,gbk,Gbaya (Northwest),,,6,15,2
 1583,,apw,Apache (Western),,,33.75,-110,1
 1584,,ams,Arabic (Modern Standard),,,25,42,1
 1585,,awa,Awa,,,-6.66666666667,145.75,1
@@ -2661,4 +2661,4 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 2681,,yiw,Yi (Wuding-Luquan),,,25.5,102.5,1
 2682,,ktm,Kathlamet,,,46.14,-123.4,1
 2683,,bnv,Baniva,,,5.26,-67.56,1
-
+2684,,gbs,Gbaya (Southwest),,,4.7,14.96,1

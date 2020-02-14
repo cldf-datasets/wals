@@ -2256,7 +2256,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 2276,gbeya bossangoa,537,f,f,gbp,Africa
 93,guinea bissau crioulo,331,f,f,pov,Africa
 71,german (bern),181,f,f,gsw,Eurasia
-1547,gbaya kara,537,f,f,gya,Africa
+1547,gbaya northwest,537,f,f,gya,Africa
 70,german (berlin),181,f,f,deu,Eurasia
 88,greek (cypriot),186,f,f,ell,Eurasia
 2552,gadaba (kondekor),148,f,f,gdb,Eurasia
@@ -2661,3 +2661,4 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 2681,yi wudingluquan,380,f,f,ywq,Eurasia
 2682,kathlamet,346,f,f,,North America
 2683,baniva,785,f,f,bvv,South America
+2684,gbaya southwest,537,f,f,gso,Africa
