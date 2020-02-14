@@ -212,8 +212,11 @@ class Dataset(BaseDataset):
                     for name, prov in lang2id[lpk][type]:
                         altnames.append((prov, name, pk2id['language'][lpk]))
 
+        lnid = 0
         for (type, name), rows in itertools.groupby(sorted(altnames), lambda t: (t[0], t[1])):
+            lnid += 1
             args.writer.objects['language_names.csv'].append({
+                'ID': str(lnid),
                 'Language_ID': [r[2] for r in rows],
                 'Name': name,
                 'Provider': type,
@@ -255,20 +258,35 @@ class Dataset(BaseDataset):
             },
         )
         cldf.add_component('ExampleTable')
-        cldf.add_table(
+        t = cldf.add_table(
             'language_names.csv',
+            {
+                'name': 'ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+            },
             {
                 'name': 'Language_ID',
                 'separator': ' ',
             },
-            'Name',
+            {
+                'name': 'Name',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            },
             'Provider',
         )
-        cldf.add_table(
+        t.common_props['dc:conformsTo'] = None
+        t = cldf.add_table(
             'contributors.csv',
-            'ID',
-            'Name',
+            {
+                'name': 'ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+            },
+            {
+                'name': 'Name',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            },
         )
+        t.common_props['dc:conformsTo'] = None
         cldf.add_columns(
             'ValueTable',
             {
