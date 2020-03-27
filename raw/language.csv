@@ -196,7 +196,6 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 62,,fno,Frisian (North),,,54.5,9,1
 63,,fli,Ful (Liptako),,,13.5,0.5,1
 64,,fbf,Fula (Burkina Faso),,,14,0,1
-65,,fgo,Fulani (Gombe),,,10.25,11.25,1
 66,,fum,Fulfulde (Maasina),,,15,-5,1
 67,,gml,Gamilaraay,,,-29.8333333333,149.5,1
 68,,gpz,German (Appenzell),,,47.3333333333,9.33333333333,1
@@ -1851,7 +1850,7 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 1960,,meh,Mehri,,,17,51.5,1
 1961,,ngm,Ngambay,,,8.66666666667,16,1
 1888,,ath,Athpare,,,27,87.3333333333,2
-1892,,fua,Fula (Cameroonian),,,9.16666666667,13.5,2
+1892,,fua,Fulfulde (Adamawa),,,9.16666666667,13.5,2
 1967,,tvl,Tuvaluan,,,-8.5,179.166666667,1
 1968,,uby,Ubykh,,,43.6666666667,39.6666666667,1
 1969,,urd,Urdu,,,25,67,1
@@ -2086,7 +2085,7 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 2224,,so,So,,,2.58333333333,34.75,1
 2225,,tne,Temne,,,8.66666666667,-13.0833333333,1
 2226,,ctl,Catalan,,,41.75,2,1
-2227,,fni,Fula (Nigerian),,,8.16666666667,10.5,1
+2227,,fni,Fulfulde (Nigerian),,,10.25,11.25,1
 2228,,lui,Luiseño,,,33.3333333333,-117.166666667,1
 2230,,nas,Nasioi,,,-6.33333333333,155.583333333,1
 2231,,por,Portuguese,,,39,-8,1

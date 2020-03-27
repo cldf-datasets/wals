@@ -2236,16 +2236,15 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 317,ewe (anglo),275,f,f,ewe,Africa
 64,fula (burkina faso),821,f,f,fuh,Africa
 61,frisian (eastern),181,f,f,frs,Eurasia
-65,fulani (gombe),821,f,f,fub,Africa
 529,fula (guinean),821,f,f,fuf,Africa
 60,fijian (wayan),87,f,f,wyy,Papunesia
 63,ful (liptako),821,f,f,fuh,Africa
 677,fula (mauritanian),821,f,f,fuc,Africa
-2227,fula (nigerian),821,f,f,fuv,Africa
+2227,fulfulde nigerian,821,f,f,fuv,Africa
 62,frisian (north),181,f,f,frr,Eurasia
 528,frisian (western),181,f,f,fry,Eurasia
 318,finnish sign language,330,f,f,fse,Eurasia
-1892,fula (cameroonian),821,f,f,fub,Africa
+1892,fulfulde adamawa,821,f,f,fub,Africa
 981,futuna (east),87,f,f,fud,Papunesia
 66,fulfulde (maasina),821,f,f,ffm,Africa
 319,fula (senegal),821,f,f,fuc,Africa
