@@ -4,7 +4,7 @@ chardet==3.0.4
 -e git+https://github.com/cldf/cldfbench.git@c42a444fde92dc117d0b1c5e11f6866cd0ce0faa#egg=cldfbench
 -e git+https://github.com/cldf-datasets/dplacetrees.git@4c58f9b0da798e019014656b88c1dfe5cdd35e0f#egg=cldfbench_dplacetrees
 -e git+https://github.com/cldf-datasets/dryerorder.git@65248b1eed650717b83dd08905fdf1602c4669be#egg=cldfbench_dryerorder
--e git+https://github.com/cldf-datasets/wals.git@fb5620e20104cc89a79e707a075287205bb09a4b#egg=cldfbench_wals
+-e git+https://github.com/cldf-datasets/wals.git@014143f81be70ab2923a009035e03e051f4cc2f6#egg=cldfbench_wals
 -e git+https://github.com/cldf/cldfcatalog.git@f26c9ac38c1ab111a55682ae83f4ac1cb03333c3#egg=cldfcatalog
 clldutils==3.5.0
 colorlog==3.1.4
