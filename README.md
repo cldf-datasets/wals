@@ -1,6 +1,6 @@
 # The World Atlas of Language Structures Online
 
-[![Build Status](https://travis-ci.org/cldf-datasets/ewave.svg?branch=master)](https://travis-ci.org/cldf-datasets/ewave)
+[![Build Status](https://travis-ci.org/cldf-datasets/wals.svg?branch=master)](https://travis-ci.org/cldf-datasets/wals)
 
 Cite the source dataset as
 

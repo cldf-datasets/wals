@@ -85,7 +85,7 @@ alw,Alawa,,-15.1666666667,134.25,alaw1244,alh,Mangarrayi-Maran,,Alawa,alh,false,
 alx,Alas,,3.66666666667,97.8333333333,bata1292,btz,Austronesian,,Northwest Sumatra-Barrier Islands,btz,false,false
 aly,Alyawarra,,-22.5,135,alya1239,aly,Pama-Nyungan,,Central Pama-Nyungan,aly,false,false
 ama,Amara,,-5.66666666667,148.5,amar1272,aie,Austronesian,Eastern Malayo-Polynesian,Oceanic,aie,false,false
-amb,Ambulas,,-3.83333333333,143,ambu1247,abt,Sepik,,Middle Sepik,abt,false,false
+amb,Ambulas,,-3.83333333333,143,ambu1247,abt,Sepik,,Ndu,abt,false,false
 amc,Amahuaca,,-10.5,-72.5,amah1246,amc,Panoan,,Panoan,amc,false,false
 amd,Amdo,,35,100,amdo1237,adx,Sino-Tibetan,Tibeto-Burman,Bodic,adx,false,false
 ame,Amele,,-5.25,145.583333333,amel1241,aey,Trans-New Guinea,,Madang,aey,true,true
@@ -113,7 +113,7 @@ anj,Anejom,,-20.2,169.8,anei1239,aty,Austronesian,Eastern Malayo-Polynesian,Ocea
 anl,Arabic (North Levantine Spoken),,33.75,36,nort3139,apc,Afro-Asiatic,,Semitic,apc,false,false
 ann,Anindilyakwa,,-14,136.5,anin1240,aoi,Gunwinyguan,Gunwinyguan,Anindilyakwa,aoi,false,false
 ano,Anong,,27.3333333333,98.75,nung1282,nun,Sino-Tibetan,Tibeto-Burman,Nungish,nun,false,false
-ant,Angaatiha,,-7.21666666667,146.25,anga1290,agm,Trans-New Guinea,,Angan,agm,false,false
+ant,Angaataha,,-7.21666666667,146.25,anga1290,agm,Trans-New Guinea,,Angan,agm,false,false
 anu,Anufo,,10.0833333333,0.25,anuf1239,cko,Niger-Congo,,Kwa,cko,false,false
 anx,Andi,,42.75,46.25,andi1255,ani,Nakh-Daghestanian,Daghestanian,Avar-Andic-Tsezic,ani,false,false
 any,Anywa,,8,33.5,anua1242,anu,Eastern Sudanic,,Nilotic,anu,false,false
@@ -132,7 +132,7 @@ apw,Apache (Western),,33.75,-110,west2615,apw,Na-Dene,,Athapaskan,apw,false,fals
 ara,Arawak,,5.5,-55.1666666667,araw1276,arw,Arawakan,,Caribbean Arawakan,arw,false,false
 arb,Arabela,,-2,-75.1666666667,arab1268,arl,Zaparoan,,Zaparoan,arl,false,false
 arc,Archi,,42,46.8333333333,arch1244,aqc,Nakh-Daghestanian,Daghestanian,Lezgic,aqc,false,false
-ard,Arandai,,-2.08333333333,133,aran1237,jbj,Marind,,South Bird's Head,jbj,false,false
+ard,Arandai,,-2.08333333333,133,aran1237,jbj,South Bird's Head,,South Bird's Head Proper,jbj,false,false
 arg,Arabic (Gulf),,26,49,gulf1241,afb,Afro-Asiatic,,Semitic,afb,false,false
 arh,Arabic (Hijazi),,26,38,hija1235,acw,Afro-Asiatic,,Semitic,acw,false,false
 ari,Aribwatsa,,-6.71666666667,147,arib1241,laz,Austronesian,Eastern Malayo-Polynesian,Oceanic,laz,false,false
@@ -241,7 +241,7 @@ beo,Beothuk,,48,-57,beot1247,bue,,,,bue,false,false
 ber,Berta,,10.3333333333,34.6666666667,bert1248,wti,,,,wti,false,false
 bet,Bété,,6.25,-6.25,dalo1238,bev,Niger-Congo,,Kru,bev,false,false
 bez,Bezhta,,42.0833333333,46.1666666667,bezh1248,kap,Nakh-Daghestanian,Daghestanian,Avar-Andic-Tsezic,kap,false,false
-bfd,Biafada,,11.4166666667,-15.1666666667,biaf1240,bif,Niger-Congo,Atlantic,Northern Atlantic,bif,false,false
+bfd,Biafada,,11.4166666667,-15.1666666667,biaf1240,bif,Niger-Congo,Atlantic,Biafada,bif,false,false
 bfg,Berber (Figuig),,32.5,-1.5,,,Afro-Asiatic,,Berber,,false,false
 bfi,Bafia,,5,11.1666666667,bafi1243,ksf,Niger-Congo,Benue-Congo,Bantoid,ksf,false,false
 bga,Benga,,1.16666666667,9.41666666667,beng1282,bng,Niger-Congo,Benue-Congo,Bantoid,bng,false,false
@@ -259,7 +259,7 @@ bhi,Bhili,,22,73,bhil1251,bhb,Indo-European,,Indic,bhb,false,false
 bhn,Bahinemo,,-4.58333333333,142.833333333,bahi1254,bjh,Sepik,,Sepik Hill,bjh,false,false
 bho,Bhojpuri,,26,84,bhoj1244,bho,Indo-European,,Indic,bho,false,false
 bhu,Bhumij,,21.3333333333,86.5,mund1320,unr,Austro-Asiatic,,Munda,unr,false,false
-bia,Bira,,1,28.75,,,Niger-Congo,Benue-Congo,Bantoid,bip brf,false,false
+bia,Bila,,1,28.75,bila1255,bip,Niger-Congo,Benue-Congo,Bantoid,bip,false,false
 bid,Bidiya,,11.9166666667,18.75,bidi1241,bid,Afro-Asiatic,Chadic,East Chadic,bid,false,false
 big,Binga,,8,25,yulu1243,yul,Central Sudanic,,Bongo-Bagirmi,yul,false,false
 bii,Biri,,-20.5,146.5,biri1256,bzr,Pama-Nyungan,,Northern Pama-Nyungan,bzr,false,false
@@ -267,7 +267,7 @@ bik,Biak,,-1,136,biak1248,bhw,Austronesian,Eastern Malayo-Polynesian,South Halma
 bil,Bilua,,-7.75,156.666666667,bilu1245,blb,Solomons East Papuan,,Bilua,blb,false,false
 bim,Bima,,-8.5,118.5,bima1247,bhp,Austronesian,,Central Malayo-Polynesian,bhp,false,false
 bin,Binandere,,-8.25,148,bina1277,bhg,Trans-New Guinea,,Binanderean,bhg,false,false
-bio,Nai,,-3.71666666667,141.266666667,naii1241,bio,Kwomtari-Baibai,,Kwomtari,bio,false,false
+bio,Nai,,-3.71666666667,141.266666667,naii1241,bio,Kwomtari,,Kwomtari,bio,false,false
 biq,Bilaan (Koronadal),,6,125.333333333,,bpr,Austronesian,,Bilic,bpr,false,false
 bir,Birom,,9.66666666667,8.83333333333,bero1242,bom,Niger-Congo,Benue-Congo,Platoid,bom,false,false
 bis,Bisa,,11.5,-0.5,biss1248,bib,Mande,,Eastern Mande,bib,false,false
@@ -296,16 +296,16 @@ blt,Balti,,35,76,balt1258,bft,Sino-Tibetan,Tibeto-Burman,Bodic,bft,false,false
 blu,Bena-Lulua,,-6,21,luba1249,lua,Niger-Congo,Benue-Congo,Bantoid,lua,false,false
 blx,Biloxi,,30.5,-88.6666666667,bilo1248,bll,Siouan,,Core Siouan,bll,false,false
 bly,Balyku,,-22,120,nija1241,nad,Pama-Nyungan,,Western Pama-Nyungan,nad,false,false
-blz,Balanta,,12.25,-15.3333333333,bala1300,,Niger-Congo,Atlantic,Northern Atlantic,bjt ble,false,false
+blz,Balanta,,12.25,-15.3333333333,bala1300,,Niger-Congo,Atlantic,Bak,bjt ble,false,false
 bma,Berber (Middle Atlas),,33,-5,cent2194,tzm,Afro-Asiatic,,Berber,tzm,true,true
-bmb,Bimoba,,10.5,0,bimo1239,bim,Niger-Congo,,Gur,bim,false,false
+bmb,Bimoba,,10.5,0,bimo1239,bim,Niger-Congo,Gur,Northern-Central Gur,bim,false,false
 bmn,Bamun,,5.5,10.9166666667,bamu1253,bax,Niger-Congo,Benue-Congo,Bantoid,bax,false,false
 bmr,Burum,,-6.5,147.333333333,buru1306,bmu,Trans-New Guinea,,Finisterre-Huon,bmu,false,false
 bmz,Berber (Mzab),,32.5,3.5,tumz1238,mzb,Afro-Asiatic,,Berber,mzb,false,false
 bna,Banawá,,-7,-65,jama1261,jaa,Arauan,,Arauan,jaa,false,false
 bnb,Bunuba,,-17.75,125.75,buna1275,bck,Bunuban,,Bunuban,bck,false,false
 bnd,Bandi,,8.08333333333,-10.25,band1352,bza,Mande,,Western Mande,bza,false,false
-bng,Qaget,,-4.58333333333,152,qaqe1238,byx,Baining-Taulil,,Baining,byx,false,false
+bng,Qaget,,-4.58333333333,152,qaqe1238,byx,Baining,,Baining,byx,false,false
 bni,Bini,,6.41666666667,5.83333333333,bini1246,bin,Niger-Congo,Benue-Congo,Edoid,bin,false,false
 bnj,Bandjalang,,-28.75,153,band1339,bdy,Pama-Nyungan,,Southeastern Pama-Nyungan,bdy,false,false
 bnk,Bankon,,4.41666666667,9.58333333333,bank1256,abb,Niger-Congo,Benue-Congo,Bantoid,abb,false,false
@@ -317,11 +317,12 @@ bnq,Beng,,7.83333333333,-4.25,beng1286,nhb,Mande,,Eastern Mande,nhb,false,false
 bnr,Bilinarra,,-16,131.666666667,ngar1235,nbj,Pama-Nyungan,,Western Pama-Nyungan,nbj,false,false
 bnt,Bantik,,1.41666666667,124.75,bant1286,bnq,Austronesian,,Sangiric,bnq,false,false
 bnu,Bularnu,,-21,138,bula1255,,Pama-Nyungan,,Western Pama-Nyungan,,false,false
-bnw,Baniwa,,2.66666666667,-66.8333333333,bani1255,bwi,Arawakan,,Alto-Orinoco,bwi,false,false
-boa,Boazi,,-7,141.333333333,kuni1265,kvg,Marind,,Marind Proper,kvg,false,false
+bnv,Baniva,,5.26,-67.56,bani1254,bvv,Arawakan,,Alto-Orinoco,bvv,false,false
+bnw,Baniwa,,2.66666666667,-66.8333333333,bani1255,bwi,Arawakan,,Inland Northern Maipuran,bwi,false,false
+boa,Boazi,,-7,141.333333333,kuni1265,kvg,Anim,,Marind,kvg,false,false
 bob,Bobangi,,-1.33333333333,17.3333333333,bang1354,bni,Niger-Congo,Benue-Congo,Bantoid,bni,false,false
 bod,Bodo,,26.8333333333,92,bodo1269,brx,Sino-Tibetan,Tibeto-Burman,Bodo-Garo,brx,false,false
-boi,Boiken,,-3.5,143.5,boik1241,bzf,Sepik,,Middle Sepik,bzf,false,false
+boi,Boiken,,-3.5,143.5,boik1241,bzf,Sepik,,Ndu,bzf,false,false
 boj,Bori,,28.3333333333,94.75,damu1236,adi,Sino-Tibetan,Tibeto-Burman,Tani,adi,false,false
 bok,Boko,,10.5,3.5,boko1266,bqc,Mande,,Eastern Mande,bqc,false,false
 bol,Bolia,,-1.25,18.3333333333,boli1255,bli,Niger-Congo,Benue-Congo,Bantoid,bli,false,false
@@ -344,7 +345,7 @@ bqr,Basque (Roncalese),,43,-2,basq1248,eus,Basque,,Basque,eus,false,false
 bqs,Basque (Sakana),,42.5,-2,basq1248,eus,Basque,,Basque,eus,false,false
 bqz,Basque (Zeberio),,42,-3,basq1248,eus,Basque,,Basque,eus,false,false
 bra,Brao,,14.1666666667,107.5,lave1249,brb,Austro-Asiatic,Mon-Khmer,Bahnaric,brb,false,false
-brb,Bariba,,10,2.5,baat1238,bba,Niger-Congo,,Gur,bba,false,false
+brb,Bariba,,10,2.5,baat1238,bba,Niger-Congo,Gur,Southern-Central Gur,bba,false,false
 brc,Boruca,,8.83333333333,-83.25,boru1252,brn,Chibchan,,Talamanca,brn,false,false
 brd,Bardi,,-16.5833333333,122.916666667,bard1255,bcj,Nyulnyulan,,Nyulnyulan,bcj,false,false
 bre,Breton,,48,-3,bret1244,bre,Indo-European,,Celtic,bre,false,false
@@ -358,6 +359,7 @@ brm,Burmese,,21,96,nucl1310,mya,Sino-Tibetan,Tibeto-Burman,Burmese-Lolo,mya,true
 brn,Burunge,,-5.33333333333,36,buru1320,bds,Afro-Asiatic,Cushitic,Southern Cushitic,bds,false,false
 bro,Broken,,-10.1666666667,143,torr1261,tcs,other,,Creoles and Pidgins,tcs,false,false
 brp,Barupu,,-3.08333333333,142.083333333,wara1302,wra,Skou,,Warapu,wra,false,false
+brq,Bera,,1.5,30.03,bera1259,brf,Niger-Congo,Benue-Congo,Bantoid,brf,false,false
 brr,Bororo,,-16,-57,boro1282,bor,Bororoan,,Bororoan,bor,false,false
 brs,Barasano,,-0.166666666667,-70.6666666667,bara1380,bsn,Tucanoan,,Tucanoan,bsn,true,true
 bru,Bru (Eastern),,17.3333333333,106,east2332,bru,Austro-Asiatic,Mon-Khmer,Katuic,bru,false,false
@@ -372,7 +374,7 @@ bsl,British Sign Language,,52,-1,brit1235,bfi,other,,Sign Languages,bfi,false,fa
 bsm,Bislama,,-16,168,bisl1239,bis,other,,Creoles and Pidgins,bis,false,false
 bso,Basque (Souletin),,43.5,-1.5,basq1250,eus,Basque,,Basque,eus,false,false
 bsq,Basque,,43,-3,basq1248,eus,,,,eus,true,true
-bsr,Basari,,12.6666666667,-13,bass1258,bsc,Niger-Congo,Atlantic,Northern Atlantic,bsc,false,false
+bsr,Basari,,12.6666666667,-13,bass1258,bsc,Niger-Congo,Atlantic,Tenda,bsc,false,false
 bth,Bathari,,18,56,bath1244,bhm,Afro-Asiatic,,Semitic,bhm,false,false
 bti,Betoi,,7.16666666667,-71.25,beto1236,,,,,,false,false
 btk,Bontok,,17.0833333333,120.916666667,cent2083,bnc,Austronesian,,Northern Luzon,bnc,false,false
@@ -392,7 +394,7 @@ bus,Busa,,9.66666666667,4,busa1253,bqp,Mande,,Eastern Mande,bqp,false,false
 but,Buriat,,52,108,mong1330,bxm,Altaic,,Mongolic,bxm,false,false
 buu,Buru,,-3.5,126.5,buru1303,mhs,Austronesian,,Central Malayo-Polynesian,mhs,false,false
 buw,Bulu,,3,11,bulu1251,bum,Niger-Congo,Benue-Congo,Bantoid,bum,false,false
-buy,Buli (in Ghana),,10.5,-1.25,buli1254,bwu,Niger-Congo,,Gur,bwu,false,false
+buy,Buli (in Ghana),,10.5,-1.25,buli1254,bwu,Niger-Congo,Gur,Northern-Central Gur,bwu,false,false
 bvi,Bali-Vitu,,-4.9,149.116666667,bali1280,,Austronesian,Eastern Malayo-Polynesian,Oceanic,bbn wiv,false,false
 bwa,Bandjalang (Waalubal),,-29.0833333333,152.583333333,band1339,bdy,Pama-Nyungan,,Southeastern Pama-Nyungan,bdy,false,false
 bwc,Bajau (West Coast),,6.33333333333,116.333333333,west2560,bdr,Austronesian,,Sama-Bajaw,bdr,false,false
@@ -454,15 +456,13 @@ chv,Chuvash,,55.5,47.5,chuv1255,chv,Altaic,,Turkic,chv,false,false
 chw,Cham (Western),,12,105.5,west2650,cja,Austronesian,,Malayo-Sumbawan,cja,false,false
 chx,Chontal (Huamelultec Oaxaca),,16,-95.75,lowl1260,clo,Tequistlatecan,,Tequistlatecan,clo,false,false
 chy,Chayahuita,,-5.5,-77,chay1248,cbt,Cahuapanan,,Cahuapanan,cbt,false,false
-chz,Chaozhou,,23.6666666667,116.666666667,minn1241,nan,Sino-Tibetan,,Chinese,nan,false,false
 cic,Chichewa,,-14,34,nyan1308,nya,Niger-Congo,Benue-Congo,Bantoid,nya,false,false
 cil,CiLuba,,-6,22,luba1249,lua,Niger-Congo,Benue-Congo,Bantoid,lua,false,false
 cin,Chumash (Ineseño),,34.6666666667,-120.25,ines1240,inz,Chumash,,Chumash,inz,false,false
 cjo,Chichimeca-Jonaz,,21.6666666667,-100.5,chic1272,pei,Oto-Manguean,,Chichimec,pei,false,false
 ckh,Cheke Holo,,-8.33333333333,159.666666667,chek1238,mrn,Austronesian,Eastern Malayo-Polynesian,Oceanic,mrn,false,false
 ckl,Chinook (Lower),,46.25,-123.5,chin1286,chh,Penutian,,Chinookan,chh,false,false
-ckr,Canela-Krahô,,-6,-46,,,Macro-Ge,,Ge-Kaingang,ram xra,true,true
-cku,Chinook (Upper),,45.5,-122.5,wasc1239,wac,Penutian,,Chinookan,wac,false,false
+cku,Chinook (Upper),,45.62,-121.16,wasc1239,wac,Penutian,,Chinookan,wac,false,false
 cla,Clallam,,48.0833333333,-123.75,clal1241,clm,Salishan,,Central Salish,clm,false,false
 clc,Colac,,-38.3333333333,143.5,cola1237,,Pama-Nyungan,,Southeastern Pama-Nyungan,,false,false
 cld,Chaldean (Modern),,36,43,chal1275,cld,Afro-Asiatic,,Semitic,cld,false,false
@@ -515,7 +515,7 @@ crt,Chorote,,-22.5,-62.5,chor1274,,Matacoan,,Matacoan,crq crt,false,false
 csc,Chinantec (Sochiapan),,17.75,-96.6666666667,soch1239,cso,Oto-Manguean,,Chinantecan,cso,false,false
 csf,Chinantec (San Felipe Usila),,17.9166666667,-96.5,usil1237,cuc,Oto-Manguean,,Chinantecan,cuc,false,false
 csh,Cashinahua,,-10.5,-71.8333333333,cash1254,cbs,Panoan,,Panoan,cbs,false,false
-csk,Diola-Kasa,,12.5,-16.75,jola1262,csk,Niger-Congo,Atlantic,Northern Atlantic,csk,false,false
+csk,Diola-Kasa,,12.5,-16.75,jola1262,csk,Niger-Congo,Atlantic,Bak,csk,false,false
 csl,Chinese Sign Language,,35,115,chin1283,csl,other,,Sign Languages,csl,false,false
 cso,Chatino (Sierra Occidental),,16.25,-97.3333333333,west2644,ctp,Oto-Manguean,,Zapotecan,ctp,false,false
 ctc,Cuicatec,,17.8333333333,-96.8333333333,cuic1234,,Oto-Manguean,,Mixtecan,cut cux,false,false
@@ -554,10 +554,9 @@ dan,Dan,,7.5,-8,dann1241,dnj,Mande,,Eastern Mande,dnj,false,false
 dar,Darai,,24,84,dara1250,dry,Indo-European,,Indic,dry,false,false
 dat,Datooga,,-4.33333333333,35.3333333333,dato1239,tcc,Eastern Sudanic,,Nilotic,tcc,false,false
 daw,Dâw,,-0.25,-67.0833333333,daww1239,kwa,Nadahup,,Nadahup,kwa,false,false
-day,Day,,8.75,17.8333333333,dayy1236,dai,Niger-Congo,Adamawa-Ubangi,Adamawa,dai,false,false
+day,Day,,8.75,17.8333333333,dayy1236,dai,Niger-Congo,Adamawa-Ubangi,Day,dai,false,false
 dbd,Dabida,,-4,38.6666666667,tait1250,dav,Niger-Congo,Benue-Congo,Bantoid,dav,false,false
 dbr,Dutch (Brabantic),,50.75,4.5,dutc1256,nld,Indo-European,,Germanic,nld,false,false
-dbw,Dan (Blowo),,7.33333333333,-8.16666666667,dann1241,daf,Mande,,Eastern Mande,daf,false,false
 dca,Dumagat (Casiguran),,16.3333333333,122,casi1235,dgc,Austronesian,,Northern Luzon,dgc,false,false
 dda,Dhuwal (Dätiwuy),,-12.1666666667,136.25,dhuw1249,duj,Pama-Nyungan,,Western Pama-Nyungan,duj,false,false
 ddf,Daju (Dar Fur),,12.25,25.25,darf1239,daj,Eastern Sudanic,,Daju,daj,false,false
@@ -570,8 +569,8 @@ der,Dla (Proper),,-3.58333333333,141,dera1245,kbv,Senagi,,Senagi,kbv,false,false
 des,Desano,,0.833333333333,-69.8333333333,desa1247,des,Tucanoan,,Tucanoan,des,false,false
 det,Deti,,-20.5,24.5,shua1254,shg,Khoe-Kwadi,,Khoe-Kwadi,shg,false,false
 deu,Deuri,,26,90.25,deor1238,der,Sino-Tibetan,Tibeto-Burman,Bodo-Garo,der,false,false
-dga,Dagaare,,10.5,-2.66666666667,sout2789,dga,Niger-Congo,,Gur,dga,false,false
-dgb,Dagbani,,9.58333333333,-0.5,dagb1246,dag,Niger-Congo,,Gur,dag,false,false
+dga,Dagaare,,10.5,-2.66666666667,sout2789,dga,Niger-Congo,Gur,Northern-Central Gur,dga,false,false
+dgb,Dagbani,,9.58333333333,-0.5,dagb1246,dag,Niger-Congo,Gur,Northern-Central Gur,dag,false,false
 dge,Deutsche Gebärdensprache,,52,11,germ1281,gsg,other,,Sign Languages,gsg,false,false
 dgi,Dogri,,33,75,indo1311,,Indo-European,,Indic,dgo xnr,false,false
 dgo,Dongo,,3,30,dong1290,doo,Niger-Congo,Adamawa-Ubangi,Ubangi,doo,false,false
@@ -590,7 +589,7 @@ die,Diegueño (Mesa Grande),,32.6666666667,-116.166666667,kumi1248,dih,Hokan,,Yu
 dig,Digaro,,28.4166666667,96,diga1241,mhu,Sino-Tibetan,Tibeto-Burman,Digaroan,mhu,false,false
 dim,Dime,,6.16666666667,36.25,dime1235,dim,Afro-Asiatic,Omotic,South Omotic,dim,false,false
 din,Dinka,,8.5,28,nort2815,dip,Eastern Sudanic,,Nilotic,dip,false,false
-dio,Diola-Fogny,,13,-16.25,jola1263,dyo,Niger-Congo,Atlantic,Northern Atlantic,dyo,false,true
+dio,Diola-Fogny,,13,-16.25,jola1263,dyo,Niger-Congo,Atlantic,Bak,dyo,false,true
 diy,Diyari,,-28,139,dier1241,dif,Pama-Nyungan,,Central Pama-Nyungan,dif,false,false
 diz,Dizi,,6.16666666667,36.5,dizi1235,mdx,Afro-Asiatic,Omotic,Dizoid,mdx,false,false
 dja,Djabugay,,-16.75,145.583333333,dyaa1242,dyy,Pama-Nyungan,,Northern Pama-Nyungan,dyy,false,false
@@ -603,7 +602,7 @@ dli,Dutch (Limburg),,51,5.5,dutc1256,nld,Indo-European,,Germanic,nld,false,false
 dlm,Dla (Menggwa),,-3.55,141.033333333,dera1245,kbv,Senagi,,Senagi,kbv,false,false
 dma,Duma,,-0.95,13,duma1253,dma,Niger-Congo,Benue-Congo,Bantoid,dma,false,false
 dmi,Dumi,,27.25,86.6666666667,dumi1241,dus,Sino-Tibetan,Tibeto-Burman,Mahakiranti,dus,false,false
-dmk,Dumaki,,36.1666666667,74,doma1260,dmk,Indo-European,,Indic,dmk,false,false
+dmk,Domaaki,,36.1666666667,74,doma1260,dmk,Indo-European,,Indic,dmk,false,false
 dms,Dimasa,,25.5,93,dima1251,dis,Sino-Tibetan,Tibeto-Burman,Bodo-Garo,dis,false,false
 dng,Ding,,-4.33333333333,19.5,ding1239,diz,Niger-Congo,Benue-Congo,Bantoid,diz,false,false
 dni,Dani (Lower Grand Valley),,-4.33333333333,138.833333333,lowe1415,dni,Trans-New Guinea,,Dani,dni,true,true
@@ -614,7 +613,7 @@ dol,Dolgan,,71.25,98,dolg1241,dlg,Altaic,,Turkic,dlg,false,false
 dom,Domari,,32,35,doma1258,rmt,Indo-European,,Indic,rmt,false,false
 don,Dong (Southern),,27,109,sout2741,kmc,Tai-Kadai,,Kam-Tai,kmc,false,false
 dou,Doutai,,-3.33333333333,138.166666667,dout1240,tds,Lakes Plain,,Lakes Plain,tds,false,false
-doy,Doyayo,,8.66666666667,13.0833333333,doya1240,dow,Niger-Congo,Adamawa-Ubangi,Adamawa,dow,false,false
+doy,Doyayo,,8.66666666667,13.0833333333,doya1240,dow,Niger-Congo,Adamawa-Ubangi,Samba-Duru,dow,false,false
 dre,Drehu,,-21,167.25,dehu1237,dhv,Austronesian,Eastern Malayo-Polynesian,Oceanic,dhv,false,true
 drg,Dargwa,,42.25,47.4166666667,darg1241,dar,Nakh-Daghestanian,Daghestanian,Lak-Dargwa,dar,false,false
 dri,Dari,,35,66,dari1249,prs,Indo-European,,Iranian,prs,false,false
@@ -630,7 +629,7 @@ dun,Duna,,-5.5,142.5,duna1248,duc,Trans-New Guinea,,Duna,duc,false,false
 dut,Dutch,,52.5,6,dutc1256,nld,Indo-European,,Germanic,nld,false,false
 duz,Dutch (Zeeuws),,51.5,3.75,zeeu1238,zea,Indo-European,,Germanic,zea,false,false
 dyi,Dyirbal,,-17.8333333333,145.583333333,dyir1250,dbl,Pama-Nyungan,,Northern Pama-Nyungan,dbl,false,false
-dym,Dyimini,,8.41666666667,-4.41666666667,djim1235,dyi,Niger-Congo,,Gur,dyi,false,false
+dym,Dyimini,,8.41666666667,-4.41666666667,djim1235,dyi,Niger-Congo,,Senufo,dyi,false,false
 dyu,Dyula,,9.83333333333,-4.66666666667,dyul1238,dyu,Mande,,Western Mande,dyu,false,false
 ebi,Ebira,,8.16666666667,7,ebir1243,igb,Niger-Congo,Benue-Congo,Nupoid,igb,false,false
 edo,Edolo,,-6.16666666667,142.666666667,edol1239,etr,Bosavi,,Bosavi,etr,false,false
@@ -660,7 +659,7 @@ esm,Esmeraldeño,,0.333333333333,-79.8333333333,atac1235,,Tacame,,Tacame,,false,
 ess,Esselen,,36.25,-121.75,esse1238,esq,,,,esq,false,false
 est,Estonian,,59,26,esto1258,est,Uralic,Finno-Ugric,Finnic,est,false,false
 ets,Etsako,,7.25,6.5,yekh1238,ets,Niger-Congo,Benue-Congo,Edoid,ets,false,false
-eud,Eudeve,,29.1666666667,-109.666666667,opat1246,opt,Uto-Aztecan,,Cahita,opt,false,false
+eud,Eudeve,,29.1666666667,-109.666666667,opat1246,opt,Uto-Aztecan,,Opata-Eudeve,opt,false,false
 eve,Evenki,,56,125,even1259,evn,Altaic,,Tungusic,evn,false,true
 evn,Even,,68,130,even1260,eve,Altaic,,Tungusic,eve,false,false
 ewa,Ewe (Anglo),,6,1,ewee1241,ewe,Niger-Congo,,Kwa,ewe,false,false
@@ -669,35 +668,34 @@ ewo,Ewondo,,4,12,ewon1239,ewo,Niger-Congo,Benue-Congo,Bantoid,ewo,false,false
 eya,Eyak,,60.5,-145,eyak1241,eya,Na-Dene,,Eyak,eya,false,false
 far,Faroese,,62,-7,faro1244,fao,Indo-European,,Germanic,fao,false,false
 fas,Fasu,,-6.58333333333,143.333333333,fasu1242,faa,Trans-New Guinea,,Fasu,faa,false,false
-fbf,Fula (Burkina Faso),,14,0,west2454,fuh,Niger-Congo,Atlantic,Northern Atlantic,fuh,false,false
+fbf,Fula (Burkina Faso),,14,0,west2454,fuh,Niger-Congo,Atlantic,Peul-Serer,fuh,false,false
 fea,Frisian (Eastern),,53.5833333333,7.5,east2288,frs,Indo-European,,Germanic,frs,false,false
 fef,Fe'fe',,5.25,10.1666666667,fefe1239,fmp,Niger-Congo,Benue-Congo,Bantoid,fmp,false,false
-fgo,Fulani (Gombe),,10.25,11.25,adam1253,fub,Niger-Congo,Atlantic,Northern Atlantic,fub,false,false
-fgu,Fula (Guinean),,11.5,-12.5,pula1262,fuf,Niger-Congo,Atlantic,Northern Atlantic,fuf,false,false
+fgu,Fula (Guinean),,11.5,-12.5,pula1262,fuf,Niger-Congo,Atlantic,Peul-Serer,fuf,false,false
 fij,Fijian,,-17.8333333333,178,fiji1243,fij,Austronesian,Eastern Malayo-Polynesian,Oceanic,fij,true,true
 fin,Finnish,,62,25,finn1318,fin,Uralic,Finno-Ugric,Finnic,fin,true,true
 fio,Fiote,,-5.5,14,koon1244,kng,Niger-Congo,Benue-Congo,Bantoid,kng,false,false
 fiw,Fijian (Wayan),,-17,177.3,west2519,wyy,Austronesian,Eastern Malayo-Polynesian,Oceanic,wyy,false,false
-fli,Ful (Liptako),,13.5,0.5,west2454,fuh,Niger-Congo,Atlantic,Northern Atlantic,fuh,false,false
-fma,Fula (Mauritanian),,16.5,-13.75,pula1263,fuc,Niger-Congo,Atlantic,Northern Atlantic,fuc,false,false
-fni,Fula (Nigerian),,8.16666666667,10.5,nige1253,fuv,Niger-Congo,Atlantic,Northern Atlantic,fuv,false,false
+fli,Ful (Liptako),,13.5,0.5,west2454,fuh,Niger-Congo,Atlantic,Peul-Serer,fuh,false,false
+fma,Fula (Mauritanian),,16.5,-13.75,pula1263,fuc,Niger-Congo,Atlantic,Peul-Serer,fuc,false,false
+fni,Fulfulde (Nigerian),,10.25,11.25,nige1253,fuv,Niger-Congo,Atlantic,Peul-Serer,fuv,false,false
 fno,Frisian (North),,54.5,9,nort2626,frr,Indo-European,,Germanic,frr,false,false
 foe,Foe,,-6.5,143.5,foii1241,foi,Trans-New Guinea,,Kutubuan,foi,false,false
 fon,Fongbe,,6.41666666667,2.16666666667,fonn1241,fon,Niger-Congo,,Kwa,fon,false,false
 for,Fore,,-6.75,145.5,fore1270,for,Trans-New Guinea,,Eastern Highlands,for,false,false
 fox,Fox,,43,-83,mesk1242,sac,Algic,,Algonquian,sac,false,false
-fqs,Momu,,-3,141.583333333,fass1245,fqs,Kwomtari-Baibai,,Fas,fqs,false,false
+fqs,Momu,,-3,141.583333333,fass1245,fqs,Baibai-Fas,,Baibai-Fas,fqs,false,false
 frd,Fordata,,-6.75,131.5,ford1242,frd,Austronesian,,Central Malayo-Polynesian,frd,false,false
 fre,French,,48,2,stan1290,fra,Indo-European,,Romance,fra,true,true
 fri,Frisian,,53,5,east2288,frs,Indo-European,,Germanic,frs,false,false
 frw,Frisian (Western),,53,6,west2354,fry,Indo-European,,Germanic,fry,false,false
 fsl,Finnish Sign Language,,62,26,finn1310,fse,other,,Sign Languages,fse,false,false
-fua,Fula (Cameroonian),,9.16666666667,13.5,adam1253,fub,Niger-Congo,Atlantic,Northern Atlantic,fub,false,false
+fua,Fulfulde (Adamawa),,9.16666666667,13.5,adam1253,fub,Niger-Congo,Atlantic,Peul-Serer,fub,false,false
 fue,Futuna (East),,-14.3333333333,-178.166666667,east2447,fud,Austronesian,Eastern Malayo-Polynesian,Oceanic,fud,false,false
 ful,Fulniô,,-8,-37.5,fuln1247,fun,Yatê,,Yatê,fun,false,false
-fum,Fulfulde (Maasina),,15,-5,maas1239,ffm,Niger-Congo,Atlantic,Northern Atlantic,ffm,false,false
+fum,Fulfulde (Maasina),,15,-5,maas1239,ffm,Niger-Congo,Atlantic,Peul-Serer,ffm,false,false
 fur,Fur,,13.5,25,furr1244,fvr,,,,fvr,false,true
-fus,Fula (Senegal),,15,-14,pula1263,fuc,Niger-Congo,Atlantic,Northern Atlantic,fuc,false,false
+fus,Fula (Senegal),,15,-14,pula1263,fuc,Niger-Congo,Atlantic,Peul-Serer,fuc,false,false
 fut,Futuna-Aniwa,,-19.5333333333,170.216666667,futu1245,fut,Austronesian,Eastern Malayo-Polynesian,Oceanic,fut,false,false
 fuz,Fuzhou,,26,119.5,mind1253,cdo,Sino-Tibetan,,Chinese,cdo,false,false
 fye,Fyem,,9.58333333333,9.33333333333,fyam1238,pym,Niger-Congo,Benue-Congo,Platoid,pym,false,false
@@ -719,8 +717,9 @@ gba,German (Bavarian),,49,11.5,bava1246,bar,Indo-European,,Germanic,bar,false,fa
 gbb,Gbeya Bossangoa,,6.66666666667,17.5,gbay1287,gbp,Niger-Congo,,Gbaya-Manza-Ngbaka,gbp,false,false
 gbc,Guinea Bissau Crioulo,,12,-15,uppe1455,pov,other,,Creoles and Pidgins,pov,false,false
 gbe,German (Bern),,47,7.41666666667,swis1247,gsw,Indo-European,,Germanic,gsw,false,false
-gbk,Gbaya Kara,,6,15,nort2775,gya,Niger-Congo,,Gbaya-Manza-Ngbaka,gya,false,false
+gbk,Gbaya (Northwest),,6,15,nort2775,gya,Niger-Congo,,Gbaya-Manza-Ngbaka,gya,false,false
 gbl,German (Berlin),,52.5,13.3333333333,stan1295,deu,Indo-European,,Germanic,deu,false,false
+gbs,Gbaya (Southwest),,4.7,14.96,sout2785,gso,Niger-Congo,,Gbaya-Manza-Ngbaka,gso,false,false
 gcy,Greek (Cypriot),,34.75,33,mode1248,ell,Indo-European,,Greek,ell,false,false
 gdb,Gutob,,19,83.6666666667,bodo1267,gbj,Austro-Asiatic,,Munda,gbj,false,false
 gdf,Guduf,,11.2333333333,13.8,gudu1252,gdf,Afro-Asiatic,Chadic,Biu-Mandara,gdf,false,false
@@ -742,7 +741,7 @@ ghr,Bunan,,32.5,77,gahr1239,bfu,Sino-Tibetan,Tibeto-Burman,Bodic,bfu,false,false
 gid,Gidabal,,-28.4166666667,152.416666667,band1339,bdy,Pama-Nyungan,,Southeastern Pama-Nyungan,bdy,false,false
 gil,Gilaki,,37.3333333333,50,gila1241,glk,Indo-European,,Iranian,glk,false,false
 gim,Gimira,,7,35.75,benc1235,bcq,Afro-Asiatic,Omotic,North Omotic,bcq,false,false
-gir,Gula Iro,,10.25,19.4166666667,gula1265,glj,Niger-Congo,Adamawa-Ubangi,Adamawa,glj,false,false
+gir,Gula Iro,,10.25,19.4166666667,gula1265,glj,Niger-Congo,Adamawa-Ubangi,Bua,glj,false,false
 git,Gitksan,,55.3333333333,-127.75,gitx1241,git,Penutian,,Tsimshianic,git,false,false
 giz,Giziga,,10.3333333333,14.1666666667,maro1246,,Afro-Asiatic,Chadic,Biu-Mandara,gis giz,false,false
 gji,Gurindji,,-17.6666666667,130.666666667,guri1247,gue,Pama-Nyungan,,Western Pama-Nyungan,gue,false,false
@@ -783,8 +782,8 @@ grf,Garífuna,,15.6666666667,-88,gari1256,cab,Arawakan,,Caribbean Arawakan,cab,f
 grg,Gurr-goni,,-12.25,134.416666667,gura1252,gge,Mangrida,,Burarran,gge,false,false
 grj,Guarijío,,27.75,-108.666666667,huar1255,var,Uto-Aztecan,,Tarahumaran,var,false,false
 grk,Greek (Modern),,39,22,mode1248,ell,Indo-European,,Greek,ell,true,true
-grm,Gurma,,12.25,1,gour1243,gux,Niger-Congo,,Gur,gux,false,false
-grn,Gurenne,,10.8333333333,-0.916666666667,fare1241,gur,Niger-Congo,,Gur,gur,false,false
+grm,Gurma,,12.25,1,gour1243,gux,Niger-Congo,Gur,Northern-Central Gur,gux,false,false
+grn,Gurenne,,10.8333333333,-0.916666666667,fare1241,gur,Niger-Congo,Gur,Northern-Central Gur,gur,false,false
 gro,Guro,,7,-6,guro1248,goa,Mande,,Eastern Mande,goa,false,false
 grp,German (Ripuarian),,51,7,kols1241,ksh,Indo-European,,Germanic,ksh,false,false
 grr,Garrwa,,-17.0833333333,137.166666667,gara1269,wrk,Garrwan,,Garrwan,wrk,false,false
@@ -810,7 +809,6 @@ gun,Gunu,,4.58333333333,11.25,nugu1242,yas,Niger-Congo,Benue-Congo,Bantoid,yas,f
 guq,Guaque,,1,-72.0833333333,cari1279,cbd,Cariban,,Cariban,cbd,false,false
 gur,Gurung,,28.3333333333,84.3333333333,guru1261,,Sino-Tibetan,Tibeto-Burman,Bodic,ggn gvr,false,false
 gus,Gusii,,-0.75,34.8333333333,gusi1247,guz,Niger-Congo,Benue-Congo,Bantoid,guz,false,false
-gut,Gurma (Togo),,10.75,0.666666666667,gour1243,gux,Niger-Congo,,Gur,gux,false,false
 guu,Guugu Yimidhirr,,-15,144.833333333,gugu1255,kky,Pama-Nyungan,,Northern Pama-Nyungan,kky,false,false
 guw,Gungbe,,6.5,2.5,gunn1250,guw,Niger-Congo,,Kwa,guw,false,false
 gvi,German (Viennese),,48.1666666667,16.3333333333,bava1246,bar,Indo-European,,Germanic,bar,false,false
@@ -840,7 +838,7 @@ heh,Hehe,,-8,36,hehe1240,heh,Niger-Congo,Benue-Congo,Bantoid,heh,false,false
 hei,Heiltsuk,,52,-127.5,heil1246,hei,Wakashan,,Northern Wakashan,hei,false,false
 hem,Hemba,,-6.25,27.1666666667,hemb1242,hem,Niger-Congo,Benue-Congo,Bantoid,hem,false,false
 her,Herero,,-20.5833333333,19,here1253,her,Niger-Congo,Benue-Congo,Bantoid,her,false,false
-hhu,Hanga Hundi,,-3.83333333333,142.916666667,hang1263,wos,Sepik,,Middle Sepik,wos,false,false
+hhu,Hanga Hundi,,-3.83333333333,142.916666667,hang1263,wos,Sepik,,Ndu,wos,false,false
 hia,Hianacoto,,0.833333333333,-71,cari1279,cbd,Cariban,,Cariban,cbd,false,false
 hid,Hidatsa,,47,-102.5,hida1246,hid,Siouan,,Core Siouan,hid,false,false
 hil,Hiligaynon,,10.25,123,hili1240,hil,Austronesian,,Greater Central Philippine,hil,false,false
@@ -866,7 +864,7 @@ hnn,Hanunóo,,12.3333333333,121.25,hanu1241,hnn,Austronesian,,Greater Central Ph
 hno,Haida (Northern),,54,-132.5,nort2938,hdn,Haida,,Haida,hdn,false,false
 ho,Ho,,22,86,hooo1248,hoc,Austro-Asiatic,,Munda,hoc,false,false
 hoa,Hoava,,-8.08333333333,157.5,hoav1238,hoa,Austronesian,Eastern Malayo-Polynesian,Oceanic,hoa,false,false
-hok,Hokkien,,25,118,minn1241,nan,Sino-Tibetan,,Chinese,nan,false,false
+hok,Min (Southern),,25,118,minn1241,nan,Sino-Tibetan,,Chinese,nan,false,false
 hol,Holoholo,,-5.16666666667,29.9166666667,holo1240,hoo,Niger-Congo,Benue-Congo,Bantoid,hoo,false,false
 hop,Hopi,,36,-110,hopi1249,hop,Uto-Aztecan,,Hopi,hop,false,false
 hpd,Hup,,0.166666666667,-69.25,hupd1244,jup,Nadahup,,Nadahup,jup,false,false
@@ -875,7 +873,6 @@ hrr,Harari,,9.25,42.1666666667,hara1271,har,Afro-Asiatic,,Semitic,har,false,fals
 hrs,Harsusi,,20,56.5,hars1241,hss,Afro-Asiatic,,Semitic,hss,false,false
 hsl,Haisla,,54,-128.75,hais1244,has,Wakashan,,Northern Wakashan,has,false,false
 htc,Huastec,,22.0833333333,-99.3333333333,huas1242,hus,Mayan,,Mayan,hus,false,false
-htt,Huitoto,,-1,-74,mini1256,hto,Huitotoan,,Huitoto,hto,false,false
 hua,Hua,,-6.33333333333,145.333333333,yaga1260,ygr,Trans-New Guinea,,Eastern Highlands,ygr,false,false
 huc,=|Hoan,,-25.5,25,huaa1248,huc,Kxa,,=|Hoan,huc,false,false
 hui,Huichol,,22,-104,huic1243,hch,Uto-Aztecan,,Corachol,hch,false,false
@@ -889,7 +886,7 @@ hya,Haya,,-2,31.5,haya1250,hay,Niger-Congo,Benue-Congo,Bantoid,hay,false,false
 hyo,Hyow,,22.0833333333,92.4166666667,asho1236,csh,Sino-Tibetan,Tibeto-Burman,Kuki-Chin,csh,false,false
 hzb,Hunzib,,42.1666666667,46.25,hunz1247,huz,Nakh-Daghestanian,Daghestanian,Avar-Andic-Tsezic,huz,false,true
 iaa,Iaai,,-20.4166666667,166.583333333,iaai1238,iai,Austronesian,Eastern Malayo-Polynesian,Oceanic,iai,false,false
-iat,Iatmul,,-4.25,143.25,iatm1242,ian,Sepik,,Middle Sepik,ian,false,false
+iat,Iatmul,,-4.25,143.25,iatm1242,ian,Sepik,,Ndu,ian,false,false
 iau,Iau,,-3.16666666667,137.5,iauu1242,tmu,Lakes Plain,,Lakes Plain,tmu,false,false
 iba,Iban,,2,112,iban1264,iba,Austronesian,,Malayo-Sumbawan,iba,false,false
 ibi,Ibibio,,5.25,7.83333333333,ibib1240,ibb,Niger-Congo,Benue-Congo,Cross River,ibb,false,false
@@ -916,7 +913,7 @@ ila,Ila,,-15.5833333333,26.5,ilaa1246,ilb,Niger-Congo,Benue-Congo,Bantoid,ilb,fa
 ill,Illinois,,40,-90,miam1252,mia,Algic,,Algonquian,mia,false,false
 ilo,Ilocano,,16,121,ilok1237,ilo,Austronesian,,Northern Luzon,ilo,false,false
 imo,Imonda,,-3.33333333333,141.166666667,imon1245,imn,Border,,Border,imn,true,true
-ina,Inanwatan,,-2.08333333333,132.083333333,suab1238,szp,Marind,,South Bird's Head,szp,false,false
+ina,Inanwatan,,-2.08333333333,132.083333333,suab1238,szp,South Bird's Head,,Inanwatan,szp,false,false
 ind,Indonesian,,0,106,indo1316,ind,Austronesian,,Malayo-Sumbawan,ind,true,true
 ing,Ingush,,43.1666666667,45.0833333333,ingu1240,inh,Nakh-Daghestanian,,Nakh,inh,false,true
 inj,Indonesian (Jakarta),,-6.16666666667,106.75,indo1316,ind,Austronesian,,Malayo-Sumbawan,ind,false,false
@@ -953,7 +950,6 @@ itu,Italian (Turinese),,45,7.66666666667,piem1238,pms,Indo-European,,Romance,pms
 itw,Itawis,,17.75,121.5,itaw1240,itv,Austronesian,,Northern Luzon,itv,false,false
 itz,Itzaj,,17,-89.8333333333,itza1241,itz,Mayan,,Mayan,itz,false,false
 iva,Ivatan,,20.5,122,ivat1242,ivv,Austronesian,,Batanic,ivv,false,false
-ivs,Ivatan (Southern),,20.3333333333,121.833333333,ivat1242,ivv,Austronesian,,Batanic,ivv,false,false
 iwa,Iwaidja,,-11.5,132.666666667,iwai1244,ibd,Iwaidjan,,Iwaidjan,ibd,false,false
 iwm,Iwam,,-4.33333333333,142,iwam1256,iwm,Sepik,,Upper Sepik,iwm,false,false
 ixc,Ixcatec,,17.8333333333,-97.1666666667,ixca1245,ixc,Oto-Manguean,,Popolocan,ixc,false,false
@@ -968,7 +964,7 @@ jam,Jaminjung,,-15.0833333333,130.5,djam1255,djd,Mirndi,,Jaminjungan,djd,false,f
 jaq,Jaqaru,,-13,-76,jaqa1244,jqr,Aymaran,,Aymaran,jqr,false,false
 jar,Jarawa (in Nigeria),,9.5,10.5,jara1263,jar,Niger-Congo,Benue-Congo,Bantoid,jar,false,false
 jav,Javanese,,-7,111,java1254,jav,Austronesian,,Javanese,jav,false,false
-jbt,Jabutí,,-12.25,-62.25,djeo1235,jbt,,,,jbt,false,false
+jbt,Jabutí,,-12.25,-62.25,djeo1235,jbt,Macro-Ge,,Jabutí,jbt,false,false
 jcr,Jamaican Creole,,18.1666666667,-77.25,jama1262,jam,other,,Creoles and Pidgins,jam,false,false
 jeb,Jebero,,-5.41666666667,-76.5,jebe1250,jeb,Cahuapanan,,Cahuapanan,jeb,false,false
 jeh,Jeh,,15.1666666667,107.833333333,jehh1245,jeh,Austro-Asiatic,Mon-Khmer,Bahnaric,jeh,false,false
@@ -989,7 +985,6 @@ jpn,Japanese,,37,140,nucl1643,jpn,,,,jpn,true,true
 jpr,Japreria,,10.5,-73,japr1238,jru,Cariban,,Cariban,jru,false,false
 jrn,Juruna,,-5,-54.5,juru1256,jur,Tupian,,Tupi-Guaraní,jur,false,false
 jrw,Jarawa (in Andamans),,12,92.5833333333,jara1245,anq,South Andamanese,,South Andamanese,anq,false,false
-jua,Juat,,-31,115.5,,,Pama-Nyungan,,Western Pama-Nyungan,,false,false
 jug,Jugli,,27.5,96.3333333333,tase1235,nst,Sino-Tibetan,Tibeto-Burman,Northern Naga,nst,false,false
 juh,Ju|'hoan,,-19,21,juho1239,ktz,Kxa,,Ju-Kung,ktz,false,true
 juk,Jukun,,6.91666666667,10.4166666667,juku1254,jbu,Niger-Congo,Benue-Congo,Platoid,jbu,false,false
@@ -1028,7 +1023,7 @@ kbr,Kayan (Baram),,3.5,114.5,bara1370,kys,Austronesian,,North Borneo,kys,false,f
 kbt,Kabatei,,36.75,49.4166666667,kaba1276,xkp,Indo-European,,Iranian,xkp,false,false
 kbu,Kanembu,,14,15,kane1243,kbl,Saharan,Saharan,Western Saharan,kbl,false,false
 kbw,Karen (Bwe),,19.5,97,bwek1238,bwe,Sino-Tibetan,Tibeto-Burman,Karen,bwe,false,false
-kby,Kabiyé,,9.66666666667,1.16666666667,kabi1261,kbp,Niger-Congo,,Gur,kbp,false,false
+kby,Kabiyé,,9.66666666667,1.16666666667,kabi1261,kbp,Niger-Congo,Gur,Southern-Central Gur,kbp,false,false
 kch,Koyra Chiini,,17,-3,koyr1240,khq,Songhay,,Songhay,khq,false,false
 kda,Konda,,19.5,83,kond1295,kfc,Dravidian,,South-Central Dravidian,kfc,false,false
 kdg,Karipuna (Panoan),,-10,-65,kari1312,,Panoan,,Panoan,,false,false
@@ -1048,10 +1043,10 @@ ket,Ket,,64,87,kett1243,ket,Yeniseian,,Yeniseian,ket,false,true
 keu,Kenyah (Uma' Lung),,3,115.833333333,,,Austronesian,,North Borneo,,false,false
 kew,Kewa,,-6.5,143.833333333,kewa1250,,Trans-New Guinea,,Engan,kew kjs,true,true
 kfc,Kriol (Fitzroy Crossing),,-18.1666666667,125.583333333,,,other,,Creoles and Pidgins,,false,false
-kfe,Koromfe,,14.25,-0.916666666667,koro1298,kfz,Niger-Congo,,Gur,kfz,false,true
+kfe,Koromfe,,14.25,-0.916666666667,koro1298,kfz,Niger-Congo,Gur,Northern-Central Gur,kfz,false,true
 kfy,Kirghiz (Fu-Yu),,47.75,124.416666667,kirg1245,kir,Altaic,,Turkic,kir,false,false
 kga,Kinga,,-9,34,nucl1379,zga,Niger-Congo,Benue-Congo,Bantoid,zga,false,false
-kgi,Konyagi,,12.5,-13.25,wame1240,cou,Niger-Congo,Atlantic,Northern Atlantic,cou,false,false
+kgi,Konyagi,,12.5,-13.25,wame1240,cou,Niger-Congo,Atlantic,Tenda,cou,false,false
 kgl,Umbu Ungu,,-6,144,umbu1258,ubu,Trans-New Guinea,,Chimbu,ubu,false,false
 kgm,Kagoma,,9.25,8.16666666667,kago1247,kdm,Niger-Congo,Benue-Congo,Platoid,kdm,false,false
 kgr,Kagulu,,-6.33333333333,37,kagu1239,kki,Niger-Congo,Benue-Congo,Bantoid,kki,false,false
@@ -1067,7 +1062,7 @@ khk,Khakas,,53,90,khak1248,kjh,Altaic,,Turkic,kjh,false,false
 khl,Khalaj,,35,50,turk1303,klj,Altaic,,Turkic,klj,false,false
 khm,Khmer,,12.5,105,cent1989,khm,Austro-Asiatic,Mon-Khmer,Khmer,khm,false,true
 khn,Khün,,21,100,khun1259,kkh,Tai-Kadai,,Kam-Tai,kkh,false,false
-kho,Khoekhoe,,-25.5,18,nama1264,naq,Khoe-Kwadi,,Khoe-Kwadi,naq,true,true
+kho,Nama,,-25.5,18,nama1264,naq,Khoe-Kwadi,,Khoe-Kwadi,naq,true,true
 khr,Kharia,,22.5,84.3333333333,khar1287,khr,Austro-Asiatic,,Munda,khr,false,false
 khs,Khasi,,25.5,92,khas1269,kha,Austro-Asiatic,Mon-Khmer,Khasian,kha,false,true
 khu,Khumi,,21.9166666667,92.4166666667,khum1248,cnk,Sino-Tibetan,Tibeto-Burman,Kuki-Chin,cnk,false,false
@@ -1082,7 +1077,7 @@ kim,Kimaghama,,-8,138.5,kima1246,kig,Kolopom,,Kolopom,kig,false,false
 kin,Kinyarwanda,,-2,30,kiny1244,kin,Niger-Congo,Benue-Congo,Bantoid,kin,false,false
 kio,Kiowa,,37,-99,kiow1266,kio,Kiowa-Tanoan,,Kiowa-Tanoan,kio,true,true
 kiq,Kalmyk (Issyk-Kul),,42.4166666667,78.3333333333,kalm1243,xal,Altaic,,Mongolic,xal,false,false
-kir,Kirma,,10.25,-4.83333333333,cerm1238,cme,Niger-Congo,,Gur,cme,false,false
+kir,Kirma,,10.25,-4.83333333333,cerm1238,cme,Niger-Congo,Gur,Southern-Central Gur,cme,false,false
 kis,Kisi,,8.83333333333,-10.1666666667,kiss1245,,Niger-Congo,Atlantic,Mel,kqs kss,false,false
 kit,Kitsai,,31.8333333333,-96.5,kits1249,kii,Caddoan,,Caddoan,kii,false,false
 kiu,Kui (in Indonesia),,-8.43333333333,124.55,kuii1253,kvd,Timor-Alor-Pantar,,Greater Alor,kvd,false,false
@@ -1092,7 +1087,7 @@ kji,Kurmanji,,38,42,nort2641,kmr,Indo-European,,Iranian,kmr,false,false
 kjn,Kunjen,,-16.5,142.5,kunj1245,kjn,Pama-Nyungan,,Northern Pama-Nyungan,kjn,false,false
 kjo,Konjo,,-5.46666666667,120.333333333,coas1295,kjc,Austronesian,,South Sulawesi,kjc,false,false
 kjr,Koorete,,5.83333333333,37.8333333333,koor1239,kqy,Afro-Asiatic,Omotic,North Omotic,kqy,false,false
-kkb,Konkomba,,10,0.0833333333333,konk1269,xon,Niger-Congo,,Gur,xon,false,false
+kkb,Konkomba,,10,0.0833333333333,konk1269,xon,Niger-Congo,Gur,Northern-Central Gur,xon,false,false
 kkl,Kata Kolok,,-8.25,115.166666667,beng1239,bqy,other,,Sign Languages,bqy,false,false
 kkn,Konkani,,15.25,74,konk1267,knn,Indo-European,,Indic,knn,false,false
 kko,Koranko,,9.33333333333,-11.25,kura1250,knk,Mande,,Western Mande,knk,false,false
@@ -1110,7 +1105,7 @@ klb,Kilba,,10.3333333333,13.1666666667,huba1236,hbb,Afro-Asiatic,Chadic,Biu-Mand
 klg,Kulung,,27.5,87,kulu1253,kle,Sino-Tibetan,Tibeto-Burman,Mahakiranti,kle,false,false
 klh,Kalasha,,35,72,kala1372,kls,Indo-European,,Indic,kls,false,false
 kli,Kaili,,-1.16666666667,120,ledo1238,lew,Austronesian,,Celebic,lew,false,false
-klk,Koh (Lakka),,8,15.5,kuoo1238,xuo,Niger-Congo,Adamawa-Ubangi,Adamawa,xuo,false,false
+klk,Koh (Lakka),,8,15.5,kuoo1238,xuo,Niger-Congo,Adamawa-Ubangi,Mbumic,xuo,false,false
 kll,Kaluli,,-6.5,142.75,kalu1248,bco,Bosavi,,Bosavi,bco,false,false
 klm,Klamath,,42.5,-121.5,klam1254,kla,Penutian,,Klamath-Modoc,kla,false,false
 kln,Kolana,,-8.25,125.116666667,wers1238,kvw,Timor-Alor-Pantar,,Kolana-Tanglapui,kvw,false,false
@@ -1135,7 +1130,7 @@ kmp,Kunimaipa,,-8,146.833333333,kuni1267,kup,Trans-New Guinea,,Goilalan,kup,fals
 kmr,Kamoro,,-4.33333333333,136,kamo1255,kgq,Trans-New Guinea,,Asmat-Kamoro,kgq,false,false
 kms,Kamass,,52,92,kama1351,xas,Uralic,,Samoyedic,xas,false,false
 kmt,Kemtuik,,-2.66666666667,140.333333333,kemt1242,kmt,Nimboran,,Nimboran,kmt,false,false
-kmu,Khmu',,21,102,khmu1256,kjg,Austro-Asiatic,Mon-Khmer,Palaung-Khmuic,kjg,false,true
+kmu,Khmu',,21,102,khmu1256,kjg,Austro-Asiatic,Mon-Khmer,Khmuic,kjg,false,true
 kmw,Kamu,,-13.5833333333,130.833333333,kamu1258,xmu,Eastern Daly,Daly,Eastern Daly,xmu,false,false
 kmz,Kamasau,,-3.91666666667,143.666666667,kama1367,kms,Torricelli,,Marienberg,kms,false,false
 kna,Karitiâna,,-9.5,-64,kari1311,ktn,Tupian,,Arikem,ktn,false,false
@@ -1143,7 +1138,7 @@ knb,Kanum (Bädi),,-8.83333333333,140.75,badi1247,khd,Morehead and Upper Maro Ri
 knc,Kugu Nganhcara,,-14.4166666667,142,kuku1280,uwa,Pama-Nyungan,,Northern Pama-Nyungan,uwa,false,false
 knd,Kannada,,14,76,nucl1305,kan,Dravidian,,Southern Dravidian,kan,true,true
 kng,Kaingang,,-26,-52,kain1272,kgp,Macro-Ge,,Ge-Kaingang,kgp,false,false
-kni,Konni,,10.25,-1.58333333333,konn1242,kma,Niger-Congo,,Gur,kma,false,false
+kni,Konni,,10.25,-1.58333333333,konn1242,kma,Niger-Congo,Gur,Northern-Central Gur,kma,false,false
 knk,Kanakuru,,10,12,dera1248,kna,Afro-Asiatic,Chadic,West Chadic,kna,false,false
 knm,Kunama,,14.5,37,kuna1268,kun,,,,kun,false,true
 knn,Kinnauri,,31.5,78,kinn1249,kfk,Sino-Tibetan,Tibeto-Burman,Bodic,kfk,false,false
@@ -1163,14 +1158,14 @@ koi,Koiari,,-9.5,147.333333333,gras1249,kbk,Trans-New Guinea,,Koiarian,kbk,false
 kok,Kokborok,,24.3333333333,92.5,kokb1239,trp,Sino-Tibetan,Tibeto-Burman,Bodo-Garo,trp,false,false
 kol,Kolami,,20,78.5,kola1242,,Dravidian,,Central Dravidian,kfb nit,false,false
 kom,Komo,,8.75,33.75,komo1258,xom,Koman,,Koman,xom,false,false
-kon,Kongo,,-5,15,koon1244,,Niger-Congo,Benue-Congo,Bantoid,kng kwy,false,true
+kon,Kongo,,-5,15,koon1244,kng,Niger-Congo,Benue-Congo,Bantoid,kng,false,true
 koo,Kola,,-5.5,134.5,kola1285,kvv,Austronesian,,Central Malayo-Polynesian,kvv,false,false
 kop,Komi-Permyak,,59.5,54.5,komi1269,koi,Uralic,Finno-Ugric,Permic,koi,false,false
 kor,Korean,,37.5,128,kore1280,kor,,,,kor,true,true
 kos,Kosraean,,5.3,163,kosr1238,kos,Austronesian,Eastern Malayo-Polynesian,Oceanic,kos,false,false
 kot,Kota,,11.5,77.1666666667,kota1263,kfe,Dravidian,,Southern Dravidian,kfe,false,false
 kou,Kom,,6.25,10.3333333333,komc1235,bkm,Niger-Congo,Benue-Congo,Bantoid,bkm,false,false
-kow,Ko (Winye),,11.8666666667,-2.91666666667,winy1241,kst,Niger-Congo,,Gur,kst,false,false
+kow,Ko (Winye),,11.8666666667,-2.91666666667,winy1241,kst,Niger-Congo,Gur,Southern-Central Gur,kst,false,false
 koy,Koya,,17.5,81.3333333333,koya1251,kff,Dravidian,,South-Central Dravidian,kff,false,false
 kpa,Kpan,,7.58333333333,10.1666666667,kpan1246,kpk,Niger-Congo,Benue-Congo,Platoid,kpk,false,false
 kpe,Kpelle,,7,-10,libe1247,xpe,Mande,,Western Mande,xpe,false,false
@@ -1204,11 +1199,11 @@ ksa,Keresan (Santa Ana),,35.4166666667,-106.666666667,east1472,kee,Keresan,,Kere
 kse,Koyraboro Senni,,16,0,koyr1242,ses,Songhay,,Songhay,ses,true,true
 ksg,Karen (Sgaw),,18,97,sgaw1245,ksw,Sino-Tibetan,Tibeto-Burman,Karen,ksw,false,false
 ksh,Kashaya,,38.6666666667,-123.333333333,kash1280,kju,Hokan,,Pomoan,kju,false,false
-ksi,Ksingmul,,21.0833333333,104,puoc1238,puo,Austro-Asiatic,Mon-Khmer,Palaung-Khmuic,puo,false,false
+ksi,Ksingmul,,21.0833333333,104,puoc1238,puo,Austro-Asiatic,Mon-Khmer,Khmuic,puo,false,false
 ksl,Kenyan Sign Language,,0,38,keny1241,xki,other,,Sign Languages,xki,false,false
-ksm,Kasem,,11.25,-1.25,kase1253,xsm,Niger-Congo,,Gur,xsm,false,false
+ksm,Kasem,,11.25,-1.25,kase1253,xsm,Niger-Congo,Gur,Southern-Central Gur,xsm,false,false
 ksn,Kasong,,12.75,102.116666667,suoy1242,,Austro-Asiatic,Mon-Khmer,Pearic,,false,false
-ksp,Kosop,,9.91666666667,15.9166666667,kimm1246,kia,Niger-Congo,Adamawa-Ubangi,Adamawa,kia,false,false
+ksp,Kosop,,9.91666666667,15.9166666667,kimm1246,kia,Niger-Congo,Adamawa-Ubangi,Kim,kia,false,false
 ksr,Kisar,,-8.08333333333,127.116666667,kisa1266,kje,Austronesian,,Central Malayo-Polynesian,kje,false,false
 kss,Kisi (Southern),,8.5,-10.25,sout2778,kss,Niger-Congo,Atlantic,Mel,kss,false,false
 ksu,Kashubian,,54,18,kash1274,csb,Indo-European,,Slavic,csb,false,false
@@ -1220,6 +1215,7 @@ kth,Kutchin,,67,-146,gwic1235,gwi,Na-Dene,,Athapaskan,gwi,false,false
 kti,"Kati (in West Papua, Indonesia)",,-5.75,140.916666667,yong1280,yon,Trans-New Guinea,,Ok,yon,false,false
 ktk,Kotoko,,11.3333333333,15.3333333333,afad1236,aal,Afro-Asiatic,Chadic,Biu-Mandara,aal,false,false
 ktl,Katla,,11.8333333333,29.3333333333,katl1237,kcr,Kordofanian,,Katla-Tima,kcr,false,false
+ktm,Kathlamet,,46.14,-123.4,kath1253,,Penutian,,Chinookan,,false,false
 ktn,Ketengban,,-4.5,140.5,kete1254,xte,Trans-New Guinea,,Mek,xte,false,false
 kto,Kato,,39.6666666667,-123.666666667,kato1244,ktw,Na-Dene,,Athapaskan,ktw,false,false
 ktp,Ketapang,,-1.86666666667,110,mala1479,zlm,Austronesian,,Malayo-Sumbawan,zlm,false,false
@@ -1249,10 +1245,10 @@ kwe,Kanjobal (Western),,15.8333333333,-91.8333333333,west2635,knj,Mayan,,Mayan,k
 kwk,Kwakw'ala,,51,-127,kwak1269,kwk,Wakashan,,Northern Wakashan,kwk,false,false
 kwm,Kwami,,10.4166666667,11,kwaa1269,ksq,Afro-Asiatic,Chadic,West Chadic,ksq,false,false
 kwn,Kwangali,,-18,19.5,kwan1273,kwn,Niger-Congo,Benue-Congo,Bantoid,kwn,false,false
-kwo,Kwoma,,-4.16666666667,142.75,kwom1262,kmo,Sepik,,Middle Sepik,kmo,false,false
+kwo,Kwoma,,-4.16666666667,142.75,kwom1262,kmo,Sepik,,Nukuma,kmo,false,false
 kwr,Kwamera,,-19.5833333333,169.416666667,kwam1252,tnk,Austronesian,Eastern Malayo-Polynesian,Oceanic,tnk,false,false
 kws,Kawaiisu,,36,-117.5,kawa1283,xaw,Uto-Aztecan,,Numic,xaw,false,false
-kwt,Kwomtari,,-3.5,141.5,nucl1593,kwo,Kwomtari-Baibai,,Kwomtari,kwo,false,false
+kwt,Kwomtari,,-3.5,141.5,nucl1593,kwo,,,,kwo,false,false
 kwy,Iwoyo,,-5.5,12.25,sans1272,kwy,Niger-Congo,Benue-Congo,Bantoid,kwy,false,false
 kwz,Kwaza,,-12.5833333333,-60.6666666667,kwaz1243,,,,,,false,false
 kxo,Kxoe,,-17.5,22.5,kxoe1243,xuu,Khoe-Kwadi,,Khoe-Kwadi,xuu,false,false
@@ -1265,10 +1261,9 @@ kyn,Koyukon,,65,-155,koyu1237,koy,Na-Dene,,Athapaskan,koy,false,false
 kyo,Kanyok,,-7.33333333333,23.5833333333,kany1247,kny,Niger-Congo,Benue-Congo,Bantoid,kny,false,false
 kyp,Kayapó,,-9,-52,kaya1330,txu,Macro-Ge,,Ge-Kaingang,txu,false,false
 kyq,Kyuquot,,50.1666666667,-127.166666667,nuuc1236,nuk,Wakashan,,Southern Wakashan,nuk,false,false
-kyr,Karkar-Yuri,,-3.75,141.083333333,kark1258,yuj,,,,yuj,false,false
+kyr,Karkar-Yuri,,-3.75,141.083333333,kark1258,yuj,Pauwasi,,Eastern Pauwasi,yuj,false,false
 kyt,Kaytej,,-21,134,kayt1238,gbb,Pama-Nyungan,,Central Pama-Nyungan,gbb,false,false
 kyz,Kayabí,,-11,-55.5,kaya1329,kyz,Tupian,,Tupi-Guaraní,kyz,false,false
-kzh,Kam (Zhanglu),,26,108.5,nort2735,doc,Tai-Kadai,,Kam-Tai,doc,false,false
 kzy,Komi-Zyrian,,65,55,komi1268,kpv,Uralic,Finno-Ugric,Permic,kpv,false,false
 laa,Laal,,10,17.6666666667,laal1242,gdm,,,,gdm,false,false
 lab,Labu,,-6.75,146.916666667,labu1248,lbu,Austronesian,Eastern Malayo-Polynesian,Oceanic,lbu,false,false
@@ -1341,7 +1336,7 @@ lnj,Linngithig,,-12.5,142.83,leni1238,lnj,Pama-Nyungan,,Northern Pama-Nyungan,ln
 lno,Ladino,,40,33,ladi1251,lad,Indo-European,,Romance,lad,false,false
 lns,Lamnso',,6.16666666667,10.75,lamn1239,lns,Niger-Congo,Benue-Congo,Bantoid,lns,false,false
 lnw,Lonwolwol,,-16.2166666667,168,lonw1238,crc,Austronesian,Eastern Malayo-Polynesian,Oceanic,crc,false,false
-lob,Lobi,,10.5,-3.25,lobi1245,lob,Niger-Congo,,Gur,lob,false,false
+lob,Lobi,,10.5,-3.25,lobi1245,lob,Niger-Congo,Gur,Southern-Central Gur,lob,false,false
 lok,Loko,,9.33333333333,-12.0833333333,loko1255,lok,Mande,,Western Mande,lok,false,false
 lon,Loniu,,-2.06666666667,147.333333333,loni1238,los,Austronesian,Eastern Malayo-Polynesian,Oceanic,los,false,false
 lot,Lotha,,26.5,94.25,loth1237,njh,Sino-Tibetan,Tibeto-Burman,Kuki-Chin,njh,false,false
@@ -1356,7 +1351,7 @@ lse,Lengua de Señas Española,,40,-3,span1263,ssp,other,,Sign Languages,ssp,fal
 lsf,Langue des Signes Française,,47,3,fren1243,fsl,other,,Sign Languages,fsl,false,false
 lsq,Langue des Signes Québecoise,,48,-75,queb1245,fcs,other,,Sign Languages,fcs,false,false
 lu,Lü,,22,100.666666667,luuu1242,khb,Tai-Kadai,,Kam-Tai,khb,false,false
-lua,Lua,,9.75,17.75,niel1243,nie,Niger-Congo,Adamawa-Ubangi,Adamawa,nie,false,false
+lua,Lua,,9.75,17.75,niel1243,nie,Niger-Congo,Adamawa-Ubangi,Bua,nie,false,false
 luc,Lucazi,,-14,20,luch1239,lch,Niger-Congo,Benue-Congo,Bantoid,lch,false,false
 lud,Lun Dayeh,,4,115.916666667,lund1271,lnd,Austronesian,,North Borneo,lnd,false,false
 lug,Lugbara,,3.08333333333,30.9166666667,lugb1240,lgg,Central Sudanic,,Moru-Ma'di,lgg,false,false
@@ -1370,7 +1365,7 @@ lus,Lushootseed,,48,-122,lush1252,lut,Salishan,,Central Salish,lut,false,false
 luv,Luvale,,-12,22,luva1239,lue,Niger-Congo,Benue-Congo,Bantoid,lue,true,true
 lux,Luxemburgeois,,49.8333333333,6.16666666667,luxe1241,ltz,Indo-European,,Germanic,ltz,false,false
 luy,Luyia,,0.416666666667,34.5,saam1283,luy,Niger-Congo,Benue-Congo,Bantoid,luy,false,false
-lye,Lyele,,12.5,-2.66666666667,lyel1241,lee,Niger-Congo,,Gur,lee,false,false
+lye,Lyele,,12.5,-2.66666666667,lyel1241,lee,Niger-Congo,Gur,Southern-Central Gur,lee,false,false
 ma,Ma,,3.5,28,made1252,msj,Niger-Congo,Adamawa-Ubangi,Ubangi,msj,false,false
 maa,Maasai,,-3,36,masa1300,mas,Eastern Sudanic,,Nilotic,mas,false,false
 mab,Maba,,13.75,20.8333333333,maba1277,mde,Maban,,Maban,mde,false,true
@@ -1383,7 +1378,7 @@ mai,Maithili,,26,86,mait1250,mai,Indo-European,,Indic,mai,false,false
 maj,Majang,,6.75,35,maja1242,mpe,Eastern Sudanic,,Surmic,mpe,false,false
 mak,Makah,,48.3333333333,-124.666666667,maka1318,myh,Wakashan,,Southern Wakashan,myh,true,true
 mal,Malagasy,,-20,47,plat1254,plt,Austronesian,,Barito,plt,true,true
-mam,Mam,,15,-91.8333333333,mamc1234,mvc,Mayan,,Mayan,mvc,false,false
+mam,Mam,,15,-91.8333333333,mamm1241,mam,Mayan,,Mayan,mam,false,false
 man,Mano,,7,-9,mann1248,mev,Mande,,Eastern Mande,mev,false,false
 mao,Maori,,-40,176,maor1246,mri,Austronesian,Eastern Malayo-Polynesian,Oceanic,mri,false,true
 map,Mapudungun,,-38,-72,mapu1245,arn,Araucanian,,Araucanian,arn,true,true
@@ -1401,11 +1396,11 @@ mbe,Mbere,,-0.5,14,mber1257,mdt,Niger-Congo,Benue-Congo,Bantoid,mdt,false,false
 mbg,Mbugu,,-4.33333333333,38.1666666667,mbug1240,mhd,Afro-Asiatic,Cushitic,Southern Cushitic,mhd,false,false
 mbi,Mbili,,6.11666666667,10.2,bamb1266,baw,Niger-Congo,Benue-Congo,Bantoid,baw,false,false
 mbl,Mbole,,-0.666666666667,24.6666666667,mbol1247,mdq,Niger-Congo,Benue-Congo,Bantoid,mdq,false,false
-mbm,Mbum,,7.75,13.1666666667,mbum1254,mdd,Niger-Congo,Adamawa-Ubangi,Adamawa,mdd,false,false
+mbm,Mbum,,7.75,13.1666666667,mbum1254,mdd,Niger-Congo,Adamawa-Ubangi,Mbumic,mdd,false,false
 mbo,Monumbo,,-4.25,145,nucl1458,mxk,,,,mxk,false,false
 mbr,Mbara,,11,15.4166666667,mbar1260,mpk,Afro-Asiatic,Chadic,Biu-Mandara,mpk,false,false
 mbt,Mangbetu,,2.5,26.5,mang1394,mdj,Central Sudanic,,Mangbetu,mdj,false,false
-mbu,Manambu,,-4.25,142.833333333,mana1298,mle,Sepik,,Middle Sepik,mle,false,false
+mbu,Manambu,,-4.25,142.833333333,mana1298,mle,Sepik,,Ndu,mle,false,false
 mby,Mbay,,8.25,17.5,mbay1241,myb,Central Sudanic,,Bongo-Bagirmi,myb,false,false
 mbz,Mbe',,6.28333333333,11.0833333333,mbee1250,mtk,Niger-Congo,Benue-Congo,Bantoid,mtk,false,false
 mca,Maca,,-25,-57.5,maca1260,mca,Matacoan,,Matacoan,mca,false,false
@@ -1423,7 +1418,7 @@ mcv,Mocoví,,-28,-60.5,moco1246,moc,Guaicuruan,,South Guaicuruan,moc,false,false
 mda,Mada (in Cameroon),,10.8333333333,14.1666666667,mada1293,mxu,Afro-Asiatic,Chadic,Biu-Mandara,mxu,false,false
 mdb,Mudburra,,-17.3333333333,132.083333333,mudb1240,dmw,Pama-Nyungan,,Western Pama-Nyungan,dmw,false,false
 mde,Mende,,7.83333333333,-11.5,mend1266,men,Mande,,Western Mande,men,false,false
-mdg,Mundang,,9.66666666667,14.5,mund1325,mua,Niger-Congo,Adamawa-Ubangi,Adamawa,mua,false,false
+mdg,Mundang,,9.66666666667,14.5,mund1325,mua,Niger-Congo,Adamawa-Ubangi,Mbumic,mua,false,false
 mdk,Mandinka,,13,-15.6666666667,mand1436,mnk,Mande,,Western Mande,mnk,false,false
 mdl,Matngele,,-13.8333333333,130.416666667,madn1237,zml,Eastern Daly,Daly,Eastern Daly,zml,false,false
 mdm,Madimadi,,-34.5,143.5,west2443,,Pama-Nyungan,,Southeastern Pama-Nyungan,,false,false
@@ -1447,7 +1442,6 @@ mer,Meryam Mir,,-9.91666666667,144.083333333,meri1244,ulk,Western Fly,,Western F
 mey,Menya,,-7.25,146,meny1245,mcr,Trans-New Guinea,,Angan,mcr,false,false
 mga,Mondunga,,2.25,21.5,ndun1249,ndt,Niger-Congo,Adamawa-Ubangi,Ubangi,ndt,false,false
 mgd,Mongondow,,0.666666666667,124,mong1342,mog,Austronesian,,Greater Central Philippine,mog,false,false
-mge,Mnong (Eastern),,12.6666666667,108.5,east2333,mng,Austro-Asiatic,Mon-Khmer,Bahnaric,mng,false,false
 mgg,Mangghuer,,36,102,tuuu1240,mjg,Altaic,,Mongolic,mjg,false,false
 mgh,Magahi,,23.5,85.5,maga1260,mag,Indo-European,,Indic,mag,false,false
 mgi,Magi,,-10.3333333333,149.333333333,mail1248,mgu,Trans-New Guinea,,Mailuan,mgu,false,false
@@ -1479,7 +1473,7 @@ miy,Miya,,10.9166666667,9.66666666667,miya1266,mkf,Afro-Asiatic,Chadic,West Chad
 miz,Mizo,,23.1666666667,92.8333333333,lush1249,lus,Sino-Tibetan,Tibeto-Burman,Kuki-Chin,lus,false,false
 mja,Mixtec (Jamiltepec),,16.25,-97.8333333333,jami1235,mxt,Oto-Manguean,,Mixtecan,mxt,false,false
 mjc,Mixtec (San Juan Colorado),,16.5,-98,sanj1281,mjc,Oto-Manguean,,Mixtecan,mjc,false,false
-mjk,Manjaku,,12,-16.25,mand1419,mfv,Niger-Congo,Atlantic,Northern Atlantic,mfv,false,false
+mjk,Manjaku,,12,-16.25,mand1419,mfv,Niger-Congo,Atlantic,Bak,mfv,false,false
 mka,Mauka,,8.33333333333,-7.5,maho1249,mxx,Mande,,Western Mande,mxx,false,false
 mkb,Miwok (Bodega),,38.3333333333,-123,coas1301,csi,Penutian,Utian,Miwok,csi,false,false
 mkd,Makonde,,-11,40,mako1251,kde,Niger-Congo,Benue-Congo,Bantoid,kde,false,false
@@ -1489,7 +1483,7 @@ mkh,Mongol (Khamnigan),,49,117,,,Altaic,,Mongolic,,false,false
 mki,Mikasuki,,32,-85,mika1239,mik,Muskogean,,Muskogean,mik,false,false
 mkj,Makasae,,-8.66666666667,126.5,maka1316,mkz,Timor-Alor-Pantar,,Makasae-Fataluku-Oirata,mkz,false,false
 mkl,Maklew,,-7.66666666667,139.416666667,makl1246,mgf,Bulaka River,,Bulaka River,mgf,false,false
-mkn,Mankanya,,12.0833333333,-15.9166666667,mank1251,knf,Niger-Congo,Atlantic,Northern Atlantic,knf,false,false
+mkn,Mankanya,,12.0833333333,-15.9166666667,mank1251,knf,Niger-Congo,Atlantic,Bak,knf,false,false
 mko,Mokilko,,11.9166666667,18.0833333333,muku1242,moz,Afro-Asiatic,Chadic,East Chadic,moz,false,false
 mkq,Mankon,,6,10.1666666667,ngem1255,nge,Niger-Congo,Benue-Congo,Bantoid,nge,false,false
 mkr,Mikarew,,-4.41666666667,144.916666667,arua1260,msy,Lower Sepik-Ramu,,Mikarew,msy,false,false
@@ -1501,25 +1495,24 @@ mla,Mambila,,6.75,11.5,,,Niger-Congo,Benue-Congo,Bantoid,mcu mzk,false,false
 mlc,Malacca Creole,,2.2,102.25,mala1533,mcm,other,,Creoles and Pidgins,mcm,false,false
 mle,Maale,,6,36.9166666667,male1284,mdy,Afro-Asiatic,Omotic,North Omotic,mdy,false,false
 mlg,Malgwa,,11.5,13.75,wand1278,mfi,Afro-Asiatic,Chadic,Biu-Mandara,mfi,false,false
-mli,Mali,,-4.83333333333,152.25,mali1284,gcc,Baining-Taulil,,Baining,gcc,false,false
+mli,Mali,,-4.83333333333,152.25,mali1284,gcc,Baining,,Baining,gcc,false,false
 mlk,Malakmalak,,-13.4166666667,130.416666667,mull1237,mpb,Northern Daly,Daly,Northern Daly,mpb,false,false
 mll,Molala,,44.5,-122.5,mola1238,mbe,Penutian,,Molala,mbe,false,false
-mlm,Mlabri (Minor),,18.5,101,mlab1235,mra,Austro-Asiatic,Mon-Khmer,Palaung-Khmuic,mra,false,false
+mlm,Mlabri (Minor),,18.5,101,mlab1235,mra,Austro-Asiatic,Mon-Khmer,Khmuic,mra,false,false
 mlt,Maltese,,35.9166666667,14.4166666667,malt1254,mlt,Afro-Asiatic,,Semitic,mlt,false,false
 mlu,Maleu,,-5.71666666667,148.416666667,male1289,mgl,Austronesian,Eastern Malayo-Polynesian,Oceanic,mgl,false,false
 mly,Malay,,3,102,stan1306,zsm,Austronesian,,Malayo-Sumbawan,zsm,false,false
 mma,Mandaic (Modern),,31,48.5,nucl1706,mid,Afro-Asiatic,,Semitic,mid,false,false
 mmb,Mangap-Mbula,,-5.66666666667,148.083333333,mbul1263,mna,Austronesian,Eastern Malayo-Polynesian,Oceanic,mna,false,false
 mme,Mari (Meadow),,57,48,east2328,mhr,Uralic,Finno-Ugric,Mari,mhr,false,false
-mmi,Mambai,,9.66666666667,14,mamb1294,mcs,Niger-Congo,Adamawa-Ubangi,Adamawa,mcs,false,false
+mmi,Mambai,,9.66666666667,14,mamb1294,mcs,Niger-Congo,Adamawa-Ubangi,Mbumic,mcs,false,false
 mmn,Mamanwa,,9.41666666667,125.5,mama1275,mmn,Austronesian,,Greater Central Philippine,mmn,false,false
 mmo,Mordvin (Moksha),,54,44,moks1248,mdf,Uralic,Finno-Ugric,Mordvin,mdf,false,false
-mmp,Mampruli,,10.3333333333,-0.666666666667,mamp1244,maw,Niger-Congo,,Gur,maw,false,false
+mmp,Mampruli,,10.3333333333,-0.666666666667,mamp1244,maw,Niger-Congo,Gur,Northern-Central Gur,maw,false,false
 mms,Mamasa,,-3.08333333333,119.666666667,mama1276,mqj,Austronesian,,South Sulawesi,mqj,false,false
 mmu,Malay (Ulu Muar),,2.66666666667,102.5,nege1240,zmi,Austronesian,,Malayo-Sumbawan,zmi,false,false
 mmv,Mamvu,,3.25,29,mamv1243,mdi,Central Sudanic,,Mangbutu-Efe,mdi,false,false
 mmw,Mambwe,,-9.08333333333,31.1666666667,mamb1296,mgr,Niger-Congo,Benue-Congo,Bantoid,mgr,false,false
-mmz,Mam (Southern),,14.8333333333,-91.6666666667,mams1234,mms,Mayan,,Mayan,mms,false,false
 mna,Muna,,-5,122.5,muna1247,mnb,Austronesian,,Celebic,mnb,false,false
 mnc,Manchu,,49.5,127.5,manc1252,mnc,Altaic,,Tungusic,mnc,false,false
 mnd,Mandarin,,34,110,mand1415,cmn,Sino-Tibetan,,Chinese,cmn,true,true
@@ -1549,7 +1542,7 @@ mok,Mokilese,,6.66666666667,159.75,moki1238,mkj,Austronesian,Eastern Malayo-Poly
 mol,Moldavian,,47,29,roma1327,ron,Indo-European,,Romance,ron,false,false
 mom,Mombum,,-8.25,138.75,nucl1452,mso,,,,mso,false,false
 mon,Mon,,14.8333333333,100.5,monn1252,mnw,Austro-Asiatic,Mon-Khmer,Monic,mnw,false,false
-moo,Mooré,,12.8333333333,-1.25,moss1236,mos,Niger-Congo,,Gur,mos,false,false
+moo,Mooré,,12.8333333333,-1.25,moss1236,mos,Niger-Congo,Gur,Northern-Central Gur,mos,false,false
 mop,Mopan,,16.5833333333,-88.6666666667,mopa1243,mop,Mayan,,Mayan,mop,false,false
 mor,Mor,,-2.95,135.75,morm1235,mhz,Austronesian,Eastern Malayo-Polynesian,South Halmahera - West New Guinea,mhz,false,false
 mos,Mosetén,,-14.75,-67.8333333333,mose1249,cas,Mosetenan,,Mosetenan,cas,false,false
@@ -1566,7 +1559,7 @@ mqc,Martinique Creole,,14.6666666667,-61,guad1242,gcf,other,,Creoles and Pidgins
 mqf,Momuna,,-4.83333333333,139.25,momu1241,mqf,Trans-New Guinea,,Momuna,mqf,false,false
 mra,Mara,,-15,135.166666667,mara1385,mec,Mangarrayi-Maran,,Mara,mec,false,false
 mrc,Marchha,,30.25,79.5833333333,rong1264,rnp,Sino-Tibetan,Tibeto-Burman,Bodic,rnp,false,false
-mrd,Marind,,-7.83333333333,140.166666667,nucl1622,mrz,Marind,,Marind Proper,mrz,false,true
+mrd,Marind,,-7.83333333333,140.166666667,nucl1622,mrz,Anim,,Marind,mrz,false,true
 mrg,Margi,,11,13,marg1265,mrt,Afro-Asiatic,Chadic,Biu-Mandara,mrt,false,false
 mrh,Marrithiyel,,-13.8333333333,130,mari1424,mfr,Western Daly,,Bringen,mfr,false,false
 mri,Moraori,,-8.58333333333,140.666666667,moro1289,mok,,,,mok,false,false
@@ -1610,7 +1603,7 @@ mug,Bargam,,-4.88333333333,145.75,barg1252,mlp,Trans-New Guinea,,Madang,mlp,fals
 muh,Muher,,8.16666666667,38.1666666667,seba1251,sgw,Afro-Asiatic,,Semitic,sgw,false,false
 mui,Muinane,,-1,-72.5,muin1242,bmr,Huitotoan,,Boran,bmr,false,false
 mul,Mulao,,25,108,mula1253,mlm,Tai-Kadai,,Kam-Tai,mlm,false,false
-mum,Mumuye,,9,11.6666666667,nucl1240,mzm,Niger-Congo,Adamawa-Ubangi,Adamawa,mzm,false,false
+mum,Mumuye,,9,11.6666666667,nucl1240,mzm,Niger-Congo,Adamawa-Ubangi,Mumuye-Yandang,mzm,false,false
 mun,Mundari,,23,84.6666666667,mund1320,unr,Austro-Asiatic,,Munda,unr,false,true
 muo,Muong,,20.5,105.083333333,muon1246,mtq,Austro-Asiatic,Mon-Khmer,Viet-Muong,mtq,false,false
 mup,Mupun,,9.5,8.83333333333,mwag1236,sur,Afro-Asiatic,Chadic,West Chadic,sur,false,false
@@ -1657,11 +1650,11 @@ mzn,Mazanderani,,36.5,52,maza1291,mzn,Indo-European,,Iranian,mzn,false,false
 naa,Neo-Aramaic (Amadiya),,37,43,chal1275,cld,Afro-Asiatic,,Semitic,cld,false,false
 nab,Nabak,,-6.41666666667,147,naba1256,naf,Trans-New Guinea,,Finisterre-Huon,naf,false,false
 nad,Nadëb,,-1,-66.5,nade1244,mbj,Nadahup,,Nadahup,mbj,false,false
-naf,Nafaanra,,8,-2.58333333333,nafa1258,nfr,Niger-Congo,,Gur,nfr,false,false
+naf,Nafaanra,,8,-2.58333333333,nafa1258,nfr,Niger-Congo,,Senufo,nfr,false,false
 nag,Nagatman,,-3.75,141.5,yale1246,nce,Yale,,Yale,nce,false,false
 nah,Nahali,,19.75,77.8333333333,niha1238,nll,,,,nll,false,false
 nai,Nanai,,49.5,137,nana1257,gld,Altaic,,Tungusic,gld,false,false
-naj,Neo-Aramaic (Arbel Jewish),,31.75,35,lish1245,aij,Afro-Asiatic,,Semitic,aij,false,false
+naj,Neo-Aramaic (Arbel Jewish),,36.3833,44.0,lish1245,aij,Afro-Asiatic,,Semitic,aij,false,false
 nak,Nakanai,,-5.58333333333,150.583333333,naka1262,nak,Austronesian,Eastern Malayo-Polynesian,Oceanic,nak,false,false
 nal,Nalik,,-2.95,151.333333333,nali1244,nal,Austronesian,Eastern Malayo-Polynesian,Oceanic,nal,false,false
 nam,Namia,,-3.83333333333,141.75,nami1256,nnm,Sepik,,Yellow River,nnm,false,false
@@ -1682,7 +1675,7 @@ nbm,Ngbaka (Ma'bo),,3.56,18.36,ngba1284,nbm,Niger-Congo,Adamawa-Ubangi,Ubangi,nb
 nbo,Nyambo,,-1,31.3333333333,nyam1277,now,Niger-Congo,Benue-Congo,Bantoid,now,false,false
 nbr,Ngäbere,,8.66666666667,-82,ngab1239,gym,Chibchan,,Guaymiic,gym,false,false
 nca,Nicobarese (Car),,9,93,carn1240,caq,Austro-Asiatic,Mon-Khmer,Nicobarese,caq,false,false
-ncm,Ncàm,,9.33333333333,0.666666666667,ntch1242,bud,Niger-Congo,,Gur,bud,false,false
+ncm,Ncàm,,9.33333333333,0.666666666667,ntch1242,bud,Niger-Congo,Gur,Northern-Central Gur,bud,false,false
 ndb,Ndebele (in South Africa),,-25.3333333333,29,sout2808,nbl,Niger-Congo,Benue-Congo,Bantoid,nbl,false,false
 nde,Nande,,-0.0833333333333,29.1666666667,nand1264,nnb,Niger-Congo,Benue-Congo,Bantoid,nnb,false,false
 ndg,Ndogo,,7.75,27,ndog1248,ndz,Niger-Congo,Adamawa-Ubangi,Ubangi,ndz,false,false
@@ -1690,14 +1683,14 @@ ndi,Ngbandi,,3.75,22,,,Niger-Congo,Adamawa-Ubangi,Ubangi,nbw ngb,false,false
 ndj,Ndjébbana,,-12.1666666667,134.116666667,djee1236,djj,Mangrida,,Ndjébbana,djj,false,false
 ndo,Ndonga,,-18,17,ndon1254,ndo,Niger-Congo,Benue-Congo,Bantoid,ndo,false,false
 ndr,Nadroga,,-18.0833333333,177.416666667,fiji1243,fij,Austronesian,Eastern Malayo-Polynesian,Oceanic,fij,false,false
-ndt,Ndut,,14.9166666667,-16.9166666667,ndut1239,ndv,Niger-Congo,Atlantic,Northern Atlantic,ndv,false,false
+ndt,Ndut,,14.9166666667,-16.9166666667,ndut1239,ndv,Niger-Congo,Atlantic,Cangin,ndv,false,false
 ndu,Ndumu,,-1.66666666667,13.5833333333,ndum1239,nmd,Niger-Congo,Benue-Congo,Bantoid,nmd,false,false
 ndy,Ndyuka,,4.5,-54.5,ndyu1242,djk,other,,Creoles and Pidgins,djk,false,true
 ned,Nederlandse Gebarentaal,,52.25,5.5,dutc1253,dse,other,,Sign Languages,dse,false,false
 neg,Negidal,,53,139,negi1245,neg,Altaic,,Tungusic,neg,false,false
 neh,Nehan,,-4.5,154.2,neha1247,nsn,Austronesian,Eastern Malayo-Polynesian,Oceanic,nsn,false,false
 nel,Nelemwa,,-20.25,164.083333333,kuma1276,nee,Austronesian,Eastern Malayo-Polynesian,Oceanic,nee,false,false
-nen,Nenets,,69,72,nene1249,yrk,Uralic,,Samoyedic,yrk,false,true
+nen,Nenets (Forest),,69,72,nene1249,yrk,Uralic,,Samoyedic,yrk,false,true
 nep,Nepali,,28,85,nepa1252,nep,Indo-European,,Indic,nep,false,false
 nev,Nevome,,31,-112.5,toho1245,ood,Uto-Aztecan,,Tepiman,ood,false,false
 new,Newari (Kathmandu),,27.6666666667,85.5,newa1246,new,Sino-Tibetan,Tibeto-Burman,Mahakiranti,new,false,false
@@ -1764,7 +1757,7 @@ nne,Nengone,,-21.5,168,neng1238,nen,Austronesian,Eastern Malayo-Polynesian,Ocean
 nng,Nyanga,,-1.25,28.1666666667,nyan1304,nyj,Niger-Congo,Benue-Congo,Bantoid,nyj,false,false
 nnk,Nankina,,-5.78333333333,146.45,nank1250,nnk,Trans-New Guinea,,Finisterre-Huon,nnk,false,false
 nnm,Nanumea,,-5.66666666667,176.116666667,tuva1244,tvl,Austronesian,Eastern Malayo-Polynesian,Oceanic,tvl,false,false
-nnn,Nuni (Northern),,12.1666666667,-3,nort2784,nuv,Niger-Congo,,Gur,nuv,false,false
+nnn,Nuni (Northern),,12.1666666667,-3,nort2784,nuv,Niger-Congo,Gur,Southern-Central Gur,nuv,false,false
 nnt,Nanticoke,,38,-76.25,nant1249,nnt,Algic,,Algonquian,nnt,false,false
 nob,Nobiin,,21,31,nobi1240,fia,Eastern Sudanic,,Nubian,fia,false,false
 noc,Nocte,,27,95.5,noct1238,njb,Sino-Tibetan,Tibeto-Burman,Northern Naga,njb,false,false
@@ -1772,14 +1765,14 @@ nog,Noghay,,44,46,noga1249,nog,Altaic,,Turkic,nog,false,false
 nok,Noghay (Karagash),,47.5,47.25,noga1249,nog,Altaic,,Turkic,nog,false,false
 nom,Nomatsiguenga,,-11.6666666667,-74.5,noma1263,not,Arawakan,,Pre-Andine Arawakan,not,false,false
 non,Noni,,6.41666666667,10.5833333333,noon1243,nhu,Niger-Congo,Benue-Congo,Bantoid,nhu,false,false
-noo,Noon,,14.8333333333,-16.8333333333,noon1242,snf,Niger-Congo,Atlantic,Northern Atlantic,snf,false,false
+noo,Noon,,14.8333333333,-16.8333333333,noon1242,snf,Niger-Congo,Atlantic,Cangin,snf,false,false
 nor,Norwegian,,61,8,norw1259,nob,Indo-European,,Germanic,nob,false,false
 npa,Nahuatl (Pajapan),,18.25,-94.75,isth1241,nhp,Uto-Aztecan,,Aztecan,nhp,false,false
 nph,Nar-Phu,,28.6666666667,84.25,narp1239,npa,Sino-Tibetan,Tibeto-Burman,Bodic,npa,false,false
 npi,Nigerian Pidgin,,6.5,3.33333333333,nige1257,pcm,other,,Creoles and Pidgins,pcm,false,false
 npn,Naga Pidgin,,25.6666666667,94,naga1394,nag,other,,Creoles and Pidgins,nag,false,false
 npu,Napu,,-1.33333333333,120.416666667,napu1241,npy,Austronesian,,Celebic,npy,false,false
-nrg,Nanerge,,11.75,-5,nane1238,sen,Niger-Congo,,Gur,sen,false,false
+nrg,Nanerge,,11.75,-5,nane1238,sen,Niger-Congo,,Senufo,sen,false,false
 nrm,Narom,,4.41666666667,114,naro1251,nrm,Austronesian,,North Borneo,nrm,false,false
 nro,Nharo,,-22.3333333333,20.5,naro1249,nhr,Khoe-Kwadi,,Khoe-Kwadi,nhr,false,false
 nse,Nsenga,,-14.5,30.8333333333,nsen1242,nse,Niger-Congo,Benue-Congo,Bantoid,nse,false,false
@@ -1791,9 +1784,9 @@ nsz,Nahuatl (Sierra de Zacapoaxtla),,19.5833333333,-97.3333333333,high1278,azz,U
 nte,Norsk Tegnspråk,,61,9,norw1255,nsl,other,,Sign Languages,nsl,false,false
 nti,Ngiti,,1.33333333333,30.25,ngit1239,niy,Central Sudanic,,Lendu,niy,false,true
 ntj,Ngaanyatjarra,,-26,126.5,ngaa1240,ntj,Pama-Nyungan,,Western Pama-Nyungan,ntj,false,false
-ntn,Nateni,,10.5,1.16666666667,nate1242,ntm,Niger-Congo,,Gur,ntm,false,false
+ntn,Nateni,,10.5,1.16666666667,nate1242,ntm,Niger-Congo,Gur,Northern-Central Gur,ntm,false,false
 nto,Ntomba,,-2,18.3333333333,ntom1248,nto,Niger-Congo,Benue-Congo,Bantoid,nto,false,false
-ntu,Nenets (Tundra),,70,76,nene1249,yrk,Uralic,,Samoyedic,yrk,false,false
+ntu,Nenets,,70,76,nene1249,yrk,Uralic,,Samoyedic,yrk,false,false
 nua,Nuaulu,,-3.25,129.166666667,nuau1240,,Austronesian,,Central Malayo-Polynesian,nni nxl,false,false
 nub,Nubi,,0.666666666667,32.0833333333,nubi1253,kcn,other,,Creoles and Pidgins,kcn,false,false
 nue,Nuer,,8.33333333333,32,nuer1246,nus,Eastern Sudanic,,Nilotic,nus,false,false
@@ -1907,11 +1900,11 @@ pkn,Paakantyi,,-32.5,142.5,darl1243,drl,Pama-Nyungan,,Central Pama-Nyungan,drl,f
 pkt,Pokot,,1.5,35.5,poko1263,pko,Eastern Sudanic,,Nilotic,pko,false,false
 pla,Playero,,7,-71,play1240,gob,Guahiban,,Guahiban,gob,false,false
 plb,Polabian,,51,12.8333333333,pola1255,pox,Indo-European,,Slavic,pox,false,false
-plg,Palaung,,22.6666666667,96.6666666667,nucl1291,,Austro-Asiatic,Mon-Khmer,Palaung-Khmuic,pce rbb,false,false
+plg,Palaung,,22.6666666667,96.6666666667,nucl1291,,Austro-Asiatic,Mon-Khmer,Palaungic,pce rbb,false,false
 plh,Paulohi,,-3.25,128.75,paul1238,plh,Austronesian,,Central Malayo-Polynesian,plh,false,false
 plk,Palikur,,3,-51,pali1279,plu,Arawakan,,Eastern Arawakan,plu,false,false
 plp,Pulopetak,,1.41666666667,109.833333333,ngaj1237,nij,Austronesian,,Barito,nij,false,false
-plr,Palor,,14.8333333333,-16.75,palo1243,fap,Niger-Congo,Atlantic,Northern Atlantic,fap,false,false
+plr,Palor,,14.8333333333,-16.75,palo1243,fap,Niger-Congo,Atlantic,Cangin,fap,false,false
 pmc,Pomo (Central),,39,-123.333333333,cent2138,poo,Hokan,,Pomoan,poo,false,false
 pme,Pomo (Eastern),,39,-122.666666667,east2545,peb,Hokan,,Pomoan,peb,false,false
 pmn,Pomo (Northern),,39.3333333333,-123.5,nort2966,pej,Hokan,,Pomoan,pej,false,false
@@ -1925,7 +1918,6 @@ pnu,Bunu (Younuo),,24,107,youn1235,buh,Hmong-Mien,,Hmong-Mien,buh,false,false
 pnx,Panará,,-10,-55,pana1307,kre,Macro-Ge,,Ge-Kaingang,kre,false,false
 pny,Panyjima,,-22.8333333333,118.416666667,pany1241,pnw,Pama-Nyungan,,Western Pama-Nyungan,pnw,false,false
 poa,Po-Ai,,-20.6666666667,164.833333333,fwai1237,fwa,Austronesian,Eastern Malayo-Polynesian,Oceanic,fwa,false,false
-poc,Pocomam Oriental,,14.75,-89.75,poqo1257,poa,Mayan,,Mayan,poa,false,false
 pod,Podoko,,11,14.0833333333,park1239,pbi,Afro-Asiatic,Chadic,Biu-Mandara,pbi,false,false
 pog,Pogoro,,-8.75,36.5,pogo1243,poy,Niger-Congo,Benue-Congo,Bantoid,poy,false,false
 poh,Pohnpeian,,6.88333333333,158.25,pohn1238,pon,Austronesian,Eastern Malayo-Polynesian,Oceanic,pon,false,false
@@ -1960,7 +1952,7 @@ ptp,Patpatar,,-3.76666666667,152.5,patp1243,gfk,Austronesian,Eastern Malayo-Poly
 ptt,Pattani,,32.75,76.75,patt1248,lae,Sino-Tibetan,Tibeto-Burman,Bodic,lae,false,false
 ptw,Patwin,,39,-122.333333333,patw1250,pwu,Penutian,,Wintuan,pwu,false,false
 pui,Puinave,,4,-68,puin1248,pui,,,,pui,false,false
-puk,Parauk,,23.25,99.5,para1301,prk,Austro-Asiatic,Mon-Khmer,Palaung-Khmuic,prk,false,false
+puk,Parauk,,23.25,99.5,para1301,prk,Austro-Asiatic,Mon-Khmer,Palaungic,prk,false,false
 pul,Puluwat,,7.33333333333,149.333333333,pulu1242,puw,Austronesian,Eastern Malayo-Polynesian,Oceanic,puw,false,false
 pum,Pumi,,28,101,pumi1242,,Sino-Tibetan,Tibeto-Burman,Qiangic,pmi pmj,false,false
 pun,Pungupungu,,-13.5,130.416666667,wadj1254,wdj,Anson Bay,Daly,Anson Bay,wdj,false,false
@@ -2084,7 +2076,6 @@ sha,Shan,,22,98,shan1277,shn,Tai-Kadai,,Kam-Tai,shn,false,false
 shb,Shabo,,7.58333333333,35.4166666667,shab1252,sbf,,,,sbf,false,false
 shd,Sherdukpen,,27,92.5,sher1257,sdp,Sino-Tibetan,Tibeto-Burman,Western Arunachal,sdp,false,false
 she,Sherpa,,27.75,86.8333333333,sher1255,xsr,Sino-Tibetan,Tibeto-Burman,Bodic,xsr,false,false
-shg,Shigatse,,29,89,tibe1272,bod,Sino-Tibetan,Tibeto-Burman,Bodic,bod,false,false
 shh,Sharanahua,,-11,-70,shar1245,mcd,Panoan,,Panoan,mcd,false,false
 shi,Shiriana,,3.5,-62.8333333333,nina1238,shb,Yanomam,,Yanomam,shb,false,false
 shk,Shipibo-Konibo,,-7.5,-75,ship1254,shp,Panoan,,Panoan,shp,false,true
@@ -2113,7 +2104,6 @@ ski,Saami (Kildin),,67,37,kild1236,sjd,Uralic,Finno-Ugric,Saami,sjd,false,false
 skk,Sikkimese,,27.8333333333,88.5,sikk1242,sip,Sino-Tibetan,Tibeto-Burman,Bodic,sip,false,false
 skl,Sikule,,2.66666666667,96,siku1242,skh,Austronesian,,Northwest Sumatra-Barrier Islands,skh,false,false
 skm,Sukuma,,-2.83333333333,32,suku1261,suk,Niger-Congo,Benue-Congo,Bantoid,suk,false,false
-skn,Sikuani,,6.25,-71.5,guah1255,guh,Guahiban,,Guahiban,guh,false,false
 sko,Skou,,-2.66666666667,140.916666667,nucl1634,skv,Skou,,Western Skou,skv,false,false
 skp,Selkup,,65,82,selk1253,sel,Uralic,,Samoyedic,sel,false,false
 skr,Sikaritai,,-2.91666666667,138.25,sika1263,tty,Lakes Plain,,Lakes Plain,tty,false,false
@@ -2121,7 +2111,7 @@ sku,Suku,,-6,17.6666666667,suku1259,sub,Niger-Congo,Benue-Congo,Bantoid,sub,fals
 skw,Shekhawati,,28,75.5,shek1243,swv,Indo-European,,Indic,swv,false,false
 sla,Slave,,67,-125,slav1253,,Na-Dene,,Athapaskan,scs xsl,true,true
 slb,Saliba (in Papua New Guinea),,-10.5833333333,150.716666667,sali1295,sbe,Austronesian,Eastern Malayo-Polynesian,Oceanic,sbe,false,false
-sle,Samba Leko,,8.5,12.5,samb1305,ndi,Niger-Congo,Adamawa-Ubangi,Adamawa,ndi,false,false
+sle,Samba Leko,,8.5,12.5,samb1305,ndi,Niger-Congo,Adamawa-Ubangi,Samba-Duru,ndi,false,false
 slg,Sulung,,28.3333333333,93.25,sulu1241,suv,,,,suv,false,false
 slo,Slovene,,46,15,slov1268,slv,Indo-European,,Slavic,slv,false,false
 slp,Selepet,,-6.16666666667,147.166666667,sele1250,spl,Trans-New Guinea,,Finisterre-Huon,spl,false,false
@@ -2137,7 +2127,7 @@ smp,Shompen,,7,93.75,shom1245,,,,,,false,false
 smt,Sahaptin (Umatilla),,45.6666666667,-118.5,umat1237,uma,Penutian,,Sahaptian,uma,false,false
 sna,Shina,,36,74,shin1264,scl,Indo-European,,Indic,scl,false,false
 snc,Seneca,,42.5,-77.5,sene1264,see,Iroquoian,,Northern Iroquoian,see,false,false
-snd,Senadi,,9.5,-6.25,ceba1235,sef,Niger-Congo,,Gur,sef,false,false
+snd,Senadi,,9.5,-6.25,ceba1235,sef,Niger-Congo,,Senufo,sef,false,false
 sng,Sinaugoro,,-9.83333333333,147.833333333,sina1266,snc,Austronesian,Eastern Malayo-Polynesian,Oceanic,snc,false,false
 snh,Sinhala,,7,80.5,sinh1246,sin,Indo-European,,Indic,sin,false,false
 snm,Sanuma,,4.5,-64.6666666667,sanu1240,xsu,Yanomam,,Yanomam,xsu,true,true
@@ -2173,7 +2163,7 @@ sro,Siroi,,-5.5,146,siro1249,ssd,Trans-New Guinea,,Madang,ssd,false,false
 srr,Serrano,,34.5,-117,serr1255,ser,Uto-Aztecan,,California Uto-Aztecan,ser,false,false
 sru,Selaru,,-8.2,131,sela1259,slu,Austronesian,,Central Malayo-Polynesian,slu,false,false
 sry,Siraya,,23,120.25,sira1267,fos,Austronesian,,East Formosan,fos,false,false
-ssa,Sisaala,,10.8333333333,-2.66666666667,west2465,sld,Niger-Congo,,Gur,sld,false,false
+ssa,Sisaala,,10.8333333333,-2.66666666667,west2465,sld,Niger-Congo,Gur,Southern-Central Gur,sld,false,false
 ssh,Shinassha,,10.4166666667,36.1666666667,boro1277,bwo,Afro-Asiatic,Omotic,North Omotic,bwo,false,false
 ssl,South Korean Sign Language,,37,128,kore1273,kvk,other,,Sign Languages,kvk,false,false
 sss,Salish (Samish Straits),,48.5833333333,-122.583333333,stra1244,str,Salishan,,Central Salish,str,false,false
@@ -2192,7 +2182,7 @@ suk,Suki,,-8,141.75,suki1245,sui,Gogodala-Suki,,Suki,sui,false,false
 sul,Sulka,,-5.08333333333,151.916666667,sulk1246,sua,,,,sua,false,false
 sum,Mayangna,,13,-84.5,maya1285,yan,Misumalpan,,Misumalpan,yan,false,false
 sun,Sundanese,,-7,107,sund1252,sun,Austronesian,,Malayo-Sumbawan,sun,false,false
-sup,Supyire,,11.5,-5.58333333333,supy1237,spp,Niger-Congo,,Gur,spp,true,true
+sup,Supyire,,11.5,-5.58333333333,supy1237,spp,Niger-Congo,,Senufo,spp,true,true
 sur,Sursurunga,,-4,152.766666667,surs1246,sgz,Austronesian,Eastern Malayo-Polynesian,Oceanic,sgz,false,false
 sus,Susu,,10,-13,susu1250,sus,Mande,,Western Mande,sus,false,false
 sva,Svan,,43,42.5,svan1243,sva,Kartvelian,,Kartvelian,sva,false,false
@@ -2221,7 +2211,6 @@ tam,Tamang (Eastern),,27.5,85.666666666667,,,Sino-Tibetan,Tibeto-Burman,Bodic,ta
 tan,Tangale,,9.75,11.3333333333,nucl1696,tan,Afro-Asiatic,Chadic,West Chadic,tan,false,false
 tao,Tarao,,24.25,94.1666666667,tara1313,tro,Sino-Tibetan,Tibeto-Burman,Kuki-Chin,tro,false,false
 tap,Taiap,,-4.08333333333,144.5,taia1239,gpn,Gapun,,Gapun,gpn,false,false
-taq,Taiwanese,,25,121.5,minn1241,nan,Sino-Tibetan,,Chinese,nan,false,false
 tar,Tariana,,1,-69.1666666667,tari1256,tae,Arawakan,,Inland Northern Arawakan,tae,false,false
 tas,Tashlhiyt,,31,-5,tach1250,shi,Afro-Asiatic,,Berber,shi,false,false
 tat,Tatana',,5.5,115.5,tata1257,txx,Austronesian,,North Borneo,txx,false,false
@@ -2248,7 +2237,7 @@ tec,Tectiteco,,15.4166666667,-92.0833333333,tekt1235,ttc,Mayan,,Mayan,ttc,false,
 tee,Tepehua (Huehuetla),,20.5,-98,hueh1236,tee,Totonacan,,Totonacan,tee,false,false
 teh,Tehuelche,,-48,-68,tehu1242,teh,Chon,,Chon Proper,teh,false,false
 tel,Telugu,,16,79,telu1262,tel,Dravidian,,South-Central Dravidian,tel,false,false
-tem,Tem,,8.66666666667,0.5,temm1241,kdh,Niger-Congo,,Gur,kdh,false,false
+tem,Tem,,8.66666666667,0.5,temm1241,kdh,Niger-Congo,Gur,Southern-Central Gur,kdh,false,false
 ten,Tennet,,4.41666666667,32.5,tenn1246,tex,Eastern Sudanic,,Surmic,tex,false,false
 teo,Teop,,-5.66666666667,155,teop1238,tio,Austronesian,Eastern Malayo-Polynesian,Oceanic,tio,false,false
 tep,Tepehua (Tlachichilco),,20.5833333333,-98.25,tlac1235,tpt,Totonacan,,Totonacan,tpt,false,false
@@ -2303,7 +2292,7 @@ tlb,Tatar-Noghay (Alabugat),,47.4166666667,45.6666666667,noga1249,nog,Altaic,,Tu
 tld,Talaud,,4.25,126.75,tala1285,tld,Austronesian,,Sangiric,tld,false,false
 tlf,Telefol,,-5,141.75,tele1256,tlf,Trans-New Guinea,,Ok,tlf,false,false
 tli,Tlingit,,59,-135,tlin1245,tli,Na-Dene,,Tlingit,tli,false,true
-tll,Taulil,,-4.41666666667,152.083333333,taul1251,tuh,Baining-Taulil,,Taulil,tuh,false,false
+tll,Taulil,,-4.41666666667,152.083333333,taul1251,tuh,,,,tuh,false,false
 tlo,Tobelo,,1.5,128.5,tobe1252,tlb,West Papuan,,North Halmaheran,tlb,false,false
 tlp,Tlapanec,,17.0833333333,-99,acat1239,tcf,Oto-Manguean,,Subtiaba-Tlapanec,tcf,false,false
 tls,Talysh (Southern),,37,49,taly1247,tly,Indo-European,,Iranian,tly,false,false
@@ -2316,7 +2305,7 @@ tml,Tamil,,11,78.5,tami1289,tam,Dravidian,,Southern Dravidian,tam,false,false
 tmm,Tamabo,,-15.6666666667,167.166666667,malo1243,mla,Austronesian,Eastern Malayo-Polynesian,Oceanic,mla,false,false
 tmn,Temein,,11.9166666667,29.4166666667,nucl1339,teq,Eastern Sudanic,,Temein,teq,false,false
 tmo,Tibetan (Modern Literary),,29.8333333333,91.5,tibe1272,bod,Sino-Tibetan,Tibeto-Burman,Bodic,bod,false,false
-tmp,Tampulma,,10.4166666667,-0.583333333333,tamp1252,tpm,Niger-Congo,,Gur,tpm,false,false
+tmp,Tampulma,,10.4166666667,-0.583333333333,tamp1252,tpm,Niger-Congo,Gur,Southern-Central Gur,tpm,false,false
 tmr,Temiar,,5,101.5,temi1246,tea,Austro-Asiatic,Mon-Khmer,Aslian,tea,false,false
 tms,Tommo So,,15,-3,,,Dogon,,Dogon,,false,false
 tmu,Tat (Muslim),,41.25,48.75,musl1236,ttt,Indo-European,,Iranian,ttt,false,false
@@ -2334,7 +2323,7 @@ tnn,Tunen,,4.75,10.6666666667,tune1261,tvu,Niger-Congo,Benue-Congo,Bantoid,tvu,f
 tno,Tondano,,1.25,125,tond1251,tdn,Austronesian,,Minahasan,tdn,false,false
 tns,Tanna (Southwest),,-19.5666666667,169.333333333,sout2869,nwi,Austronesian,Eastern Malayo-Polynesian,Oceanic,nwi,false,false
 tnt,Tontemboan,,1.08333333333,124.5,tont1239,tnt,Austronesian,,Minahasan,tnt,false,false
-tny,Tenyer,,10.6666666667,-4.5,west2466,kza,Niger-Congo,,Gur,kza,false,false
+tny,Tenyer,,10.6666666667,-4.5,west2466,kza,Niger-Congo,,Senufo,kza,false,false
 toa,Toaripi,,-8.33333333333,146.25,toar1246,tqo,Eleman,,Eleman Proper,tqo,false,false
 tob,Toba,,-26.5,-59,toba1269,tob,Guaicuruan,,South Guaicuruan,tob,false,false
 tod,Tod,,32.4166666667,77.25,stod1241,sbu,Sino-Tibetan,Tibeto-Burman,Bodic,sbu,false,false
@@ -2347,15 +2336,14 @@ toq,Toqabaqita,,-8.41666666667,160.583333333,toab1237,mlu,Austronesian,Eastern M
 tor,Toratán,,1.08333333333,124.833333333,rata1244,rth,Austronesian,,Sangiric,rth,false,false
 tos,Totonac (Sierra),,19.9166666667,-97.4166666667,high1243,tos,Totonacan,,Totonacan,tos,false,false
 tot,Totonac (Misantla),,19.9166666667,-96.9166666667,yecu1235,tlc,Totonacan,,Totonacan,tlc,false,false
-tou,Toussian,,11,-4.66666666667,tusi1238,,Niger-Congo,,Gur,tsp wib,false,false
-tow,Toussian (Win),,10.8333333333,-4.66666666667,sout2797,wib,Niger-Congo,,Gur,wib,false,false
+tou,Southern Toussian,,11,-4.66666666667,sout2797,wib,Niger-Congo,Gur,Tusia,wib,false,false
 toy,Tasmanian (Oyster Bay to Pitwater),,-42.5,147.75,,,Tasmanian,,Tasmanian,,false,false
 toz,Tonga (in Zambia),,-17,27,tong1318,toi,Niger-Congo,Benue-Congo,Bantoid,toi,false,false
 tpa,Totonac (Papantla),,20.3333333333,-97.3333333333,papa1238,top,Totonacan,,Totonacan,top,false,false
 tpc,Tepecano,,21.75,-104.75,tepe1278,tep,Uto-Aztecan,,Tepiman,tep,false,false
 tpi,Tok Pisin,,-9.5,147.166666667,tokp1240,tpi,other,,Creoles and Pidgins,tpi,false,false
 tpn,Tepehuan (Northern),,26.3333333333,-107,nort2959,ntp,Uto-Aztecan,,Tepiman,ntp,false,false
-tpr,Tupuri,,10.1666666667,14.75,tupu1244,tui,Niger-Congo,Adamawa-Ubangi,Adamawa,tui,false,false
+tpr,Tupuri,,10.1666666667,14.75,tupu1244,tui,Niger-Congo,Adamawa-Ubangi,Mbumic,tui,false,false
 tps,Tepehuan (Southeastern),,23,-104.5,sout2976,stp,Uto-Aztecan,,Tepiman,stp,false,false
 tpt,Tapieté,,-19.75,-61.6666666667,tapi1253,tpj,Tupian,,Tupi-Guaraní,tpj,false,false
 trb,Teribe,,9.33333333333,-82.6666666667,teri1250,tfr,Chibchan,,Talamanca,tfr,false,false
@@ -2420,14 +2408,11 @@ twx,Turkic (West Xorasan),,36.6666666667,56,khor1269,kmz,Altaic,,Turkic,kmz,fals
 txj,Totonac (Xicotepec de Juárez),,20.4166666667,-97.8333333333,xico1235,too,Totonacan,,Totonacan,too,false,false
 tye,Tyeraity,,-13,130.333333333,tyar1236,woa,Northern Daly,Daly,Northern Daly,woa,false,false
 tza,Tzeltal (Aguacatenango),,16.4166666667,-92.5,tzel1254,tzh,Mayan,,Mayan,tzh,false,false
-tzb,Tzeltal (Bachajón),,16.9166666667,-92,tzel1255,tzb,Mayan,,Mayan,tzb,false,false
-tze,Tzeltal,,16.8333333333,-92.25,tzel1253,,Mayan,,Mayan,tzb tzh,false,false
+tze,Tzeltal,,16.8333333333,-92.25,tzel1254,tzh,Mayan,,Mayan,tzh,false,false
 tzi,Taiwanese Sign Language (Ziran Shouyu),,24,121,taiw1241,tss,other,,Sign Languages,tss,false,false
 tzo,Tzotzil,,16.5,-92.6666666667,tzot1259,tzo,Mayan,,Mayan,tzo,false,false
-tzs,Tzotzil (San Andrés),,17,-92.8333333333,tzot1260,tzs,Mayan,,Mayan,tzs,false,false
 tzt,Tzeltal (Tenejapa),,16.6666666667,-92.3333333333,tzel1254,tzh,Mayan,,Mayan,tzh,false,false
 tzu,Tzutujil,,14.6666666667,-91.3333333333,tzut1248,tzj,Mayan,,Mayan,tzj,false,false
-tzz,Tzotzil (Zinacantán),,16.8333333333,-92.8333333333,tzot1264,tzz,Mayan,,Mayan,tzz,false,false
 uby,Ubykh,,43.6666666667,39.6666666667,ubyk1235,uby,Northwest Caucasian,,Northwest Caucasian,uby,false,false
 udh,Udihe,,47.6666666667,136.25,udih1248,ude,Altaic,,Tungusic,ude,false,false
 udi,Udi,,41,48,udii1243,udi,Nakh-Daghestanian,Daghestanian,Lezgic,udi,false,false
@@ -2464,7 +2449,7 @@ uyg,Uyghur,,40,80,uigh1240,uig,Altaic,,Turkic,uig,false,false
 uzb,Uzbek,,39,66,uzbe1247,,Altaic,,Turkic,uzn uzs,false,false
 uzn,Uzbek (Northern),,40.6666666667,66.5,nort2690,uzn,Altaic,,Turkic,uzn,false,false
 vaf,Vafsi,,34.6666666667,49.9166666667,vafs1240,vaf,Indo-European,,Iranian,vaf,false,false
-vag,Vagla,,9.41666666667,-2.41666666667,vagl1239,vag,Niger-Congo,,Gur,vag,false,false
+vag,Vagla,,9.41666666667,-2.41666666667,vagl1239,vag,Niger-Congo,Gur,Southern-Central Gur,vag,false,false
 vai,Vai,,6.91666666667,-11.25,vaii1241,vai,Mande,,Western Mande,vai,false,false
 vas,Vasavi,,24.5,71.5,vasa1239,vas,Indo-European,,Indic,vas,false,false
 vat,Vata,,5.83333333333,-5.41666666667,lako1244,dic,Niger-Congo,,Kru,dic,false,false
@@ -2510,7 +2495,7 @@ win,Wintu,,41,-122.5,wint1259,wnw,Penutian,,Wintuan,wnw,false,false
 wir,Wirangu,,-32,134,wira1265,wgu,Pama-Nyungan,,Central Pama-Nyungan,wgu,false,false
 wiy,Wiyot,,40.8333333333,-124.166666667,wiyo1248,wiy,Algic,,Wiyot,wiy,false,false
 wkw,Wagawaga,,-26.5,152.5,waka1274,wkw,Pama-Nyungan,,Southeastern Pama-Nyungan,wkw,false,false
-wlf,Wolof,,15.25,-16,nucl1347,wol,Niger-Congo,Atlantic,Northern Atlantic,wol,false,false
+wlf,Wolof,,15.25,-16,nucl1347,wol,Niger-Congo,Atlantic,Wolof,wol,false,false
 wll,Wallisian,,-13.3,-176.2,wall1257,wls,Austronesian,Eastern Malayo-Polynesian,Oceanic,wls,false,false
 wlm,Walmatjari,,-19.5,125.75,walm1241,wmt,Pama-Nyungan,,Western Pama-Nyungan,wmt,false,false
 wlo,Wolio,,-5.5,122.75,woli1241,wlo,Austronesian,,Celebic,wlo,false,false
@@ -2549,7 +2534,7 @@ wth,Wathawurrung,,-38,144,wath1238,,Pama-Nyungan,,Southeastern Pama-Nyungan,,fal
 wtm,Watam,,-3.91666666667,144.5,wata1253,wax,Lower Sepik-Ramu,,Lower Ramu,wax,false,false
 wuc,Wu,,31.6666666667,119.916666667,wuch1236,wuu,Sino-Tibetan,,Chinese,wuu,false,false
 wur,Waurá,,-13,-53,waur1244,wau,Arawakan,,Central Arawakan,wau,false,false
-wwa,Waama,,10.5833333333,1.66666666667,waam1244,wwa,Niger-Congo,,Gur,wwa,false,false
+wwa,Waama,,10.5833333333,1.66666666667,waam1244,wwa,Niger-Congo,Gur,Northern-Central Gur,wwa,false,false
 wwr,Woiwurrung,,-37.5,145.5,woiw1237,,Pama-Nyungan,,Southeastern Pama-Nyungan,,false,false
 wwy,Waray-Waray,,12,125,wara1300,war,Austronesian,,Greater Central Philippine,war,false,false
 wya,Wyandot,,44.3333333333,-77.5,wyan1247,wya,Iroquoian,,Northern Iroquoian,wya,false,false
@@ -2561,11 +2546,9 @@ xav,Xavánte,,-15,-52.5,xava1240,xav,Macro-Ge,,Ge-Kaingang,xav,false,false
 xbi,Kombio,,-3.5,142.75,komb1272,xbi,Torricelli,,Kombio-Arapesh,xbi,false,false
 xer,Xerénte,,-10,-48.1666666667,xere1240,xer,Macro-Ge,,Ge-Kaingang,xer,false,false
 xho,Xhosa,,-32,27,xhos1239,xho,Niger-Congo,Benue-Congo,Bantoid,xho,false,false
-xia,Xiamen,,24.5,118.166666667,minn1241,nan,Sino-Tibetan,,Chinese,nan,false,false
 xns,Kanashi,,32.0833333333,77.25,kana1283,xns,Sino-Tibetan,Tibeto-Burman,Bodic,xns,false,false
 xok,Xokleng,,-24.5,-50,xokl1240,xok,Macro-Ge,,Ge-Kaingang,xok,false,false
 xoo,!Xóõ,,-24,21.5,xooo1239,nmn,Tu,,Tu,nmn,false,false
-xsm,Kàsim,,11,-1.33333333333,kase1253,xsm,Niger-Congo,,Gur,xsm,false,false
 xun,!Xun (Ekoka),,-19.6666666667,18,kung1261,knw,Kxa,,Ju-Kung,knw,false,false
 yag,Yagua,,-3.5,-72,yagu1244,yad,Peba-Yaguan,,Peba-Yaguan,yad,true,true
 yah,Yahgan,,-55,-68,yama1264,yag,Yámana,,Yámana,yag,false,false
@@ -2594,15 +2577,16 @@ yel,Yelî Dnye,,-11.3666666667,154.166666667,yele1255,yle,Yele,,Yele,yle,false,f
 yem,Yemba,,5.41666666667,10.0833333333,yemb1246,ybb,Niger-Congo,Benue-Congo,Bantoid,ybb,false,false
 yes,Yessan-Mayo,,-4.16666666667,142.583333333,yess1239,yss,Sepik,,Tama Sepik,yss,false,false
 yey,Yeyi,,-20,23.5,yeyi1239,yey,Niger-Congo,Benue-Congo,Bantoid,yey,false,false
-ygd,Dii,,8,14,diii1241,dur,Niger-Congo,Adamawa-Ubangi,Adamawa,dur,false,false
+ygd,Dii,,8,14,diii1241,dur,Niger-Congo,Adamawa-Ubangi,Samba-Duru,dur,false,false
 ygn,Yaghnobi,,39,69,yagn1238,yai,Indo-European,,Iranian,yai,false,false
 ygr,Yagaria,,-6.33333333333,145.416666667,yaga1260,ygr,Trans-New Guinea,,Eastern Highlands,ygr,false,false
-yi,Yi,,24,104,sich1238,iii,Sino-Tibetan,Tibeto-Burman,Burmese-Lolo,iii,false,false
+yi,Nuosu,,28.0,103.0,sich1238,iii,Sino-Tibetan,Tibeto-Burman,Burmese-Lolo,iii,false,false
 yid,Yidiny,,-17,145.75,yidi1250,yii,Pama-Nyungan,,Northern Pama-Nyungan,yii,false,true
 yil,Yil,,-3.53333333333,142.15,yill1241,yll,Torricelli,,Wapei-Palei,yll,false,false
 yim,Yimas,,-4.66666666667,143.55,yima1243,yee,Lower Sepik-Ramu,,Lower Sepik,yee,false,true
 yin,Yindjibarndi,,-21.75,117.916666667,yind1247,yij,Pama-Nyungan,,Western Pama-Nyungan,yij,false,false
-yir,Yir Yiront,,-14.8333333333,141.833333333,yiry1247,yyr,Pama-Nyungan,,Northern Pama-Nyungan,yyr,false,false
+yir,Yir Yoront,,-14.8333333333,141.833333333,yiry1247,yyr,Pama-Nyungan,,Northern Pama-Nyungan,yyr,false,false
+yiw,Yi (Wuding-Luquan),,25.5,102.5,wudi1238,ywq,Sino-Tibetan,Tibeto-Burman,Burmese-Lolo,ywq,false,false
 yki,Yuki,,39.6666666667,-123.5,yuki1243,yuk,Wappo-Yukian,,Yukian,yuk,false,false
 ykm,Yakoma,,4.41666666667,18.4166666667,yako1252,yky,Niger-Congo,Adamawa-Ubangi,Ubangi,yky,false,false
 ykn,Yakan,,6.5,122,yaka1277,yka,Austronesian,,Sama-Bajaw,yka,false,false
@@ -2626,7 +2610,7 @@ yny,Yanyuwa,,-16.4166666667,137.166666667,yany1243,jao,Pama-Nyungan,,Western Pam
 yok,Yokuts (Yaudanchi),,36.0833333333,-119.083333333,yoku1256,yok,Penutian,,Yokuts,yok,false,false
 yor,Yoruba,,8,4.33333333333,yoru1245,yor,Niger-Congo,Benue-Congo,Defoid,yor,true,true
 ypk,Yup'ik (Central),,59.5,-160,cent2127,esu,Eskimo-Aleut,,Eskimo,esu,false,true
-yqy,Yaqay,,-6.58333333333,139.25,yaqa1246,jaq,Marind,,Marind Proper,jaq,false,false
+yqy,Yaqay,,-6.58333333333,139.25,yaqa1246,jaq,Anim,,Marind,jaq,false,false
 yrc,Yuracare,,-16.5833333333,-65.25,yura1255,yuz,,,,yuz,false,false
 yrm,Yurimangí,,3.83333333333,-77,yuru1243,,,,,,false,false
 yrr,Yaruro,,7,-68,pume1238,yae,,,,yae,false,false
@@ -2661,9 +2645,8 @@ zaz,Zazaki,,39,41,diml1238,diq,Indo-European,,Iranian,diq,false,false
 zch,Zoque (Chimalapa),,16.75,-94.75,chim1300,zoh,Mixe-Zoque,,Mixe-Zoque,zoh,false,false
 zen,Zenaga,,17.3333333333,-16,zena1248,zen,Afro-Asiatic,,Berber,zen,false,false
 zfl,Zoque (Francisco León),,17.3333333333,-93.25,fran1266,zos,Mixe-Zoque,,Mixe-Zoque,zos,false,false
-zha,Zhang-Zhung,,31.5833333333,78.4166666667,jang1254,jna,Sino-Tibetan,Tibeto-Burman,Bodic,jna,false,false
 zhn,Zhuang (Northern),,24,108,guib1245,zgb,Tai-Kadai,,Kam-Tai,zgb,false,false
-zim,Zimakani,,-7.43333333333,141.433333333,zima1244,zik,Marind,,Marind Proper,zik,false,false
+zim,Zimakani,,-7.43333333333,141.433333333,zima1244,zik,Anim,,Marind,zik,false,false
 zno,Zulu (Northern),,-28,31,zulu1248,zul,Niger-Congo,Benue-Congo,Bantoid,zul,false,false
 zpi,Zapotec (Ixtlan),,17.25,-96.5,sout3005,zpd,Oto-Manguean,,Zapotecan,zpd,false,false
 zpr,Zaparo,,-2,-76.3333333333,zapa1253,zro,Zaparoan,,Zaparoan,zro,false,false

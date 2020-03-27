@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/wals",
-            "dc:created": "v2008-15-g4774ad3"
+            "dc:created": "v2014-71-gfb5620e"
         },
         {
             "rdf:type": "prov:Entity",
@@ -44,7 +44,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 76465,
+            "dc:extent": 76475,
             "tableSchema": {
                 "columns": [
                     {
@@ -275,7 +275,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 2679,
+            "dc:extent": 2662,
             "tableSchema": {
                 "columns": [
                     {
@@ -461,15 +461,20 @@
             "url": "examples.csv"
         },
         {
-            "dc:extent": 7408,
+            "dc:conformsTo": null,
+            "dc:extent": 7377,
             "tableSchema": {
                 "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
                     {
                         "separator": " ",
                         "name": "Language_ID"
                     },
                     {
-                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
                         "name": "Name"
                     },
                     {
@@ -489,22 +494,29 @@
                             ]
                         }
                     }
+                ],
+                "primaryKey": [
+                    "ID"
                 ]
             },
             "url": "language_names.csv"
         },
         {
+            "dc:conformsTo": null,
             "dc:extent": 55,
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },
                     {
-                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
                         "name": "Name"
                     }
+                ],
+                "primaryKey": [
+                    "ID"
                 ]
             },
             "url": "contributors.csv"

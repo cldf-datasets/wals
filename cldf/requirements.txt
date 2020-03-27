@@ -1,14 +1,17 @@
 appdirs==1.4.3
-atomicwrites==1.1.5
 certifi==2018.4.16
 chardet==3.0.4
--e git+https://github.com/cldf/cldfbench.git@72fc2a97c6d271a3debb2b44ecc38d97405f7755#egg=cldfbench
+-e git+https://github.com/cldf/cldfbench.git@c42a444fde92dc117d0b1c5e11f6866cd0ce0faa#egg=cldfbench
+-e git+https://github.com/cldf-datasets/dplacetrees.git@4c58f9b0da798e019014656b88c1dfe5cdd35e0f#egg=cldfbench_dplacetrees
+-e git+https://github.com/cldf-datasets/dryerorder.git@65248b1eed650717b83dd08905fdf1602c4669be#egg=cldfbench_dryerorder
+-e git+https://github.com/cldf-datasets/wals.git@fb5620e20104cc89a79e707a075287205bb09a4b#egg=cldfbench_wals
 -e git+https://github.com/cldf/cldfcatalog.git@f26c9ac38c1ab111a55682ae83f4ac1cb03333c3#egg=cldfcatalog
 clldutils==3.5.0
 colorlog==3.1.4
 configparser==3.5.0
--e git+https://github.com/cldf/csvw.git@1932e2bd0614912190f5ba076179cc0a69ec543c#egg=csvw
+-e git+https://github.com/cldf/csvw.git@0eccd438b6770ad628223f77a582b55067b06002#egg=csvw
 decorator==4.3.0
+gitdb==4.0.2
 idna==2.7
 isodate==0.6.0
 jdcal==1.4.1
@@ -19,22 +22,25 @@ networkx==2.1
 -e git+https://github.com/glottobank/python-newick.git@6db59453a4f9a4280e7b89ef39792f0790b7f948#egg=newick
 numpy==1.15.4
 openpyxl==2.6.4
-pluggy==0.6.0
+packaging==20.1
+pathlib2==2.3.5
+pluggy==0.12.0
 purl==1.5
 py==1.5.3
 pybtex==0.22.2
--e git+https://github.com/cldf/pycldf.git@78aabeed7211a0059d8cf87969d0bcffebeb626a#egg=pycldf
+-e git+https://github.com/cldf/pycldf.git@dcd5acd68a3ace91e9d8cb121b2eaf7132c1f78c#egg=pycldf
 pyclts==2.0.0
 pyconcepticon==2.2.1
 pycountry==19.8.18
-pyglottolog==2.2.1
--e git+https://github.com/lexibank/pylexibank.git@046f51fc2266003749caa08df1a7e872453e38e8#egg=pylexibank
-pytest==3.6.0
+pyglottolog==3.0.0
+-e git+https://github.com/lexibank/pylexibank.git@a6283f6d643b1223144a22199fe7d8c3ffbe3204#egg=pylexibank
+pytest==5.3.5
 regex==2018.2.21
 requests==2.22.0
 rfc3986==1.1.0
 -e git+https://github.com/cldf/segments.git@0332af7a20a49507b294f6ef0a5a183d532dd7f3#egg=segments
-six==1.11.0
+six==1.14.0
+smmap==3.0.1
 SQLAlchemy==1.3.10
 tabulate==0.8.2
 termcolor==1.1.0
@@ -43,3 +49,4 @@ uritemplate==3.0.0
 urllib3==1.25.7
 wcwidth==0.1.7
 xlrd==1.2.0
+zipp==1.1.0
