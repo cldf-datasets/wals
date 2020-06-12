@@ -16,6 +16,7 @@ setup(
     },
     install_requires=[
         'cldfbench',
+        'bs4',
     ],
     extras_require={
         'test': [
