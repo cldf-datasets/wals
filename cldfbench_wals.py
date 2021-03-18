@@ -123,6 +123,10 @@ class Dataset(BaseDataset):
 
         families = self.read('family', pkmap=pk2id)
         genera = self.read('genus', pkmap=pk2id)
+        countries = self.read('country', pkmap=pk2id)
+        lang2country = collections.defaultdict(list)
+        for c in self.read('countrylanguage').values():
+            lang2country[c['language_pk']].append(pk2id['country'][c['country_pk']])
 
         for row in self.read('language', extended='walslanguage', pkmap=pk2id).values():
             id = row['id']
@@ -141,11 +145,13 @@ class Dataset(BaseDataset):
                 'ISO_codes': sorted(iso_codes),
                 'Latitude': row['latitude'],
                 'Longitude': row['longitude'],
+                'Macroarea': row['macroarea'],
                 'Genus': genus['name'] if genus else None,
                 'Subfamily': genus['subfamily'] if genus else None,
                 'Family': family['name'] if family else None,
                 'Samples_100': row['samples_100'] == 't',
                 'Samples_200': row['samples_200'] == 't',
+                'Country_ID': lang2country[row['pk']],
             })
         args.writer.objects['LanguageTable'].sort(key=lambda d: d['ID'])
 
@@ -223,6 +229,12 @@ class Dataset(BaseDataset):
                 'Provider': type,
             })
 
+        for c in countries.values():
+            args.writer.objects['countries.csv'].append({
+                'ID': c['id'],
+                'Name': c['name'],
+            })
+
     def create_schema(self, cldf):
         cldf.add_component(
             'ParameterTable',
@@ -257,6 +269,10 @@ class Dataset(BaseDataset):
                 'datatype': 'boolean',
                 'dc:description': "https://wals.info/chapter/s1#3.1._The_WALS_samples",
             },
+            {
+                'name': 'Country_ID',
+                'separator': ' ',
+            },
         )
         cldf.add_component('ExampleTable')
         t = cldf.add_table(
@@ -274,6 +290,18 @@ class Dataset(BaseDataset):
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
             },
             'Provider',
+        )
+        t.common_props['dc:conformsTo'] = None
+        t = cldf.add_table(
+            'countries.csv',
+            {
+                'name': 'ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+            },
+            {
+                'name': 'Name',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            },
         )
         t.common_props['dc:conformsTo'] = None
         t = cldf.add_table(
