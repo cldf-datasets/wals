@@ -7,6 +7,7 @@ import collections
 from csvw import dsv
 from cldfbench import Dataset as BaseDataset
 from cldfbench import CLDFSpec, Metadata
+from clldutils.misc import data_url
 from pycldf.sources import Source, Reference
 from pybtex.database import parse_string
 
@@ -98,7 +99,7 @@ class Dataset(BaseDataset):
                 'ID': row['id'],
                 'Name': row['name'],
                 'Area': areas[chapters[row['contribution_pk']]['area_pk']]['name'],
-                'Chapter': chapters[row['contribution_pk']]['name'],
+                'Chapter_ID': chapters[row['contribution_pk']]['id'],
                 'Contributor_ID': cc[row['contribution_pk']],
             })
 
@@ -229,10 +230,34 @@ class Dataset(BaseDataset):
                 'Provider': type,
             })
 
-        for c in countries.values():
+        for c in sorted(countries.values(), key=lambda x: x['id']):
             args.writer.objects['countries.csv'].append({
                 'ID': c['id'],
                 'Name': c['name'],
+            })
+
+        desc_dir = self.raw_dir / 'descriptions'
+        src_pattern = re.compile(
+            'src="https?://wals.info/static/descriptions/(?P<sid>s?[0-9]+)/images/(?P<fname>[^"]+)"')
+
+        def repl(m):
+            p = desc_dir.joinpath(m.group('sid'), 'images', m.group('fname'))
+            if p.exists():
+                return 'src="{0}"'.format(data_url(p))
+            return m.string[m.start():m.end()]
+
+        descs = {}
+        for d in desc_dir.iterdir():
+            if d.is_dir():
+                descs[d.stem] = src_pattern.sub(
+                    repl, d.joinpath('body.xhtml').read_text(encoding='utf8'))
+
+        for c in sorted(chapters.values(), key=lambda x: int(x['sortkey'])):
+            args.writer.objects['chapters.csv'].append({
+                'ID': c['id'],
+                'Name': c['name'],
+                'Number': c['sortkey'],
+                'Description': descs[c['id']] if c['id'] in descs else None
             })
 
     def create_schema(self, cldf):
@@ -242,7 +267,7 @@ class Dataset(BaseDataset):
                 'name': 'Contributor_ID',
                 'separator': ' ',
             },
-            'Chapter',
+            'Chapter_ID',
             'Area',
         )
         cldf.add_component(
@@ -305,6 +330,26 @@ class Dataset(BaseDataset):
         )
         t.common_props['dc:conformsTo'] = None
         t = cldf.add_table(
+            'chapters.csv',
+            {
+                'name': 'ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+            },
+            {
+                'name': 'Name',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            },
+            {
+                'name': 'Number',
+                'datatype': 'integer'
+            },
+            {
+                'name': 'Description',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#description',
+            },
+        )
+        t.common_props['dc:conformsTo'] = None
+        t = cldf.add_table(
             'contributors.csv',
             {
                 'name': 'ID',
@@ -328,6 +373,7 @@ class Dataset(BaseDataset):
             }
         )
         cldf.add_foreign_key('ParameterTable', 'Contributor_ID', 'contributors.csv', 'ID')
+        cldf.add_foreign_key('ParameterTable', 'Chapter_ID', 'chapters.csv', 'ID')
         cldf.add_foreign_key('language_names.csv', 'Language_ID', 'LanguageTable', 'ID')
 
     #
