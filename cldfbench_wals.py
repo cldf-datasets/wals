@@ -73,7 +73,8 @@ class Dataset(BaseDataset):
 
         contributors = self.read('contributor', pkmap=pk2id, key=lambda r: r['id'])
         for row in contributors.values():
-            args.writer.objects['contributors.csv'].append({'ID': row['id'], 'Name': row['name']})
+            args.writer.objects['contributors.csv'].append(
+                {'ID': row['id'], 'Name': row['name'], 'Url': row['url']})
 
         cc = {
             fid: [pk2id['contributor'][r['contributor_pk']] for r in rows]
@@ -284,6 +285,9 @@ class Dataset(BaseDataset):
             {
                 'name': 'Name',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            },
+            {
+                'name': 'Url',
             },
         )
         t.common_props['dc:conformsTo'] = None
