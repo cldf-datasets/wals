@@ -98,6 +98,13 @@ class Dataset(BaseDataset):
         areas = self.read('area')
         chapters = self.read('contribution', extended='chapter')
 
+        for row in areas.values():
+            args.writer.objects['areas.csv'].append({
+                'ID': row['id'],
+                'Name': row['name'],
+                'dbpedia_url': row['dbpedia_url'],
+            })
+
         for row in self.read(
                 'parameter',
                 extended='feature',
@@ -106,7 +113,7 @@ class Dataset(BaseDataset):
             args.writer.objects['ParameterTable'].append({
                 'ID': row['id'],
                 'Name': row['name'],
-                'Area': areas[chapters[row['contribution_pk']]['area_pk']]['name'],
+                'Area_ID': areas[chapters[row['contribution_pk']]['area_pk']]['id'],
                 'Chapter_ID': chapters[row['contribution_pk']]['id'],
                 'Contributor_ID': cc[row['contribution_pk']],
             })
@@ -281,7 +288,7 @@ class Dataset(BaseDataset):
                 'separator': ' ',
             },
             'Chapter_ID',
-            'Area',
+            'Area_ID',
         )
         cldf.add_component(
             'CodeTable',
@@ -360,6 +367,22 @@ class Dataset(BaseDataset):
         )
         t.common_props['dc:conformsTo'] = None
         t = cldf.add_table(
+            'areas.csv',
+            {
+                'name': 'ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+                'valueUrl': 'docs/chapter_{ID}.html',
+            },
+            {
+                'name': 'Name',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            },
+            {
+                'name': 'dbpedia_url',
+            },
+        )
+        t.common_props['dc:conformsTo'] = None
+        t = cldf.add_table(
             'contributors.csv',
             {
                 'name': 'ID',
@@ -388,6 +411,7 @@ class Dataset(BaseDataset):
         )
         cldf.add_foreign_key('ParameterTable', 'Contributor_ID', 'contributors.csv', 'ID')
         cldf.add_foreign_key('ParameterTable', 'Chapter_ID', 'chapters.csv', 'ID')
+        cldf.add_foreign_key('ParameterTable', 'Area_ID', 'areas.csv', 'ID')
         cldf.add_foreign_key('language_names.csv', 'Language_ID', 'LanguageTable', 'ID')
 
     #
