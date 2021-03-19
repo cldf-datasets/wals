@@ -72,10 +72,17 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_sources(
             *[Source.from_entry(id_, e) for id_, e in sources.entries.items() if id_ in srcids])
 
+        editors = {e['contributor_pk']: int(e['ord']) for e in self.read(
+                    'editor', key=lambda r: int(r['ord'])).values()}
+
         contributors = self.read('contributor', pkmap=pk2id, key=lambda r: r['id'])
         for row in contributors.values():
-            args.writer.objects['contributors.csv'].append(
-                {'ID': row['id'], 'Name': row['name'], 'Url': row['url']})
+            args.writer.objects['contributors.csv'].append({
+                'ID': row['id'],
+                'Name': row['name'],
+                'Url': row['url'],
+                'Editor_Ord': editors[row['pk']] if row['pk'] in editors else 0,
+            })
 
         cc = {
             fid: [pk2id['contributor'][r['contributor_pk']] for r in rows]
@@ -361,6 +368,10 @@ class Dataset(BaseDataset):
             },
             {
                 'name': 'Url',
+            },
+            {
+                'name': 'Editor_Ord',
+                'datatype': 'integer',
             },
         )
         t.common_props['dc:conformsTo'] = None
