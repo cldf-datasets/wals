@@ -15,8 +15,11 @@ setup(
         ],
     },
     install_requires=[
-        'cldfbench',
-        'bs4',
+        'cldfbench>=1.3.0',
+        'clldutils>=3.6.0',
+        'pycldf>=1.17.0',
+        'pybtex>=0.23.0',
+        'bs4>=4.9.1',
     ],
     extras_require={
         'test': [
