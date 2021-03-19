@@ -1,3 +1,4 @@
+import io
 import re
 import json
 import pathlib
@@ -254,17 +255,22 @@ class Dataset(BaseDataset):
             return m.string[m.start():m.end()]
 
         descs = {}
+        docs_dir = self.cldf_dir / 'docs'
+        docs_dir.mkdir(exist_ok=True)
         for d in desc_dir.iterdir():
             if d.is_dir():
                 descs[d.stem] = src_pattern.sub(
                     repl, d.joinpath('body.xhtml').read_text(encoding='utf8'))
 
         for c in sorted(chapters.values(), key=lambda x: int(x['sortkey'])):
+            if c['id'] in descs:
+                fname = docs_dir / 'chapter_{}.html'.format(c['id'])
+                with io.open(fname, 'w', encoding='utf-8') as f:
+                    f.write(descs[c['id']])
             args.writer.objects['chapters.csv'].append({
                 'ID': c['id'],
                 'Name': c['name'],
                 'Number': c['sortkey'],
-                'Description': descs[c['id']] if c['id'] in descs else None
             })
 
     def create_schema(self, cldf):
@@ -341,6 +347,7 @@ class Dataset(BaseDataset):
             {
                 'name': 'ID',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+                'valueUrl': 'docs/chapter_{ID}.html',
             },
             {
                 'name': 'Name',
@@ -349,10 +356,6 @@ class Dataset(BaseDataset):
             {
                 'name': 'Number',
                 'datatype': 'integer'
-            },
-            {
-                'name': 'Description',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#description',
             },
         )
         t.common_props['dc:conformsTo'] = None
