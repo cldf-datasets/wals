@@ -277,6 +277,7 @@ class Dataset(BaseDataset):
             args.writer.objects['chapters.csv'].append({
                 'ID': c['id'],
                 'Name': c['name'],
+                'wp_slug': c['wp_slug'],
                 'Number': c['sortkey'],
             })
 
@@ -359,6 +360,9 @@ class Dataset(BaseDataset):
             {
                 'name': 'Name',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            },
+            {
+                'name': 'wp_slug',
             },
             {
                 'name': 'Number',
