@@ -113,7 +113,6 @@ class Dataset(BaseDataset):
             args.writer.objects['ParameterTable'].append({
                 'ID': row['id'],
                 'Name': row['name'],
-                'Area_ID': areas[chapters[row['contribution_pk']]['area_pk']]['id'],
                 'Chapter_ID': chapters[row['contribution_pk']]['id'],
                 'Contributor_ID': cc[row['contribution_pk']],
             })
@@ -279,6 +278,7 @@ class Dataset(BaseDataset):
                 'Name': c['name'],
                 'wp_slug': c['wp_slug'],
                 'Number': c['sortkey'],
+                'Area_ID': areas[c['area_pk']]['id'] if c['area_pk'] in areas else '',
             })
 
     def create_schema(self, cldf):
@@ -289,7 +289,6 @@ class Dataset(BaseDataset):
                 'separator': ' ',
             },
             'Chapter_ID',
-            'Area_ID',
         )
         cldf.add_component(
             'CodeTable',
@@ -368,6 +367,7 @@ class Dataset(BaseDataset):
                 'name': 'Number',
                 'datatype': 'integer'
             },
+            'Area_ID',
         )
         t.common_props['dc:conformsTo'] = None
         t = cldf.add_table(
@@ -415,7 +415,7 @@ class Dataset(BaseDataset):
         )
         cldf.add_foreign_key('ParameterTable', 'Contributor_ID', 'contributors.csv', 'ID')
         cldf.add_foreign_key('ParameterTable', 'Chapter_ID', 'chapters.csv', 'ID')
-        cldf.add_foreign_key('ParameterTable', 'Area_ID', 'areas.csv', 'ID')
+        cldf.add_foreign_key('chapters.csv', 'Area_ID', 'areas.csv', 'ID')
         cldf.add_foreign_key('language_names.csv', 'Language_ID', 'LanguageTable', 'ID')
 
     #
