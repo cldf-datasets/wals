@@ -86,7 +86,7 @@ class Dataset(BaseDataset):
             })
 
         cc = {
-            fid: [pk2id['contributor'][r['contributor_pk']] for r in rows]
+            fid: [(r['primary'], pk2id['contributor'][r['contributor_pk']]) for r in rows]
             for fid, rows in itertools.groupby(
                 self.read(
                     'contributioncontributor',
@@ -114,7 +114,8 @@ class Dataset(BaseDataset):
                 'ID': row['id'],
                 'Name': row['name'],
                 'Chapter_ID': chapters[row['contribution_pk']]['id'],
-                'Contributor_ID': cc[row['contribution_pk']],
+                'Contributor_ID': [c[1] for c in cc[row['contribution_pk']] if c[0] == 't'],
+                'With_Contributor_ID': [c[1] for c in cc[row['contribution_pk']] if c[0] == 'f'],
             })
 
         for row in self.read(
@@ -288,6 +289,10 @@ class Dataset(BaseDataset):
                 'name': 'Contributor_ID',
                 'separator': ' ',
             },
+            {
+                'name': 'With_Contributor_ID',
+                'separator': ' ',
+            },
             'Chapter_ID',
         )
         cldf.add_component(
@@ -414,6 +419,7 @@ class Dataset(BaseDataset):
             }
         )
         cldf.add_foreign_key('ParameterTable', 'Contributor_ID', 'contributors.csv', 'ID')
+        cldf.add_foreign_key('ParameterTable', 'With_Contributor_ID', 'contributors.csv', 'ID')
         cldf.add_foreign_key('ParameterTable', 'Chapter_ID', 'chapters.csv', 'ID')
         cldf.add_foreign_key('chapters.csv', 'Area_ID', 'areas.csv', 'ID')
         cldf.add_foreign_key('language_names.csv', 'Language_ID', 'LanguageTable', 'ID')
