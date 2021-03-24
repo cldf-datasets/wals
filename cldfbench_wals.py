@@ -163,6 +163,7 @@ class Dataset(BaseDataset):
                 'Longitude': row['longitude'],
                 'Macroarea': row['macroarea'],
                 'Genus': genus['name'] if genus else None,
+                'GenusIcon': genus['icon'] if genus else None,
                 'Subfamily': genus['subfamily'] if genus else None,
                 'Family': family['name'] if family else None,
                 'Samples_100': row['samples_100'] == 't',
@@ -305,6 +306,7 @@ class Dataset(BaseDataset):
             'Family',
             'Subfamily',
             'Genus',
+            'GenusIcon',
             {
                 'name': 'ISO_codes',
                 'separator': ' ',
