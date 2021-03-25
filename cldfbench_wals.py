@@ -155,7 +155,7 @@ class Dataset(BaseDataset):
             glottocodes = [i[0] for i in lang2id[row['pk']].get('glottolog', [])]
             args.writer.objects['LanguageTable'].append({
                 'ID': id,
-                'Name': row['name'],
+                'Name': row['name'].strip(),
                 'ISO639P3code': list(iso_codes)[0] if len(iso_codes) == 1 else None,
                 'Glottocode': glottocodes[0] if len(glottocodes) == 1 else None,
                 'ISO_codes': sorted(iso_codes),
