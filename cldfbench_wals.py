@@ -242,7 +242,7 @@ class Dataset(BaseDataset):
             args.writer.objects['language_names.csv'].append({
                 'ID': str(lnid),
                 'Language_ID': [r[2] for r in rows],
-                'Name': name,
+                'Name': name.strip(),
                 'Provider': type,
             })
 
