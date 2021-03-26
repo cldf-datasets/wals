@@ -63,7 +63,12 @@ class Dataset(BaseDataset):
         pk2id = collections.defaultdict(dict)
         sources = parse_string(
             self.raw_dir.joinpath('source.bib').read_text(encoding='utf8'), 'bibtex')
-        self.read('source', pkmap=pk2id)
+        for s in self.read('source', pkmap=pk2id).values():
+            try:
+                gbs = json.loads(s['jsondata'])['gbs']
+                sources.entries[s['id']].fields['gbs_id'] = gbs['id']
+            except (json.decoder.JSONDecodeError, KeyError):
+                continue
 
         refs = []
         for row in self.raw_dir.read_csv('valuesetreference.csv', dicts=True):
