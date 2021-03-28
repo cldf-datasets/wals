@@ -70,13 +70,25 @@ class Dataset(BaseDataset):
             except (json.decoder.JSONDecodeError, KeyError):
                 continue
 
+        chapters = self.read('contribution', extended='chapter', pkmap=pk2id)
+
         refs = []
+        crefs = collections.defaultdict(list)
         for row in self.raw_dir.read_csv('valuesetreference.csv', dicts=True):
             if row['source_pk']:
                 refs.append((row['valueset_pk'], pk2id['source'][row['source_pk']], row['description']))
         srcids = set(r[1] for r in refs)
-        args.writer.cldf.add_sources(
-            *[Source.from_entry(id_, e) for id_, e in sources.entries.items() if id_ in srcids])
+        for row in self.raw_dir.read_csv('contributionreference.csv', dicts=True):
+            sid = pk2id['source'][row['source_pk']]
+            if sid not in crefs[pk2id['contribution'][row['contribution_pk']]]:
+                crefs[pk2id['contribution'][row['contribution_pk']]].append(sid)
+                srcids.add(sid)
+        for id_, e in sources.entries.items():
+            if id_ in srcids:
+                if not e.fields['title']:
+                    # has to be set to appear in cldf/source.bib
+                    e.fields['title'] = ' '
+                args.writer.cldf.add_sources(Source.from_entry(id_, e))
 
         editors = {e['contributor_pk']: int(e['ord']) for e in self.read(
                     'editor', key=lambda r: int(r['ord'])).values()}
@@ -101,8 +113,6 @@ class Dataset(BaseDataset):
         }
 
         areas = self.read('area')
-        chapters = self.read('contribution', extended='chapter')
-
         for row in areas.values():
             args.writer.objects['areas.csv'].append({
                 'ID': row['id'],
@@ -286,6 +296,7 @@ class Dataset(BaseDataset):
                 'wp_slug': c['wp_slug'],
                 'Number': c['sortkey'],
                 'Area_ID': areas[c['area_pk']]['id'] if c['area_pk'] in areas else '',
+                'Source': crefs.get(c['id'], []),
             })
 
     def create_schema(self, cldf):
@@ -372,14 +383,16 @@ class Dataset(BaseDataset):
                 'name': 'Name',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
             },
-            {
-                'name': 'wp_slug',
-            },
+            'wp_slug',
             {
                 'name': 'Number',
                 'datatype': 'integer'
             },
             'Area_ID',
+            {
+                'name': 'Source',
+                'separator': ' '
+            },
         )
         t.common_props['dc:conformsTo'] = None
         t = cldf.add_table(
