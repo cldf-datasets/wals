@@ -162,6 +162,7 @@ class Dataset(BaseDataset):
         for row in self.read('language', extended='walslanguage', pkmap=pk2id).values():
             id = row['id']
             genus = genera[row['genus_pk']]
+            genus_icon = genus['icon'] if genus else ''
             family = families[genus['family_pk']]
             if row['name'] == genus['name'] == family['name']:
                 # an isolate!
@@ -178,7 +179,7 @@ class Dataset(BaseDataset):
                 'Longitude': row['longitude'],
                 'Macroarea': row['macroarea'],
                 'Genus': genus['name'] if genus else None,
-                'GenusIcon': genus['icon'] if genus else None,
+                'GenusIcon': genus_icon,
                 'Subfamily': genus['subfamily'] if genus else None,
                 'Family': family['name'] if family else None,
                 'Samples_100': row['samples_100'] == 't',
