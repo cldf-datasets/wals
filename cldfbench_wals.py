@@ -63,10 +63,13 @@ class Dataset(BaseDataset):
         pk2id = collections.defaultdict(dict)
         sources = parse_string(
             self.raw_dir.joinpath('source.bib').read_text(encoding='utf8'), 'bibtex')
+        src_names = {}
         for s in self.read('source', pkmap=pk2id).values():
+            src_names[s['id']] = s['name']
             try:
-                gbs = json.loads(s['jsondata'])['gbs']
-                sources.entries[s['id']].fields['gbs_id'] = gbs['id']
+                gbs_id = json.loads(s['jsondata'])['gbs']['id'].strip()
+                if gbs_id:
+                    sources.entries[s['id']].fields['google_book_search_id'] = gbs_id
             except (json.decoder.JSONDecodeError, KeyError):
                 continue
 
@@ -83,11 +86,20 @@ class Dataset(BaseDataset):
             if sid not in crefs[pk2id['contribution'][row['contribution_pk']]]:
                 crefs[pk2id['contribution'][row['contribution_pk']]].append(sid)
                 srcids.add(sid)
+        unused_srcids = []
         for id_, e in sources.entries.items():
             if id_ in srcids:
                 if not e.fields['title']:
                     # has to be set to appear in cldf/source.bib
-                    e.fields['title'] = ' '
+                    e.fields['title'] = '*{}'.format(src_names[id_])
+                args.writer.cldf.add_sources(Source.from_entry(id_, e))
+            else:
+                unused_srcids.append(id_)
+        for id_, e in sources.entries.items():
+            if id_ in unused_srcids:
+                if not e.fields['title']:
+                    # has to be set to appear in cldf/source.bib
+                    e.fields['title'] = '*{}'.format(src_names[id_])
                 args.writer.cldf.add_sources(Source.from_entry(id_, e))
 
         editors = {e['contributor_pk']: int(e['ord']) for e in self.read(
@@ -156,6 +168,11 @@ class Dataset(BaseDataset):
         lang2country = collections.defaultdict(list)
         for c in self.read('countrylanguage').values():
             lang2country[c['language_pk']].append(pk2id['country'][c['country_pk']])
+        lrefs = collections.defaultdict(list)
+        for c in self.read('languagesource').values():
+            lid = pk2id['source'][c['source_pk']]
+            if lid not in lrefs[c['language_pk']]:
+                lrefs[c['language_pk']].append(lid)
 
         for row in self.read('language', extended='walslanguage', pkmap=pk2id).values():
             id = row['id']
@@ -183,6 +200,7 @@ class Dataset(BaseDataset):
                 'Samples_100': row['samples_100'] == 't',
                 'Samples_200': row['samples_200'] == 't',
                 'Country_ID': lang2country[row['pk']],
+                'Source': lrefs[row['pk']],
             })
         args.writer.objects['LanguageTable'].sort(key=lambda d: d['ID'])
 
@@ -337,6 +355,10 @@ class Dataset(BaseDataset):
             {
                 'name': 'Country_ID',
                 'separator': ' ',
+            },
+            {
+                'name': 'Source',
+                'separator': ' '
             },
         )
         cldf.add_component('ExampleTable')
