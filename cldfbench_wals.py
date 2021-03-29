@@ -67,9 +67,11 @@ class Dataset(BaseDataset):
         for s in self.read('source', pkmap=pk2id).values():
             src_names[s['id']] = s['name']
             try:
-                gbs_id = json.loads(s['jsondata'])['gbs']['id'].strip()
-                if gbs_id:
-                    sources.entries[s['id']].fields['google_book_search_id'] = gbs_id
+                gbs = json.loads(s['jsondata'])['gbs']
+                if gbs['id'].strip():
+                    sef = sources.entries[s['id']].fields
+                    sef['google_book_search_id'] = gbs['id'].strip()
+                    sef['google_book_viewability'] = gbs['accessInfo']['viewability'].strip()
             except (json.decoder.JSONDecodeError, KeyError):
                 continue
 
