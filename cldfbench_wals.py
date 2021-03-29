@@ -103,7 +103,7 @@ class Dataset(BaseDataset):
             })
 
         cc = {
-            fid: [(r['primary'], pk2id['contributor'][r['contributor_pk']]) for r in rows]
+            chapters[fid]['id']: [(r['primary'], pk2id['contributor'][r['contributor_pk']]) for r in rows]
             for fid, rows in itertools.groupby(
                 self.read(
                     'contributioncontributor',
@@ -129,8 +129,6 @@ class Dataset(BaseDataset):
                 'ID': row['id'],
                 'Name': row['name'],
                 'Chapter_ID': chapters[row['contribution_pk']]['id'],
-                'Contributor_ID': [c[1] for c in cc[row['contribution_pk']] if c[0] == 't'],
-                'With_Contributor_ID': [c[1] for c in cc[row['contribution_pk']] if c[0] == 'f'],
             })
 
         for row in self.read(
@@ -291,6 +289,10 @@ class Dataset(BaseDataset):
                 fname = docs_dir / 'chapter_{}.html'.format(c['id'])
                 with io.open(fname, 'w', encoding='utf-8') as f:
                     f.write(descs[c['id']])
+            cid, wcid = [], []
+            if c['id'] in cc:
+                cid = [co[1] for co in cc[c['id']] if co[0] == 't']
+                wcid = [co[1] for co in cc[c['id']] if co[0] == 'f']
             args.writer.objects['chapters.csv'].append({
                 'ID': c['id'],
                 'Name': c['name'],
@@ -298,19 +300,13 @@ class Dataset(BaseDataset):
                 'Number': c['sortkey'],
                 'Area_ID': areas[c['area_pk']]['id'] if c['area_pk'] in areas else '',
                 'Source': crefs.get(c['id'], []),
+                'Contributor_ID': cid,
+                'With_Contributor_ID': wcid,
             })
 
     def create_schema(self, cldf):
         cldf.add_component(
             'ParameterTable',
-            {
-                'name': 'Contributor_ID',
-                'separator': ' ',
-            },
-            {
-                'name': 'With_Contributor_ID',
-                'separator': ' ',
-            },
             'Chapter_ID',
         )
         cldf.add_component(
@@ -394,6 +390,14 @@ class Dataset(BaseDataset):
                 'name': 'Source',
                 'separator': ' '
             },
+            {
+                'name': 'Contributor_ID',
+                'separator': ' ',
+            },
+            {
+                'name': 'With_Contributor_ID',
+                'separator': ' ',
+            },
         )
         t.common_props['dc:conformsTo'] = None
         t = cldf.add_table(
@@ -439,8 +443,8 @@ class Dataset(BaseDataset):
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference',
             }
         )
-        cldf.add_foreign_key('ParameterTable', 'Contributor_ID', 'contributors.csv', 'ID')
-        cldf.add_foreign_key('ParameterTable', 'With_Contributor_ID', 'contributors.csv', 'ID')
+        cldf.add_foreign_key('chapters.csv', 'Contributor_ID', 'contributors.csv', 'ID')
+        cldf.add_foreign_key('chapters.csv', 'With_Contributor_ID', 'contributors.csv', 'ID')
         cldf.add_foreign_key('ParameterTable', 'Chapter_ID', 'chapters.csv', 'ID')
         cldf.add_foreign_key('chapters.csv', 'Area_ID', 'areas.csv', 'ID')
         cldf.add_foreign_key('language_names.csv', 'Language_ID', 'LanguageTable', 'ID')
