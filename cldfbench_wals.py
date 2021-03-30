@@ -89,19 +89,24 @@ class Dataset(BaseDataset):
                 crefs[pk2id['contribution'][row['contribution_pk']]].append(sid)
                 srcids.add(sid)
         unused_srcids = []
+        skip_source = [
+            'Lous-1969',  # -> Loos-1969
+        ]
         for id_, e in sources.entries.items():
+            if id_ in skip_source:
+                continue
             if id_ in srcids:
-                if not e.fields['title']:
-                    # has to be set to appear in cldf/source.bib
-                    e.fields['title'] = '*{}'.format(src_names[id_])
+                if id_ in src_names:
+                    e.fields['name'] = src_names[id_]
                 args.writer.cldf.add_sources(Source.from_entry(id_, e))
             else:
                 unused_srcids.append(id_)
         for id_, e in sources.entries.items():
+            if id_ in skip_source:
+                continue
             if id_ in unused_srcids:
-                if not e.fields['title']:
-                    # has to be set to appear in cldf/source.bib
-                    e.fields['title'] = '*{}'.format(src_names[id_])
+                if id_ in src_names:
+                    e.fields['name'] = src_names[id_]
                 args.writer.cldf.add_sources(Source.from_entry(id_, e))
 
         editors = {e['contributor_pk']: int(e['ord']) for e in self.read(
