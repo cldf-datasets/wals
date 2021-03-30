@@ -97,7 +97,7 @@ class Dataset(BaseDataset):
                 continue
             if id_ in srcids:
                 if id_ in src_names:
-                    e.fields['name'] = src_names[id_]
+                    e.fields['wals_ref_name'] = src_names[id_]
                 args.writer.cldf.add_sources(Source.from_entry(id_, e))
             else:
                 unused_srcids.append(id_)
@@ -106,7 +106,7 @@ class Dataset(BaseDataset):
                 continue
             if id_ in unused_srcids:
                 if id_ in src_names:
-                    e.fields['name'] = src_names[id_]
+                    e.fields['wals_ref_name'] = src_names[id_]
                 args.writer.cldf.add_sources(Source.from_entry(id_, e))
 
         editors = {e['contributor_pk']: int(e['ord']) for e in self.read(
