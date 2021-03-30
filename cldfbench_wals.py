@@ -61,12 +61,26 @@ class Dataset(BaseDataset):
         self.create_schema(args.writer.cldf)
 
         pk2id = collections.defaultdict(dict)
+
+        skip_source = [
+            'Lous-1969',  # -> Loos-1969
+            'Payne-1990',  # -> Payne-1990a
+        ]
+        updated_source_keys = {
+            'Anonymous-nd': 'North-East-Frontier-Agency-1963',
+        }
+        updated_source_names = {
+            'North-East-Frontier-Agency-1963': 'North East Frontier Agency 1963',
+        }
         sources = parse_string(
             self.raw_dir.joinpath('source.bib').read_text(encoding='utf8'), 'bibtex')
         gbs_lg_refs = collections.defaultdict(set)
         src_names = {}
         for s in self.read('source', pkmap=pk2id).values():
-            src_names[s['id']] = s['name']
+            if s['id'] in skip_source:
+                continue
+            s['id'] = updated_source_keys.get(s['id'], s['id'])
+            src_names[s['id']] = updated_source_names.get(s['id'], s['name'])
             try:
                 jsd = json.loads(s['jsondata'])
                 if 'wals_code' in jsd:
@@ -85,7 +99,9 @@ class Dataset(BaseDataset):
         crefs = collections.defaultdict(list)
         for row in self.raw_dir.read_csv('valuesetreference.csv', dicts=True):
             if row['source_pk']:
-                refs.append((row['valueset_pk'], pk2id['source'][row['source_pk']], row['description']))
+                sid = pk2id['source'][row['source_pk']]
+                if sid not in skip_source:
+                    refs.append((row['valueset_pk'], updated_source_keys.get(sid, sid), row['description']))
         srcids = set(r[1] for r in refs)
         for row in self.raw_dir.read_csv('contributionreference.csv', dicts=True):
             sid = pk2id['source'][row['source_pk']]
@@ -93,10 +109,6 @@ class Dataset(BaseDataset):
                 crefs[pk2id['contribution'][row['contribution_pk']]].append(sid)
                 srcids.add(sid)
         unused_srcids = []
-        skip_source = [
-            'Lous-1969',  # -> Loos-1969
-            'Payne-1990',  # -> Payne-1990a
-        ]
         for id_, e in sources.entries.items():
             if id_ in skip_source:
                 continue
@@ -187,9 +199,10 @@ class Dataset(BaseDataset):
             lang2country[c['language_pk']].append(pk2id['country'][c['country_pk']])
         lrefs = collections.defaultdict(list)
         for c in self.read('languagesource').values():
-            lid = pk2id['source'][c['source_pk']]
-            if lid not in lrefs[c['language_pk']]:
-                lrefs[c['language_pk']].append(lid)
+            sid = pk2id['source'][c['source_pk']]
+            sid = updated_source_keys.get(sid, sid)
+            if sid not in lrefs[c['language_pk']]:
+                lrefs[c['language_pk']].append(sid)
 
         for row in self.read('language', extended='walslanguage', pkmap=pk2id).values():
             id = row['id']
