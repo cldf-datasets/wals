@@ -63,11 +63,15 @@ class Dataset(BaseDataset):
         pk2id = collections.defaultdict(dict)
         sources = parse_string(
             self.raw_dir.joinpath('source.bib').read_text(encoding='utf8'), 'bibtex')
+        gbs_lg_refs = collections.defaultdict(set)
         src_names = {}
         for s in self.read('source', pkmap=pk2id).values():
             src_names[s['id']] = s['name']
             try:
-                gbs = json.loads(s['jsondata'])['gbs']
+                jsd = json.loads(s['jsondata'])
+                if 'wals_code' in jsd:
+                    [gbs_lg_refs[c].add(s['id']) for c in jsd['wals_code']]
+                gbs = jsd['gbs']
                 if gbs['id'].strip():
                     sef = sources.entries[s['id']].fields
                     sef['google_book_search_id'] = gbs['id'].strip()
@@ -91,6 +95,7 @@ class Dataset(BaseDataset):
         unused_srcids = []
         skip_source = [
             'Lous-1969',  # -> Loos-1969
+            'Payne-1990',  # -> Payne-1990a
         ]
         for id_, e in sources.entries.items():
             if id_ in skip_source:
@@ -101,6 +106,11 @@ class Dataset(BaseDataset):
                 args.writer.cldf.add_sources(Source.from_entry(id_, e))
             else:
                 unused_srcids.append(id_)
+            # add language references out of bibtex tag 'wals_code'
+            # to ensure that nothing was missed in raw/languagesource.csv (37 cases)
+            if 'wals_code' in e.fields:
+                [gbs_lg_refs[c].add(id_) for c in e.fields['wals_code'].split('; ')]
+
         for id_, e in sources.entries.items():
             if id_ in skip_source:
                 continue
@@ -191,6 +201,9 @@ class Dataset(BaseDataset):
                 genus = family = None
             iso_codes = set(i[0] for i in lang2id[row['pk']].get('iso639-3', []))
             glottocodes = [i[0] for i in lang2id[row['pk']].get('glottolog', [])]
+            srcs = lrefs[row['pk']]
+            if id in gbs_lg_refs:
+                [srcs.append(s) for s in gbs_lg_refs[id] if s not in srcs]
             args.writer.objects['LanguageTable'].append({
                 'ID': id,
                 'Name': row['name'].strip(),
@@ -207,7 +220,7 @@ class Dataset(BaseDataset):
                 'Samples_100': row['samples_100'] == 't',
                 'Samples_200': row['samples_200'] == 't',
                 'Country_ID': lang2country[row['pk']],
-                'Source': lrefs[row['pk']],
+                'Source': srcs,
             })
         args.writer.objects['LanguageTable'].sort(key=lambda d: d['ID'])
 
