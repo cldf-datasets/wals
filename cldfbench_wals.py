@@ -278,7 +278,7 @@ class Dataset(BaseDataset):
             comment = None
             ex = [examples[spk] for spk in example_by_value.get(row['pk'], [])]
             if len(ex) == 1 and not any(ex[0][k] for k in ['description', 'analyzed', 'gloss']):
-                comment = ex[0]['name']
+                comment = re.sub(r'[\r\n]', '', ex[0]['xhtml'])
                 del example_by_value[row['pk']]
             args.writer.objects['ValueTable'].append({
                 'ID': vs['id'],
