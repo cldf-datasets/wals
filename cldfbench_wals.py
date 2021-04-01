@@ -233,7 +233,7 @@ class Dataset(BaseDataset):
                 'Samples_100': row['samples_100'] == 't',
                 'Samples_200': row['samples_200'] == 't',
                 'Country_ID': lang2country[row['pk']],
-                'Source': srcs,
+                'Source': sorted(srcs),
             })
         args.writer.objects['LanguageTable'].sort(key=lambda d: d['ID'])
 

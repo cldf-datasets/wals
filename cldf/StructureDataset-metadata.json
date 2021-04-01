@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/wals",
-            "dc:created": "v2020-30-ga3c6c91"
+            "dc:created": "v2020-34-gaf67a99"
         },
         {
             "rdf:type": "prov:Entity",
@@ -85,6 +85,8 @@
                         "name": "Code_ID"
                     },
                     {
+                        "dc:description": "comments in HTML",
+                        "dc:format": "text/html",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
                         "required": false,
