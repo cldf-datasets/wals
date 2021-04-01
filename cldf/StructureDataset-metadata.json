@@ -17,19 +17,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/wals",
-            "dc:created": "v2014-72-g014143f"
+            "dc:created": "v2020-30-ga3c6c91"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1"
+            "dc:created": "v4.3"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.5.2"
+            "dc:description": "3.8.5"
         },
         {
             "dc:title": "python-packages",
@@ -182,25 +182,17 @@
                         "name": "Description"
                     },
                     {
-                        "separator": " ",
-                        "name": "Contributor_ID"
-                    },
-                    {
                         "datatype": "string",
-                        "name": "Chapter"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Area"
+                        "name": "Chapter_ID"
                     }
                 ],
                 "foreignKeys": [
                     {
                         "columnReference": [
-                            "Contributor_ID"
+                            "Chapter_ID"
                         ],
                         "reference": {
-                            "resource": "contributors.csv",
+                            "resource": "chapters.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -351,6 +343,10 @@
                         "name": "Genus"
                     },
                     {
+                        "datatype": "string",
+                        "name": "GenusIcon"
+                    },
+                    {
                         "separator": " ",
                         "name": "ISO_codes"
                     },
@@ -363,6 +359,14 @@
                         "dc:description": "https://wals.info/chapter/s1#3.1._The_WALS_samples",
                         "datatype": "boolean",
                         "name": "Samples_200"
+                    },
+                    {
+                        "separator": " ",
+                        "name": "Country_ID"
+                    },
+                    {
+                        "separator": " ",
+                        "name": "Source"
                     }
                 ],
                 "primaryKey": [
@@ -503,6 +507,130 @@
         },
         {
             "dc:conformsTo": null,
+            "dc:extent": 192,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "countries.csv"
+        },
+        {
+            "dc:conformsTo": null,
+            "dc:extent": 152,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "valueUrl": "docs/chapter_{ID}.html",
+                        "name": "ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "wp_slug"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Number"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Area_ID"
+                    },
+                    {
+                        "separator": " ",
+                        "name": "Source"
+                    },
+                    {
+                        "separator": " ",
+                        "name": "Contributor_ID"
+                    },
+                    {
+                        "separator": " ",
+                        "name": "With_Contributor_ID"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Contributor_ID"
+                        ],
+                        "reference": {
+                            "resource": "contributors.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "With_Contributor_ID"
+                        ],
+                        "reference": {
+                            "resource": "contributors.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Area_ID"
+                        ],
+                        "reference": {
+                            "resource": "areas.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "chapters.csv"
+        },
+        {
+            "dc:conformsTo": null,
+            "dc:extent": 11,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "valueUrl": "docs/chapter_{ID}.html",
+                        "name": "ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    },
+                    {
+                        "name": "dbpedia_url"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "areas.csv"
+        },
+        {
+            "dc:conformsTo": null,
             "dc:extent": 55,
             "tableSchema": {
                 "columns": [
@@ -513,6 +641,13 @@
                     {
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
                         "name": "Name"
+                    },
+                    {
+                        "name": "Url"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Editor_Ord"
                     }
                 ],
                 "primaryKey": [
