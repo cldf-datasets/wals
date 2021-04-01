@@ -2543,14 +2543,14 @@ ID,Language_ID,Name,Provider
 2542,ars,Arabic (Northern Yemeni),other
 2543,ars,Arabic (Sanaani Spoken),other
 2544,atu,Arabic (Tunis),other
-2545,arh,"Arabic, Bedouin-Hijazi ",other
+2545,arh,"Arabic, Bedouin-Hijazi",other
 2546,asy,"Arabic, Damascene",other
 2547,arv,"Arabic, Negev Bedouin",other
 2548,naa,Aramaic (Amadia),other
 2549,naa,Aramaic (Amadiya),other
 2550,naj,Aramaic (Arbel Jewish),other
 2551,arr,Aranda,other
-2552,awe,Aranda (Western) ,other
+2552,awe,Aranda (Western),other
 2553,awe,"Aranda, Western",other
 2554,map,Araucana,other
 2555,ara,Arawak (Lokono Dian),other
@@ -2644,16 +2644,16 @@ ID,Language_ID,Name,Provider
 2643,bsk,Bashkir (Bashqort),other
 2644,bsk,Bashqort,other
 2645,bsq,Basque (Central),other
-2646,bqb,"Basque, Bidasoa Valley ",other
-2647,bqg,"Basque, Gernica ",other
-2648,bqh,"Basque, Hondarribia ",other
-2649,bql,"Basque, Lekeitio ",other
+2646,bqb,"Basque, Bidasoa Valley",other
+2647,bqg,"Basque, Gernica",other
+2648,bqh,"Basque, Hondarribia",other
+2649,bql,"Basque, Lekeitio",other
 2650,bqn,"Basque, Northern High Navarrese",other
-2651,bqo,"Basque, Oñati ",other
+2651,bqo,"Basque, Oñati",other
 2652,bqr,"Basque, Roncalese",other
 2653,bqs,"Basque, Sakana",other
 2654,bso,"Basque, Souletin",other
-2655,bqz,"Basque, Zeberio ",other
+2655,bqz,"Basque, Zeberio",other
 2656,bsq,"Basque, central",other
 2657,ifu,Batad,other
 2658,ifu,Batad Ifugao,other
@@ -2767,7 +2767,7 @@ ID,Language_ID,Name,Provider
 2766,omh,Cegiha,other
 2767,cem,Cemuhi,other
 2768,agc,Central Agta,other
-2769,nhc,Central Aztec ,other
+2769,nhc,Central Aztec,other
 2770,btk,Central Bontok,other
 2771,agc,Central Cagayan,other
 2772,pmc,Central Pomo,other
@@ -3125,7 +3125,7 @@ ID,Language_ID,Name,Provider
 3124,hdi,Hedi,other
 3125,eud,Heve,other
 3126,jur,Hezhen,other
-3127,umu,Hianacoto-Umaua ,other
+3127,umu,Hianacoto-Umaua,other
 3128,nhh,Hidalgo Nahuatl,other
 3129,lug,High Lugbara,other
 3130,chq,Highland Chinanteco,other
@@ -3629,7 +3629,7 @@ ID,Language_ID,Name,Provider
 3628,hmo,Mong Njua,other
 3629,mgo,Mongo-Nkundu,other
 3630,kha,Mongolian,other
-3631,kha,"Mongolian, Khalkha ",other
+3631,kha,"Mongolian, Khalkha",other
 3632,mgg,Mongor,other
 3633,mgg,Monguor,other
 3634,mgg,"Monguor, Minxe dialect",other
@@ -4157,7 +4157,7 @@ ID,Language_ID,Name,Provider
 4156,kyn,Ten'a,other
 4157,kyn,Tena,other
 4158,ten,Tenet,other
-4159,gjj,Tenetehara ,other
+4159,gjj,Tenetehara,other
 4160,mmv,Tengo,other
 4161,tps,Tepehuan (Southeast),other
 4162,so,Tepes,other

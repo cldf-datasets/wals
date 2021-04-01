@@ -1,56 +1,56 @@
-ID,Name
-ammanna,Andreas Ammann
-andersongds,Gregory D.S. Anderson
-baermanm,Matthew Baerman
-bakkerd,Dik Bakker
-bhatdns,D.N.S. Bhat
-bickelb,Balthasar Bickel
-brownch,Cecil H. Brown
-brownd,Dunstan Brown
-comrieb,Bernard Comrie
-corbettgg,Greville G. Corbett
-cristofaros,Sonia Cristofaro
-cysouwm,Michael Cysouw
-dahlo,Östen Dahl
-danielm,Michael Daniel
-dehaanf,Ferdinand de Haan
-diesselh,Holger Diessel
-dobrushinan,Nina Dobrushina
-dryerms,Matthew S. Dryer
-genslerod,Orin D. Gensler
-gild,David Gil
-goedemansr,Rob Goedemans
-goussevv,Valentin Goussev
-hajekj,John Hajek
-haspelmathm,Martin Haspelmath
-helmbrechtj,Johannes Helmbrecht
-iggesenoa,Oliver A. Iggesen
-kayp,Paul Kay
-konige,Ekkehard König
-koptjevskajatammm,Maria Koptjevskaja-Tamm
-kutevat,Tania Kuteva
-lejeunel,Ludo Lejeune
-maddiesoni,Ian Maddieson
-maffil,Luisa Maffi
-maslovae,Elena Maslova
-miestamom,Matti Miestamo
-moravcsike,Edith Moravcsik
-nedjalkovvp,Vladimir P. Nedjalkov
-nicholsj,Johanna Nichols
-pappuswamyu,Umarani Pappuswamy
-petersonda,David A. Peterson
-polinskym,Maria Polinsky
-rubinoc,Carl Rubino
-siemundp,Peter Siemund
-siewierskaa,Anna Siewierska
-songjj,Jae Jung Song
-stassenl,Leon Stassen
-stolzt,Thomas Stolz
-strohc,Cornelia Stroh
-toppers,Stephan Töpper
-urdzea,Aina Urdze
-vanderauweraj,Johan van der Auwera
-vanderhulsth,Harry van der Hulst
-velupillaiv,Viveka Velupillai
-veselinovaln,Ljuba N. Veselinova
-zeshanu,Ulrike Zeshan
+ID,Name,Url,Editor_Ord
+ammanna,Andreas Ammann,,0
+andersongds,Gregory D.S. Anderson,http://www.livingtongues.org/aboutus.html,0
+baermanm,Matthew Baerman,http://www.defectiveness.surrey.ac.uk/Baerman/,0
+bakkerd,Dik Bakker,http://home.medewerker.uva.nl/d.bakker/,0
+bhatdns,D.N.S. Bhat,,0
+bickelb,Balthasar Bickel,http://www.uni-leipzig.de/~bickel/,0
+brownch,Cecil H. Brown,http://www.niu.edu/anthro/faculty_staff/faculty/Brown.shtml,0
+brownd,Dunstan Brown,http://www.surrey.ac.uk/cmc/staff-profiles/brown-dunstan.htm,0
+comrieb,Bernard Comrie,http://www.eva.mpg.de/lingua/staff/comrie.php,0
+corbettgg,Greville G. Corbett,http://www.surrey.ac.uk/LIS/SMG/gcorbett.htm,0
+cristofaros,Sonia Cristofaro,http://lettere.unipv.it/diplinguistica/docenti.php?&id=121,0
+cysouwm,Michael Cysouw,http://web.mac.com/cysouw/home/index.html,0
+dahlo,Östen Dahl,http://www2.ling.su.se/staff/oesten/index.htm,0
+danielm,Michael Daniel,,0
+dehaanf,Ferdinand de Haan,http://www.u.arizona.edu/~fdehaan/,0
+diesselh,Holger Diessel,http://www.personal.uni-jena.de/~x4diho/index.html,0
+dobrushinan,Nina Dobrushina,,0
+dryerms,Matthew S. Dryer,http://www.acsu.buffalo.edu/~dryer/,1
+genslerod,Orin D. Gensler,,0
+gild,David Gil,http://www.eva.mpg.de/lingua/staff/gil.php,0
+goedemansr,Rob Goedemans,http://website.leidenuniv.nl/~goedemansrwn/,0
+goussevv,Valentin Goussev,,0
+hajekj,John Hajek,http://www.languages.unimelb.edu.au/about/staff/profiles/hajek.html,0
+haspelmathm,Martin Haspelmath,http://www.eva.mpg.de/lingua/staff/haspelmath.php,2
+helmbrechtj,Johannes Helmbrecht,http://www-avs.uni-regensburg.de/johannes_helmbrecht.htm,0
+iggesenoa,Oliver A. Iggesen,,0
+kayp,Paul Kay,http://www.icsi.berkeley.edu/~kay/,0
+konige,Ekkehard König,http://userpages.fu-berlin.de/~koenig/,0
+koptjevskajatammm,Maria Koptjevskaja-Tamm,http://www.ling.su.se/staff/tamm/,0
+kutevat,Tania Kuteva,http://www.phil-fak.uni-duesseldorf.de/anglistik3/kuteva/,0
+lejeunel,Ludo Lejeune,,0
+maddiesoni,Ian Maddieson,http://linguistics.berkeley.edu/people/person_detail.php?person=23,0
+maffil,Luisa Maffi,http://ucjeps.berkeley.edu/Endangered_Lang_Conf/Maffi.html,0
+maslovae,Elena Maslova,http://anothersumma.net/,0
+miestamom,Matti Miestamo,http://www.ling.helsinki.fi/~matmies/,0
+moravcsike,Edith Moravcsik,http://www4.uwm.edu/letsci/linguistics/faculty/moravcsik.cfm,0
+nedjalkovvp,Vladimir P. Nedjalkov,,0
+nicholsj,Johanna Nichols,http://socrates.berkeley.edu/~jbn/,0
+pappuswamyu,Umarani Pappuswamy,,0
+petersonda,David A. Peterson,http://www.dartmouth.edu/~linguist/faculty/peterson.html,0
+polinskym,Maria Polinsky,http://www.fas.harvard.edu/~lingdept/f_polinsky.html,0
+rubinoc,Carl Rubino,http://iloko.tripod.com/,0
+siemundp,Peter Siemund,http://www1.uni-hamburg.de/peter.siemund/,0
+siewierskaa,Anna Siewierska,http://www.ling.lancs.ac.uk/profiles/299/,0
+songjj,Jae Jung Song,http://www.otago.ac.nz/linguistics/staff/song.html,0
+stassenl,Leon Stassen,,0
+stolzt,Thomas Stolz,http://www.fb10.uni-bremen.de/homepages/stolz/default.htm,0
+strohc,Cornelia Stroh,http://www.fb10.uni-bremen.de/lehrpersonal/stroh.aspx,0
+toppers,Stephan Töpper,http://www.fu-berlin.de/presse/wir/index.html,0
+urdzea,Aina Urdze,http://www.fb10.uni-bremen.de/lehrpersonal/urdze.aspx,0
+vanderauweraj,Johan van der Auwera,http://webh01.ua.ac.be/vdauwera/,0
+vanderhulsth,Harry van der Hulst,http://www.linguistics.uconn.edu/People/vanderhulst.html,0
+velupillaiv,Viveka Velupillai,http://www.lalitha.de/velupillai/index.html,0
+veselinovaln,Ljuba N. Veselinova,http://www.ling.su.se/staff/ljuba/,0
+zeshanu,Ulrike Zeshan,http://www.uclan.ac.uk/schools/iscri/Ulrike_Zeshan.php,0

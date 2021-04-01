@@ -1,3 +1,4 @@
+import io
 import re
 import json
 import pathlib
@@ -7,6 +8,7 @@ import collections
 from csvw import dsv
 from cldfbench import Dataset as BaseDataset
 from cldfbench import CLDFSpec, Metadata
+from clldutils.misc import data_url
 from pycldf.sources import Source, Reference
 from pybtex.database import parse_string
 
@@ -59,24 +61,90 @@ class Dataset(BaseDataset):
         self.create_schema(args.writer.cldf)
 
         pk2id = collections.defaultdict(dict)
+
+        skip_source = [
+            'Lous-1969',  # -> Loos-1969
+            'Payne-1990',  # -> Payne-1990a
+        ]
+        updated_source_keys = {
+            'Anonymous-nd': 'North-East-Frontier-Agency-1963',
+        }
+        updated_source_names = {
+            'North-East-Frontier-Agency-1963': 'North East Frontier Agency 1963',
+        }
         sources = parse_string(
             self.raw_dir.joinpath('source.bib').read_text(encoding='utf8'), 'bibtex')
-        self.read('source', pkmap=pk2id)
+        gbs_lg_refs = collections.defaultdict(set)
+        src_names = {}
+        for s in self.read('source', pkmap=pk2id).values():
+            if s['id'] in skip_source:
+                continue
+            s['id'] = updated_source_keys.get(s['id'], s['id'])
+            src_names[s['id']] = updated_source_names.get(s['id'], s['name'])
+            try:
+                jsd = json.loads(s['jsondata'])
+                if 'wals_code' in jsd:
+                    [gbs_lg_refs[c].add(s['id']) for c in jsd['wals_code']]
+                gbs = jsd['gbs']
+                if gbs['id'].strip():
+                    sef = sources.entries[s['id']].fields
+                    sef['google_book_search_id'] = gbs['id'].strip()
+                    sef['google_book_viewability'] = gbs['accessInfo']['viewability'].strip()
+            except (json.decoder.JSONDecodeError, KeyError):
+                continue
+
+        chapters = self.read('contribution', extended='chapter', pkmap=pk2id)
 
         refs = []
+        crefs = collections.defaultdict(list)
         for row in self.raw_dir.read_csv('valuesetreference.csv', dicts=True):
             if row['source_pk']:
-                refs.append((row['valueset_pk'], pk2id['source'][row['source_pk']], row['description']))
+                sid = pk2id['source'][row['source_pk']]
+                if sid not in skip_source:
+                    refs.append((row['valueset_pk'], updated_source_keys.get(sid, sid), row['description']))
         srcids = set(r[1] for r in refs)
-        args.writer.cldf.add_sources(
-            *[Source.from_entry(id_, e) for id_, e in sources.entries.items() if id_ in srcids])
+        for row in self.raw_dir.read_csv('contributionreference.csv', dicts=True):
+            sid = pk2id['source'][row['source_pk']]
+            if sid not in crefs[pk2id['contribution'][row['contribution_pk']]]:
+                crefs[pk2id['contribution'][row['contribution_pk']]].append(sid)
+                srcids.add(sid)
+        unused_srcids = []
+        for id_, e in sources.entries.items():
+            if id_ in skip_source:
+                continue
+            if id_ in srcids:
+                if id_ in src_names:
+                    e.fields['wals_ref_name'] = src_names[id_]
+                args.writer.cldf.add_sources(Source.from_entry(id_, e))
+            else:
+                unused_srcids.append(id_)
+            # add language references out of bibtex tag 'wals_code'
+            # to ensure that nothing was missed in raw/languagesource.csv (37 cases)
+            if 'wals_code' in e.fields:
+                [gbs_lg_refs[c].add(id_) for c in e.fields['wals_code'].split('; ')]
+
+        for id_, e in sources.entries.items():
+            if id_ in skip_source:
+                continue
+            if id_ in unused_srcids:
+                if id_ in src_names:
+                    e.fields['wals_ref_name'] = src_names[id_]
+                args.writer.cldf.add_sources(Source.from_entry(id_, e))
+
+        editors = {e['contributor_pk']: int(e['ord']) for e in self.read(
+                    'editor', key=lambda r: int(r['ord'])).values()}
 
         contributors = self.read('contributor', pkmap=pk2id, key=lambda r: r['id'])
         for row in contributors.values():
-            args.writer.objects['contributors.csv'].append({'ID': row['id'], 'Name': row['name']})
+            args.writer.objects['contributors.csv'].append({
+                'ID': row['id'],
+                'Name': row['name'],
+                'Url': row['url'],
+                'Editor_Ord': editors[row['pk']] if row['pk'] in editors else 0,
+            })
 
         cc = {
-            fid: [pk2id['contributor'][r['contributor_pk']] for r in rows]
+            chapters[fid]['id']: [(r['primary'], pk2id['contributor'][r['contributor_pk']]) for r in rows]
             for fid, rows in itertools.groupby(
                 self.read(
                     'contributioncontributor',
@@ -86,7 +154,12 @@ class Dataset(BaseDataset):
         }
 
         areas = self.read('area')
-        chapters = self.read('contribution', extended='chapter')
+        for row in areas.values():
+            args.writer.objects['areas.csv'].append({
+                'ID': row['id'],
+                'Name': row['name'],
+                'dbpedia_url': row['dbpedia_url'],
+            })
 
         for row in self.read(
                 'parameter',
@@ -96,9 +169,7 @@ class Dataset(BaseDataset):
             args.writer.objects['ParameterTable'].append({
                 'ID': row['id'],
                 'Name': row['name'],
-                'Area': areas[chapters[row['contribution_pk']]['area_pk']]['name'],
-                'Chapter': chapters[row['contribution_pk']]['name'],
-                'Contributor_ID': cc[row['contribution_pk']],
+                'Chapter_ID': chapters[row['contribution_pk']]['id'],
             })
 
         for row in self.read(
@@ -122,29 +193,47 @@ class Dataset(BaseDataset):
 
         families = self.read('family', pkmap=pk2id)
         genera = self.read('genus', pkmap=pk2id)
+        countries = self.read('country', pkmap=pk2id)
+        lang2country = collections.defaultdict(list)
+        for c in self.read('countrylanguage').values():
+            lang2country[c['language_pk']].append(pk2id['country'][c['country_pk']])
+        lrefs = collections.defaultdict(list)
+        for c in self.read('languagesource').values():
+            sid = pk2id['source'][c['source_pk']]
+            sid = updated_source_keys.get(sid, sid)
+            if sid not in lrefs[c['language_pk']]:
+                lrefs[c['language_pk']].append(sid)
 
         for row in self.read('language', extended='walslanguage', pkmap=pk2id).values():
             id = row['id']
             genus = genera[row['genus_pk']]
+            genus_icon = genus['icon'] if genus else ''
             family = families[genus['family_pk']]
             if row['name'] == genus['name'] == family['name']:
                 # an isolate!
                 genus = family = None
             iso_codes = set(i[0] for i in lang2id[row['pk']].get('iso639-3', []))
             glottocodes = [i[0] for i in lang2id[row['pk']].get('glottolog', [])]
+            srcs = lrefs[row['pk']]
+            if id in gbs_lg_refs:
+                [srcs.append(s) for s in gbs_lg_refs[id] if s not in srcs]
             args.writer.objects['LanguageTable'].append({
                 'ID': id,
-                'Name': row['name'],
+                'Name': row['name'].strip(),
                 'ISO639P3code': list(iso_codes)[0] if len(iso_codes) == 1 else None,
                 'Glottocode': glottocodes[0] if len(glottocodes) == 1 else None,
                 'ISO_codes': sorted(iso_codes),
                 'Latitude': row['latitude'],
                 'Longitude': row['longitude'],
+                'Macroarea': row['macroarea'],
                 'Genus': genus['name'] if genus else None,
+                'GenusIcon': genus_icon,
                 'Subfamily': genus['subfamily'] if genus else None,
                 'Family': family['name'] if family else None,
                 'Samples_100': row['samples_100'] == 't',
                 'Samples_200': row['samples_200'] == 't',
+                'Country_ID': lang2country[row['pk']],
+                'Source': srcs,
             })
         args.writer.objects['LanguageTable'].sort(key=lambda d: d['ID'])
 
@@ -189,7 +278,7 @@ class Dataset(BaseDataset):
             comment = None
             ex = [examples[spk] for spk in example_by_value.get(row['pk'], [])]
             if len(ex) == 1 and not any(ex[0][k] for k in ['description', 'analyzed', 'gloss']):
-                comment = ex[0]['name']
+                comment = re.sub(r'[\r\n]', '', ex[0]['xhtml'])
                 del example_by_value[row['pk']]
             args.writer.objects['ValueTable'].append({
                 'ID': vs['id'],
@@ -218,19 +307,58 @@ class Dataset(BaseDataset):
             args.writer.objects['language_names.csv'].append({
                 'ID': str(lnid),
                 'Language_ID': [r[2] for r in rows],
-                'Name': name,
+                'Name': name.strip(),
                 'Provider': type,
+            })
+
+        for c in sorted(countries.values(), key=lambda x: x['id']):
+            args.writer.objects['countries.csv'].append({
+                'ID': c['id'],
+                'Name': c['name'],
+            })
+
+        desc_dir = self.raw_dir / 'descriptions'
+        src_pattern = re.compile(
+            'src="https?://wals.info/static/descriptions/(?P<sid>s?[0-9]+)/images/(?P<fname>[^"]+)"')
+
+        def repl(m):
+            p = desc_dir.joinpath(m.group('sid'), 'images', m.group('fname'))
+            if p.exists():
+                return 'src="{0}"'.format(data_url(p))
+            return m.string[m.start():m.end()]
+
+        descs = {}
+        docs_dir = self.cldf_dir / 'docs'
+        docs_dir.mkdir(exist_ok=True)
+        for d in desc_dir.iterdir():
+            if d.is_dir():
+                descs[d.stem] = src_pattern.sub(
+                    repl, d.joinpath('body.xhtml').read_text(encoding='utf8'))
+
+        for c in sorted(chapters.values(), key=lambda x: int(x['sortkey'])):
+            if c['id'] in descs:
+                fname = docs_dir / 'chapter_{}.html'.format(c['id'])
+                with io.open(fname, 'w', encoding='utf-8') as f:
+                    f.write(descs[c['id']])
+            cid, wcid = [], []
+            if c['id'] in cc:
+                cid = [co[1] for co in cc[c['id']] if co[0] == 't']
+                wcid = [co[1] for co in cc[c['id']] if co[0] == 'f']
+            args.writer.objects['chapters.csv'].append({
+                'ID': c['id'],
+                'Name': c['name'],
+                'wp_slug': c['wp_slug'],
+                'Number': c['sortkey'],
+                'Area_ID': areas[c['area_pk']]['id'] if c['area_pk'] in areas else '',
+                'Source': crefs.get(c['id'], []),
+                'Contributor_ID': cid,
+                'With_Contributor_ID': wcid,
             })
 
     def create_schema(self, cldf):
         cldf.add_component(
             'ParameterTable',
-            {
-                'name': 'Contributor_ID',
-                'separator': ' ',
-            },
-            'Chapter',
-            'Area',
+            'Chapter_ID',
         )
         cldf.add_component(
             'CodeTable',
@@ -242,6 +370,7 @@ class Dataset(BaseDataset):
             'Family',
             'Subfamily',
             'Genus',
+            'GenusIcon',
             {
                 'name': 'ISO_codes',
                 'separator': ' ',
@@ -255,6 +384,14 @@ class Dataset(BaseDataset):
                 'name': 'Samples_200',
                 'datatype': 'boolean',
                 'dc:description': "https://wals.info/chapter/s1#3.1._The_WALS_samples",
+            },
+            {
+                'name': 'Country_ID',
+                'separator': ' ',
+            },
+            {
+                'name': 'Source',
+                'separator': ' '
             },
         )
         cldf.add_component('ExampleTable')
@@ -276,6 +413,65 @@ class Dataset(BaseDataset):
         )
         t.common_props['dc:conformsTo'] = None
         t = cldf.add_table(
+            'countries.csv',
+            {
+                'name': 'ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+            },
+            {
+                'name': 'Name',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            },
+        )
+        t.common_props['dc:conformsTo'] = None
+        t = cldf.add_table(
+            'chapters.csv',
+            {
+                'name': 'ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+                'valueUrl': 'docs/chapter_{ID}.html',
+            },
+            {
+                'name': 'Name',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            },
+            'wp_slug',
+            {
+                'name': 'Number',
+                'datatype': 'integer'
+            },
+            'Area_ID',
+            {
+                'name': 'Source',
+                'separator': ' '
+            },
+            {
+                'name': 'Contributor_ID',
+                'separator': ' ',
+            },
+            {
+                'name': 'With_Contributor_ID',
+                'separator': ' ',
+            },
+        )
+        t.common_props['dc:conformsTo'] = None
+        t = cldf.add_table(
+            'areas.csv',
+            {
+                'name': 'ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+                'valueUrl': 'docs/chapter_{ID}.html',
+            },
+            {
+                'name': 'Name',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            },
+            {
+                'name': 'dbpedia_url',
+            },
+        )
+        t.common_props['dc:conformsTo'] = None
+        t = cldf.add_table(
             'contributors.csv',
             {
                 'name': 'ID',
@@ -284,6 +480,13 @@ class Dataset(BaseDataset):
             {
                 'name': 'Name',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            },
+            {
+                'name': 'Url',
+            },
+            {
+                'name': 'Editor_Ord',
+                'datatype': 'integer',
             },
         )
         t.common_props['dc:conformsTo'] = None
@@ -295,7 +498,10 @@ class Dataset(BaseDataset):
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference',
             }
         )
-        cldf.add_foreign_key('ParameterTable', 'Contributor_ID', 'contributors.csv', 'ID')
+        cldf.add_foreign_key('chapters.csv', 'Contributor_ID', 'contributors.csv', 'ID')
+        cldf.add_foreign_key('chapters.csv', 'With_Contributor_ID', 'contributors.csv', 'ID')
+        cldf.add_foreign_key('ParameterTable', 'Chapter_ID', 'chapters.csv', 'ID')
+        cldf.add_foreign_key('chapters.csv', 'Area_ID', 'areas.csv', 'ID')
         cldf.add_foreign_key('language_names.csv', 'Language_ID', 'LanguageTable', 'ID')
 
     #
