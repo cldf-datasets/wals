@@ -233,7 +233,7 @@ class Dataset(BaseDataset):
                 'Samples_100': row['samples_100'] == 't',
                 'Samples_200': row['samples_200'] == 't',
                 'Country_ID': lang2country[row['pk']],
-                'Source': srcs,
+                'Source': sorted(srcs),
             })
         args.writer.objects['LanguageTable'].sort(key=lambda d: d['ID'])
 
@@ -498,6 +498,8 @@ class Dataset(BaseDataset):
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference',
             }
         )
+        cldf.__getitem__(('ValueTable', 'Comment')).common_props['dc:description'] = 'comments in HTML'
+        cldf.__getitem__(('ValueTable', 'Comment')).common_props['dc:format'] = 'text/html'
         cldf.add_foreign_key('chapters.csv', 'Contributor_ID', 'contributors.csv', 'ID')
         cldf.add_foreign_key('chapters.csv', 'With_Contributor_ID', 'contributors.csv', 'ID')
         cldf.add_foreign_key('ParameterTable', 'Chapter_ID', 'chapters.csv', 'ID')
