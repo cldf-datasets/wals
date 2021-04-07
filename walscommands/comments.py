@@ -12,7 +12,7 @@ from cldfbench_wals import Dataset
 def run(args):
     ds = Dataset()
     comments = {}
-    for p in ds.raw_dir.glob('WALS_comments*.html'):
+    for p in ds.raw_dir.glob('blog_comments/comments*.html'):
         for c in iter_comments(p):
             comments[c['id']] = c
     comments = sorted(comments.values(), key=lambda c: int(c['id'].split('comment-')[-1]))
