@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/wals",
-            "dc:created": "v2020-38-g4e41008"
+            "dc:created": "v2020-40-g6a0affd"
         },
         {
             "rdf:type": "prov:Entity",
@@ -610,6 +610,7 @@
         },
         {
             "dc:conformsTo": null,
+            "dc:description": "Linguistic Subfields",
             "dc:extent": 11,
             "tableSchema": {
                 "columns": [

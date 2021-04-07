@@ -471,6 +471,7 @@ class Dataset(BaseDataset):
                 'name': 'dbpedia_url',
             },
         )
+        t.common_props['dc:description'] = 'Linguistic Subfields'
         t.common_props['dc:conformsTo'] = None
         t = cldf.add_table(
             'contributors.csv',
