@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/wals",
-            "dc:created": "v2020-34-gaf67a99"
+            "dc:created": "v2020-38-g4e41008"
         },
         {
             "rdf:type": "prov:Entity",
@@ -554,6 +554,7 @@
                         "name": "Area_ID"
                     },
                     {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
                         "separator": " ",
                         "name": "Source"
                     },

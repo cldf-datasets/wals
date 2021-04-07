@@ -13,7 +13,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://wals.info
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/cldf-datasets/wals
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/wals/tree/af67a99">cldf-datasets/wals v2020-34-gaf67a99</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.3">Glottolog v4.3</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/wals/tree/4e41008">cldf-datasets/wals v2020-38-g4e41008</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.3">Glottolog v4.3</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.5</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | wals
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -172,7 +172,7 @@ Name/Property | Datatype | Description
 `wp_slug` | `string` | 
 `Number` | `integer` | 
 `Area_ID` | `string` | References [areas.csv::ID](#table-areascsv)
-`Source` | list of `string` (separated by ` `) | 
+[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by ` `) | References [sources.bib::BibTeX-key](./sources.bib)
 `Contributor_ID` | list of `string` (separated by ` `) | References [contributors.csv::ID](#table-contributorscsv)
 `With_Contributor_ID` | list of `string` (separated by ` `) | References [contributors.csv::ID](#table-contributorscsv)
 
