@@ -443,6 +443,7 @@ class Dataset(BaseDataset):
             'Area_ID',
             {
                 'name': 'Source',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source',
                 'separator': ' '
             },
             {
@@ -470,6 +471,7 @@ class Dataset(BaseDataset):
                 'name': 'dbpedia_url',
             },
         )
+        t.common_props['dc:description'] = 'Linguistic Subfields'
         t.common_props['dc:conformsTo'] = None
         t = cldf.add_table(
             'contributors.csv',

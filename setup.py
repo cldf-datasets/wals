@@ -15,9 +15,9 @@ setup(
         ],
     },
     install_requires=[
-        'cldfbench>=1.5.0',
+        'cldfbench>=1.6.0',
         'clldutils>=3.7.0',
-        'pycldf>=1.18.1',
+        'pycldf>=1.19.0',
         'pybtex>=0.24.0',
         'beautifulsoup4>=4.9.3',
         'csvw>=1.10.1'
