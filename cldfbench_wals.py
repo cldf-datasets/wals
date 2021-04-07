@@ -443,6 +443,7 @@ class Dataset(BaseDataset):
             'Area_ID',
             {
                 'name': 'Source',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source',
                 'separator': ' '
             },
             {
