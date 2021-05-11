@@ -7,25 +7,10 @@ import collections
 
 from csvw import dsv
 from cldfbench import Dataset as BaseDataset
-from cldfbench import CLDFSpec, Metadata
+from cldfbench import CLDFSpec
 from clldutils.misc import data_url
 from pycldf.sources import Source, Reference
 from pybtex.database import parse_string
-
-
-class MetadataWithTravis(Metadata):
-    def markdown(self):
-        lines, title_found = [], False
-        for line in super().markdown().split('\n'):
-            lines.append(line)
-            if line.startswith('# ') and not title_found:
-                title_found = True
-                lines.extend([
-                    '',
-                    "[![Build Status](https://travis-ci.org/cldf-datasets/wals.svg?branch=master)]"
-                    "(https://travis-ci.org/cldf-datasets/wals)"
-                ])
-        return '\n'.join(lines)
 
 
 def fid_key(fid):
@@ -36,7 +21,6 @@ def fid_key(fid):
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "wals"
-    metadata_cls = MetadataWithTravis
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return CLDFSpec(module='StructureDataset', dir=self.cldf_dir)
