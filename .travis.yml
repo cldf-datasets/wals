@@ -1,6 +1,0 @@
-language: python
-python: "3.6"
-cache: pip
-before_cache: rm -f $HOME/.cache/pip/log/debug.log
-install: pip install pytest-cldf
-script: pytest --cldf-metadata=cldf/StructureDataset-metadata.json test.py
