@@ -12740,20 +12740,6 @@
         }
     },
     {
-        "id": "comment-181164",
-        "author": {
-            "name": "16541",
-            "url": "http://123"
-        },
-        "status": "1",
-        "text": "3asfdasdfwefw",
-        "date": "2021/02/15",
-        "post": {
-            "id": "21684",
-            "title": "Datapoint Hup / Distributive Numerals"
-        }
-    },
-    {
         "id": "comment-181224",
         "author": {
             "name": "Kevin",
@@ -12891,6 +12877,762 @@
         "post": {
             "id": "14858",
             "title": "Datapoint Lithuanian / Definite Articles"
+        }
+    },
+    {
+        "id": "comment-181592",
+        "author": {
+            "name": "Pam Munro",
+            "url": null
+        },
+        "status": "1",
+        "text": "I believe the map \nclassification of Mam based on England 1983 as \"impossible\" is \nincorrect. See England 1983:76 which clearly shows a nominal predicate \nwith no copula at all.",
+        "date": "2021/04/23",
+        "post": {
+            "id": "22027",
+            "title": "Datapoint Mam / Zero Copula for Predicate Nominals"
+        }
+    },
+    {
+        "id": "comment-181602",
+        "author": {
+            "name": "Carolina",
+            "url": null
+        },
+        "status": "1",
+        "text": "While this \nclassification might be true for the Brazilian variety of Portuguese, \nEuropean Portuguese can definitely have stress on the antepenultimate \nsyllable like in the word \u00abesdr\u00faxula\u00bb (lit. word with stress on the \nantepenultimate syllable), \u00abindepend\u00eancia\u00bb (independence), or \u00ab\u00e1rvore\u00bb \n(tree). It's a standard feature, and so I believe the correct \ndesignation for the language should be \u00abright-oriented\u00bb and not \n\u00abright-edge\u00bb in the \u00abweight-sensitive Stress\u00bb parameter.",
+        "date": "2021/04/24",
+        "post": {
+            "id": "7892",
+            "title": "Datapoint Portuguese / Weight-Sensitive Stress"
+        }
+    },
+    {
+        "id": "comment-181604",
+        "author": {
+            "name": "Carolina",
+            "url": null
+        },
+        "status": "1",
+        "text": "Portuguese most \ndefinitely has an inflectional future tense. If we take the verb \u00abfazer\u00bb\n (to do), we'll have, in the indicative mode: farei, far\u00e1s, far\u00e1, \nfaremos, fareis, far\u00e3o. Although, when speaking, most speakers will use \nthe verb \u00abir\u00bb (to go) in the present with the infinitive of the verb in \nquestion like in \u00abvou fazer\u00bb to express future, that construction can't \nbe used when saying \u00abI'll go\u00bb as \u00abvou ir\u00bb is generally considered, both \nin Portugal and in Brazil, incorrect. The correct form would be \u00abirei\u00bb. \nWe use this construction more formally, but its use is still widespread.",
+        "date": "2021/04/24",
+        "post": {
+            "id": "6822",
+            "title": "Datapoint for feature 67A and language wals_code_por"
+        }
+    },
+    {
+        "id": "comment-181771",
+        "author": {
+            "name": "Lynn Lee",
+            "url": null
+        },
+        "status": "1",
+        "text": "In Quirk's book, 3 \ncases are mentioned, i.e, subjective, objective, and generative \ncases(1985:336). But why are there only 2 cases here in this feature \n49A?",
+        "date": "2021/05/20",
+        "post": {
+            "id": "6436",
+            "title": "Datapoint for feature 49A and language wals_code_eng"
+        }
+    },
+    {
+        "id": "comment-181816",
+        "author": {
+            "name": "Serhii Havrylov",
+            "url": null
+        },
+        "status": "1",
+        "text": "Aren't English first, second, third? I've never heard threeth",
+        "date": "2021/06/01",
+        "post": {
+            "id": "7380",
+            "title": "Datapoint English / Ordinal Numerals"
+        }
+    },
+    {
+        "id": "comment-181856",
+        "author": {
+            "name": "Andrei Dumitrescu",
+            "url": null
+        },
+        "status": "1",
+        "text": "This datapoint should \nbe the second type, \u201cAdjective may occur without noun, and without \nmarking\u201d. Cf. Newmark, Hubbard & Prifti (1982) Standard Albanian - A\n Reference Grammar for Students:\n\u201cIn Albanian, adjectives become substantivized through the process of \nconversion; that is, they take on the attributes of nouns (including \ninflections) without the addition of derivational affixes or a shift in \nstress.\u201d (p. 190)\nNote that this applies to both \u201clexicalized substantivization\u201d and \n\u201ccontextual substantivization\u201d. (p. 191)\nThe confusing factor is that Albanian adjectives belong \nmorphosyntactically to one of two classes, articulated (the majority) \nand unarticulated. Articulated adjectives are always preceded by an \nadjectival article (a proclitic) that inflects according to case, \nnumber, and gender, but the adjectival article is an integral part of an\n articulated adjective and is present whether the adjective determines a\n noun or stands by itself. (cf. op. cit. pp. 179\u2013180)\nI assume that the present value of this datapoint, \u201cAdjective may occur \nwithout noun, obligatorily marked by preceding word\u201d, is due to a \nmisunderstanding of the role of the adjectival article. Unlike English \n\u2018one\u2019, its role is not to mark the fact that the noun is missing.",
+        "date": "2021/06/04",
+        "post": {
+            "id": "22047",
+            "title": "Datapoint Albanian / Adjectives without Nouns"
+        }
+    },
+    {
+        "id": "comment-181857",
+        "author": {
+            "name": "Andrei Dumitrescu",
+            "url": null
+        },
+        "status": "1",
+        "text": "Shouldn\u2019t the translation of the Kolyma Yukaghir example (4) be \u2018I want to eat the white one.\u2019?",
+        "date": "2021/06/04",
+        "post": {
+            "id": "65",
+            "title": "Adjectives without Nouns"
+        }
+    },
+    {
+        "id": "comment-181890",
+        "author": {
+            "name": "Graham",
+            "url": null
+        },
+        "status": "1",
+        "text": "It isn't literally \n\"threeth\", but \"third\" is derived from \"three\". This feature is about \nsuppletive forms, and only \"first\" and \"second\" are suppletive in \nEnglish.",
+        "date": "2021/06/07",
+        "post": {
+            "id": "7380",
+            "title": "Datapoint English / Ordinal Numerals"
+        }
+    },
+    {
+        "id": "comment-181999",
+        "author": {
+            "name": "Paul Unger",
+            "url": null
+        },
+        "status": "1",
+        "text": "I'm curious about the \ninclusion of Gela (Southeast Solomonic) in the group of languages with a\n definite word distinct from demontrative. Crowley (1985:159) cites \nCodrington, who demonstrates that Gela /na/ has \"no reference to focus \nor definiteness\". Crowley (2002:527-28) reverses this observation, \nclaiming that Gela /na/ is a definite article, though half of his \nexamples demonstrate 'incorporation' (i.e., no 'article' before the \npost-verb noun). More convincing are Rijkhoff's (2002:95, 185 n. 21) \nobservations re. noun phrase markers in Oceanic languages--that they do \nnot mark (in)definiteness. This is certainly the case in Doku (aka \nLengo), Gela's counterpart in the Gela-Guadalcanal branch of Southeast \nSolomonic.",
+        "date": "2021/06/15",
+        "post": {
+            "id": "41",
+            "title": "Definite Articles"
+        }
+    },
+    {
+        "id": "comment-182004",
+        "author": {
+            "name": "Ismail Behzad",
+            "url": null
+        },
+        "status": "1",
+        "text": "There is an indefinite \narticle used in Pashto. Yao and yuh. It means one. but the yuh is used \nfor \"a\" in English. yao halak (a boy) yao kitab (a book) yuh halak (a \nboy) yuh kitab( a book). However the Pashtoons use a word (aah) as \ndefinite article. Aah halak (the boy) aah kitab ( the book)",
+        "date": "2021/06/16",
+        "post": {
+            "id": "8528",
+            "title": "Datapoint Pashto / Definite Articles"
+        }
+    },
+    {
+        "id": "comment-182058",
+        "author": {
+            "name": "Zhang",
+            "url": null
+        },
+        "status": "1",
+        "text": "I strongly agree with both above.  This datapoint is incorrect and should be fixed.",
+        "date": "2021/06/23",
+        "post": {
+            "id": "6613",
+            "title": "Datapoint for feature 44A and language wals_code_mnd"
+        }
+    },
+    {
+        "id": "comment-182220",
+        "author": {
+            "name": "Carl Stoll",
+            "url": null
+        },
+        "status": "1",
+        "text": "The statement \"All \ncommon consonants are present in Egyptian Arabic\" is utterly false. All \ndialects of Arabic lack the P phoneme.",
+        "date": "2021/06/28",
+        "post": {
+            "id": "22269",
+            "title": "Datapoint Arabic (Egyptian) / Absence of Common Consonants"
+        }
+    },
+    {
+        "id": "comment-182567",
+        "author": {
+            "name": "Zane",
+            "url": null
+        },
+        "status": "1",
+        "text": "Hindi does have the velar nasal, as far as I know. It\u2019s written as \u0919, is it not?",
+        "date": "2021/07/30",
+        "post": {
+            "id": "22356",
+            "title": "Datapoint Hindi / The Velar Nasal"
+        }
+    },
+    {
+        "id": "comment-182626",
+        "author": {
+            "name": "Yehonathan Shatz",
+            "url": null
+        },
+        "status": "1",
+        "text": "The phrasing here is \nsomewhat misleading. When it says \"all common consonants are present\", \nit really means \"all common *classes* of consonants are present. \nSpecifically, even though Arabic does not have a p sound, it DOES have a\n b sound, so the consonant class \"bilabial\" is present in Arabic. This \nterminology is explained in the introduction to the chapter this \ndatapoint is associated with, \"Chapter 1: absence of common consonants\",\n in the introduction section of that chapter.",
+        "date": "2021/08/05",
+        "post": {
+            "id": "22269",
+            "title": "Datapoint Arabic (Egyptian) / Absence of Common Consonants"
+        }
+    },
+    {
+        "id": "comment-182730",
+        "author": {
+            "name": "Ana Mar\u00eda L\u00f3pez Jimeno",
+            "url": null
+        },
+        "status": "1",
+        "text": "The statement that the \nindefinite article in Spanish is the same as the numeral \"one\" is not \nstrictly accurate.\nThe indefinite article is UN and not UNO (which is the numeral) although\n the feminine indefinite article is the same as the numeral. Tengo un \ncoche / *Tengo uno coche.\n\nThanks a lot for your amazing work.",
+        "date": "2021/08/14",
+        "post": {
+            "id": "21844",
+            "title": "Datapoint Spanish / Indefinite Articles"
+        }
+    },
+    {
+        "id": "comment-182731",
+        "author": {
+            "name": "Anvita Abbi",
+            "url": null
+        },
+        "status": "1",
+        "text": "Yes, that is part of \nthe Hindi alphabets which is never used in isolation. all velar nasals \nare allophonic and appear before the velars as a dot above the preceding\n consonant letter as in \u092e\u093e\u0902\u0917, \u0915\u0902\u0918\u093e, \u0928\u0902\u0917\u093e, \u091d\u093e\u0902\u0915 etc.",
+        "date": "2021/08/14",
+        "post": {
+            "id": "22356",
+            "title": "Datapoint Hindi / The Velar Nasal"
+        }
+    },
+    {
+        "id": "comment-182732",
+        "author": {
+            "name": "Anvita Abbi",
+            "url": null
+        },
+        "status": "1",
+        "text": "Very little information\n on Reduplication in South Asian Languages. Mention of the widely cited \nwork by Anvita Abbi 'Reduplication in South Asian languages. An Areal, \nTypological and Historical Study(1992)/ Allied Publisher, New Delhi, is \nmissing.",
+        "date": "2021/08/14",
+        "post": {
+            "id": "31",
+            "title": "Reduplication"
+        }
+    },
+    {
+        "id": "comment-182737",
+        "author": {
+            "name": "Noah Schachter",
+            "url": null
+        },
+        "status": "1",
+        "text": "In \"A Heritage \nReference Grammar of Selk'nam\" (2014) pg. 88-89, Luis Rojas presents \nevidence that Selk'nam has ergative alignment, not accusative alignment,\n in verbal person marking.",
+        "date": "2021/08/15",
+        "post": {
+            "id": "22386",
+            "title": "Datapoint Selknam / Alignment of Verbal Person Marking"
+        }
+    },
+    {
+        "id": "comment-182818",
+        "author": {
+            "name": "Diana Green",
+            "url": null
+        },
+        "status": "1",
+        "text": "P may occur word final when it is an included object, i.e.when the verb is not followed by an nominal object.",
+        "date": "2021/08/22",
+        "post": {
+            "id": "22404",
+            "title": "Datapoint Palikur / Order of Person Markers on the Verb"
+        }
+    },
+    {
+        "id": "comment-182819",
+        "author": {
+            "name": "Diana Green",
+            "url": null
+        },
+        "status": "1",
+        "text": "Pronouns serve as definite articles. Numbers serve as indefinite articles.",
+        "date": "2021/08/22",
+        "post": {
+            "id": "22405",
+            "title": "Datapoint Palikur / Definite Articles"
+        }
+    },
+    {
+        "id": "comment-182821",
+        "author": {
+            "name": "Diana Green",
+            "url": null
+        },
+        "status": "1",
+        "text": "Pronouns serve as definite articles. Numbers serve as indefinite articles.",
+        "date": "2021/08/22",
+        "post": {
+            "id": "22406",
+            "title": "Datapoint Palikur / Indefinite Articles"
+        }
+    },
+    {
+        "id": "comment-183111",
+        "author": {
+            "name": "Robin L Fritche",
+            "url": null
+        },
+        "status": "1",
+        "text": "You should fix the past\n tense map and categories because they say \"present\" and that's very \nconfusing. The chapter has the correct words.",
+        "date": "2021/09/19",
+        "post": {
+            "id": "22481",
+            "title": "Datapoint Bengali / The Past Tense"
+        }
+    },
+    {
+        "id": "comment-183188",
+        "author": {
+            "name": "French toast",
+            "url": null
+        },
+        "status": "1",
+        "text": "Hebrew has a voicing \ncontrast in fricitives, for example: \u05d6 and \u05e1. A glance at Hebrew's \nconsonant inventory is all it takes to see there's a voicing contrast in\n both plosives and fricitives.",
+        "date": "2021/09/25",
+        "post": {
+            "id": "15078",
+            "title": "Datapoint Hebrew (Modern Ashkenazic) / Voicing in Plosives and Fricatives"
+        }
+    },
+    {
+        "id": "comment-183686",
+        "author": {
+            "name": "viktor Bautista i Roca",
+            "url": null
+        },
+        "status": "1",
+        "text": "Why Catalan syllable \nstructure is considered only moderatelly complex? There are words like \n\u00abquarts\u00bb (fourths) that sound /kwarts/, so CCVCCC or \u00abprests\u00bb (ready to \ndo something, in plural) CCVCCC. \n\nMore examples:\n\n\u00abBlancs\u00bb (whites): CCVCC (in some dialects, CCVCCC)\n\n*Porcs\u00bb (pigs): CVCCC\n\n\u00abPregs\u00ab (prayers): CCVCC\n\n\u00abPlats\u00bb (dishes / plates): CCVCC\n\n\u00abTrist\u00bb (sad): CCVCC (in some dialect the plural is \u00abtrists\u00bb, CCVCCC)\n\n\u00abEstranys\u00bb (rares): VC-CCVCC\n\n\u00abBrins\u00bb (little portions): CCVCC",
+        "date": "2021/10/25",
+        "post": {
+            "id": "10546",
+            "title": "Datapoint Catalan / Syllable Structure"
+        }
+    },
+    {
+        "id": "comment-183707",
+        "author": {
+            "name": "Geoffrey Caveney",
+            "url": null
+        },
+        "status": "1",
+        "text": "Lushootseed should be \nincluded among the \"No nasals\" languages. Lushootseed has no nasal \nphonemes, and nasal sounds only appear as rare allophones of /b/ and /d/\n \"in certain special words and speech styles\" (Bates et al. 1994: xiii).",
+        "date": "2021/10/26",
+        "post": {
+            "id": "14604",
+            "title": "Datapoint Lushootseed / Absence of Common Consonants"
+        }
+    },
+    {
+        "id": "comment-183725",
+        "author": {
+            "name": "Love Misuraca",
+            "url": null
+        },
+        "status": "1",
+        "text": "Shoot seed lulu",
+        "date": "2021/10/27",
+        "post": {
+            "id": "14604",
+            "title": "Datapoint Lushootseed / Absence of Common Consonants"
+        }
+    },
+    {
+        "id": "comment-183807",
+        "author": {
+            "name": "Geoffrey Caveney",
+            "url": null
+        },
+        "status": "1",
+        "text": "By the way, the \nspelling of the language name Lushootseed is indeed intended to reflect \nthe English pronunciation of \"shoot\" and \"seed\", but the \"u\" in \"Lu\" is \nused to indicate a short unstressed schwa sound, not a long stressed \n[u:] sound as in \"shoot\" or \"lulu\". So a more accurate phrase would be \nsomething like \"le shoot seed\", with \"le\" pronounced as in French.",
+        "date": "2021/11/01",
+        "post": {
+            "id": "14604",
+            "title": "Datapoint Lushootseed / Absence of Common Consonants"
+        }
+    },
+    {
+        "id": "comment-183906",
+        "author": {
+            "name": "Geoffrey Caveney",
+            "url": null
+        },
+        "status": "1",
+        "text": "Gatschet 1890: 467, \n471-474 states and shows very clearly that Klamath actually has a \nsecondary-object construction, whereby the recipient or addressee of the\n ditransitive verb takes the same case suffix -ash as the direct object \nof a simple transitive verb, and the formal direct object of the \nditransitive verb does not take this case suffix. It is true that \nanimacy-marking is also involved here, as only persons and quadrupeds \nare marked with this case suffix -ash at all, whether as the direct \nobject or as recipient / addressee. Naturally, in the vast majority of \nditransitive verb constructions, the recipient / addressee is animate \nand the object given or thing told is not animate.\nFor the record, although it is not included in WALS yet, the related \nPlateau Penutian language Ichishk\u00edin (Sahaptin) has the same \nsecondary-object construction (Jansen 2010: 324), again based on the \nhuman object taking the case suffix, in this case -nan. But in \nIchishk\u00edin, unlike in Klamath, an inanimate direct object of a simple \ntransitive verb *does* take this case suffix -nan (Jansen 2010: 160), \nalthough there are particular grammatical constructions where a human or\n topical object is marked with -nan but other objects are not.\nIt is notable that dependent-marking languages with inflectional noun \ncase affixes and such a secondary-object construction are \nextraordinarily rare: WALS only identifies a few languages in Australia \nand in Papua New Guinea as having this combination of features.",
+        "date": "2021/11/05",
+        "post": {
+            "id": "19755",
+            "title": "Datapoint Klamath / Ditransitive Constructions: The Verb \u2018Give\u2019"
+        }
+    },
+    {
+        "id": "comment-184141",
+        "author": {
+            "name": "Tom",
+            "url": null
+        },
+        "status": "1",
+        "text": "Haiman 1980 specifically states that there are certain words that are obligatorily possessed (p. 255)",
+        "date": "2021/11/23",
+        "post": {
+            "id": "22769",
+            "title": "Datapoint Hua / Obligatory Possessive Inflection"
+        }
+    },
+    {
+        "id": "comment-184143",
+        "author": {
+            "name": "Natascha",
+            "url": null
+        },
+        "status": "1",
+        "text": "K\u00f6lsch is spoken in Cologne not in beligium",
+        "date": "2021/11/23",
+        "post": {
+            "id": "15878",
+            "title": "Datapoint German (Ripuarian) / Distributive Numerals"
+        }
+    },
+    {
+        "id": "comment-184144",
+        "author": {
+            "name": "Samuel Beer",
+            "url": null
+        },
+        "status": "1",
+        "text": "I think that Nyangi \nshould be treated as an \"/l/ and lateral obstruents language\", even on \nthe basis of the cited source material. The cited source, Heine 1975a: \n281, lists a voiceless lateral fricative in contrast with a normal /l/ \nfor Nyangi. This analysis is repeated in my dissertation on Nyangi as \nthe language is remembered by the only partial speaker that I was able \nto identify (Beer 2017: 24-25).",
+        "date": "2021/11/24",
+        "post": {
+            "id": "22776",
+            "title": "Datapoint Nyangi / Lateral Consonants"
+        }
+    },
+    {
+        "id": "comment-184234",
+        "author": {
+            "name": "Ryan",
+            "url": null
+        },
+        "status": "1",
+        "text": "I would argue that if \nHungarian is counted as  \u201cpossible\u201d for 3.SG then so should Turkish \nsince the 3.SG personal ending is null. The only valid way to mark the \n3.SG copula is with the -dIr suffix, which has limited, formal use.\n\nO     bir kedi. \nThat a   cat.\n\u2018That is a cat.\u2019\n\nBar\u0131\u015f doktor-dur.\nBar\u0131\u015f  doctor-COP.3SG\n\u2018Bar\u0131\u015f is a doctor.\u2019",
+        "date": "2021/12/05",
+        "post": {
+            "id": "15726",
+            "title": "Datapoint Turkish / Zero Copula for Predicate Nominals"
+        }
+    },
+    {
+        "id": "comment-184347",
+        "author": {
+            "name": "Nigel Rockliffe",
+            "url": null
+        },
+        "status": "1",
+        "text": "Surely English has a three-way contrast, as in 'this', 'that', and 'yonder'.",
+        "date": "2021/12/17",
+        "post": {
+            "id": "8739",
+            "title": "Datapoint English / Distance Contrasts in Demonstratives"
+        }
+    },
+    {
+        "id": "comment-184357",
+        "author": {
+            "name": "Norris Keppler",
+            "url": null
+        },
+        "status": "1",
+        "text": "Nigel, wouldn't \n\"yonder\" be tied to \"there\" and \"here,\" though? There's no true \ndemonstrative equivalent of \"yonder\" that's related to \"this\" or \"that.\"\n Maybe I'm wrong but at least in my dialect of Western American \"yonder\"\n isn't used in the context of a demonstrative, more in the context of a \nword like \"here\" and \"there.\"",
+        "date": "2021/12/17",
+        "post": {
+            "id": "8739",
+            "title": "Datapoint English / Distance Contrasts in Demonstratives"
+        }
+    },
+    {
+        "id": "comment-184452",
+        "author": {
+            "name": "Mocha",
+            "url": null
+        },
+        "status": "1",
+        "text": "Section 1 of the \nchapter clearly defines the criteria used for determining whether a \nlanguage has gender. In Particular:\n\n\"Most scholars working on agreement include the control of anaphoric \npronouns by their antecedent (the girl ... she ) as part of agreement. \nIf this is accepted, as we do here, then languages in which free \npronouns present the only evidence for gender will be counted as having a\n gender system.\"\n\nEnglish clearly falls into this category, which is why it's counted.\n\nBut I do agree that it would be nice to have a subchapter on the degree \nof expression of noun class in a language.",
+        "date": "2021/12/22",
+        "post": {
+            "id": "6390",
+            "title": "Datapoint for feature 30A and language wals_code_eng"
+        }
+    },
+    {
+        "id": "comment-184457",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "I noticed that Spanish \nlanguage is counted among languages with double-marking, however, \nSpanish languages case-marking on noun is made only by use of \nprepositions (the same as in French language), and has only a \nperson/numer concordance (person/numer/gender concordance in deponent \nintransitive perfective tenses and all passive tenses) with the subject \nand, as far as I know, no concordance at all with objects (except for \nso-called clitic forms of pronouns).\nThe same applies for French and Romanian languages.\nIn Italian language there is a similar situation, but with an optional \nconcordance of the past participle with the direct object in so called \n\"compound tenses\" (the perfective counterparts of so called \"simple \ntenses\") of active conjugation.\nSo Spanish, French, Italian, and Romanian languages, if considering the \none-word imperfective forms, have to be mapped as \"P has no marking\", \nwhile, if considering the two-word perfective forms, the Italian \nlanguage (possibly also the Spanish, French, and Romanian languages, but\n I have no enough knowledge to state for these three languages), due to \nan optional head marking, have to be mapped as \"Other types\".",
+        "date": "2021/12/22",
+        "post": {
+            "id": "27",
+            "title": "Locus of Marking in the Clause"
+        }
+    },
+    {
+        "id": "comment-184461",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "P.S.: clitic forms of \npronouns are used only in place of nouns, not in addition of them, so \nthey have not to be counted for map 23A, but may be considered for a \nfuture map 23B.\nP.P.S.: while in Spanish language the use of so-called clitic forms (in \npractice they are verbal morphemes for concordance with arguments other \nthan subject and agent-like argument, not pronoun forms, since nothing \nmay stay between these morphemes and the verbal words to which they are \napplied (by affixation or apposition depending by language and verbal \nword)) of dative pronoun forms (indirect object) are obligatory also \nwhen the true pronoun is used, the use of clitic forms of accusative \npronoun forms (direct object) excludes the use of the true pronoun, in \nItalian language the exclusivity of clitic forms against true pronouns \napplies also to dative case (indirect object).",
+        "date": "2021/12/23",
+        "post": {
+            "id": "27",
+            "title": "Locus of Marking in the Clause"
+        }
+    },
+    {
+        "id": "comment-184462",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "For chapter 24, map 24A\n (I cannot comment on chapter 24 comments, so I comment here), in \nSpanish, Portuguese, French, and Italian languages, possessor has no \ncase markings and genitive case is expressed by use of prepositions \n(between the possessor noun and the possessed noun; as in example 9 at \nchapter 24 in section about languages with no possessor marking), or by \nuse of a possessive adjective in place of the possessor noun (with \nconcordance by person and number with the possessor, and by gender and \nnumber with the possessed thing), not morphemes on nouns (as examples in\n section about language with dependent marking of possessors), only \nRomanian language distinguishes dative/genitive case against \nnominative\\absolutive/ergative/accusative case by use of markings on \n(definite forms of) nouns (in the feminine singular this applies also \nwith indefinite forms).\nSo Portuguese, Spanish, French, and Italian languages should be mapped \nas \"Possessor has no marking\", while Romanian language should be mapped \nas \"Possessor is dependent-marked\".",
+        "date": "2021/12/23",
+        "post": {
+            "id": "27",
+            "title": "Locus of Marking in the Clause"
+        }
+    },
+    {
+        "id": "comment-184477",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "After reading chapter \n25, I may give a more precise classification for the five Romance \nlanguages I know.\nSince in chapter 25 is specified that chapters 23 and 24 use the default\n option in case of multiple possible options, and examples for \nappositions are shown in section about zero marking, the result is:\nfor features 23A, 24A, and 25A, both Portuguese, Spanish, French, \nItalian, and English have to be mapped as \"zero-mariking\" (it would be \n\"dependent-marking\" if examples for appositions were in sections about \ndependent-marking), while Romanian language have to be mapped as \n\"dependent-marking\";\nfor feature 25B \"dependent-marking\" is replaced by \"non-zero marking\" \nand the remainder is the same as features 23A, 24A, and 25A.",
+        "date": "2021/12/23",
+        "post": {
+            "id": "27",
+            "title": "Locus of Marking in the Clause"
+        }
+    },
+    {
+        "id": "comment-184478",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "For English language is\n the same for features 23A, and 25B, while features 24A, and 25A depend \nby if the genitive suffix \"-'s\" (\"-'\" in words ending by \"s\") is counted\n as default or not (since it is used with given nouns, but avoided with \nmost common nouns).\nIf we consider English genitive suffix as default, English languages \nhave to be mapped as having \"head-marking\" for feature 24A, and as \n\"inconsistent or other\" for feature 25A, otherwise, if we consider \nEnglish genitive suffix as secondary, English have to be mapped as \nspecified in the previous comment.",
+        "date": "2021/12/23",
+        "post": {
+            "id": "27",
+            "title": "Locus of Marking in the Clause"
+        }
+    },
+    {
+        "id": "comment-184479",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "In Romance language \nexists a suffix/interfix which is intensified by duplication (\"-issim-\" \nin Italian language), the suffix/interfix works as follows (I use \nItalian language in the examples, but this applies also to Portuguese, \nSpanish, Catalan, Occitan, French, Italian, Romanian, and other Romance \nlanguages):\nbello (beautiful) -> bellissimo (very beautiful/much beautiful) ->\n bellissimissimo (very much-beautiful) -> bellissimissimissimo (very \nvery-much beautiful) -> \u2026\nfelice (happy) -> felicissimo (very happy/much happy) -> \nfelicissimissimo (very much-happy) -> felicissimissimissimo (very \nvery-much happy) -> \u2026\nfelicemente (happily) -> felicissimamente (much happily) -> \nfelicissimissimamente (very much-happily) -> \nfelicissimissimissimamente (very very-much happily) -> \u2026\nforte (strong/forte) -> fortissimo (very strong/much \nstrong/fortissimo) -> fortissimissimo (very \nmuch-strong/fortissimissimo) -> fortissimissimissimo (very very-much \nstrong/fortissimissimissimo) -> \u2026\nfortemente (strongly) -> fortissimamente (much strongly) -> \nfortissimissimamente (very much-strongly) -> \nfortissimissimissimamente (very very-much strongly) -> \u2026\npiano (piano) -> pianissimo (pianissimo) -> pianissimissimo \n(pianissimo) -> pianissimissimissimo (pianissimissimissimo) -> \u2026\nfortemente (weakly) -> fortissimamente (much weakly) -> \nfortissimissimamente (very much-weakly) -> fortissimissimissimamente \n(very very-much weakly) -> \u2026\npratico (practical) -> praticissimo (very practical/much practical) \n-> praticissimissimo (very much-practical) -> \npraticissimissimissimo (very very-much practical) -> \u2026\npraticamente (practically) -> praticissimamente (much practically) \n-> praticissimissimamente (very much-practically) -> \npraticissimissimissimamente (very very-much practically) -> \u2026\n\u2026\n(in music speech, the series forte -> \u2026 -> fortissimissimissimo \n-> \u2026, and piano -> \u2026 -> pianissimissimissimo -> \u2026, are also \ninterlanguage-ised and internationalised).\nMay these be considered as full reduplication (of inflectional \nmorphemes), or duplication of morphemes other than stems are not counted\n for feature 27A?",
+        "date": "2021/12/23",
+        "post": {
+            "id": "31",
+            "title": "Reduplication"
+        }
+    },
+    {
+        "id": "comment-184482",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "1) answering to Beirne \nan to anywho else has similar questions/thoughts: gender is a property \nof the concordance between words, not a property of nouns, pronouns, \nadjective forms, article forms, etc., so state that English has three \ngenders is correct since in English third person singular personal \npronouns has gender concordance with nouns (do not confuse the overlap \nbetween gender and sex with the lack of gender distinction, and do not \nforget that in English \"vessel\" and \"ship\" have a feminine gender \ndespite being asexual).\n2) replying to yoandri: Spanish definite articles in the singular \n(el/la/lo), third-person singular personal forms (\u00e9l/ella/ello), and \ndemonstrative adjectives in the singular (este/esta/esto, ese/esa/eso, \nand aquel/aquella/aquello) have three forms (one masculine, one \nfeminine, and one neuter), but two forms have the same concordance (the \nneuter forms have masculine concordance), so Spanish language has two \ngenders.\n3) the Italian and Romanian languages, despite having neuter nouns, have\n no neuter gender concordance, so they have only two genders (masculine \nand feminine, same as French, Spanish, and Portuguese)\nNeuter nouns as \"uovo\" -> \"l'uovo\" (\"egg\", plural \"uova\" -> \"le \nuova\", archaic \"ovo\" -> \"l'ovo\", archaic plural \"ova\" -> \"le \nova\"), \"budello\" -> \"il budello\" (\"gut\", plural \"budella\" -> \"le \nbudella\"), and \"paio\" -> \"il paio\" (\"pair\", plural \"paia\" -> \"le \npaia\") in Italian and \"autobuz\" -> \"autobuzul\" (\"bus\"/\"autobus\", \nplural \"autobuze\" -> \"autobuzele\", \"bilion\" -> \"bilionul\" (UK \n\"bilion\"/US \"trilion\", plural \"bilioane\" -> \"bilioanele\") in Romanian\n have masculine gender concordance in the singular and feminine gender \nconcordance in the plural (not neuter gender concordance as in Latin \nneuter nouns).\nItalian language has also nouns which are neuter only in certain senses \nas \"dito\" -> \"il dito\" (\"toe\"/\"finger\", plural \"dita\" -> \"le dita\"\n without attributes or \"diti [\u2026]\" -> \"i diti [\u2026]\" with attributes), \n\"braccio\" -> \"il braccio\" (\"arm\", plural \"braccia\" -> \"le braccia\"\n if pertaining to a living being or \"bracci\" -> \"i bracci\" if \npertaining to a robot, to a crane, or to another non-living being), \netc., or historically mandatory and currently optionally as \"carcere\" \n-> \"il carcere\" (\"prison\", synonym of \"prigione\", plural \"carceri\" \n-> \"le carceri\"/\"i carceri\").\nItalian language has also two particular exceptions, they are the words \n\"orecchio\"/\"orecchio\"/\"orecchia\" -> \n\"l'orecchio\"/\"l'orecchio\"/\"l'orecchia\" (\"ear\", plural \n\"orecchi(i)\"/\"orecchia\"/\"orecchie\" -> \"gli orecchi(i)\"/\"le \norecchia\"/\"le orecchie\"), and \"eco\" -> \"l'eco\" (\"echo\", plural \"echi\"\n -> \"gli echi\"),\nthe first is the only Italian word having both one masculine inflection \n(\"orecchio\"/\"orecchi(i)\"), one feminine (\"orecchia\"/\"orecchie\"), and one\n neuter (\"orecchio\"/\"orecchia\", now mostly deprecated due to syncretism \nof feminine-gender-concordance neuter-inflection plural form \"orecchia\" \nwith feminine-gender-concordance feminine-inflection singular \n\"orecchia\"),\nthe second is the only Italian word whith an anti-neuter inflection (an \nanti-neuter inflection has a feminine-gender concordance in the singular\n and a masculine-gender concordance in the plural, while a neuter \ninflection has masculine-gender concordance in the singular and \nfeminine-gender concordance in the plural),\nsince the word \"eco\" begins by vowel and, so, the definite article \nalliterates to \"l'\" (a syncretic form with no gender distinction in the \nsingular and, during thirteenth century, also with no number distinction\n in the feminine, in modern grammar the alliteration of definite article\n in the plural is deprecated), in modern Italian it is accepted an \nalternate masculine-gender concordance in the singular, to see the \nfeminine concordance, we have to apply an attribute with gender \ndistinction in the singular, for example, if we use the qualificative \nadjective \"bello\" (\"beautiful\"), we have \"la bella eco\"/\"il bell'eco\" in\n the singular and \"i bei echi\" in the plural.",
+        "date": "2021/12/23",
+        "post": {
+            "id": "34",
+            "title": "Number of Genders"
+        }
+    },
+    {
+        "id": "comment-184484",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "Language cannot have \nless than 1 gender, less than 1 grammatical number, or less than 1 \ngrammatical case, so languages mapped as with \"none\" genders must be \nmapped as with \"one\" gender, instead.",
+        "date": "2021/12/23",
+        "post": {
+            "id": "34",
+            "title": "Number of Genders"
+        }
+    },
+    {
+        "id": "comment-184485",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "P.S.:\nIf a language has less than 2 genders (as Basque, Vietnamese, and \nChinese), the only gender is the \"common\" gender.\nIf a language has less than 2 grammatical numbers (as Vietnamese, and \nChinese), the only grammatical number is \"plural\".\nIf a language has less than 2 grammatical cases (as Vietnamese), the \nonly grammatical case is \"nominative\" (also known as \"absolutive\").",
+        "date": "2021/12/23",
+        "post": {
+            "id": "34",
+            "title": "Number of Genders"
+        }
+    },
+    {
+        "id": "comment-184506",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "1) For the same reason,\nfor feature 30A, value \"none\" have to be replaced by value \"one\" (both \nin chapter and on map),\nand in those for features 31A, and 32A, value \"no gender\" have to be \nreplaced by value \"one gender\" (only on map).\n2) In chapters 30, 31, and 32, word \"gender\" have to be replaced by its \nhypernym \"class\", since all \"gender systems\" are \"sex-based class \nsystems\".\n3) Since animacy-based class systems as those of many Niger-Congo \nlanguages are considered with multiple classes (mistakenly called \ngenders in the chapters), also the animacy based system found in Basque \nlanguage have to be considered as a multi-class system (in Basque \nlanguage, locative and lative cases in have an animacy-based \nagreement-concordance between nouns and adjectives distinguishing the \nclass of animated things against the class of inanimated things), \notherwise there is an incoherence issue if Swahili is classified as \nhaving \"5 or more\" classes while Basque is classified as having less \nthan \"two\" and Russian with only \"three\" (Russian gender system is based\n on both sex and animacy in a bidimensional relation with a total of six\n classes, while Polish and Czech languages have 4).\nRussian language has a 3-gender 4-classes agreement (masculine animate, \nmasculine inanimate, feminine, and neuter) in noun-adjective concordance\n (masculine animate, and masculine inanimate, are distinguished in \nsingular accusative, while feminine and neuter have distinct conjugation\n patterns for animated and inanimated things, but no concordance \ndistinction),\nPolish language has a 3-gender 5-classes agreement (virile masculine \nanimate, nonvirile masculine animate, masculine inanimate, feminine, and\n neuter) in noun-adjective concordance (masculine animate, and masculine\n inanimate are distinguished in accusative singular, while virile \nmasculine animate and non virile masculine animate, are distinguished in\n nominative plural, vocative plural, and accusative plural)\nCzech language has a 3-gender 4-classes agreement (masculine animate, \nmasculine inanimate, feminine, and neuter) in noun-adjective concordance\n (masculine animate and masculine inanimate, are distinguished in \nsingular accusative, plural nominative, and plural vocative),\nBasque language has a 1-gender 2-classes agreement (animate, and \ninanimate) in noun-adjective concordance with declinable adjectives \n(animate and inanimate, are distinguished in locative, \ninessive/adessive, allative/illative, terminative, directive, \ndestinative, and ablative/elative cases),\nSwahili language has a 1-gender 9-classes agreement (m-wa, m-mi, ma, \nki-vi, n, u, pa, ku, and mu) in noun-adjective agreement with declinable\n adjectives, noun-adjectival/genitive particle, noun-numeral, and other \nnoun-determiner concordances and in subject-verb concordance, and a \n1-gender 10-classes (with the addition of person class) in object-verb \nconcordance.",
+        "date": "2021/12/24",
+        "post": {
+            "id": "34",
+            "title": "Number of Genders"
+        }
+    },
+    {
+        "id": "comment-184509",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "Russian, and Czech, \nhave values \"four\" for feature 30A, \"sex-based\" for feature 31A, and \n\"semantic and formal\" for 32A\nPolish has values \"five or more\" for feature 30A, \"sex-based\" for \nfeature 31A, and \"semantic and formal\" for 32A\nPortuguese, Spanish, French, Italian, Romanian, and Irish (Gaelic), have\n values \"two\" for feature 30A, \"sex-based\" for feature 31A, and \n\"semantic and formal\" for 32A\nDanish, and Swedish, have values \"two\" for feature 30A, \"non-sex-based\" \nfor feature 31A, and \"semantic and formal\" for 32A\nEcclesiastical Latin, English, Dutch, German, Icelandic, Faroese, \nNorwegian, and Greek, have values \"three\" for feature 30A, \"sex-based\" \nfor feature 31A, and \"semantic and formal\" for 32A\nBasque has values \"two\" for feature 30A, \"non-sex-based\" for feature \n31A, and \"semantic and formal\" for 32A\nSwahili has values \"ten\" for feature 30A, \"non-sex-based\" for feature \n31A, and \"semantic and formal\" for 32A\nVietnamese, Chinese, Korean, and Japanese has values \"one\" for feature \n30A, \"one gender\" for feature 31A, and \"one gender\" for 32A",
+        "date": "2021/12/24",
+        "post": {
+            "id": "34",
+            "title": "Number of Genders"
+        }
+    },
+    {
+        "id": "comment-184510",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "In French spelling, \nplural is expressed by use of \"suffixes\" as a primary manner, while in \npronunciation the primary manner is \"no plural\" while \"suffixes\" becomes\n a secondary manner, for map 33A purposes, written French is more \nrelevant than spoken French, differently by languages primarly spoken as\n \u01c3X\u00f3\u00f5.",
+        "date": "2021/12/24",
+        "post": {
+            "id": "37",
+            "title": "Coding of Nominal Plurality"
+        }
+    },
+    {
+        "id": "comment-184512",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "For chapter 35 (I \ncannot comment there) Italian language in third-person has a contrast \nbetween two series of nominative/ablative/ergative/accusative forms:\nlui/lei/egli/ella/loro (with a once-nominal-now-pronominal suffix for \nplural; originally the plurals were elloro in the genitive masculine \nplural and ellaro in the genitive feminine plural, then the form \n\"elloro\" lost the stem \"el-\" and the resulting word \"loro\" replaced both\n genitive feminine plural form and \nnominative/ablative/ergative/accusative forms, meanwhile the accusative \nsingular forms \"ellui\" and \"ellei\" also dropped the stem \"el-\" and began\n been used interchangeably with the forms \"egli\" and \"ella\"), and\nesso/essa/essi/esse (with a nominal suffix for gender and plurality); in\n first- and second-persons the entire stem represents both person and \nplurality (first- and second-person singular pronouns are also the only \nmodern Italian words still distinguishing the \nnominative/ablative/ergative case against the accusative case, in the \nsecond-person by use of a suffix, and in the first-person by use of both\n a suppletive root and the accusative suffix in the accusative).\nSo the Italian language have to be mapped as with \"Person-number stem + \nnominal plural affix\".\nmodern Italian subject personal pronouns\nNOM/ABS/ERG.sg.1 \"io\"\tACC.sg.1 \"me\"\nNOM/ABS/ERG.sg.2 \"tu\"\tACC.sg.2 \"te\"\nm.sg.3 \"lui\"/\"egli\"/\"esso\"\tf.sg.3 \"lei\"/\"ella\"/\"essa\"\npl.1 \"noi\"\npl.2 \"voi\"\nm.pl.3 \"loro\"/\"essi\"\tf.pl.3 \"loro\"/\"esse\"\n\"lui/lei/egli/ella/loro\" contrapposition may be considered as \"person \nstem + archaic nominal gender/number/case affix\" (with suppletion)\n\"esso/essa/essi/esse\" contrapposition may be considered as \"person stem +\n nominal gender/number affix\"\n\"io\" may be considered as \"person/number/case stem\"\n\"me/tu/te\" may be considered as \"person/number stem + case affix\"\n\"noi/voi\" contrapposition may be considered as \"person stem + archaic \nnominal number affix\"\nin general this may be mapped as \"Person-number stem + nominal plural \naffix\"",
+        "date": "2021/12/24",
+        "post": {
+            "id": "37",
+            "title": "Coding of Nominal Plurality"
+        }
+    },
+    {
+        "id": "comment-184515",
+        "author": {
+            "name": "Wahet Mollamah",
+            "url": null
+        },
+        "status": "1",
+        "text": "The indefinite Article in German is \"ein\" which is inflected for Case. The Word for \"one\" is \"eins\".",
+        "date": "2021/12/24",
+        "post": {
+            "id": "20304",
+            "title": "Datapoint German / Indefinite Articles"
+        }
+    },
+    {
+        "id": "comment-184526",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "To reply to Martini \nPietro: I know the chapter is about politness distinction in 2-nd person\n of personal pronouns, it cannot be otherwise (politness in other person\n pronouns does not exist), if thou had read carefully the question in my\n first comment, thou would have understood that I understood.\nAs far as I know, in English language when referring to an important \nperson (a king, a queen, a pontiff, \u2026) is used the third-person singular\n or plural pronoun with second-person singular polite meaning \n(respectively \u201cHis majesty the king\u201d, \u201cHer majesty the queen\u201d, \u201cHis \nholiness the pope\u201d, \u2026, instead of \u201cyour majesty the king\u201d, \u201cyour majesty\n the queen\u201d, \u201cyour holiness the pope\u201d, \u2026), this is in contrast to what \nis mapped.\nI have always heard greeting people beyond a certain social status by \nusing the third person singular or plural instead of the second person \nsingular in English speeches.",
+        "date": "2021/12/25",
+        "post": {
+            "id": "49",
+            "title": "Politeness Distinctions in Pronouns"
+        }
+    },
+    {
+        "id": "comment-184527",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "To comment to chapters \n41 to 44 (I cannot comment on them):\nIn chapter 41 for feature 41A, the Italian language is mapped as having a\n \"two-way contrast\", however, the Italian language, contrasts between \n\"questo\" (proximal), \"codesto\" (medial, also used for near hearer in \nsome dialects and contexts), and \"quello\" (distal), so the Italian \nlanguage for feature 41A have to be mapped as having a \"three-way \ncontrast\".\nIn chapter 42 for feature 42A, the French language is mapped as having \n\"different stem\" for pronominal and adnominal demonstratives, however, \nin example (2) is shown French language contrasting adnominal \ndemonstratives \"ce\" and \"cette\", and pronominal demonstrative \"celui\" \nand \"celle\" which evidently share the stem \"ce-\" and change only the \nsuffix, so the French language have to be mapped as having \"different \ninflection\", not \"different stem\".\nIn chapter 43 for feature 43A, the Italian language (currently not \nmapped) may be mapped with value \"unrelated\".\nIn chapter 44 for feature 44A, the Italian language is mapped as having \ngender distinction in \"3rd person singular only\", however, the Italian \nlanguage, has gender distinction also in the 3-rd person plural (gender \ndistinction in the 3-rd person plural is optional, not absent) with the \nfollowing gender distinction:\n3-rd person personal pronoun form \"essi\" is dominantly used for:\nmasculine+masculine=masculine;\n3-rd person personal pronoun form \"esse\" is dominantly used for:\nfeminine+feminine=feminine;\n3-rd person personal pronoun form \"loro\" (originally the masculine and \nneuter genitive \"elloro\" contrasted against feminine genitive \"ellaro\") \nis currently used primarly for:\nmasculine+feminine=common,\nunknown+unknown=unknown,\nmasculine+unknown=unknown,\nfeminine+unknown=unknown;\nfor \"essi\" is used also non-dominantly for common and unknown, while \n\"loro\" is used also non-dominantly for masculine and feminine, and \n\"esse\" has no non-dominant usages;\nso the Italian language for feature 44A have to be mapped with gender \ndistinction in \"3rd person only, but also non-singular\".",
+        "date": "2021/12/25",
+        "post": {
+            "id": "49",
+            "title": "Politeness Distinctions in Pronouns"
+        }
+    },
+    {
+        "id": "comment-184531",
+        "author": {
+            "name": "Delvecchio Simone",
+            "url": null
+        },
+        "status": "1",
+        "text": "In feature 28A of \nchapter 28 are considered both nominal and pronominal case inflections \n(the same is for feature 50A of chapter 50), while in feature 49A of \nchapter 49 only productive nominal case inflection patterns are \nconsidered.",
+        "date": "2021/12/25",
+        "post": {
+            "id": "53",
+            "title": "Number of Cases"
+        }
+    },
+    {
+        "id": "comment-184538",
+        "author": {
+            "name": "Daniel Fuchs",
+            "url": "https://sprache.baumfuchs.de"
+        },
+        "status": "1",
+        "text": "We have two \ndemonstrative articles: dieser/diese/dieses (masculine/feminine/neutral)\n is proximal and jener/jene/jenes is distal, although the latter is \noutdated and rarely used these days. But it's still part of the \nlanguage, so German should be classified as having two-way \ndemonstratives. Der/die/das, as given in the examples, are the definite \narticles and can replace either of the demonstratives in informal \nGerman.",
+        "date": "2021/12/26",
+        "post": {
+            "id": "6451",
+            "title": "Datapoint for feature 41A and language wals_code_ger"
+        }
+    },
+    {
+        "id": "comment-184825",
+        "author": {
+            "name": "Robyn Kolozsvari",
+            "url": null
+        },
+        "status": "1",
+        "text": "In the text of the \nchapter, Pipil is explicitly discussed as an example of a language which\n uses reduplication, but is counted as prefixing on the map, with \nexamples such as tukat 'spider' tuhtukat 'spiders.' However, on the map \nitself it has been (erroneously) coded as suffixing.",
+        "date": "2022/01/10",
+        "post": {
+            "id": "37",
+            "title": "Coding of Nominal Plurality"
         }
     }
 ]
