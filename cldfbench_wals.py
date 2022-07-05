@@ -502,9 +502,9 @@ class Dataset(BaseDataset):
             if row['id'] == id_:
                 return row['pk']
 
-    def iter_rows(self, fname, cond):
+    def iter_rows(self, fname, cond=None):
         for row in self.raw_dir.read_csv(fname, dicts=True):
-            if cond(row):
+            if (cond is None) or cond(row):
                 yield row
 
     def add_rows(self, fname, *rows):
@@ -518,8 +518,9 @@ class Dataset(BaseDataset):
     def maxpk(self, fname):
         return max(int(r['pk']) for r in self.raw_dir.read_csv(fname, dicts=True))
 
-    def rewrite(self, fname, v):
+    def rewrite(self, fname, v, cascade=None):
         rows = list(dsv.reader(self.raw_dir / fname, dicts=True))
+        pks = set()
 
         with dsv.UnicodeWriter(self.raw_dir / fname) as w:
             for i, row in enumerate(rows):
@@ -528,3 +529,9 @@ class Dataset(BaseDataset):
                 res = v(row)
                 if res:
                     w.writerow(res.values())
+                    pks.add(res['pk'])
+
+        for fn, fk in (cascade or []):
+            self.rewrite(fn, lambda r: r if r[fk] in pks else None)
+
+        return max([int(pk) for pk in pks])
