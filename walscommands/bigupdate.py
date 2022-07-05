@@ -8,6 +8,8 @@ from unidecode import unidecode
 import pytest
 import pycountry
 from cldfbench_wals import Dataset
+from clldutils.misc import slug
+from clldutils.color import qualitative_colors
 
 
 CMP = {
@@ -48,6 +50,91 @@ class Countries(list):
 
 
 def change(ds, changes):
+    # collect new genera/families/subfamilies:
+    langs = {r['pk']: r['name'] for r in ds.iter_rows('language.csv')}
+    for r in ds.iter_rows('walslanguage.csv'):
+        langs[r['pk']] = (langs[r['pk']], r['genus_pk'])
+    genera = {r['name']: (r['pk'], r['subfamily'], r['family_pk']) for r in ds.iter_rows('genus.csv')}
+    maxpk_genus = ds.maxpk('genus.csv')
+    maxpk_family = ds.maxpk('family.csv')
+    families = {r['name']: r['pk'] for r in ds.iter_rows('family.csv')}
+
+    # Add new stuff
+    upd_l, add_f, add_g, upd_g = {}, [], [], {}
+    for lpk, d in changes.items():
+        sf = None
+        if 'SubfamilyNEW' in d:
+            sf = d['SubfamilyNEW'][1]
+        fpk = None
+        if 'FamilyNEW' in d:
+            oldf, newf = d['FamilyNEW']
+            if newf not in families:
+                maxpk_family += 1
+                add_f.append([
+                    # pk, jsondata, id, name, description, markup_description
+                    maxpk_family, '', slug(newf), newf, '', ''])
+                families[newf] = maxpk_family
+            fpk = families[newf]
+        if (sf is not None) or fpk or ('GenusNEW' in d):
+            if 'GenusNEW' not in d:
+                # Just update the family_pk or subfamily for genus!
+                upd_g[langs[lpk][1]] = (sf, fpk)
+                continue
+            old, new = d['GenusNEW']
+            # Where do we get the old familypk?
+            fpk = fpk or genera[old][2]
+            if not new:
+                assert langs[lpk][0] == old
+                continue
+            if new not in genera:
+                sf = sf if sf is not None else genera[old][1]
+                maxpk_genus += 1
+                add_g.append([
+                    #pk, jsondata, id, name, description, markup_description, family_pk, subfamily, icon
+                    maxpk_genus, '', slug(new), new, '', '', fpk, sf, ''])
+                genera[new] = (maxpk_genus, sf, fpk)
+            gpk, sf, fpk = genera[new]
+            upd_l[lpk] = gpk
+
+    ds.add_rows('family.csv', *add_f)
+    ds.add_rows('genus.csv', *add_g)
+
+    def upg(row):
+        if row['pk'] in upd_g:
+            sf, fpk = upd_g[row['pk']]
+            if sf is not None:
+                row['subfamily'] = sf
+            if fpk:
+                row['family_pk'] = fpk
+        return row
+    ds.rewrite('genus.csv', upg)
+
+    # rewrite walslanguage.csv adapting genus_pk
+    def upl(row):
+        if row['pk'] in upd_l:
+            row['genus_pk'] = upd_l[row['pk']]
+        return row
+    ds.rewrite('walslanguage.csv', upl)
+
+    #
+    # Remove
+    # 1. genera no longer referenced by languages
+    gpks = set(r['genus_pk'] for r in ds.iter_rows('walslanguage.csv'))
+    ds.rewrite('genus.csv', lambda r: r if r['pk'] in gpks else None)
+
+    # 2. families no longer referenced by genera
+    fpks = set(r['family_pk'] for r in ds.iter_rows('genus.csv'))
+    ds.rewrite('family.csv', lambda r: r if r['pk'] in fpks else None)
+
+    # Reassign genus icons.
+    ngenus = len(list(ds.iter_rows('genus.csv')))
+    colors = qualitative_colors(ngenus)
+
+    def assign_icon(row):
+        row['icon'] = colors.pop().replace('#', 'c')
+        return row
+    ds.rewrite('genus.csv', assign_icon)
+
     glottocodes = {
         row['name']: row['pk'] for row in ds.iter_rows(
             'identifier.csv', lambda r: r['type'] == 'glottolog')}
