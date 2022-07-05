@@ -196,7 +196,7 @@ class Dataset(BaseDataset):
             if row['name'] == genus['name'] == family['name']:
                 # an isolate!
                 genus = family = None
-            iso_codes = set(i[0] for i in lang2id[row['pk']].get('iso639-3', []))
+            iso_codes = row['iso_codes'].replace(',', '').split()
             glottocodes = [i[0] for i in lang2id[row['pk']].get('glottolog', [])]
             srcs = lrefs[row['pk']]
             if id in gbs_lg_refs:
