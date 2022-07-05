@@ -479,7 +479,7 @@ cmn,Comanche,North America,33.5,-101.5,coma1245,com,Uto-Aztecan,,Northern Uto-Az
 cmr,Chin (Mara),Eurasia,23,93.1666666667,mara1382,mrh,Sino-Tibetan,Tibeto-Burman,Kuki-Chin,c51CCB8,mrh,false,false,IN MM,Lorrain-1951 Savidge-1908
 cmx,Comox,North America,50.1666666667,-125,como1259,coo,Salishan,,Central Salish,c51ADCC,coo,false,false,CA,Hagege-1981 Harris-1981b Harris-1981c
 cmy,Chontal Maya,North America,18.1666666667,-92.5833333333,taba1266,chf,Mayan,,Mayan,cA951CC,chf,false,false,MX,Keller-1959 Keller-and-Luciano-G-1997 Knowles-1984
-cnl,Canela,South America,-7,-45,ramk1239,ram,Macro-Ge,Je,Je Setentrional,c807033,ram,false,false,BR,Abreu-1931 Nichols-1992 Popjes-and-Popjes-1986 Rodrigues-1999b
+cnl,Canela,South America,-7,-45,ramk1239,ram,Macro-Ge,Je,Je Setentrional,c807033,ram,true,true,BR,Abreu-1931 Nichols-1992 Popjes-and-Popjes-1986 Rodrigues-1999b
 cnm,Canamarí,South America,-6.5,-68.5,kana1291,knm,Katukinan,,Katukinan,cCC5194,knm,false,false,BR,Groth-1988a
 cnt,Cantonese,Eurasia,23,113,yuec1235,yue,Sino-Tibetan,,Chinese,c51CCC9,yue,false,false,CN,Bybee-et-al-1994 Cheung-1983 Huang-1970 Killingley-1982 Malherbe-and-Rosenberg-1996 Matthews-1997 Matthews-and-Yip-1994 Zee-1999
 coa,Coahuilteco,North America,28,-100,coah1252,xcw,Coahuiltecan,,Coahuiltecan,c804F33,xcw,false,false,MX,Troike-1967 Troike-1996

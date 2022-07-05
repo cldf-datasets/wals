@@ -56,7 +56,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 296,carolinian,87,f,f,cal,Papunesia
 297,catio,135,f,f,cto,South America
 294,canamari,206,f,f,knm,South America
-295,canela,838,f,f,ram,South America
+295,canela,838,t,t,ram,South America
 292,bujeba,833,f,f,nmg,Africa
 293,cabecar,837,f,f,cjp,North America
 290,boruca,837,f,f,brn,North America
