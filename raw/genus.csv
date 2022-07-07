@@ -324,11 +324,9 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 487,,washo,Washo,,,182,,c7B8033
 488,,westbomberai,West Bomberai,,,452,,cC6CC51
 489,,westbougainville,West Bougainville,,,184,,c7F8033
-491,,westbirdshead,West Bird's Head,,,185,,cCBCC51
-492,,kebar,Kebar,,,185,,c807D33
-493,,northcentralbirdshead,North-Central Bird's Head,,,185,,cCCC851
-494,,northhalmaheran,North Halmaheran,,,185,,c807933
-495,,hatam,Hatam,,,185,,cCCC251
+491,,westbirdshead,West Bird's Head,,,463,,cCBCC51
+494,,northhalmaheran,North Halmaheran,,,462,,c807933
+495,,hatimmansim,Hatim-Mansim,,,465,,cCCC251
 496,,yale,Yale,,,187,,c807533
 497,,yamana,Yámana,,,188,,cCCBC51
 498,,yanomam,Yanomam,,,189,,c807233
@@ -623,3 +621,6 @@ pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
 981,,tangkhulmaring,Tangkhul-Maring,,,145,Tibeto-Burman,c51CCCC
 982,,trique,Trique,,,131,Mixtecan,c803333
 983,,westerngunwinyguan,Western Gunwinyguan,,,422,,cCC5151
+984,,abun,Abun,,,464,,c807D33
+985,,maybrat,Maybrat,,,466,,cCCC851
+986,,mpur,Mpur,,,467,,cA2CC51

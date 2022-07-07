@@ -1204,7 +1204,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 2464,ingush,268,f,t,inh,Eurasia
 2106,sre,63,f,f,kpm,Eurasia
 2465,maung,38,t,t,mph,Australia
-2505,maybrat,493,t,t,ayz,Papunesia
+2505,maybrat,985,t,t,ayz,Papunesia
 2466,koromfe,945,f,t,kfz,Africa
 2065,mohawk,192,f,f,moh,North America
 2439,paumari,24,f,t,pad,South America
@@ -1461,7 +1461,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 2578,wan,273,f,f,wan,Africa
 2084,rotuman,87,f,f,rtm,Papunesia
 2085,selepet,848,f,f,spl,Papunesia
-1519,mpur,492,f,f,akc,Papunesia
+1519,mpur,986,f,f,akc,Papunesia
 512,bayso,698,f,f,bsw,Africa
 1286,wapishana,958,f,f,wap,South America
 17,arrernte,792,f,f,"aer, are",Australia
@@ -1784,7 +1784,7 @@ pk,ascii_name,genus_pk,samples_100,samples_200,iso_codes,macroarea
 1649,laal,227,f,f,gdm,Africa
 1648,kxoe,210,f,f,xuu,Africa
 1981,pech,964,f,f,pay,North America
-2245,abun,493,f,f,kgr,Papunesia
+2245,abun,984,f,f,kgr,Papunesia
 1275,simeulue,521,f,f,smr,Papunesia
 1390,domaaki,182,f,f,dmk,Eurasia
 1897,khalaj,19,f,f,klj,Eurasia

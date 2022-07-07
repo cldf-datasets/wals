@@ -11,7 +11,7 @@ abk,Abkhaz,Eurasia,43.0833333333,41,abkh1244,abk,Northwest Caucasian,,Northwest 
 abm,Alabama,North America,32.3333333333,-87.4166666667,alab1237,akz,Muskogean,,Muskogean,c9251CC,akz,false,false,US,Lupardus-1982 Rand-1968 Sylestine-et-al-1993 Sylestine-et-al-nd
 abn,Arabana,Australia,-28.25,136.25,arab1267,ard,Pama-Nyungan,,Central Pama-Nyungan,c335F80,ard,false,false,AU,Hercus-1994
 abo,Arbore,Africa,5,36.75,arbo1245,arv,Afro-Asiatic,Cushitic,Lowland East Cushitic,c803353,arv,false,false,ET,Hayward-1984
-abu,Abun,Papunesia,-0.5,132.5,abun1252,kgr,West Papuan,,North-Central Bird's Head,cCCC851,kgr,false,false,ID,Berry-1995a Berry-1995b Berry-and-Berry-1999
+abu,Abun,Papunesia,-0.5,132.5,abun1252,kgr,,,,c807D33,kgr,false,false,ID,Berry-1995a Berry-1995b Berry-and-Berry-1999
 abv,Abui,Papunesia,-8.25,124.666666667,abui1241,abz,Greater West Bomberai,Timor-Alor-Pantar,Alor-Pantar,c608033,abz,false,false,ID,Kratochvil-2007
 abw,Abenaki (Western),North America,44,-72.25,west2630,abe,Algic,,Algonquian,c758033,abe,false,false,CA US,Day-1994 Day-1995
 abz,Abaza,Eurasia,44,42,abaz1241,abq,Northwest Caucasian,,Northwest Caucasian,c5851CC,abq,false,false,RU,Anonymous-1956 Genko-1995 Lomtatidze-and-Klychev-1989 OHerin-2001
@@ -749,7 +749,7 @@ gjj,Guajajara,South America,-5,-46,guaj1255,gub,Tupian,,Maweti-Guarani,cCC6351,g
 gku,Gününa Küne,South America,-41,-67,puel1244,pue,Chonan,,Puelche,c805233,pue,false,false,AR,Adelaar-2004 Barbara-1879 Casamiquela-1983
 gla,Gelao,Eurasia,22.9166666667,105.5,qaua1234,gqu,Tai-Kadai,,Kadai,c338053,gqu,false,false,VN,Edmondson-2008 He-1981 He-1983
 glc,Galician,Eurasia,43,-8,gali1258,glg,Indo-European,,Romance,cCC5154,glg,false,false,ES,Carballo-Calero-1979 Perez-Bouza-1996
-gll,Galela,Papunesia,2.41666666667,128.333333333,gale1259,gbi,West Papuan,,North Halmaheran,c807933,gbi,false,false,ID,Ipol-et-al-1989 Shelden-1990 van-Baarda-1891 van-Baarda-1908
+gll,Galela,Papunesia,2.41666666667,128.333333333,gale1259,gbi,North Halmaheran,,North Halmaheran,c807933,gbi,false,false,ID,Ipol-et-al-1989 Shelden-1990 van-Baarda-1891 van-Baarda-1908
 gln,Golin,Papunesia,-6.33333333333,144.75,goli1247,gvf,Trans-New Guinea,,Chimbu-Wahgi,c51CC7C,gvf,false,false,PG,Bunn-1974
 glp,Gaalpu,Australia,-12.6666666667,136.75,dhan1270,dhg,Pama-Nyungan,,Western Pama-Nyungan,c5198CC,dhg,false,false,AU,Wood-1978
 gma,German (Mansfeldisch),Eurasia,51.5833333333,11.5,stan1295,deu,Indo-European,,Germanic,c803433,deu,false,false,DE,
@@ -825,7 +825,7 @@ hal,Halia,Papunesia,-5.25,154.666666667,hali1244,hla,Austronesian,Eastern Malayo
 ham,Hamtai,Papunesia,-7.5,146.25,hamt1247,hmt,Trans-New Guinea,,Nuclear Angan,c5187CC,hmt,false,true,PG,Healey-1981 Oates-and-Oates-1968
 han,Hani,Eurasia,23,103,hani1248,hni,Sino-Tibetan,Tibeto-Burman,Burmese-Lolo,c338077,hni,false,false,CN,Lewis-and-Bibo-1996 Li-1990
 har,Haruai,Papunesia,-5.08333333333,144.166666667,haru1245,tmd,Piawi,,Piawi,cCC9451,tmd,false,false,PG,Comrie-1999
-hat,Hatam,Papunesia,-1,134,hata1243,had,West Papuan,,Hatam,cCCC251,had,false,false,ID,Reesink-1996 Reesink-1999
+hat,Hatam,Papunesia,-1,134,hata1243,had,Hatim-Mansim,,Hatim-Mansim,cCCC251,had,false,false,ID,Reesink-1996 Reesink-1999
 hau,Hausa,Africa,12,7,haus1257,hau,Afro-Asiatic,Chadic,West Chadic,cADCC51,hau,true,true,NG NE,Abdoulaye-2004 Abraham-1941 Cowan-and-Schuh-1976 Dobronravin-and-Smirnova-2001 Haspelmath-1997 Howeidy-1959 Jungraithmayr-and-Mohlig-1976 Kraft-1963 Kraft-and-Kirk-Greene-1973 Kraft-and-Kraft-1973 Malherbe-and-Rosenberg-1996 Migeod-1914 Newman-1979 Newman-1990 Newman-2000 Newman-and-Schuh-1974 Nichols-1992 Robinson-1942 Sapir-1949 Schuh-and-Bagari-1999 Schuh-and-Yalwa-1999 Shcheglov-1970 Smirnova-1982 Wolff-1993
 hav,Havasupai,North America,35.75,-112.5,hava1248,yuf,Hokan,,Yuman,cCC6151,yuf,false,false,US,Yegerlehner-and-Voegelin-1957
 haw,Hawaiian,Papunesia,19.5833333333,-155.5,hawa1245,haw,Austronesian,Eastern Malayo-Polynesian,Oceanic,c806D33,haw,false,false,US,Alexander-1968 Alexander-1977 Dahl-1985 Elbert-and-Keala-1961 Elbert-and-Pukui-1979 Hawkins-1982 Pukui-and-Elbert-1965 Pukui-and-Elbert-1971 Schutz-1981
@@ -1388,7 +1388,7 @@ mau,Maung,Australia,-11.9166666667,133.5,maun1240,mph,Iwaidjan,,Iwaidjan,c807333
 mav,Maring,Papunesia,-5.5,144.666666667,mari1435,mbw,Trans-New Guinea,,Chimbu-Wahgi,c51CC7C,mbw,false,false,PG,
 maw,Maninka (Western),Africa,13,-11,west2500,mlq,Mande,,Western Mande,c6751CC,mlq,false,false,ML,Creissels-1983 Delafosse-1929 Friedlander-1992 Tokarskaja-1964
 max,Maxakalí,South America,-18,-40,maxa1247,mbl,Macro-Ge,,Maxakalian,c33805C,mbl,false,false,BR,Gudschinsky-et-al-1970 Popovich-1986 Popovich-and-Popovich-2005 Rodrigues-1999b
-may,Maybrat,Papunesia,-1.33333333333,132.5,maib1239,ayz,West Papuan,,North-Central Bird's Head,cCCC851,ayz,true,true,ID,Brown-1990 Dol-1999 Reesink-1996
+may,Maybrat,Papunesia,-1.33333333333,132.5,maib1239,ayz,,,,cCCC851,ayz,true,true,ID,Brown-1990 Dol-1999 Reesink-1996
 maz,Mazahua,North America,19.4166666667,-99.9166666667,maza1293,maz,Oto-Manguean,,Otomian,c334480,maz,false,false,MX,Spotts-1953 Stewart-and-Stewart-1954
 mba,Mba,Africa,1,25,mbaa1245,mfc,Niger-Congo,Adamawa-Ubangi,Ubangi,c6951CC,mfc,false,false,CD,Pasch-1986 Tucker-and-Bryan-1966
 mbb,Mbabaram,Australia,-17.1666666667,145,mbab1239,vmb,Pama-Nyungan,,Northern Pama-Nyungan,c336680,vmb,false,false,AU,Dixon-1966a Dixon-1966b Dixon-1970 Dixon-1991b
@@ -1553,7 +1553,7 @@ mpa,Murrinh-Patha,Australia,-14.6666666667,129.666666667,murr1258,mwf,Southern D
 mpo,Mpongwe,Africa,-1.25,9.5,myen1241,mye,Niger-Congo,Benue-Congo,Bantu,cC3CC51,mye,false,false,GA,Gautier-1912
 mpr,Maipure,South America,5.5,-67.5,maip1246,,Arawakan,,Alto-Orinoco,c334A80,,false,false,VR,Zamponi-2003a
 mpt,Mian,Papunesia,-4.75,141.5,mian1256,mpt,Trans-New Guinea,Awyu-Ok,Ok,c3E8033,mpt,false,false,PG,Fedden-2007
-mpu,Mpur,Papunesia,-0.75,133.25,mpur1239,akc,West Papuan,,Kebar,c807D33,akc,false,false,ID,Ode-2002
+mpu,Mpur,Papunesia,-0.75,133.25,mpur1239,akc,,,,cA2CC51,akc,false,false,ID,Ode-2002
 mpy,Mapoyo,South America,6,-67,mapo1246,mcg,Cariban,,Cariban,cCC9251,mcg,false,false,VR,Tavera-Acosta-1907
 mqc,Martinique Creole,North America,14.6666666667,-61,guad1242,gcf,other,,Creoles and Pidgins,c333D80,gcf,false,false,MQ,Bernabe-1983
 mqf,Momuna,Papunesia,-4.83333333333,139.25,momu1241,mqf,Trans-New Guinea,,Somahai,c337180,mqf,false,false,ID,Reimer-1986
@@ -1867,7 +1867,7 @@ paa,Pa'a,Africa,11,9.25,paaa1242,pqa,Afro-Asiatic,Chadic,West Chadic,cADCC51,pqa
 pac,Pacoh,Eurasia,16.4166666667,107.083333333,paco1243,pac,Austro-Asiatic,Mon-Khmer,Katuic,cCCC351,pac,false,false,VN,Watson-1964 Watson-1966b Watson-et-al-1979
 pad,Padoe,Papunesia,-2.33333333333,121.333333333,pado1242,pdo,Austronesian,,Celebic,c803F33,pdo,false,false,ID,Karhunen-1991 Karhunen-1994
 pae,Páez,South America,2.66666666667,-76,paez1247,pbb,Páezan,,Páezan,c5179CC,pbb,false,false,CO,Cruz-Mendez-et-al-1976 Gerdel-1973 Gerdel-1985 Huber-and-Reed-1992 Jung-1989 Rojas-Curieux-et-al-1991 Slocum-1986 Slocum-and-Gerdel-1983
-pag,Pagu,Papunesia,1.25,127.75,pagu1249,pgu,West Papuan,,North Halmaheran,c807933,pgu,false,false,ID,Wimbish-1992
+pag,Pagu,Papunesia,1.25,127.75,pagu1249,pgu,North Halmaheran,,North Halmaheran,c807933,pgu,false,false,ID,Wimbish-1992
 pai,Paiwan,Papunesia,22.5,120.833333333,paiw1248,pwn,Austronesian,,Paiwan,cCC6A51,pwn,true,true,TW,Egli-1990 Ferrel-1982 Ferrell-1982 Ho-1977 Zeitoun-et-al-1996
 pak,Pakanha,Australia,-14.5,142.416666667,paka1251,pkn,Pama-Nyungan,,Northern Pama-Nyungan,c336680,pkn,false,false,AU,Hamilton-1998
 pal,Palauan,Papunesia,7.5,134.583333333,pala1344,pau,Austronesian,,Palauan,cCCB251,pau,false,false,PW,Georgopoulos-1991 Hagege-1986 Josephs-1975 McManus-1977
@@ -2037,7 +2037,7 @@ ryu,Shuri,Eurasia,26.5,127.5,cent2126,ryu,Japanese,,Japanese,c80334A,ryu,false,f
 saa,Sa'a,Papunesia,-9.61666666667,161.45,saaa1240,apb,Austronesian,Eastern Malayo-Polynesian,Oceanic,c806D33,apb,false,false,SB,Ivens-1918
 sab,Sa'ban,Papunesia,3.66666666667,115.666666667,saba1265,snv,Austronesian,,North Borneo,c804E33,snv,false,false,ID,Clayre-1973
 sae,Saek,Eurasia,17.4166666667,104.75,saek1240,skb,Tai-Kadai,,Kam-Tai,c51CC8A,skb,false,false,LA TH,Morev-1988
-sah,Sahu,Papunesia,1.16666666667,127.5,sahu1245,saj,West Papuan,,North Halmaheran,c807933,saj,false,false,ID,Visser-and-Voorhoeve-1987
+sah,Sahu,Papunesia,1.16666666667,127.5,sahu1245,saj,North Halmaheran,,North Halmaheran,c807933,saj,false,false,ID,Visser-and-Voorhoeve-1987
 sak,Sakao,Papunesia,-15.1666666667,167.083333333,saka1289,sku,Austronesian,Eastern Malayo-Polynesian,Oceanic,c806D33,sku,false,false,VU,Guy-1974a
 sal,Salinan,North America,36,-121,sali1253,sln,Hokan,,Salinan,c336C80,sln,false,false,US,Dryer-1989 Mason-1918 Nichols-1992 Turner-1987
 sam,Samoan,Papunesia,-13.9166666667,-171.833333333,samo1305,smo,Austronesian,Eastern Malayo-Polynesian,Oceanic,c806D33,smo,false,false,AS WS,Chung-1973 Marsack-1962 Marsack-1975 Milner-1966 Moravcsik-1978 Mosel-1994b Mosel-and-Hovdhaugen-1992 Pratt-1960
@@ -2223,7 +2223,7 @@ tbb,Tübatulabal,North America,36,-118.333333333,tuba1278,tub,Uto-Aztecan,,North
 tbe,Tigré (Beni Amer),Africa,15.5,38,tigr1270,tig,Afro-Asiatic,,Semitic,cB3CC51,tig,false,false,ER,Nakano-1982
 tbl,Tabla,Papunesia,-2.45,140.416666667,tabl1243,tnm,Sentani,,Sentani,c51BECC,tnm,false,false,ID,Abisay-et-al-1983 Collier-and-Collier-1986
 tbo,Tboli,Papunesia,6.16666666667,124.5,tbol1240,tbl,Austronesian,,Bilic,cCC8251,tbl,false,false,PH,Porter-1977
-tbr,Tabaru,Papunesia,1.5,127.25,taba1263,tby,West Papuan,,North Halmaheran,c807933,tby,false,false,ID,Damayu-et-al-1991 Fortgens-1928
+tbr,Tabaru,Papunesia,1.5,127.25,taba1263,tby,North Halmaheran,,North Halmaheran,c807933,tby,false,false,ID,Damayu-et-al-1991 Fortgens-1928
 tbs,Tabassaran,Eurasia,41.8333333333,47.9166666667,taba1259,tab,Nakh-Daghestanian,Daghestanian,Lezgic,c8051CC,tab,false,false,RU,Magometov-1965 Stolz-1996
 tbt,Tobati,Papunesia,-2.58333333333,140.666666667,toba1266,tti,Austronesian,Eastern Malayo-Polynesian,Oceanic,c806D33,tti,false,false,ID,Donohue-2002
 tbu,Tubu,Africa,16,15,tebu1238,,Saharan,Saharan,Western Saharan,cC351CC,dzg tuq,false,false,TD NE,Le-Coeur-and-Le-Coeur-1956 Lukas-1953 Stolz-1996 Tucker-and-Bryan-1966
@@ -2263,14 +2263,14 @@ thn,Thangmi,Eurasia,27.75,86,than1259,thf,Sino-Tibetan,Tibeto-Burman,Himalayish,
 tho,Thompson,North America,49.75,-121.75,thom1243,thp,Salishan,,Interior Salish,c51B2CC,thp,false,false,CA,Haeberlin-1918 Thompson-and-Thompson-1980 Thompson-and-Thompson-1992 Thompson-and-Thompson-1996 Thompson-et-al-1996
 thp,Thaypan,Australia,-14.8333333333,143.166666667,thay1248,typ,Pama-Nyungan,,Northern Pama-Nyungan,c336680,typ,false,false,AU,Rigsby-1976
 ths,Thai Sign Language,Eurasia,15,101,thai1240,tsq,other,,Sign Languages,c515CCC,tsq,false,false,TH,Suwanarat-and-Reilly-1986
-tht,Tehit,Papunesia,-1.5,132,tehi1237,kps,West Papuan,,West Bird's Head,cCBCC51,kps,false,false,ID,Flassy-and-Stockhof-1979 Reesink-1996
+tht,Tehit,Papunesia,-1.5,132,tehi1237,kps,West Bird's Head,,West Bird's Head,cCBCC51,kps,false,false,ID,Flassy-and-Stockhof-1979 Reesink-1996
 thu,Thulung,Eurasia,27.4166666667,86.5,thul1246,tdh,Sino-Tibetan,Tibeto-Burman,Himalayish,c517CCC,tdh,false,false,NP,Allen-1975b
 thw,Thao,Papunesia,23.8833333333,120.916666667,thao1240,ssf,Austronesian,,Western Plains Austronesian,c803345,ssf,false,false,TW,Chang-1998
 thy,Kuuk Thaayorre,Australia,-14.5833333333,141.833333333,thay1249,thd,Pama-Nyungan,,Northern Pama-Nyungan,c336680,thd,false,false,AU,Hall-1972
 tia,Tima,Africa,11.6666666667,29.25,tima1241,tms,Kordofanian,,Katla-Tima,c5B51CC,tms,false,false,SD,Tucker-and-Bryan-1966
 tib,Tibetan (Standard Spoken),Eurasia,30,91,tibe1272,bod,Sino-Tibetan,Tibeto-Burman,Bodic,c51CCB2,bod,false,false,CN,Bell-1939 Bell-1965 De-Lancey-2003 Denwood-1999 Goldstein-and-Nornang-1970 Goldstein-and-Nornang-1978 Hannah-1912 Malherbe-and-Rosenberg-1996 Rerix-1961
 tic,Ticuna,South America,-4,-70.5,ticu1245,tca,,,,c51CC6D,tca,false,false,BR PE,Anderson-1959 Anderson-1962 Montes-Rodriguez-2004 de-Alviano-1944
-tid,Tidore,Papunesia,0.75,127.5,tido1248,tvo,West Papuan,,North Halmaheran,c807933,tvo,false,false,ID,Pikkert-and-Pikkert-1995 Pikkert-et-al-1994 van-Staden-2000
+tid,Tidore,Papunesia,0.75,127.5,tido1248,tvo,North Halmaheran,,North Halmaheran,c807933,tvo,false,false,ID,Pikkert-and-Pikkert-1995 Pikkert-et-al-1994 van-Staden-2000
 tif,Tifal,Papunesia,-5,141.333333333,tifa1245,tif,Trans-New Guinea,Awyu-Ok,Ok,c3E8033,tif,false,false,PG,
 tig,Tigrinya,Africa,14.5,38.5,tigr1271,tir,Afro-Asiatic,,Semitic,cB3CC51,tir,false,false,ET ER,Dahl-1985 Kogan-1997 Tewolde-2001
 tik,Tikar,Africa,5.83333333333,11.6666666667,tika1246,tik,Niger-Congo,Benue-Congo,Tikar,c78CC51,tik,false,false,CM,Hagege-1969 Stanley-1991 Stolz-1996
@@ -2293,7 +2293,7 @@ tld,Talaud,Papunesia,4.25,126.75,tala1285,tld,Austronesian,,Sangiric,c804333,tld
 tlf,Telefol,Papunesia,-5,141.75,tele1256,tlf,Trans-New Guinea,Awyu-Ok,Ok,c3E8033,tlf,false,false,PG,Healey-1964 Healey-1965a Healey-1965b Healey-1965c Healey-and-Healey-1977 Nichols-1992
 tli,Tlingit,North America,59,-135,tlin1245,tli,Na-Dene,,Tlingit,c543380,tli,false,true,US,Boas-1917 Dryer-1985 Kelly-and-Willard-1904 Kinkade-2001 Leer-1991b Maddieson-et-al-2001 Naish-1979 Stolz-1996 Story-1979 Swanton-1909 Swanton-1911a Swanton-1911b
 tll,Taulil,Papunesia,-4.41666666667,152.083333333,taul1251,tuh,,,,c806833,tuh,false,false,PG,Stebbins-2002
-tlo,Tobelo,Papunesia,1.5,128.5,tobe1252,tlb,West Papuan,,North Halmaheran,c807933,tlb,false,false,ID,Holton-2003 Hueting-1908 Hueting-1936 den-Besten-2001
+tlo,Tobelo,Papunesia,1.5,128.5,tobe1252,tlb,North Halmaheran,,North Halmaheran,c807933,tlb,false,false,ID,Holton-2003 Hueting-1908 Hueting-1936 den-Besten-2001
 tlp,Tlapanec,North America,17.0833333333,-99,acat1239,tcf,Oto-Manguean,,Subtiaba-Tlapanec,c334180,tcf,false,false,MX,Radin-1935 Suarez-1983a Suarez-1988
 tls,Talysh (Southern),Eurasia,37.5,49,tari1263,shm,Indo-European,,Iranian,c803335,shm,false,false,IR,Stilo-2005
 tma,Tama,Africa,14.5,22,tama1331,tma,Eastern Sudanic,,Taman,c4E3380,tma,false,false,TD SD,Tucker-and-Bryan-1966
@@ -2354,7 +2354,7 @@ tri,Trique (Copala),North America,17.1666666667,-97.9166666667,copa1237,trc,Oto-
 trm,Tirmaga,Africa,5.75,35.25,suri1267,suq,Eastern Sudanic,Surmic,South Surmic,c806933,suq,false,false,ET,Bryant-1999
 trn,Terêna,South America,-20,-56,tere1279,ter,Arawakan,,Bolivia-Parana,c803533,ter,false,false,BR,Derbyshire-1986 Derbyshire-and-Payne-1990
 trr,Tairora,Papunesia,-6.5,146,nort2920,tbg,Trans-New Guinea,Kainantu-Goroka,Tairora,cA651CC,tbg,false,false,PG,Vincent-1973a Vincent-1973b Vincent-1973c Vincent-and-Vincent-1962
-trt,Ternate,Papunesia,0.833333333333,127.25,tern1247,tft,West Papuan,,North Halmaheran,c807933,tft,false,false,ID,Hayami-Allen-2001 Watuseke-1991
+trt,Ternate,Papunesia,0.833333333333,127.25,tern1247,tft,North Halmaheran,,North Halmaheran,c807933,tft,false,false,ID,Hayami-Allen-2001 Watuseke-1991
 tru,Trumai,South America,-11.9166666667,-53.5833333333,trum1247,tpy,,,,c458033,tpy,false,true,BR,Aikhenvald-and-Dixon-1999 Guirardello-1992 Guirardello-1999a Guirardello-1999b Monod-Becquelin-1975
 trw,Torwali,Eurasia,34.25,72,torw1241,trw,Indo-European,,Indic,cCC5351,trw,false,false,PK,Lunsford-2001
 try,Tiruray,Papunesia,6.75,124.166666667,tiru1241,tiy,Austronesian,,Bilic,cCC8251,tiy,false,false,PH,Post-1966 Schlegel-1971
@@ -2501,7 +2501,7 @@ wlm,Walmatjari,Australia,-19.5,125.75,walm1241,wmt,Pama-Nyungan,,Western Pama-Ny
 wlo,Wolio,Papunesia,-5.5,122.75,woli1241,wlo,Austronesian,,Celebic,c803F33,wlo,false,false,ID,Anceaux-1952 Anceaux-and-Grimes-1995 Husen-et-al-1985
 wlw,Warluwara,Australia,-22,138.5,warl1256,wrb,Pama-Nyungan,,Western Pama-Nyungan,c5198CC,wrb,false,false,AU,Breen-1970
 wly,Wolaytta,Africa,6.83333333333,37.75,wola1242,wal,Afro-Asiatic,Omotic,Ta-Ne-Omotic,cCC5751,wal,false,false,ET,Lamberti-and-Sottile-1997 Tucker-and-Bryan-1966
-wma,West Makian,Papunesia,0.5,127.583333333,west2600,mqs,West Papuan,,North Halmaheran,c807933,mqs,false,false,ID,Voorhoeve-1982 Watuseke-1976
+wma,West Makian,Papunesia,0.5,127.583333333,west2600,mqs,North Halmaheran,,North Halmaheran,c807933,mqs,false,false,ID,Voorhoeve-1982 Watuseke-1976
 wme,Wambule,Eurasia,29.25,85.9166666667,wamb1257,wme,Sino-Tibetan,Tibeto-Burman,Himalayish,c517CCC,wme,false,false,NP,Opgenort-2004
 wmn,Wéménugbé,Africa,6.66666666667,2.5,weme1239,wem,Niger-Congo,Kwa,Tano,c806233,wem,false,false,BJ,Brand-1999
 wmu,Wik Munkan,Australia,-13.9166666667,141.75,wikm1247,wim,Pama-Nyungan,,Northern Pama-Nyungan,c336680,wim,false,false,AU,Godfrey-1964 Kilham-et-al-1986 McConnel-1945 Mushin-1995 Oates-and-Oates-1964 Sayers-and-Godfrey-1964
