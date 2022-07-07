@@ -9,5 +9,27 @@
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Dryer, Matthew S. &amp; Haspelmath, Martin (eds.) 2013. The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https://wals.info)</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "creators": [
+        {
+            "name": "Matthew Dryer"
+        },
+        {
+            "name": "Martin Haspelmath"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Matthew Dryer",
+            "type": "Editor"
+        },
+        {
+            "name": "Martin Haspelmath",
+            "type": "Editor"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "DataManager"
+        }
+    ]
 }
