@@ -5,7 +5,7 @@ bs4==0.0.1
 certifi==2019.11.28
 chardet==3.0.4
 -e git+https://github.com/cldf/cldfbench@94d5137c50a1dc5ee057865ed171bb4421aa2ff8#egg=cldfbench
--e git+https://github.com/cldf-datasets/wals@2034005e0aafbb197dc55c4d4786885df5df0d3e#egg=cldfbench_wals
+-e git+https://github.com/cldf-datasets/wals@836d933d6b6ca37e82afab5fd2fc0e7f4200d359#egg=cldfbench_wals
 cldfcatalog==1.5.1
 cldfviz==0.10.0
 clldutils==3.14.0

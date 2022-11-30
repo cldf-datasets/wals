@@ -15,6 +15,8 @@ setup(
         ],
     },
     install_requires=[
+        'python-nexus',
+        'newick',
         'cldfbench>=1.6.0',
         'clldutils>=3.7.0',
         'pycldf>=1.19.0',

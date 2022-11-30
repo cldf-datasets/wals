@@ -6,6 +6,7 @@ import itertools
 import collections
 
 from csvw import dsv
+from csvw.metadata import URITemplate
 from cldfbench import Dataset as BaseDataset
 from cldfbench import CLDFSpec
 from clldutils.misc import data_url, slug
@@ -308,8 +309,8 @@ class Dataset(BaseDataset):
                     'Language_ID': pk2id['language'][ex['language_pk']],
                     'Primary_Text': ex['name'],
                     'Translated_Text': ex['description'],
-                    'Analyzed_Word': a,
-                    'Gloss': g,
+                    'Analyzed_Word': ['…' if t is None else t for t in a],
+                    'Gloss': ['…' if t is None else t for t in g],
                 })
         example_by_value = {
             vpk: [r['sentence_pk'] for r in rows]
@@ -471,6 +472,8 @@ class Dataset(BaseDataset):
             "the taxonomic units of the  Genealogical Language List have IDs prefixed with " \
             "'family-', 'subfamily-' or 'genus-'."
         cldf.add_component('ExampleTable')
+        cldf[('ExampleTable', 'Gloss')].null = ['_____']
+        cldf[('ExampleTable', 'Analyzed_Word')].null = ['_____']
         t = cldf.add_table(
             'language_names.csv',
             {
@@ -534,6 +537,7 @@ class Dataset(BaseDataset):
                 'separator': ' ',
             },
         )
+        cldf[('ContributionTable', 'ID')].valueUrl = URITemplate('docs/chapter_{ID}.html')
         t = cldf.add_table(
             'areas.csv',
             {

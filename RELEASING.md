@@ -7,5 +7,3 @@
 
 - Run `pytest`
 - Update `CHANGES.md`
-
-

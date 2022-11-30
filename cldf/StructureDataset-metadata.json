@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/wals",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2020.2-1-g2034005",
+            "dc:created": "v2020.2-5-g836d933",
             "dc:title": "Repository"
         },
         {
@@ -170,6 +170,7 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
+                        "valueUrl": "docs/chapter_{ID}.html",
                         "name": "ID"
                     },
                     {
@@ -631,6 +632,9 @@
                         "dc:description": "The sequence of words of the primary text to be aligned with glosses",
                         "dc:extent": "multivalued",
                         "datatype": "string",
+                        "null": [
+                            "_____"
+                        ],
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#analyzedWord",
                         "required": false,
                         "separator": "\t",
@@ -640,6 +644,9 @@
                         "dc:description": "The sequence of glosses aligned with the words of the primary text",
                         "dc:extent": "multivalued",
                         "datatype": "string",
+                        "null": [
+                            "_____"
+                        ],
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#gloss",
                         "required": false,
                         "separator": "\t",
