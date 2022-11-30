@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/wals",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2020.1-6-g0950885",
+            "dc:created": "v2020.2-6-g42c0da7",
             "dc:title": "Repository"
         },
         {
@@ -38,9 +38,6 @@
     ],
     "rdf:ID": "wals",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
@@ -162,7 +159,202 @@
             "url": "values.csv"
         },
         {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
+            "dc:extent": 152,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "valueUrl": "docs/chapter_{ID}.html",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributor",
+                        "required": false,
+                        "name": "Contributor"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#citation",
+                        "required": false,
+                        "name": "Citation"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "wp_slug"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Number"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Area_ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": " ",
+                        "name": "Source"
+                    },
+                    {
+                        "separator": " ",
+                        "name": "Contributor_ID"
+                    },
+                    {
+                        "separator": " ",
+                        "name": "With_Contributor_ID"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Contributor_ID"
+                        ],
+                        "reference": {
+                            "resource": "contributors.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "With_Contributor_ID"
+                        ],
+                        "reference": {
+                            "resource": "contributors.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Area_ID"
+                        ],
+                        "reference": {
+                            "resource": "areas.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "chapters.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TreeTable",
+            "dc:description": "The family trees of WALS' Genealogical Language List.",
+            "dc:extent": 254,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "dc:description": "Name of tree as used in the tree file, i.e. the tree label in a Nexus file or the 1-based index of the tree in a newick file",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    },
+                    {
+                        "dc:description": "Describe the method that was used to create the tree, etc.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "dc:description": "Whether the tree is rooted (Yes) or unrooted (No) (or no info is available (null))",
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "Yes|No"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#treeIsRooted",
+                        "required": false,
+                        "name": "Tree_Is_Rooted"
+                    },
+                    {
+                        "dc:description": "Whether the tree is a summary (or consensus) tree, i.e. can be analysed in isolation, or whether it is a sample, resulting from a method that creates multiple trees",
+                        "datatype": {
+                            "base": "string",
+                            "format": "summary|sample"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#treeType",
+                        "required": false,
+                        "name": "Tree_Type"
+                    },
+                    {
+                        "dc:description": "The unit used to measure evolutionary time in phylogenetic trees.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "change|substitutions|years|centuries|millennia"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#treeBranchLengthUnit",
+                        "required": false,
+                        "name": "Tree_Branch_Length_Unit"
+                    },
+                    {
+                        "dc:description": "References a file containing a Newick representation of the tree, labeled with identifiers as described in the LanguageTable (the [Media_Type](https://cldf.clld.org/v1.0/terms.html#mediaType) column of this table should provide enough information to chose the appropriate tool to read the newick)",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
+                        "name": "Media_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "required": false,
+                        "separator": ";",
+                        "name": "Source"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Media_ID"
+                        ],
+                        "reference": {
+                            "resource": "media.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "genealogy.csv"
+        },
+        {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:description": "WALS' Features",
             "dc:extent": 192,
             "tableSchema": {
                 "columns": [
@@ -186,6 +378,12 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "json",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
+                        "required": false,
+                        "name": "ColumnSpec"
                     },
                     {
                         "datatype": "string",
@@ -275,7 +473,8 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 2662,
+            "dc:description": "WALS' languages and language groups. WALS languages have 2 or 3 letter IDs, whereas the taxonomic units of the  Genealogical Language List have IDs prefixed with 'family-', 'subfamily-' or 'genus-'.",
+            "dc:extent": 3573,
             "tableSchema": {
                 "columns": [
                     {
@@ -302,8 +501,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -312,8 +511,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -326,7 +525,7 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "required": false,
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
@@ -375,6 +574,23 @@
                     {
                         "separator": " ",
                         "name": "Source"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "name": "Parent_ID"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Parent_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
                     }
                 ],
                 "primaryKey": [
@@ -416,18 +632,24 @@
                         "dc:description": "The sequence of words of the primary text to be aligned with glosses",
                         "dc:extent": "multivalued",
                         "datatype": "string",
+                        "null": [
+                            "_____"
+                        ],
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#analyzedWord",
                         "required": false,
-                        "separator": "\\t",
+                        "separator": "\t",
                         "name": "Analyzed_Word"
                     },
                     {
                         "dc:description": "The sequence of glosses aligned with the words of the primary text",
                         "dc:extent": "multivalued",
                         "datatype": "string",
+                        "null": [
+                            "_____"
+                        ],
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#gloss",
                         "required": false,
-                        "separator": "\\t",
+                        "separator": "\t",
                         "name": "Gloss"
                     },
                     {
@@ -484,7 +706,6 @@
             "url": "examples.csv"
         },
         {
-            "dc:conformsTo": null,
             "dc:extent": 7377,
             "tableSchema": {
                 "columns": [
@@ -525,7 +746,6 @@
             "url": "language_names.csv"
         },
         {
-            "dc:conformsTo": null,
             "dc:extent": 192,
             "tableSchema": {
                 "columns": [
@@ -545,74 +765,69 @@
             "url": "countries.csv"
         },
         {
-            "dc:conformsTo": null,
-            "dc:extent": 152,
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
+            "dc:description": "Media files associated with WALS chapters.",
+            "dc:extent": 153,
             "tableSchema": {
                 "columns": [
                     {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "valueUrl": "docs/chapter_{ID}.html",
+                        "required": true,
                         "name": "ID"
                     },
                     {
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
                         "name": "Name"
                     },
                     {
                         "datatype": "string",
-                        "name": "wp_slug"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
                     },
                     {
-                        "datatype": "integer",
-                        "name": "Number"
+                        "datatype": {
+                            "base": "string",
+                            "format": "[^/]+/.+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
+                        "required": true,
+                        "name": "Media_Type"
+                    },
+                    {
+                        "datatype": "anyURI",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#downloadUrl",
+                        "required": false,
+                        "name": "Download_URL"
                     },
                     {
                         "datatype": "string",
-                        "name": "Area_ID"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#pathInZip",
+                        "required": false,
+                        "name": "Path_In_Zip"
                     },
                     {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
-                        "separator": " ",
-                        "name": "Source"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "name": "Contribution_ID"
                     },
                     {
-                        "separator": " ",
-                        "name": "Contributor_ID"
-                    },
-                    {
-                        "separator": " ",
-                        "name": "With_Contributor_ID"
+                        "propertyUrl": "http://purl.org/dc/terms/conformsTo",
+                        "name": "Conforms_To"
                     }
                 ],
                 "foreignKeys": [
                     {
                         "columnReference": [
-                            "Contributor_ID"
+                            "Contribution_ID"
                         ],
                         "reference": {
-                            "resource": "contributors.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "With_Contributor_ID"
-                        ],
-                        "reference": {
-                            "resource": "contributors.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Area_ID"
-                        ],
-                        "reference": {
-                            "resource": "areas.csv",
+                            "resource": "chapters.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -623,7 +838,7 @@
                     "ID"
                 ]
             },
-            "url": "chapters.csv"
+            "url": "media.csv"
         },
         {
             "dc:conformsTo": null,

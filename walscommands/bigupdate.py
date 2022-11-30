@@ -224,7 +224,7 @@ def register(parser):
 def run(args):
     changes = collections.defaultdict(dict)
     ds = Dataset()
-    update = {row['ID']: row for row in ds.raw_dir.read_csv('languagesMSD.csv', dicts=True)}
+    update = {row['ID']: row for row in ds.raw_dir.read_csv('languagesMSD_22-09.csv', dicts=True)}
     families = {row['pk']: row['name'] for row in ds.iter_rows('family.csv')}
     genera = {row['pk']: (row['name'], families[row['family_pk']], row['subfamily']) for row in ds.iter_rows('genus.csv')}
     ids = {row['pk']: row for row in ds.iter_rows('identifier.csv')}
@@ -244,6 +244,8 @@ def run(args):
                 lid = lang['id']
             else:
                 lid = pk2id[lang['pk']]
+            if lid not in update:
+                continue
             for okey, nkey, conv in CMP[table + '.csv']:
                 old, new = conv(lang[okey], genera, idsBylpk, countriesBylpk), conv(update[lid][nkey], genera, idsBylpk, countriesBylpk)
                 if (pytest.approx(old) if isinstance(old, float) else old) != (pytest.approx(new) if isinstance(new, float) else new):

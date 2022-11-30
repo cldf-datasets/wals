@@ -1,626 +1,626 @@
 pk,jsondata,id,name,description,markup_description,family_pk,subfamily,icon
-1,,southerncushitic,Southern Cushitic,,,1,Cushitic,c688033
-2,,eastchadic,East Chadic,,,1,Chadic,cA7CC51
-3,,beja,Beja,,,1,Cushitic,c6A8033
-4,,berber,Berber,,,1,,cAACC51
-5,,biumandara,Biu-Mandara,,,1,Chadic,c6C8033
-6,,westchadic,West Chadic,,,1,Chadic,cADCC51
-7,,centralcushitic,Central Cushitic,,,1,Cushitic,c6E8033
-8,,egyptiancoptic,Egyptian-Coptic,,,1,,cB0CC51
-9,,southomotic,South Omotic,,,1,Omotic,c708033
-10,,semitic,Semitic,,,1,,cB3CC51
-11,,masa,Masa,,,1,Chadic,c718033
-14,,ainu,Ainu,,,2,,cB6CC51
-15,,alacalufan,Alacalufan,,,3,,c738033
-16,,yurok,Yurok,,,4,,cB9CC51
-17,,algonquian,Algonquian,,,4,,c758033
-18,,wiyot,Wiyot,,,4,,cBCCC51
-19,,turkic,Turkic,,,5,,c778033
-20,,mongolic,Mongolic,,,5,,cBECC51
-21,,tungusic,Tungusic,,,5,,c798033
-22,,andoke,Andoke,,,7,,cC1CC51
-23,,anem,Anêm,,,8,,c7A8033
-24,,arauan,Arauan,,,9,,cC4CC51
-25,,araucanian,Araucanian,,,10,,c7C8033
-27,,atakapa,Atakapa,,,12,,cC7CC51
-62,,aslian,Aslian,,,14,Mon-Khmer,c7E8033
-63,,bahnaric,Bahnaric,,,14,Mon-Khmer,cCACC51
-64,,pearic,Pearic,,,14,Mon-Khmer,c807F33
-65,,monic,Monic,,,14,Mon-Khmer,cCCCC51
-66,,munda,Munda,,,14,,c807D33
-67,,vietmuong,Viet-Muong,,,14,Mon-Khmer,cCCC951
-68,,nicobarese,Nicobarese,,,14,Mon-Khmer,c807C33
-70,,khmer,Khmer,,,14,Mon-Khmer,cCCC651
-71,,khasian,Khasian,,,14,Mon-Khmer,c807A33
-72,,katuic,Katuic,,,14,Mon-Khmer,cCCC351
-73,,barito,Barito,,,15,,c807833
-74,,chamorro,Chamorro,,,15,,cCCC051
-75,,centralmalayopolynesian,Central Malayo-Polynesian,,,15,,c807633
-76,,samabajaw,Sama-Bajaw,,,15,,cCCBD51
-79,,southhalmaherawestnewguinea,South Halmahera - West New Guinea,,,15,Eastern Malayo-Polynesian,c807433
-46,,nyulnyulan,Nyulnyulan,,,412,,cCCBB51
-38,,iwaidjan,Iwaidjan,,,413,,c807333
-55,,mangarrayi,Mangarrayi,,,414,,cCCB851
-45,,limilngan,Limilngan,,,415,,c807133
-82,,yapese,Yapese,,,15,,cCCB551
-84,,rejang,Rejang,,,15,,c806F33
-85,,palauan,Palauan,,,15,,cCCB251
-87,,oceanic,Oceanic,,,15,Eastern Malayo-Polynesian,c806D33
-88,,lampungic,Lampungic,,,15,,cCCAF51
-89,,atayalic,Atayalic,,,15,,c806B33
-90,,javanese,Javanese,,,15,,cCCAC51
-95,,landdayak,Land Dayak,,,15,,c806A33
-102,,aymaran,Aymaran,,,17,,cCCA951
-103,,taulil,Taulil,,,18,,c806833
-104,,baining,Baining,,,434,,cCCA651
-105,,bangime,Bangime,,,207,,c806633
-106,,barbacoan,Barbacoan,,,19,,cCCA451
-107,,basque,Basque,,,20,,c806433
-108,,beothuk,Beothuk,,,21,,cCCA151
-109,,betoi,Betoi,,,22,,c806233
-110,,border,Border,,,23,,cCC9E51
-111,,bosavi,Bosavi,,,166,,c806133
-112,,bulakariver,Bulaka River,,,25,,cCC9B51
-113,,burushaski,Burushaski,,,26,,c805F33
-114,,cacuanukak,Cacua-Nukak,,,27,,cCC9851
-116,,cahuapanan,Cahuapanan,,,29,,c805D33
-117,,camsa,Camsá,,,30,,cCC9551
-118,,candoshi,Candoshi,,,31,,c805B33
-119,,cariban,Cariban,,,32,,cCC9251
-120,,cayuvava,Cayuvava,,,33,,c805933
-121,,chapacurawanham,Chapacura-Wanham,,,34,,cCC8F51
-125,,rama,Rama,,,35,,c805833
-127,,kuna,Kuna,,,35,,cCC8C51
-129,,chimila,Chimila,,,35,,c805633
-131,,chimakuan,Chimakuan,,,36,,cCC8A51
-134,,chitimacha,Chitimacha,,,39,,c805433
-135,,choco,Choco,,,40,,cCC8751
-138,,puelche,Puelche,,,445,,c805233
-139,,northernchukotkokamchatkan,Northern Chukotko-Kamchatkan,,,43,,cCC8451
-140,,southernchukotkokamchatkan,Southern Chukotko-Kamchatkan,,,43,,c805033
-141,,chumash,Chumash,,,44,,cCC8151
-142,,coahuiltecan,Coahuiltecan,,,45,,c804F33
-143,,cofan,Cofán,,,46,,cCC7E51
-144,,comecrudan,Comecrudan,,,66,,c804D33
-145,,cuitlatec,Cuitlatec,,,48,,cCC7B51
-146,,dagan,Dagan,,,166,,c804B33
-151,,eastbirdshead,East Bird's Head,,,51,,cCC7851
-154,,eaststrickland,East Strickland,,,166,,c804933
-155,,tate,Tate,,,460,,cCC7551
-157,,aleut,Aleut,,,56,,c804733
-158,,eskimo,Eskimo,,,56,,cCC7351
-159,,esselen,Esselen,,,57,,c804633
-160,,gapun,Gapun,,,58,,cCC7051
-161,,suki,Suki,,,166,Gogodala-Suki,c804433
-162,,gogodala,Gogodala,,,166,Gogodala-Suki,cCC6D51
-163,,greatandamanese,Great Andamanese,,,6,,c804233
-86,,paiwanic,Paiwan,,,15,,cCC6A51
-96,,tsouic,Tsou,,,15,,c804033
-164,,guahiban,Guahiban,,,60,,cCC6751
-166,,hadza,Hadza,,,62,,c803E33
-167,,haida,Haida,,,63,,cCC6451
-168,,harakmbet,Harakmbet,,,64,,c803D33
-170,,yuman,Yuman,,,66,,cCC6151
-171,,seri,Seri,,,66,,c803B33
-172,,chimariko,Chimariko,,,66,,cCC5E51
-174,,shasta,Shasta,,,66,,c803933
-175,,yana,Yana,,,66,,cCC5C51
-176,,pomoan,Pomoan,,,66,,c803733
-177,,huarpe,Huarpe,,,67,,cCC5951
-178,,huavean,Huavean,,,68,,c803533
-179,,boran,Boran,,,448,,cCC5651
-181,,germanic,Germanic,,,70,,c803433
-182,,indic,Indic,,,70,,cCC5351
-183,,iranian,Iranian,,,70,,c803335
-184,,romance,Romance,,,70,,cCC5154
-185,,slavic,Slavic,,,70,,c803338
-186,,greek,Greek,,,70,,cCC515A
-187,,celtic,Celtic,,,70,,c80333C
-188,,baltic,Baltic,,,70,,cCC5160
-189,,armenian,Armenian,,,70,,c80333F
-190,,albanian,Albanian,,,70,,cCC5166
-191,,southerniroquoian,Southern Iroquoian,,,71,,c803343
-192,,northerniroquoian,Northern Iroquoian,,,71,,cCC516B
-193,,itonama,Itonama,,,72,,c803347
-194,,jabuti,Jabutí,,,102,,cCC5171
-195,,japanese,Japanese,,,74,,c80334A
-196,,jirajaran,Jirajaran,,,75,,cCC5177
-197,,jivaroan,Jivaroan,,,76,,c80334E
-198,,kadugli,Kadugli,,,77,,cCC517D
-199,,kalapuyan,Kalapuyan,,,78,,c803351
-200,,kapixana,Kapixana,,,212,,cCC5182
-201,,karankawa,Karankawa,,,79,,c803355
-202,,kariri,Kariri,,,206,,cCC5188
-203,,easternpauwasi,Eastern Pauwasi,,,80,,c803359
-204,,karok,Karok,,,66,,cCC518E
-205,,kartvelian,Kartvelian,,,82,,c80335C
-206,,katukinan,Katukinan,,,83,,cCC5194
-207,,kaure,Kaure,,,84,,c803360
-208,,kayagar,Kayagar,,,85,,cCC5199
-209,,keresan,Keresan,,,86,,c803363
-215,,kiowatanoan,Kiowa-Tanoan,,,88,,cCC519F
-216,,kiwaian,Kiwaian,,,166,,c803367
-217,,kolopom,Kolopom,,,90,,cCC51A5
-218,,korean,Korean,,,91,,c80336B
-219,,kunza,Kunza,,,92,,cCC51AB
-220,,kuot,Kuot,,,93,,c80336E
-221,,kusunda,Kusunda,,,94,,cCC51B0
-222,,kutenai,Kutenai,,,95,,c803372
-223,,kwaza,Kwaza,,,96,,cCC51B6
-224,,kwerba,Kwerba,,,443,,c803375
-225,,kwomtari,Kwomtari,,,435,,cCC51BC
-227,,laal,Laal,,,98,,c803379
-229,,leftmay,Left May,,,210,,cCC51C2
-230,,leko,Leko,,,211,,c80337D
-231,,lowersepik,Lower Sepik,,,100,,cCC51C8
-232,,botin,Botin,,,100,Ramu,c7F3380
-233,,annaberg,Annaberg,,,100,Ramu,cCB51CC
-234,,mikarew,Mikarew,,,100,Ramu,c7B3380
-235,,lowerramu,Lower Ramu,,,100,Ramu,cC651CC
-236,,lule,Lule,,,101,,c783380
-243,,karaja,Karajá,,,102,,cC051CC
-244,,rikbaktsa,Rikbaktsa,,,102,,c743380
-245,,maku,Máku,,,103,,cBA51CC
-248,,mascoian,Mascoian,,,105,,c713380
-249,,matacoan,Matacoan,,,106,,cB451CC
-214,,sandawe,Sandawe,,,373,,c6D3380
-241,,guato,Guató,,,409,,cAF51CC
-242,,bororo,Bororoan,,,408,,c693380
-250,,mayan,Mayan,,,107,,cA951CC
-251,,misumalpan,Misumalpan,,,108,,c663380
-252,,mixezoque,Mixe-Zoque,,,109,,cA351CC
-253,,mombum,Mombum,,,110,,c623380
-256,,morwap,Morwap,,,113,,c9D51CC
-257,,mosetenan,Mosetenan,,,114,,c5F3380
-258,,movima,Movima,,,115,,c9851CC
-259,,mura,Mura,,,116,,c5B3380
-260,,muskogean,Muskogean,,,117,,c9251CC
-261,,nadahup,Nadahup,,,177,,c573380
-262,,athapaskan,Athapaskan,,,118,,c8C51CC
-263,,tlingit,Tlingit,,,118,,c543380
-264,,eyak,Eyak,,,118,,c8651CC
-265,,nahali,Nahali,,,119,,c503380
-267,,lezgic,Lezgic,,,120,Daghestanian,c8051CC
-268,,nakh,Nakh,,,120,,c4D3380
-269,,avarandictsezic,Avar-Andic-Tsezic,,,120,Daghestanian,c7B51CC
-270,,nambikuaran,Nambikuaran,,,121,,c493380
-271,,natchez,Natchez,,,122,,c7551CC
-272,,igboid,Igboid,,,123,Benue-Congo,c453380
-277,,kru,Kru,,,123,,c6F51CC
-278,,nupoid,Nupoid,,,123,Benue-Congo,c423380
-287,,ubangi,Ubangi,,,123,Adamawa-Ubangi,c6951CC
-289,,idomoid,Idomoid,,,123,Benue-Congo,c3E3380
-294,,defoid,Defoid,,,123,Benue-Congo,c6451CC
-295,,edoid,Edoid,,,123,Benue-Congo,c3B3380
-323,,nimboran,Nimboran,,,125,,c5E51CC
-324,,nivkh,Nivkh,,,126,,c373380
-325,,northwestcaucasian,Northwest Caucasian,,,127,,c5851CC
-326,,oksapmin,Oksapmin,,,166,Awyu-Ok,c333380
-327,,coosan,Coosan,,,129,,c5251CC
-328,,alsea,Alsea,,,129,,c333680
-329,,siuslawan,Siuslawan,,,129,,c5156CC
-319,,berta,Berta,,,377,,c333980
-330,,signlanguages,Sign Languages,,,130,,c515CCC
-331,,creolesandpidgins,Creoles and Pidgins,,,130,,c333D80
-332,,zapotecan,Zapotecan,,,131,,c5162CC
-333,,subtiabatlapanec,Subtiaba-Tlapanec,,,131,,c334180
-335,,chinantecan,Chinantecan,,,131,,c5168CC
-336,,otomian,Otomian,,,131,,c334480
-337,,amuzgoan,Amuzgoan,,,131,,c516DCC
-338,,pamean,Pamean,,,131,,c334880
-339,,popolocan,Popolocan,,,131,,c5173CC
-340,,chichimec,Chichimec,,,131,,c334B80
-341,,paezan,Páezan,,,132,,c5179CC
-342,,panoan,Panoan,,,439,,c334F80
-343,,pebayaguan,Peba-Yaguan,,,134,,c517FCC
-344,,yokuts,Yokuts,,,135,,c335380
-345,,maiduan,Maiduan,,,135,,c5184CC
-346,,chinookan,Chinookan,,,135,,c335680
-347,,costanoan,Costanoan,,,135,Utian,c518ACC
-348,,sahaptian,Sahaptian,,,135,,c335A80
-349,,wintuan,Wintuan,,,135,,c5190CC
-350,,miwok,Miwok,,,135,Utian,c335D80
-351,,molala,Molala,,,135,,c5196CC
-352,,tsimshianic,Tsimshianic,,,451,,c336180
-353,,klamathmodoc,Klamath-Modoc,,,135,,c519BCC
-354,,puinave,Puinave,,,136,,c336580
-355,,puquina,Puquina,,,137,,c51A1CC
-356,,quechuan,Quechuan,,,138,,c336880
-357,,saliba,Sáliba,,,139,,c51A7CC
-359,,salinan,Salinan,,,66,,c336C80
-360,,centralsalish,Central Salish,,,141,,c51ADCC
-361,,tillamook,Tillamook,,,141,,c336F80
-362,,interiorsalish,Interior Salish,,,141,,c51B2CC
-363,,bellacoola,Bella Coola,,,141,,c337380
-364,,tsamosan,Tsamosan,,,141,,c51B8CC
-365,,senagi,Senagi,,,142,,c337780
-366,,sentani,Sentani,,,143,,c51BECC
-369,,ram,Ram,,,144,,c337A80
-370,,sepikhill,Sepik Hill,,,144,,c51C4CC
-371,,tamasepik,Tama Sepik,,,144,,c337E80
-372,,yellowriver,Yellow River,,,144,,c51C9CC
-373,,shompen,Shompen,,,208,,c33807E
-375,,chinese,Chinese,,,145,,c51CCC9
-376,,digaroan,Digaroan,,,145,Tibeto-Burman,c33807A
-378,,karen,Karen,,,145,Tibeto-Burman,c51CCC4
-380,,burmeselolo,Burmese-Lolo,,,145,Tibeto-Burman,c338077
-382,,tani,Tani,,,145,Tibeto-Burman,c51CCBE
-385,,nungish,Nungish,,,145,Tibeto-Burman,c338073
-386,,kukichin,Kuki-Chin,,,145,Tibeto-Burman,c51CCB8
-387,,qiangic,Qiangic,,,145,Tibeto-Burman,c33806F
-389,,bodic,Bodic,,,145,Tibeto-Burman,c51CCB2
-390,,rgyalrong,rGyalrong,,,145,Tibeto-Burman,c33806C
-392,,westernskou,Western Skou,,,147,,c51CCAD
-393,,serrahills,Serra Hills,,,147,,c338068
-394,,warapu,Warapu,,,147,,c51CCA7
-395,,krisa,Krisa,,,147,,c338065
-396,,lavukaleve,Lavukaleve,,,203,,c51CCA1
-397,,savosavo,Savosavo,,,203,,c338061
-398,,bilua,Bilua,,,203,,c51CC9B
-399,,southandamanese,South Andamanese,,,202,,c33805D
-400,,sulka,Sulka,,,148,,c51CC96
-401,,sulung,Sulung,,,204,,c33805A
-402,,tacame,Tacame,,,149,,c51CC90
-403,,tacanan,Tacanan,,,439,,c338056
-404,,kamtai,Kam-Tai,,,151,,c51CC8A
-405,,kadai,Kadai,,,151,,c338053
-406,,hlai,Hlai,,,151,,c51CC84
-407,,takelma,Takelma,,,152,,c33804F
-408,,tarascan,Tarascan,,,153,,c51CC7F
-409,,tasmanian,Tasmanian,,,154,,c33804B
-410,,taushiro,Taushiro,,,155,,c51CC79
-411,,teberan,Teberan,,,156,,c338048
-412,,pawaian,Pawaian,,,156,,c51CC73
-413,,tequistlatecan,Tequistlatecan,,,66,,c338044
-414,,ticuna,Ticuna,,,158,,c51CC6D
-418,,timotecuica,Timote-Cuica,,,159,,c338041
-419,,timucua,Timucua,,,160,,c51CC68
-420,,tol,Tol,,,161,,c33803D
-421,,tonkawa,Tonkawa,,,162,,c51CC62
-424,,urim,Urim,,,164,,c338039
-425,,marienberg,Marienberg,,,164,,c51CC5C
-426,,westwapei,West Wapei,,,164,,c338036
-427,,kombioarapesh,Kombio-Arapesh,,,164,,c51CC56
-429,,totonacan,Totonacan,,,165,,c338033
-431,,duna,Duna,,,456,,c52CC51
-432,,dani,Dani,,,166,,c378033
-435,,goilalan,Goilalan,,,166,,c58CC51
-439,,koiarian,Koiarian,,,166,,c3B8033
-440,,fasu,Fasu,,,166,Kutubuan,c5ECC51
-441,,ok,Ok,,,166,Awyu-Ok,c3E8033
-442,,binanderean,Binanderean,,,166,Greater Binanderean,c64CC51
-446,,mek,Mek,,,166,,c428033
-450,,mailuan,Mailuan,,,166,,c69CC51
-451,,trumai,Trumai,,,167,,c458033
-452,,tucanoan,Tucanoan,,,168,,c6FCC51
-453,,tunica,Tunica,,,169,,c498033
-454,,tupari,Tupari,,,170,,c75CC51
-455,,monde,Monde,,,170,,c4D8033
-456,,ramarama,Ramarama,,,170,,c7BCC51
-458,,arikem,Arikem,,,170,,c508033
-459,,munduruku,Munduruku,,,170,,c80CC51
-460,,turamakikorian,Turama-Kikorian,,,166,,c548033
-462,,saami,Saami,,,173,Finno-Ugric,c86CC51
-463,,samoyedic,Samoyedic,,,173,,c578033
-464,,ugric,Ugric,,,173,Finno-Ugric,c8CCC51
-465,,finnic,Finnic,,,173,Finno-Ugric,c5B8033
-466,,mari,Mari,,,173,Finno-Ugric,c92CC51
-467,,mordvin,Mordvin,,,173,Finno-Ugric,c5F8033
-468,,permic,Permic,,,173,Finno-Ugric,c98CC51
-469,,urarina,Urarina,,,174,,c628033
-470,,uruchipaya,Uru-Chipaya,,,175,,c9DCC51
-471,,corachol,Corachol,,,176,,c668033
-472,,tubar,Tubar,,,176,,cA3CC51
-475,,cahita,Cahita,,,176,,c698033
-476,,aztecan,Aztecan,,,176,,cA9CC51
-478,,tepiman,Tepiman,,,176,,c6D8033
-479,,tarahumaran,Tarahumaran,,,176,,cAFCC51
-481,,southernwakashan,Southern Wakashan,,,178,,c718033
-482,,northernwakashan,Northern Wakashan,,,178,,cB4CC51
-483,,waorani,Waorani,,,179,,c748033
-484,,yukian,Yukian,,,180,,cBACC51
-485,,wappo,Wappo,,,180,,c788033
-486,,warao,Warao,,,181,,cC0CC51
-487,,washo,Washo,,,182,,c7B8033
-488,,westbomberai,West Bomberai,,,452,,cC6CC51
-489,,westbougainville,West Bougainville,,,184,,c7F8033
-491,,westbirdshead,West Bird's Head,,,463,,cCBCC51
-494,,northhalmaheran,North Halmaheran,,,462,,c807933
-495,,hatimmansim,Hatim-Mansim,,,465,,cCCC251
-496,,yale,Yale,,,187,,c807533
-497,,yamana,Yámana,,,188,,cCCBC51
-498,,yanomam,Yanomam,,,189,,c807233
-499,,yareban,Yareban,,,166,,cCCB651
-500,,yaruro,Yaruro,,,191,,c806E33
-501,,yawa,Yawa,,,192,,cCCB051
-502,,yele,Yele,,,193,,c806B33
-503,,yeniseian,Yeniseian,,,194,,cCCAB51
-504,,yuchi,Yuchi,,,195,,c806733
-505,,yukaghir,Yukaghir,,,196,,cCCA551
-506,,yuracare,Yuracare,,,197,,c806333
-507,,yurimangi,Yurimangí,,,198,,cCC9F51
-508,,zamucoan,Zamucoan,,,199,,c806033
-509,,zaparoan,Zaparoan,,,200,,cCC9951
-510,,zuni,Zuni,,,201,,c805C33
-461,,upperyuat,Piawi,,,172,,cCC9451
-511,,dhimalic,Dhimalic,,,145,Tibeto-Burman,c805933
-513,,greatercentralphilippine,Greater Central Philippine,,,15,,cCC8E51
-514,,northernluzon,Northern Luzon,,,15,,c805533
-515,,centralluzon,Central Luzon,,,15,,cCC8851
-516,,batanic,Batanic,,,15,,c805133
-517,,bilic,Bilic,,,15,,cCC8251
-518,,northborneo,North Borneo,,,15,,c804E33
-519,,malayosumbawan,Malayo-Sumbawan,,,15,,cCC7D51
-520,,enggano,Enggano,,,15,,c804A33
-521,,northwestsumatrabarrierislands,Northwest Sumatra-Barrier Islands,,,15,,cCC7751
-522,,rukai,Rukai,,,15,,c804733
-523,,minahasan,Minahasan,,,15,,cCC7151
-524,,sangiric,Sangiric,,,15,,c804333
-525,,southsulawesi,South Sulawesi,,,15,,cCC6B51
-526,,celebic,Celebic,,,15,,c803F33
-527,,moraori,Moraori,,,213,,cCC6651
-528,,aikana,Aikaná,,,214,,c803C33
-529,,iranxe,Iranxe,,,215,,cCC6051
-532,,centralarawakan,Central Arawakan,,,11,,c803833
-534,,purus,Purus,,,11,,cCC5A51
-535,,boliviaparana,Bolivia-Parana,,,11,,c803533
-536,,preandinearawakan,Pre-Andine Arawakan,,,11,,cCC5451
-537,,gbayamanzangbaka,Gbaya-Manza-Ngbaka,,,123,,c803336
-531,,westernarawakan,Yanesha',,,11,,cCC5157
-594,,dizoid,Dizoid,,,1,Omotic,c80333E
-595,,eastformosan,East Formosan,,,15,,cCC5163
-596,,westernplainsaustronesian,Western Plains Austronesian,,,15,,c803345
-694,,nuristani,Nuristani,,,70,,cCC516E
-695,,kadiweu,Kadiwéu,,,61,,c80334C
-697,,highlandeastcushitic,Highland East Cushitic,,,1,Cushitic,cCC517A
-698,,lowlandeastcushitic,Lowland East Cushitic,,,1,Cushitic,c803353
-699,,dahalo,Dahalo,,,1,Cushitic,cCC5185
-751,,rajiraute,Raji-Raute,,,145,Tibeto-Burman,c80335A
-212,,northernkhoisan,Ju-Kung,,,375,,cCC5191
-210,,centralkhoisan,Khoe-Kwadi,,,376,,c803362
-213,,hoan,=|Hoan,,,375,,cCC519C
-317,,kunama,Kunama,,,378,,c803369
-211,,southernkhoisan,Tu,,,374,,cCC51A8
-308,,songhay,Songhay,,,379,,c803370
-321,,gumuz,Gumuz,,,380,,cCC51B3
-300,,koman,Koman,,,381,,c803377
-310,,shabo,Shabo,,,382,,cCC51BF
-313,,maban,Maban,,,384,,c80337E
-306,,fur,Fur,,,385,,cCC51CA
-312,,easternsaharan,Eastern Saharan,,,386,Saharan,c7A3380
-309,,westernsaharan,Western Saharan,,,386,Saharan,cC351CC
-299,,lendu,Lendu,,,387,,c723380
-301,,kresh,Kresh,,,387,,cB751CC
-303,,mangbutuefe,Mangbutu-Efe,,,387,,c6B3380
-304,,morumadi,Moru-Ma'di,,,387,,cAC51CC
-305,,bongobagirmi,Bongo-Bagirmi,,,387,,c643380
-315,,mangbetu,Mangbetu,,,387,,cA051CC
-297,,temein,Temein,,,388,,c5D3380
-298,,easternjebel,Eastern Jebel,,,388,,c9551CC
-302,,nyimang,Nyimang,,,388,,c563380
-307,,nubian,Nubian,,,388,,c8951CC
-311,,taman,Taman,,,388,,c4E3380
-314,,nara,Nara,,,388,,c7E51CC
-318,,daju,Daju,,,388,,c473380
-316,,kuliak,Kuliak,,,388,,c7251CC
-273,,easternmande,Eastern Mande,,,389,,c403380
-292,,westernmande,Western Mande,,,389,,c6751CC
-282,,rashad,Rashad,,,390,,c393380
-284,,katlatima,Katla-Tima,,,390,,c5B51CC
-285,,heiban,Heiban,,,390,,c333480
-280,,tegem,Lafofa,,,390,,c5153CC
-281,,talodiproper,Talodi,,,390,,c333B80
-296,,dogon,Dogon,,,391,,c515FCC
-288,,ijoid,Ijoid,,,392,,c334280
-780,,matlatzincan,Matlatzincan,,,131,,c516ACC
-785,,altoorinoco,Alto-Orinoco,,,11,,c334A80
-789,,mara,Mara,,,414,,c5176CC
-61,,wagiman,Wagiman,,,416,,c335180
-51,,northerndaly,Northern Daly,,,417,,c5181CC
-47,,garrwan,Garrwan,,,418,,c335880
-791,,southeasternpamanyungan,Southeastern Pama-Nyungan,,,419,,c518DCC
-792,,centralpamanyungan,Central Pama-Nyungan,,,419,,c335F80
-793,,westernpamanyungan,Western Pama-Nyungan,,,419,,c5198CC
-794,,northernpamanyungan,Northern Pama-Nyungan,,,419,,c336680
-39,,jaminjungan,Jaminjungan,,,421,,c51A4CC
-795,,wambayan,Wambayan,,,421,,c336E80
-796,,djingili,Djingili,,,421,,c51B0CC
-48,,nunggubuyu,Nunggubuyu,,,422,,c337580
-41,,anindilyakwa,Anindilyakwa,,,422,,c51BBCC
-37,,murrinhpatha,Murrinh-Patha,,,423,,c337C80
-797,,ngankikurungkurr,Ngankikurungkurr,,,423,,c51C7CC
-53,,tiwian,Tiwian,,,424,,c33807C
-798,,wagaydy,Wagaydy,,,425,,c51CCC7
-799,,bringen,Bringen,,,425,,c338075
-29,,wororan,Worrorran,,,426,,c51CCBB
-31,,burarran,Burarran,,,427,,c33806E
-35,,ndjebbana,Ndjébbana,,,427,,c51CCB0
-36,,nakkara,Nakkara,,,427,,c338066
-52,,tangkic,Tangkic,,,428,,c51CCA4
-30,,bunuban,Bunuban,,,429,,c33805F
-56,,djeragan,Jarrakan,,,430,,c51CC98
-54,,easterndaly,Eastern Daly,,,431,,c338058
-33,,yangmanic,Yangmanic,,,432,Gunwinyguan,c51CC8D
-49,,gaagudju,Gaagudju,,,433,,c338051
-122,,guaymi,Guaymiic,,,35,,c51CC81
-130,,aruak,Arhuacic,,,35,,c33804A
-801,,chibchaduit,Chibcha-Duit,,,35,,c51CC76
-802,,tunebo,Tunebo,,,35,,c338042
-803,,catawban,Catawban,,,146,,c51CC6A
-804,,ega,Ega,,,123,,c33803B
-805,,opataeudeve,Opata-Eudeve,,,176,,c51CC5F
-806,,senufo,Senufo,,,123,,c338034
-807,,tusia,Tusia,,,123,Gur,c51CC53
-810,,palaungic,Palaungic,,,14,Mon-Khmer,c398033
-811,,khmuic,Khmuic,,,14,Mon-Khmer,c5BCC51
-812,,day,Day,,,123,Adamawa-Ubangi,c408033
-813,,bua,Bua,,,123,Adamawa-Ubangi,c67CC51
-814,,kim,Kim,,,123,Adamawa-Ubangi,c478033
-815,,sambaduru,Samba-Duru,,,123,Adamawa-Ubangi,c72CC51
-816,,mumuyeyandang,Mumuye-Yandang,,,123,Adamawa-Ubangi,c4E8033
-817,,mbumic,Mbumic,,,123,Adamawa-Ubangi,c7ECC51
-819,,tenda,Tenda,,,123,North-Central Atlantic,c568033
-821,,peulserer,Peul-Serer,,,123,North-Central Atlantic,c89CC51
-822,,cangin,Cangin,,,123,North-Central Atlantic,c5D8033
-823,,wolof,Wolof,,,123,North-Central Atlantic,c95CC51
-824,,baibaifas,Baibai-Fas,,,436,,c648033
-825,,nukuma,Nukuma,,,144,,cA0CC51
-826,,ndu,Ndu,,,144,,c6B8033
-827,,inanwatan,Inanwatan,,,437,,cACCC51
-828,,southbirdsheadproper,South Bird's Head Proper,,,437,,c728033
-831,,dravidian,Dravidian,,,50,,cB7CC51
-832,,mississippivalleysiouan,Mississippi Valley Siouan,,,146,,c7A8033
-833,,bantu,Bantu,,,123,Benue-Congo,cC3CC51
-834,,easternnilotic,Eastern Nilotic,,,388,Nilotic,c807E33
-835,,centralwapei,Central Wapei,,,164,,cCCCA51
-836,,southernnilotic,Southern Nilotic,,,388,Nilotic,c807733
-837,,westernisthumuschibchan,Western Isthumus Chibchan,,,35,,cCCBF51
-838,,jesetentrional,Je Setentrional,,,102,Je,c807033
-839,,otivolta,Oti-Volta,,,123,Gur,cCCB351
-840,,southsurmic,South Surmic,,,388,Surmic,c806933
-841,,asmatkamraubay,Asmat-Kamrau Bay,,,441,,cCCA851
-842,,tano,Tano,,,123,Kwa,c806233
-843,,ekoidmbe,Ekoid-Mbe,,,123,Benue-Congo,cCC9C51
-844,,northerncaddoan,Northern Caddoan,,,28,,c805A33
-845,,ohiovalleysiouan,Ohio Valley Siouan,,,146,,cCC9151
-846,,gbe,Gbe,,,123,Kwa,c805333
-847,,qom,Qom,,,61,,cCC8551
-848,,huon,Huon,,,166,Finisterre-Huon,c804C33
-849,,kirmatyurama,Kirma-Tyurama,,,123,Gur,cCC7A51
-850,,westpalei,West Palei,,,164,,c804533
-851,,westernnilotic,Western Nilotic,,,388,Nilotic,cCC6E51
-852,,mandan,Mandan,,,146,,c803E33
-853,,mawetiguarani,Maweti-Guarani,,,170,,cCC6351
-854,,northernutoaztecan,Northern Uto-Aztecan,,,176,,c803633
-855,,taneomotic,Ta-Ne-Omotic,,,1,Omotic,cCC5751
-856,,yei,Yei,,,442,,c80333A
-857,,tororya,Tor-Orya,,,443,,cCC515D
-858,,engakewahuli,Enga_Kewa-Huli,,,166,,c803348
-859,,jukunoid,Jukunoid,,,123,Benue-Congo,cCC5174
-860,,negrororaimaq284,Negro-Roraima+Q284,,,11,,c803357
-861,,jecentral,Je Central,,,102,Je,cCC518B
-862,,guhusamane,Guhu-Samane,,,166,Greater Binanderean,c803365
-863,,uppercross,Upper Cross,,,123,Benue-Congo,cCC51A2
-864,,centralkainji,Central Kainji,,,123,Benue-Congo,c803374
-865,,finisterre,Finisterre,,,166,Finisterre-Huon,cCC51B9
-866,,widegrassfields,Wide Grassfields,,,123,Benue-Congo,c7D3380
-867,,eastwapei,East Wapei,,,164,,cC851CC
-868,,laragiya,Laragiya,,,415,,c6F3380
-869,,gauwa,Gauwa,,,166,Kainantu-Goroka,cB151CC
-870,,katogo,Ka-Togo,,,123,Kwa,c603380
-871,,japuracolombia,Japura-Colombia,,,11,,c9A51CC
-872,,agneby,Agneby,,,123,Kwa,c523380
-873,,southbougainville,South Bougainville,,,444,,c8351CC
-874,,lobirijaane,Lobiri-Jaane,,,123,Gur,c443380
-875,,brahmaputran,Brahmaputran,,,145,Tibeto-Burman,c6C51CC
-876,,kmanmeyor,Kman-Meyor,,,145,Tibeto-Burman,c353380
-877,,chonanproper,Chonan Proper,,,445,,c5551CC
-878,,geelvinkbay,Geelvink Bay,,,446,,c333F80
-879,,dumut,Dumut,,,166,Awyu-Ok,c5165CC
-880,,macrobai,Macro-Bai,,,145,Tibeto-Burman,c334D80
-881,,himalayish,Himalayish,,,145,Tibeto-Burman,c517CCC
-882,,lowercross,Lower Cross,,,123,Benue-Congo,c335C80
-883,,mairasic,Mairasic,,,447,,c5193CC
-884,,atsugewi,Atsugewi,,,66,Palaihnihan,c336A80
-885,,ndeiram,Ndeiram,,,166,Awyu-Ok,c51AACC
-886,,kowan,Kowan,,,166,Madang,c337880
-887,,jola,Jola,,,123,North-Central Atlantic,c51C1CC
-888,,missouririversiouan,Missouri River Siouan,,,146,,c338078
-889,,raicoast,Rai Coast,,,166,Madang,c51CCC1
-890,,bogia,Bogia,,,449,,c33806A
-891,,macopiaroa,Maco-Piaroa,,,139,,c51CCAA
-892,,maxakalian,Maxakalian,,,102,,c33805C
-893,,boazi,Boazi,,,166,Anim,c51CC93
-894,,paniailakes,Paniai Lakes,,,166,,c33804D
-895,,chimbuwahgi,Chimbu-Wahgi,,,166,,c51CC7C
-896,,chiquitano,Chiquitano,,,450,,c33803F
-897,,awju,Awju,,,166,Awyu-Ok,c51CC65
-898,,caddo,Caddo,,,28,,c358033
-899,,sianeyagaria,Siane-Yagaria,,,166,Kainantu-Goroka,c55CC51
-900,,grusi,Grusi,,,123,Gur,c448033
-901,,isirawa,Isirawa,,,443,,c6CCC51
-902,,westtariku,West Tariku,,,99,,c528033
-903,,jemeridional,Je Meridional,,,102,Je,c83CC51
-904,,alorpantar,Alor-Pantar,,,452,Timor-Alor-Pantar,c608033
-905,,manjaku,Manjaku,,,123,North-Central Atlantic,c9ACC51
-906,,palikur,Palikur,,,11,,c6F8033
-907,,benuecongoplateau,Benue-Congo Plateau,,,123,Benue-Congo,cB1CC51
-908,,gadangme,Ga-Dangme,,,123,Kwa,c7D8033
-909,,antilleanarawakan,Antillean Arawakan,,,11,,cC8CC51
-910,,abau,Abau,,,144,,c807433
-911,,centraltariku,Central Tariku,,,99,,cCCB951
-912,,karbic,Karbic,,,145,Tibeto-Burman,c806533
-913,,guajiroparaujano,Guajiro-Paraujano,,,11,,cCCA251
-914,,balanta,Balanta,,,123,North-Central Atlantic,c805733
-915,,mambiloid,Mambiloid,,,123,Benue-Congo,cCC8B51
-916,,kalamkobon,Kalam-Kobon,,,166,Madang,c804833
-917,,wogamusinchenapian,Wogamusin-Chenapian,,,144,,cCC7451
-918,,angamipochuri,Angami-Pochuri,,,145,Tibeto-Burman,c803A33
-919,,khinalug,Khinalug,,,120,Daghestanian,cCC5D51
-920,,dargwic,Dargwic,,,120,Daghestanian,c803341
-921,,marindyaqay,Marind-Yaqay,,,166,Anim,cCC5168
-922,,easttariku,East Tariku,,,99,,c80335E
-923,,mabuso,Mabuso,,,166,Madang,cCC5197
-924,,manipuri,Manipuri,,,145,Tibeto-Burman,c80337B
-925,,eleman,Eleman,,,55,,cCC51C5
-926,,cuicatec,Cuicatec,,,131,Mixtecan,c683380
-927,,tairora,Tairora,,,166,Kainantu-Goroka,cA651CC
-928,,northadelbert,North Adelbert,,,166,Madang,c4B3380
-929,,lak,Lak,,,120,Daghestanian,c7851CC
-930,,baatonum,Baatonum,,,123,Gur,c333880
-931,,joseshstaal,Joseshstaal,,,166,Madang,c5159CC
-932,,fulnio,Fulniô,,,453,,c335480
-933,,nuclearangan,Nuclear Angan,,,166,,c5187CC
-934,,somahai,Somahai,,,166,,c337180
-935,,easttimor,East Timor,,,452,Timor-Alor-Pantar,c51B5CC
-936,,majang,Majang,,,388,Surmic,c338071
-937,,natogo,Na-Togo,,,123,Kwa,c51CCB5
-938,,mochica,Mochica,,,454,,c338054
-939,,khobwa,Kho-Bwa,,,145,Tibeto-Burman,c51CC87
-940,,hobitucholon,Hobitu-Cholon,,,455,,c338038
-941,,naic,Naic,,,145,Tibeto-Burman,c51CC59
-942,,gola,Gola,,,123,Mel,c4B8033
-943,,tikar,Tikar,,,123,Benue-Congo,c78CC51
-944,,jaad,Jaad,,,123,North-Central Atlantic,c688033
-945,,koromfe,Koromfe,,,123,Gur,cA6CC51
-946,,northernmel,Northern Mel,,,123,Mel,c807B33
-947,,centraldelta,Central Delta,,,123,Benue-Congo,cCCC551
-948,,abipon,Abipon,,,61,,c805E33
-949,,foregimi,Fore-Gimi,,,166,Kainantu-Goroka,cCC9751
-950,,beckingdawi,Becking-Dawi,,,166,Awyu-Ok,c804133
-951,,witoto,Witoto,,,457,,cCC6851
-952,,centralnaga,Central Naga,,,145,Tibeto-Burman,c803350
-953,,sogeram,Sogeram,,,166,Madang,cCC5180
-954,,angaataha,Angaataha,,,166,,c763380
-955,,ogonoid,Ogonoid,,,123,Benue-Congo,cBD51CC
-956,,avikamalladian,Avikam-Alladian,,,123,Kwa,c3C3380
-957,,mienic,Mienic,,,65,,c6151CC
-958,,negrororaima,Negro-Roraima,,,11,,c336380
-959,,zemeic,Zemeic,,,145,Tibeto-Burman,c519ECC
-960,,urat,Urat,,,164,,c338063
-961,,wandjiginy,Wandjiginy,,,458,,c51CC9E
-962,,easterngunwinyguan,Eastern Gunwinyguan,,,422,,c3C8033
-963,,marne,Marne,,,422,,c61CC51
-964,,pech,Pech,,,35,,c768033
-965,,achumawi,Achumawi,,,66,Palaihnihan,cBDCC51
-966,,mamfe,Mamfe,,,123,Benue-Congo,c805033
-967,,birri,Birri,,,387,,cCC8051
-968,,aimore,Aimore,,,102,,c80336C
-969,,foe,Foe,,,166,Kutubuan,cCC51AE
-970,,southernmel,Southern Mel,,,123,Mel,c334680
-971,,iwamic,Iwamic,,,144,,c5170CC
-972,,gahuku,Gahuku,,,166,Kainantu-Goroka,c338046
-973,,tivoid,Tivoid,,,123,Benue-Congo,c51CC70
-974,,elevala,Elevala,,,459,,c806C33
-975,,bari,Barí,,,35,,cCCAE51
-976,,bargam,Bargam,,,166,Madang,c593380
-977,,hmongic,Hmongic,,,65,,c8F51CC
-978,,kanum,Kanum,,,442,,c598033
-979,,easterntransfly,Eastern Trans-Fly,,,461,,c8FCC51
-980,,mixtec,Mixtec,,,131,Mixtecan,c338080
-981,,tangkhulmaring,Tangkhul-Maring,,,145,Tibeto-Burman,c51CCCC
-982,,trique,Trique,,,131,Mixtecan,c803333
-983,,westerngunwinyguan,Western Gunwinyguan,,,422,,cCC5151
-984,,abun,Abun,,,464,,c807D33
-985,,maybrat,Maybrat,,,466,,cCCC851
-986,,mpur,Mpur,,,467,,cA2CC51
+1,,southerncushitic,Southern Cushitic,,,1,Cushitic,cA4CC51
+2,,eastchadic,East Chadic,,,1,Chadic,c688033
+3,,beja,Beja,,,1,Cushitic,cA7CC51
+4,,berber,Berber,,,1,,c6A8033
+5,,biumandara,Biu-Mandara,,,1,Chadic,cAACC51
+6,,westchadic,West Chadic,,,1,Chadic,c6C8033
+7,,centralcushitic,Central Cushitic,,,1,Cushitic,cADCC51
+8,,egyptiancoptic,Egyptian-Coptic,,,1,,c6E8033
+9,,southomotic,South Omotic,,,1,Omotic,cB0CC51
+10,,semitic,Semitic,,,1,,c708033
+11,,masa,Masa,,,1,Chadic,cB3CC51
+14,,ainu,Ainu,,,2,,c718033
+15,,alacalufan,Alacalufan,,,3,,cB6CC51
+16,,yurok,Yurok,,,4,,c738033
+17,,algonquian,Algonquian,,,4,,cB9CC51
+18,,wiyot,Wiyot,,,4,,c758033
+19,,turkic,Turkic,,,5,,cBCCC51
+20,,mongolic,Mongolic,,,5,,c778033
+21,,tungusic,Tungusic,,,5,,cBECC51
+22,,andoke,Andoke,,,7,,c798033
+23,,anem,Anêm,,,8,,cC1CC51
+24,,arauan,Arauan,,,9,,c7A8033
+25,,araucanian,Araucanian,,,10,,cC4CC51
+27,,atakapa,Atakapa,,,12,,c7C8033
+62,,aslian,Aslian,,,14,Mon-Khmer,cC7CC51
+63,,bahnaric,Bahnaric,,,14,Mon-Khmer,c7E8033
+64,,pearic,Pearic,,,14,Mon-Khmer,cCACC51
+65,,monic,Monic,,,14,Mon-Khmer,c807F33
+66,,munda,Munda,,,14,,cCCCC51
+68,,nicobarese,Nicobarese,,,14,Mon-Khmer,c807D33
+70,,khmer,Khmer,,,14,Mon-Khmer,cCCC951
+71,,khasian,Khasian,,,14,Mon-Khmer,c807C33
+72,,katuic,Katuic,,,14,Mon-Khmer,cCCC651
+73,,barito,Barito,,,15,,c807A33
+74,,chamorro,Chamorro,,,15,,cCCC351
+75,,centralmalayopolynesian,Central Malayo-Polynesian,,,15,,c807833
+76,,samabajaw,Sama-Bajaw,,,15,,cCCC051
+79,,southhalmaherawestnewguinea,South Halmahera - West New Guinea,,,15,Eastern Malayo-Polynesian,c807633
+46,,nyulnyulan,Nyulnyulan,,,412,,cCCBD51
+38,,iwaidjan,Iwaidjan,,,413,,c807433
+55,,mangarrayi,Mangarrayi,,,414,,cCCBB51
+45,,limilngan,Limilngan,,,415,,c807333
+82,,yapese,Yapese,,,15,,cCCB851
+84,,rejang,Rejang,,,15,,c807133
+85,,palauan,Palauan,,,15,,cCCB551
+87,,oceanic,Oceanic,,,15,Eastern Malayo-Polynesian,c806F33
+88,,lampungic,Lampungic,,,15,,cCCB251
+89,,atayalic,Atayalic,,,15,,c806D33
+90,,javanese,Javanese,,,15,,cCCAF51
+95,,landdayak,Land Dayak,,,15,,c806B33
+102,,aymaran,Aymaran,,,17,,cCCAC51
+103,,taulil,Taulil,,,18,,c806A33
+104,,baining,Baining,,,434,,cCCA951
+105,,bangime,Bangime,,,207,,c806833
+106,,barbacoan,Barbacoan,,,19,,cCCA651
+107,,basque,Basque,,,20,,c806633
+108,,beothuk,Beothuk,,,21,,cCCA451
+109,,betoi,Betoi,,,22,,c806433
+110,,border,Border,,,23,,cCCA151
+111,,bosavi,Bosavi,,,166,,c806233
+112,,bulakariver,Bulaka River,,,25,,cCC9E51
+113,,burushaski,Burushaski,,,26,,c806133
+114,,cacuanukak,Cacua-Nukak,,,27,,cCC9B51
+116,,cahuapanan,Cahuapanan,,,29,,c805F33
+117,,camsa,Camsá,,,30,,cCC9851
+118,,candoshi,Candoshi,,,31,,c805D33
+119,,cariban,Cariban,,,32,,cCC9551
+120,,cayuvava,Cayuvava,,,33,,c805B33
+121,,chapacurawanham,Chapacura-Wanham,,,34,,cCC9251
+125,,rama,Rama,,,35,,c805933
+127,,kuna,Kuna,,,35,,cCC8F51
+129,,chimila,Chimila,,,35,,c805833
+131,,chimakuan,Chimakuan,,,36,,cCC8C51
+134,,chitimacha,Chitimacha,,,39,,c805633
+135,,choco,Choco,,,40,,cCC8A51
+138,,puelche,Puelche,,,445,,c805433
+139,,northernchukotkokamchatkan,Northern Chukotko-Kamchatkan,,,43,,cCC8751
+140,,southernchukotkokamchatkan,Southern Chukotko-Kamchatkan,,,43,,c805233
+141,,chumash,Chumash,,,44,,cCC8451
+142,,coahuiltecan,Coahuiltecan,,,45,,c805033
+143,,cofan,Cofán,,,46,,cCC8151
+144,,comecrudan,Comecrudan,,,66,,c804F33
+145,,cuitlatec,Cuitlatec,,,48,,cCC7E51
+146,,dagan,Dagan,,,166,,c804D33
+151,,eastbirdshead,East Bird's Head,,,51,,cCC7B51
+154,,eaststrickland,East Strickland,,,166,,c804B33
+155,,tate,Tate,,,460,,cCC7851
+157,,aleut,Aleut,,,56,,c804933
+158,,eskimo,Eskimo,,,56,,cCC7551
+159,,esselen,Esselen,,,57,,c804733
+161,,suki,Suki,,,166,Gogodala-Suki,cCC7351
+162,,gogodala,Gogodala,,,166,Gogodala-Suki,c804633
+163,,greatandamanese,Great Andamanese,,,6,,cCC7051
+86,,paiwanic,Paiwan,,,15,,c804433
+96,,tsouic,Tsou,,,15,,cCC6D51
+164,,guahiban,Guahiban,,,60,,c804233
+166,,hadza,Hadza,,,62,,cCC6A51
+167,,haida,Haida,,,63,,c804033
+168,,harakmbet,Harakmbet,,,64,,cCC6751
+170,,yuman,Yuman,,,66,,c803E33
+171,,seri,Seri,,,66,,cCC6451
+172,,chimariko,Chimariko,,,66,,c803D33
+174,,shasta,Shasta,,,66,,cCC6151
+175,,yana,Yana,,,66,,c803B33
+176,,pomoan,Pomoan,,,66,,cCC5E51
+177,,huarpe,Huarpe,,,67,,c803933
+178,,huavean,Huavean,,,68,,cCC5C51
+179,,boran,Boran,,,448,,c803733
+181,,germanic,Germanic,,,70,,cCC5951
+182,,indic,Indic,,,70,,c803533
+183,,iranian,Iranian,,,70,,cCC5651
+184,,romance,Romance,,,70,,c803433
+185,,slavic,Slavic,,,70,,cCC5351
+186,,greek,Greek,,,70,,c803335
+187,,celtic,Celtic,,,70,,cCC5154
+188,,baltic,Baltic,,,70,,c803338
+189,,armenian,Armenian,,,70,,cCC515A
+190,,albanian,Albanian,,,70,,c80333C
+191,,southerniroquoian,Southern Iroquoian,,,71,,cCC5160
+192,,northerniroquoian,Northern Iroquoian,,,71,,c80333F
+193,,itonama,Itonama,,,72,,cCC5166
+194,,jabuti,Jabutí,,,102,,c803343
+195,,japanese,Japanese,,,74,,cCC516B
+196,,jirajaran,Jirajaran,,,75,,c803347
+197,,jivaroan,Jivaroan,,,76,,cCC5171
+198,,kadugli,Kadugli,,,77,,c80334A
+199,,kalapuyan,Kalapuyan,,,78,,cCC5177
+200,,kapixana,Kapixana,,,212,,c80334E
+201,,karankawa,Karankawa,,,79,,cCC517D
+202,,kariri,Kariri,,,206,,c803351
+203,,easternpauwasi,Eastern Pauwasi,,,80,,cCC5182
+204,,karok,Karok,,,66,,c803355
+205,,kartvelian,Kartvelian,,,82,,cCC5188
+206,,katukinan,Katukinan,,,83,,c803359
+207,,kaure,Kaure,,,84,,cCC518E
+208,,kayagar,Kayagar,,,85,,c80335C
+209,,keresan,Keresan,,,86,,cCC5194
+215,,kiowatanoan,Kiowa-Tanoan,,,88,,c803360
+216,,kiwaian,Kiwaian,,,166,,cCC5199
+217,,kolopom,Kolopom,,,90,,c803363
+218,,korean,Korean,,,91,,cCC519F
+219,,kunza,Kunza,,,92,,c803367
+220,,kuot,Kuot,,,93,,cCC51A5
+221,,kusunda,Kusunda,,,94,,c80336B
+222,,kutenai,Kutenai,,,95,,cCC51AB
+223,,kwaza,Kwaza,,,96,,c80336E
+224,,kwerba,Kwerba,,,443,,cCC51B0
+225,,kwomtari,Kwomtari,,,435,,c803372
+227,,laal,Laal,,,98,,cCC51B6
+229,,leftmay,Left May,,,210,,c803375
+230,,leko,Leko,,,211,,cCC51BC
+231,,lowersepik,Lower Sepik,,,468,,c803379
+235,,lowerramu,Lower Ramu,,,468,Ramu,cCC51C2
+236,,lule,Lule,,,101,,c80337D
+243,,karaja,Karajá,,,102,,cCC51C8
+244,,rikbaktsa,Rikbaktsa,,,102,,c7F3380
+245,,maku,Máku,,,103,,cCB51CC
+248,,mascoian,Mascoian,,,105,,c7B3380
+249,,matacoan,Matacoan,,,106,,cC651CC
+214,,sandawe,Sandawe,,,373,,c783380
+241,,guato,Guató,,,409,,cC051CC
+242,,bororo,Bororoan,,,408,,c743380
+250,,mayan,Mayan,,,107,,cBA51CC
+251,,misumalpan,Misumalpan,,,108,,c713380
+252,,mixezoque,Mixe-Zoque,,,109,,cB451CC
+253,,mombum,Mombum,,,110,,c6D3380
+256,,morwap,Morwap,,,113,,cAF51CC
+257,,mosetenan,Mosetenan,,,114,,c693380
+258,,movima,Movima,,,115,,cA951CC
+259,,mura,Mura,,,116,,c663380
+260,,muskogean,Muskogean,,,117,,cA351CC
+261,,nadahup,Nadahup,,,177,,c623380
+262,,athapaskan,Athapaskan,,,118,,c9D51CC
+263,,tlingit,Tlingit,,,118,,c5F3380
+264,,eyak,Eyak,,,118,,c9851CC
+265,,nahali,Nahali,,,119,,c5B3380
+267,,lezgic,Lezgic,,,120,Daghestanian,c9251CC
+268,,nakh,Nakh,,,120,,c573380
+269,,avarandictsezic,Avar-Andic-Tsezic,,,120,Daghestanian,c8C51CC
+270,,nambikuaran,Nambikuaran,,,121,,c543380
+271,,natchez,Natchez,,,122,,c8651CC
+272,,igboid,Igboid,,,123,Benue-Congo,c503380
+277,,kru,Kru,,,123,,c8051CC
+278,,nupoid,Nupoid,,,123,Benue-Congo,c4D3380
+287,,ubangi,Ubangi,,,123,Adamawa-Ubangi,c7B51CC
+289,,idomoid,Idomoid,,,123,Benue-Congo,c493380
+294,,defoid,Defoid,,,123,Benue-Congo,c7551CC
+295,,edoid,Edoid,,,123,Benue-Congo,c453380
+323,,nimboran,Nimboran,,,125,,c6F51CC
+324,,nivkh,Nivkh,,,126,,c423380
+325,,northwestcaucasian,Northwest Caucasian,,,127,,c6951CC
+326,,oksapmin,Oksapmin,,,166,Awyu-Ok,c3E3380
+327,,coosan,Coosan,,,129,,c6451CC
+328,,alsea,Alsea,,,129,,c3B3380
+329,,siuslawan,Siuslawan,,,129,,c5E51CC
+319,,berta,Berta,,,377,,c373380
+330,,signlanguages,Sign Languages,,,130,,c5851CC
+331,,creolesandpidgins,Creoles and Pidgins,,,130,,c333380
+332,,zapotecan,Zapotecan,,,131,,c5251CC
+333,,subtiabatlapanec,Subtiaba-Tlapanec,,,131,,c333680
+335,,chinantecan,Chinantecan,,,131,,c5156CC
+336,,otomian,Otomian,,,131,,c333980
+337,,amuzgoan,Amuzgoan,,,131,,c515CCC
+338,,pamean,Pamean,,,131,,c333D80
+339,,popolocan,Popolocan,,,131,,c5162CC
+340,,chichimec,Chichimec,,,131,,c334180
+341,,paezan,Páezan,,,132,,c5168CC
+342,,panoan,Panoan,,,439,,c334480
+343,,pebayaguan,Peba-Yaguan,,,134,,c516DCC
+344,,yokuts,Yokuts,,,135,,c334880
+345,,maiduan,Maiduan,,,135,,c5173CC
+346,,chinookan,Chinookan,,,135,,c334B80
+347,,costanoan,Costanoan,,,135,Utian,c5179CC
+348,,sahaptian,Sahaptian,,,135,,c334F80
+349,,wintuan,Wintuan,,,135,,c517FCC
+350,,miwok,Miwok,,,135,Utian,c335380
+351,,molala,Molala,,,135,,c5184CC
+352,,tsimshianic,Tsimshianic,,,451,,c335680
+353,,klamathmodoc,Klamath-Modoc,,,135,,c518ACC
+354,,puinave,Puinave,,,136,,c335A80
+355,,puquina,Puquina,,,137,,c5190CC
+356,,quechuan,Quechuan,,,138,,c335D80
+357,,saliba,Sáliba,,,139,,c5196CC
+359,,salinan,Salinan,,,66,,c336180
+360,,centralsalish,Central Salish,,,141,,c519BCC
+361,,tillamook,Tillamook,,,141,,c336580
+362,,interiorsalish,Interior Salish,,,141,,c51A1CC
+363,,bellacoola,Bella Coola,,,141,,c336880
+364,,tsamosan,Tsamosan,,,141,,c51A7CC
+365,,senagi,Senagi,,,142,,c336C80
+369,,ram,Ram,,,144,,c51ADCC
+370,,sepikhill,Sepik Hill,,,144,,c336F80
+371,,tamasepik,Tama Sepik,,,144,,c51B2CC
+372,,yellowriver,Yellow River,,,144,,c337380
+373,,shompen,Shompen,,,208,,c51B8CC
+375,,chinese,Chinese,,,145,,c337780
+376,,digaroan,Digaroan,,,145,Tibeto-Burman,c51BECC
+378,,karen,Karen,,,145,Tibeto-Burman,c337A80
+380,,burmeselolo,Burmese-Lolo,,,145,Tibeto-Burman,c51C4CC
+382,,tani,Tani,,,145,Tibeto-Burman,c337E80
+385,,nungish,Nungish,,,145,Tibeto-Burman,c51C9CC
+386,,kukichin,Kuki-Chin,,,145,Tibeto-Burman,c33807E
+389,,bodic,Bodic,,,145,Tibeto-Burman,c51CCC9
+392,,westernskou,Western Skou,,,147,,c33807A
+393,,serrahills,Serra Hills,,,147,,c51CCC4
+394,,warapu,Warapu,,,147,,c338077
+395,,krisa,Krisa,,,147,,c51CCBE
+396,,lavukaleve,Lavukaleve,,,203,,c338073
+397,,savosavo,Savosavo,,,203,,c51CCB8
+398,,bilua,Bilua,,,203,,c33806F
+399,,southandamanese,South Andamanese,,,202,,c51CCB2
+400,,sulka,Sulka,,,148,,c33806C
+402,,tacame,Tacame,,,149,,c51CCAD
+403,,tacanan,Tacanan,,,439,,c338068
+404,,kamtai,Kam-Tai,,,151,,c51CCA7
+405,,kadai,Kadai,,,151,,c338065
+406,,hlai,Hlai,,,151,,c51CCA1
+407,,takelma,Takelma,,,152,,c338061
+408,,tarascan,Tarascan,,,153,,c51CC9B
+409,,tasmanian,Tasmanian,,,154,,c33805D
+410,,taushiro,Taushiro,,,155,,c51CC96
+411,,teberan,Teberan,,,156,,c33805A
+412,,pawaian,Pawaian,,,156,,c51CC90
+413,,tequistlatecan,Tequistlatecan,,,66,,c338056
+414,,ticuna,Ticuna,,,158,,c51CC8A
+418,,timotecuica,Timote-Cuica,,,159,,c338053
+419,,timucua,Timucua,,,160,,c51CC84
+420,,tol,Tol,,,161,,c33804F
+421,,tonkawa,Tonkawa,,,162,,c51CC7F
+424,,urim,Urim,,,164,,c33804B
+425,,marienberg,Marienberg,,,164,,c51CC79
+426,,westwapei,West Wapei,,,164,,c338048
+427,,kombioarapesh,Kombio-Arapesh,,,164,,c51CC73
+429,,totonacan,Totonacan,,,165,,c338044
+431,,duna,Duna,,,456,,c51CC6D
+432,,dani,Dani,,,166,,c338041
+439,,koiarian,Koiarian,,,166,,c51CC68
+440,,fasu,Fasu,,,166,Kutubuan,c33803D
+441,,ok,Ok,,,166,Awyu-Ok,c51CC62
+442,,binanderean,Binanderean,,,166,Greater Binanderean,c338039
+446,,mek,Mek,,,166,,c51CC5C
+450,,mailuan,Mailuan,,,166,,c338036
+451,,trumai,Trumai,,,167,,c51CC56
+452,,tucanoan,Tucanoan,,,168,,c338033
+453,,tunica,Tunica,,,169,,c52CC51
+454,,tupari,Tupari,,,170,,c378033
+455,,monde,Monde,,,170,,c58CC51
+456,,ramarama,Ramarama,,,170,,c3B8033
+458,,arikem,Arikem,,,170,,c5ECC51
+459,,munduruku,Munduruku,,,170,,c3E8033
+460,,turamakikorian,Turama-Kikorian,,,166,,c64CC51
+462,,saami,Saami,,,173,Finno-Ugric,c428033
+463,,samoyedic,Samoyedic,,,173,,c69CC51
+464,,ugric,Ugric,,,173,Finno-Ugric,c458033
+465,,finnic,Finnic,,,173,Finno-Ugric,c6FCC51
+466,,mari,Mari,,,173,Finno-Ugric,c498033
+467,,mordvin,Mordvin,,,173,Finno-Ugric,c75CC51
+468,,permic,Permic,,,173,Finno-Ugric,c4D8033
+469,,urarina,Urarina,,,174,,c7BCC51
+470,,uruchipaya,Uru-Chipaya,,,175,,c508033
+471,,corachol,Corachol,,,176,,c80CC51
+472,,tubar,Tubar,,,176,,c548033
+475,,cahita,Cahita,,,176,,c86CC51
+476,,aztecan,Aztecan,,,176,,c578033
+478,,tepiman,Tepiman,,,176,,c8CCC51
+479,,tarahumaran,Tarahumaran,,,176,,c5B8033
+481,,southernwakashan,Southern Wakashan,,,178,,c92CC51
+482,,northernwakashan,Northern Wakashan,,,178,,c5F8033
+483,,waorani,Waorani,,,179,,c98CC51
+485,,wappo,Wappo,,,180,,c628033
+486,,warao,Warao,,,181,,c9DCC51
+487,,washo,Washo,,,182,,c668033
+488,,westbomberai,West Bomberai,,,452,,cA3CC51
+491,,westbirdshead,West Bird's Head,,,463,,c698033
+494,,northhalmaheran,North Halmaheran,,,462,,cA9CC51
+495,,hatimmansim,Hatim-Mansim,,,465,,c6D8033
+496,,yale,Yale,,,187,,cAFCC51
+497,,yamana,Yámana,,,188,,c718033
+498,,yanomam,Yanomam,,,189,,cB4CC51
+499,,yareban,Yareban,,,166,,c748033
+500,,yaruro,Yaruro,,,191,,cBACC51
+501,,yawa,Yawa,,,192,,c788033
+502,,yele,Yele,,,193,,cC0CC51
+503,,yeniseian,Yeniseian,,,194,,c7B8033
+504,,yuchi,Yuchi,,,195,,cC6CC51
+505,,yukaghir,Yukaghir,,,196,,c7F8033
+506,,yuracare,Yuracare,,,197,,cCBCC51
+507,,yurimangi,Yurimangí,,,198,,c807D33
+508,,zamucoan,Zamucoan,,,199,,cCCC851
+509,,zaparoan,Zaparoan,,,200,,c807933
+510,,zuni,Zuni,,,201,,cCCC251
+461,,upperyuat,Piawi,,,172,,c807533
+511,,dhimalic,Dhimalic,,,145,Tibeto-Burman,cCCBC51
+513,,greatercentralphilippine,Greater Central Philippine,,,15,,c807233
+514,,northernluzon,Northern Luzon,,,15,,cCCB651
+515,,centralluzon,Central Luzon,,,15,,c806E33
+516,,batanic,Batanic,,,15,,cCCB051
+517,,bilic,Bilic,,,15,,c806B33
+518,,northborneo,North Borneo,,,15,,cCCAB51
+519,,malayosumbawan,Malayo-Sumbawan,,,15,,c806733
+520,,enggano,Enggano,,,15,,cCCA551
+521,,northwestsumatrabarrierislands,Northwest Sumatra-Barrier Islands,,,15,,c806333
+522,,rukai,Rukai,,,15,,cCC9F51
+523,,minahasan,Minahasan,,,15,,c806033
+524,,sangiric,Sangiric,,,15,,cCC9951
+525,,southsulawesi,South Sulawesi,,,15,,c805C33
+526,,celebic,Celebic,,,15,,cCC9451
+527,,moraori,Moraori,,,213,,c805933
+528,,aikana,Aikaná,,,214,,cCC8E51
+529,,iranxe,Iranxe,,,215,,c805533
+532,,centralarawakan,Central Arawakan,,,11,,cCC8851
+534,,purus,Purus,,,11,,c805133
+535,,boliviaparana,Bolivia-Parana,,,11,,cCC8251
+536,,preandinearawakan,Pre-Andine Arawakan,,,11,,c804E33
+537,,gbayamanzangbaka,Gbaya-Manza-Ngbaka,,,123,,cCC7D51
+531,,westernarawakan,Yanesha',,,11,,c804A33
+594,,dizoid,Dizoid,,,1,Omotic,cCC7751
+595,,eastformosan,East Formosan,,,15,,c804733
+596,,westernplainsaustronesian,Western Plains Austronesian,,,15,,cCC7151
+694,,nuristani,Nuristani,,,70,,c804333
+695,,kadiweu,Kadiwéu,,,61,,cCC6B51
+697,,highlandeastcushitic,Highland East Cushitic,,,1,Cushitic,c803F33
+698,,lowlandeastcushitic,Lowland East Cushitic,,,1,Cushitic,cCC6651
+699,,dahalo,Dahalo,,,1,Cushitic,c803C33
+751,,rajiraute,Raji-Raute,,,145,Tibeto-Burman,cCC6051
+212,,northernkhoisan,Ju-Kung,,,375,,c803833
+210,,centralkhoisan,Khoe-Kwadi,,,376,,cCC5A51
+213,,hoan,=|Hoan,,,375,,c803533
+317,,kunama,Kunama,,,378,,cCC5451
+211,,southernkhoisan,Tu,,,374,,c803336
+308,,songhay,Songhay,,,379,,cCC5157
+321,,gumuz,Gumuz,,,380,,c80333E
+300,,koman,Koman,,,381,,cCC5163
+310,,shabo,Shabo,,,382,,c803345
+313,,maban,Maban,,,384,,cCC516E
+306,,fur,Fur,,,385,,c80334C
+312,,easternsaharan,Eastern Saharan,,,386,Saharan,cCC517A
+309,,westernsaharan,Western Saharan,,,386,Saharan,c803353
+299,,lendu,Lendu,,,387,,cCC5185
+301,,kresh,Kresh,,,387,,c80335A
+303,,mangbutuefe,Mangbutu-Efe,,,387,,cCC5191
+304,,morumadi,Moru-Ma'di,,,387,,c803362
+305,,bongobagirmi,Bongo-Bagirmi,,,387,,cCC519C
+315,,mangbetu,Mangbetu,,,387,,c803369
+297,,temein,Temein,,,388,,cCC51A8
+298,,easternjebel,Eastern Jebel,,,388,,c803370
+302,,nyimang,Nyimang,,,388,,cCC51B3
+307,,nubian,Nubian,,,388,,c803377
+311,,taman,Taman,,,388,,cCC51BF
+314,,nara,Nara,,,388,,c80337E
+318,,daju,Daju,,,388,,cCC51CA
+316,,kuliak,Kuliak,,,388,,c7A3380
+273,,easternmande,Eastern Mande,,,389,,cC351CC
+292,,westernmande,Western Mande,,,389,,c723380
+282,,rashad,Rashad,,,390,,cB751CC
+284,,katlatima,Katla-Tima,,,390,,c6B3380
+285,,heiban,Heiban,,,390,,cAC51CC
+280,,tegem,Lafofa,,,390,,c643380
+281,,talodiproper,Talodi,,,390,,cA051CC
+296,,dogon,Dogon,,,391,,c5D3380
+288,,ijoid,Ijoid,,,392,,c9551CC
+780,,matlatzincan,Matlatzincan,,,131,,c563380
+785,,altoorinoco,Alto-Orinoco,,,11,,c8951CC
+789,,mara,Mara,,,414,,c4E3380
+61,,wagiman,Wagiman,,,416,,c7E51CC
+51,,northerndaly,Northern Daly,,,417,,c473380
+47,,garrwan,Garrwan,,,418,,c7251CC
+791,,southeasternpamanyungan,Southeastern Pama-Nyungan,,,419,,c403380
+792,,centralpamanyungan,Central Pama-Nyungan,,,419,,c6751CC
+793,,westernpamanyungan,Western Pama-Nyungan,,,419,,c393380
+794,,northernpamanyungan,Northern Pama-Nyungan,,,419,,c5B51CC
+39,,jaminjungan,Jaminjungan,,,421,,c333480
+795,,wambayan,Wambayan,,,421,,c5153CC
+796,,djingili,Djingili,,,421,,c333B80
+48,,nunggubuyu,Nunggubuyu,,,422,,c515FCC
+41,,anindilyakwa,Anindilyakwa,,,422,,c334280
+37,,murrinhpatha,Murrinh-Patha,,,423,,c516ACC
+797,,ngankikurungkurr,Ngankikurungkurr,,,423,,c334A80
+53,,tiwian,Tiwian,,,424,,c5176CC
+798,,wagaydy,Wagaydy,,,425,,c335180
+799,,bringen,Bringen,,,425,,c5181CC
+29,,wororan,Worrorran,,,426,,c335880
+31,,burarran,Burarran,,,427,,c518DCC
+35,,ndjebbana,Ndjébbana,,,427,,c335F80
+36,,nakkara,Nakkara,,,427,,c5198CC
+52,,tangkic,Tangkic,,,428,,c336680
+30,,bunuban,Bunuban,,,429,,c51A4CC
+56,,djeragan,Jarrakan,,,430,,c336E80
+54,,easterndaly,Eastern Daly,,,431,,c51B0CC
+33,,yangmanic,Yangmanic,,,432,Gunwinyguan,c337580
+49,,gaagudju,Gaagudju,,,433,,c51BBCC
+122,,guaymi,Guaymiic,,,35,,c337C80
+130,,aruak,Arhuacic,,,35,,c51C7CC
+801,,chibchaduit,Chibcha-Duit,,,35,,c33807C
+802,,tunebo,Tunebo,,,35,,c51CCC7
+803,,catawban,Catawban,,,146,,c338075
+804,,ega,Ega,,,123,,c51CCBB
+805,,opataeudeve,Opata-Eudeve,,,176,,c33806E
+806,,senufo,Senufo,,,123,,c51CCB0
+807,,tusia,Tusia,,,123,Gur,c338066
+810,,palaungic,Palaungic,,,14,Mon-Khmer,c51CCA4
+811,,khmuic,Khmuic,,,14,Mon-Khmer,c33805F
+812,,day,Day,,,123,Adamawa-Ubangi,c51CC98
+813,,bua,Bua,,,123,Adamawa-Ubangi,c338058
+814,,kim,Kim,,,123,Adamawa-Ubangi,c51CC8D
+815,,sambaduru,Samba-Duru,,,123,Adamawa-Ubangi,c338051
+816,,mumuyeyandang,Mumuye-Yandang,,,123,Adamawa-Ubangi,c51CC81
+817,,mbumic,Mbumic,,,123,Adamawa-Ubangi,c33804A
+819,,tenda,Tenda,,,123,North-Central Atlantic,c51CC76
+821,,peulserer,Peul-Serer,,,123,North-Central Atlantic,c338042
+822,,cangin,Cangin,,,123,North-Central Atlantic,c51CC6A
+823,,wolof,Wolof,,,123,North-Central Atlantic,c33803B
+824,,baibaifas,Baibai-Fas,,,436,,c51CC5F
+825,,nukuma,Nukuma,,,144,,c338034
+826,,ndu,Ndu,,,144,,c51CC53
+827,,inanwatan,Inanwatan,,,437,,c398033
+828,,southbirdsheadproper,South Bird's Head Proper,,,437,,c5BCC51
+831,,dravidian,Dravidian,,,50,,c408033
+832,,mississippivalleysiouan,Mississippi Valley Siouan,,,146,,c67CC51
+833,,bantu,Bantu,,,123,Benue-Congo,c478033
+834,,easternnilotic,Eastern Nilotic,,,388,Nilotic,c72CC51
+835,,centralwapei,Central Wapei,,,164,,c4E8033
+836,,southernnilotic,Southern Nilotic,,,388,Nilotic,c7ECC51
+838,,jesetentrional,Je Setentrional,,,102,Je,c568033
+839,,otivolta,Oti-Volta,,,123,Gur,c89CC51
+840,,southsurmic,South Surmic,,,388,Surmic,c5D8033
+841,,asmatkamraubay,Asmat-Kamrau Bay,,,441,,c95CC51
+842,,tano,Tano,,,123,Kwa,c648033
+843,,ekoidmbe,Ekoid-Mbe,,,123,Benue-Congo,cA0CC51
+844,,northerncaddoan,Northern Caddoan,,,28,,c6B8033
+845,,ohiovalleysiouan,Ohio Valley Siouan,,,146,,cACCC51
+846,,gbe,Gbe,,,123,Kwa,c728033
+847,,qom,Qom,,,61,,cB7CC51
+848,,huon,Huon,,,166,Finisterre-Huon,c7A8033
+849,,kirmatyurama,Kirma-Tyurama,,,123,Gur,cC3CC51
+850,,westpalei,West Palei,,,164,,c807E33
+851,,westernnilotic,Western Nilotic,,,388,Nilotic,cCCCA51
+852,,mandan,Mandan,,,146,,c807733
+853,,mawetiguarani,Maweti-Guarani,,,170,,cCCBF51
+854,,northernutoaztecan,Northern Uto-Aztecan,,,176,,c807033
+855,,taneomotic,Ta-Ne-Omotic,,,1,Omotic,cCCB351
+856,,yei,Yei,,,442,,c806933
+857,,tororya,Tor-Orya,,,443,,cCCA851
+858,,engakewahuli,Enga_Kewa-Huli,,,166,,c806233
+859,,jukunoid,Jukunoid,,,123,Benue-Congo,cCC9C51
+861,,jecentral,Je Central,,,102,Je,c805A33
+862,,guhusamane,Guhu-Samane,,,166,Greater Binanderean,cCC9151
+863,,uppercross,Upper Cross,,,123,Benue-Congo,c805333
+864,,centralkainji,Central Kainji,,,123,Benue-Congo,cCC8551
+865,,finisterre,Finisterre,,,166,Finisterre-Huon,c804C33
+866,,widegrassfields,Wide Grassfields,,,123,Benue-Congo,cCC7A51
+867,,eastwapei,East Wapei,,,164,,c804533
+868,,laragiya,Laragiya,,,415,,cCC6E51
+869,,gauwa,Gauwa,,,166,Kainantu-Goroka,c803E33
+870,,katogo,Ka-Togo,,,123,Kwa,cCC6351
+871,,japuracolombia,Japura-Colombia,,,11,,c803633
+872,,agneby,Agneby,,,123,Kwa,cCC5751
+873,,southbougainville,South Bougainville,,,444,,c80333A
+874,,lobirijaane,Lobiri-Jaane,,,123,Gur,cCC515D
+875,,brahmaputran,Brahmaputran,,,145,Tibeto-Burman,c803348
+876,,kmanmeyor,Kman-Meyor,,,145,Tibeto-Burman,cCC5174
+877,,chonanproper,Chonan Proper,,,445,,c803357
+878,,geelvinkbay,Geelvink Bay,,,446,,cCC518B
+879,,dumut,Dumut,,,166,Awyu-Ok,c803365
+880,,macrobai,Macro-Bai,,,145,Tibeto-Burman,cCC51A2
+881,,himalayish,Himalayish,,,145,Tibeto-Burman,c803374
+882,,lowercross,Lower Cross,,,123,Benue-Congo,cCC51B9
+883,,mairasic,Mairasic,,,447,,c7D3380
+884,,atsugewi,Atsugewi,,,66,Palaihnihan,cC851CC
+885,,ndeiram,Ndeiram,,,166,Awyu-Ok,c6F3380
+886,,kowan,Kowan,,,166,Madang,cB151CC
+887,,jola,Jola,,,123,North-Central Atlantic,c603380
+888,,missouririversiouan,Missouri River Siouan,,,146,,c9A51CC
+889,,raicoast,Rai Coast,,,166,Madang,c523380
+890,,bogia,Bogia,,,449,,c8351CC
+891,,macopiaroa,Maco-Piaroa,,,139,,c443380
+892,,maxakalian,Maxakalian,,,102,,c6C51CC
+893,,boazi,Boazi,,,166,Anim,c353380
+894,,paniailakes,Paniai Lakes,,,166,,c5551CC
+895,,chimbuwahgi,Chimbu-Wahgi,,,166,,c333F80
+896,,chiquitano,Chiquitano,,,450,,c5165CC
+897,,awju,Awju,,,166,Awyu-Ok,c334D80
+898,,caddo,Caddo,,,28,,c517CCC
+899,,sianeyagaria,Siane-Yagaria,,,166,Kainantu-Goroka,c335C80
+900,,grusi,Grusi,,,123,Gur,c5193CC
+901,,isirawa,Isirawa,,,443,,c336A80
+902,,westtariku,West Tariku,,,99,,c51AACC
+903,,jemeridional,Je Meridional,,,102,Je,c337880
+904,,alorpantar,Alor-Pantar,,,452,Timor-Alor-Pantar,c51C1CC
+905,,manjaku,Manjaku,,,123,North-Central Atlantic,c338078
+906,,palikur,Palikur,,,11,,c51CCC1
+907,,benuecongoplateau,Benue-Congo Plateau,,,123,Benue-Congo,c33806A
+908,,gadangme,Ga-Dangme,,,123,Kwa,c51CCAA
+909,,antilleanarawakan,Antillean Arawakan,,,11,,c33805C
+910,,abau,Abau,,,144,,c51CC93
+911,,centraltariku,Central Tariku,,,99,,c33804D
+912,,karbic,Karbic,,,145,Tibeto-Burman,c51CC7C
+913,,guajiroparaujano,Guajiro-Paraujano,,,11,,c33803F
+914,,balanta,Balanta,,,123,North-Central Atlantic,c51CC65
+915,,mambiloid,Mambiloid,,,123,Benue-Congo,c358033
+916,,kalamkobon,Kalam-Kobon,,,166,Madang,c55CC51
+917,,wogamusinchenapian,Wogamusin-Chenapian,,,144,,c448033
+918,,angamipochuri,Angami-Pochuri,,,145,Tibeto-Burman,c6CCC51
+919,,khinalug,Khinalug,,,120,Daghestanian,c528033
+920,,dargwic,Dargwic,,,120,Daghestanian,c83CC51
+921,,marindyaqay,Marind-Yaqay,,,166,Anim,c608033
+922,,easttariku,East Tariku,,,99,,c9ACC51
+923,,mabuso,Mabuso,,,166,Madang,c6F8033
+924,,manipuri,Manipuri,,,145,Tibeto-Burman,cB1CC51
+925,,eleman,Eleman,,,55,,c7D8033
+926,,cuicatec,Cuicatec,,,131,Mixtecan,cC8CC51
+927,,tairora,Tairora,,,166,Kainantu-Goroka,c807433
+928,,northadelbert,North Adelbert,,,166,Madang,cCCB951
+929,,lak,Lak,,,120,Daghestanian,c806533
+930,,baatonum,Baatonum,,,123,Gur,cCCA251
+932,,fulnio,Fulniô,,,453,,c805733
+933,,nuclearangan,Nuclear Angan,,,166,,cCC8B51
+934,,somahai,Somahai,,,166,,c804833
+935,,easttimor,East Timor,,,452,Timor-Alor-Pantar,cCC7451
+936,,majang,Majang,,,388,Surmic,c803A33
+937,,natogo,Na-Togo,,,123,Kwa,cCC5D51
+938,,mochica,Mochica,,,454,,c803341
+939,,khobwa,Kho-Bwa,,,145,Tibeto-Burman,cCC5168
+940,,hobitucholon,Hobitu-Cholon,,,455,,c80335E
+942,,gola,Gola,,,123,Mel,cCC5197
+943,,tikar,Tikar,,,123,Benue-Congo,c80337B
+944,,jaad,Jaad,,,123,North-Central Atlantic,cCC51C5
+945,,koromfe,Koromfe,,,123,Gur,c683380
+946,,northernmel,Northern Mel,,,123,Mel,cA651CC
+947,,centraldelta,Central Delta,,,123,Benue-Congo,c4B3380
+948,,abipon,Abipon,,,61,,c7851CC
+949,,foregimi,Fore-Gimi,,,166,Kainantu-Goroka,c333880
+950,,beckingdawi,Becking-Dawi,,,166,Awyu-Ok,c5159CC
+951,,witoto,Witoto,,,457,,c335480
+952,,centralnaga,Central Naga,,,145,Tibeto-Burman,c5187CC
+953,,sogeram,Sogeram,,,166,Madang,c337180
+954,,angaataha,Angaataha,,,166,,c51B5CC
+955,,ogonoid,Ogonoid,,,123,Benue-Congo,c338071
+956,,avikamalladian,Avikam-Alladian,,,123,Kwa,c51CCB5
+957,,mienic,Mienic,,,65,,c338054
+958,,negrororaima,Negro-Roraima,,,11,,c51CC87
+959,,zemeic,Zemeic,,,145,Tibeto-Burman,c338038
+960,,urat,Urat,,,164,,c51CC59
+961,,wandjiginy,Wandjiginy,,,458,,c4B8033
+962,,easterngunwinyguan,Eastern Gunwinyguan,,,422,,c78CC51
+963,,marne,Marne,,,422,,c688033
+964,,pech,Pech,,,35,,cA6CC51
+965,,achumawi,Achumawi,,,66,Palaihnihan,c807B33
+966,,mamfe,Mamfe,,,123,Benue-Congo,cCCC551
+967,,birri,Birri,,,387,,c805E33
+968,,aimore,Aimore,,,102,,cCC9751
+969,,foe,Foe,,,166,Kutubuan,c804133
+970,,southernmel,Southern Mel,,,123,Mel,cCC6851
+971,,iwamic,Iwamic,,,144,,c803350
+972,,gahuku,Gahuku,,,166,Kainantu-Goroka,cCC5180
+973,,tivoid,Tivoid,,,123,Benue-Congo,c763380
+974,,elevala,Elevala,,,459,,cBD51CC
+975,,bari,Barí,,,35,,c3C3380
+976,,bargam,Bargam,,,166,Madang,c6151CC
+977,,hmongic,Hmongic,,,65,,c336380
+978,,kanum,Kanum,,,442,,c519ECC
+979,,easterntransfly,Eastern Trans-Fly,,,461,,c338063
+980,,mixtec,Mixtec,,,131,Mixtecan,c51CC9E
+981,,tangkhulmaring,Tangkhul-Maring,,,145,Tibeto-Burman,c3C8033
+982,,trique,Trique,,,131,Mixtecan,c61CC51
+983,,westerngunwinyguan,Western Gunwinyguan,,,422,,c768033
+984,,abun,Abun,,,464,,cBDCC51
+985,,maybrat,Maybrat,,,466,,c805033
+986,,mpur,Mpur,,,467,,cCC8051
+987,,westernisthmicchibchan,Western Isthmic Chibchan,,,35,,c80336C
+988,,northbougainville,North Bougainville,,,469,,cCC51AE
+989,,yuki,Yuki,,,180,,c334680
+990,,ruboni,Ruboni,,,468,Ramu,c5170CC
+991,,sentanic,Sentanic,,,470,,c338046
+992,,naqiangic,Na-Qiangic,,,145,Tibeto-Burman,c51CC70
+993,,rao,Rao,,,468,Ramu,c806C33
+994,,beboid,Beboid,,,123,Benue-Congo,cCCAE51
+995,,coregoilalan,Core Goilalan,,,166,,c593380
+996,,gade,Gade,,,123,Benue-Congo,c8F51CC
+997,,josephstaal,Josephstaal,,,166,Madang,c598033
+998,,yuruna,Yuruna,,,170,,c8FCC51
+999,,vietic,Vietic,,,14,Mon-Khmer,c338080
+1000,,siamou,Siamou,,,471,,c51CCCC
+1001,,apma,Ap Ma,,,472,,c803333
+1002,,taiap,Taiap,,,473,,cCC5151
