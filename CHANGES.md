@@ -3,7 +3,7 @@
 Changes between releases of the WALS CLDF dataset.
 
 
-## [UNRELEASED]
+## [v2020.3] - 2022-12-01
 
 - Changes to language metadata as specified in `raw/languagesMSD_22-09.csv`.
 - The trees of the Genealogical Language List have been added in a TreeTable.

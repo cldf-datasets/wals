@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/wals",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2020.2-5-g836d933",
+            "dc:created": "v2020.2-6-g42c0da7",
             "dc:title": "Repository"
         },
         {
