@@ -8,9 +8,13 @@ import collections
 from csvw import dsv
 from cldfbench import Dataset as BaseDataset
 from cldfbench import CLDFSpec
-from clldutils.misc import data_url
+from clldutils.misc import data_url, slug
+from clldutils.color import qualitative_colors
 from pycldf.sources import Source, Reference
 from pybtex.database import parse_string
+from newick import Node
+import nexus
+from nexus.handlers.tree import Tree as NexusTree
 
 
 def fid_key(fid):
@@ -23,7 +27,13 @@ class Dataset(BaseDataset):
     id = "wals"
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
-        return CLDFSpec(module='StructureDataset', dir=self.cldf_dir)
+        return CLDFSpec(
+            module='StructureDataset',
+            data_fnames={
+                'ContributionTable': 'chapters.csv',
+                'TreeTable': 'genealogy.csv',
+            },
+            dir=self.cldf_dir)
 
     def cmd_download(self, args):
         pass
@@ -126,6 +136,7 @@ class Dataset(BaseDataset):
                 'Url': row['url'],
                 'Editor_Ord': editors[row['pk']] if row['pk'] in editors else 0,
             })
+        contributors = {d['ID']: d['Name'] for d in args.writer.objects['contributors.csv']}
 
         cc = {
             chapters[fid]['id']: [(r['primary'], pk2id['contributor'][r['contributor_pk']]) for r in rows]
@@ -188,14 +199,12 @@ class Dataset(BaseDataset):
             if sid not in lrefs[c['language_pk']]:
                 lrefs[c['language_pk']].append(sid)
 
+        ngenus = collections.Counter()
         for row in self.read('language', extended='walslanguage', pkmap=pk2id).values():
             id = row['id']
             genus = genera[row['genus_pk']]
-            genus_icon = genus['icon'] if genus else ''
+            ngenus.update([genus['name']])
             family = families[genus['family_pk']]
-            if row['name'] == genus['name'] == family['name']:
-                # an isolate!
-                genus = family = None
             iso_codes = row['iso_codes'].replace(',', '').split()
             glottocodes = [i[0] for i in lang2id[row['pk']].get('glottolog', [])]
             srcs = lrefs[row['pk']]
@@ -210,16 +219,69 @@ class Dataset(BaseDataset):
                 'Latitude': row['latitude'],
                 'Longitude': row['longitude'],
                 'Macroarea': row['macroarea'],
-                'Genus': genus['name'] if genus else None,
-                'GenusIcon': genus_icon,
+                'Genus': genus['name'],
+                'GenusIcon': None,
                 'Subfamily': genus['subfamily'] if genus else None,
-                'Family': family['name'] if family else None,
+                'Family': family['name'],
                 'Samples_100': row['samples_100'] == 't',
                 'Samples_200': row['samples_200'] == 't',
                 'Country_ID': lang2country[row['pk']],
                 'Source': sorted(srcs),
+                'Parent_ID': None,
             })
         args.writer.objects['LanguageTable'].sort(key=lambda d: d['ID'])
+        icons = dict(zip([g[0] for g in ngenus.most_common()], qualitative_colors(len(ngenus))))
+
+        nex = nexus.NexusWriter()
+        subgroups = []
+        for f, lgs in itertools.groupby(
+            sorted(
+                args.writer.objects['LanguageTable'],
+                key=lambda d: (d['Family'] or '', d['Subfamily'] or '', d['Genus'] or '', d['ID'])),
+            lambda l: l['Family'],
+        ):
+            fid = 'family-{}'.format(slug(f))
+            fn = Node(fid)
+            subgroups.append(dict(ID=fid, Name=f))
+            for sf, llgs in itertools.groupby(lgs, lambda l: l['Subfamily']):
+                sfid = None
+                if sf:
+                    sfid = 'subfamily-{}'.format(slug(sf))
+                    sfn = Node(sfid)
+                    fn.add_descendant(sfn)
+                    subgroups.append(dict(ID=sfid, Name=sf, Parent_ID=fid))
+
+                for g, lllgs in itertools.groupby(llgs, lambda l: l['Genus']):
+                    gid = 'genus-{}'.format(slug(g))
+                    gn = Node(gid)
+                    subgroups.append(dict(
+                        ID=gid,
+                        Name=g,
+                        GenusIcon=icons[g].replace('#', 'c'),
+                        Parent_ID=sfid if sf else fid))
+                    if sf:
+                        sfn.add_descendant(gn)
+                    else:
+                        fn.add_descendant(gn)
+                    for lg in lllgs:
+                        gn.add_descendant(Node(lg['ID']))
+                        lg['Parent_ID'] = gid
+
+            args.writer.objects['TreeTable'].append(dict(
+                ID=fid,
+                Name=fid,
+                Description='Genealogical classification of the languages in the family {}'.format(f),
+                Media_ID='genealogy',
+            ))
+            nex.trees.append(NexusTree.from_newick(fn, name=fid, rooted=True))
+        args.writer.objects['LanguageTable'].extend(subgroups)
+        nex.write_to_file(args.writer.cldf_spec.dir / 'genealogy.nex')
+        args.writer.objects['MediaTable'].append(dict(
+            ID='genealogy',
+            Media_Type='text/plain',
+            Download_URL='genealogy.nex',
+            Contribution_ID='s4',
+        ))
 
         refs = {
             dpid: [
@@ -316,19 +378,40 @@ class Dataset(BaseDataset):
         docs_dir.mkdir(exist_ok=True)
         for d in desc_dir.iterdir():
             if d.is_dir():
-                descs[d.stem] = src_pattern.sub(
-                    repl, d.joinpath('body.xhtml').read_text(encoding='utf8'))
+                if d.joinpath('body.xhtml').exists():
+                    descs[d.stem] = (src_pattern.sub(
+                        repl, d.joinpath('body.xhtml').read_text(encoding='utf8')), 'html')
+                else:
+                    descs[d.stem] = (d.joinpath('body.md').read_text(encoding='utf8'), 'md')
+
+        def with_citation(d):
+            wals = self.metadata.citation
+            authors = ', '.join(contributors[cid] for cid in d['Contributor_ID'])
+            if d['With_Contributor_ID']:
+                authors += ' ({})'.format(', '.join(contributors[cid] for cid in d['With_Contributor_ID']))
+            d['Contributor'] = authors
+            d['Citation'] = "{}. 2013. {}. In: {}".format(
+                authors,
+                d['Name'],
+                wals.replace('https://wals.info', 'https://wals.info/chapter/{}'.format(d['Number'])))
+            return d
 
         for c in sorted(chapters.values(), key=lambda x: int(x['sortkey'])):
-            if c['id'] in descs:
-                fname = docs_dir / 'chapter_{}.html'.format(c['id'])
-                with io.open(fname, 'w', encoding='utf-8') as f:
-                    f.write(descs[c['id']])
+            fname = docs_dir / 'chapter_{}.{}'.format(c['id'], descs[c['id']][1])
+            with io.open(fname, 'w', encoding='utf-8') as f:
+                f.write(descs[c['id']][0])
             cid, wcid = [], []
             if c['id'] in cc:
                 cid = [co[1] for co in cc[c['id']] if co[0] == 't']
                 wcid = [co[1] for co in cc[c['id']] if co[0] == 'f']
-            args.writer.objects['chapters.csv'].append({
+            args.writer.objects['MediaTable'].append(dict(
+                ID=c['id'],
+                Media_Type="text/html" if fname.suffix == 'html' else 'text/markdown',
+                Conforms_To='CLDF Markdown' if fname.suffix == '.md' else None,
+                Download_URL='file:///docs/{}'.format(fname.name),
+                Contribution_ID=c['id'],
+            ))
+            args.writer.objects['ContributionTable'].append(with_citation({
                 'ID': c['id'],
                 'Name': c['name'],
                 'wp_slug': c['wp_slug'],
@@ -337,19 +420,20 @@ class Dataset(BaseDataset):
                 'Source': crefs.get(c['id'], []),
                 'Contributor_ID': cid,
                 'With_Contributor_ID': wcid,
-            })
+            }))
 
     def create_schema(self, cldf):
-        cldf.add_component(
+        t = cldf.add_component(
             'ParameterTable',
             'Chapter_ID',
         )
+        t.common_props['dc:description'] = "WALS' Features"
         cldf.add_component(
             'CodeTable',
             {'name': 'Number', 'datatype': 'integer'},
             'icon',
         )
-        cldf.add_component(
+        t = cldf.add_component(
             'LanguageTable',
             'Family',
             'Subfamily',
@@ -377,7 +461,15 @@ class Dataset(BaseDataset):
                 'name': 'Source',
                 'separator': ' '
             },
+            {
+                "name": "Parent_ID",
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#languageReference',
+            }
         )
+        t.common_props['dc:description'] = \
+            "WALS' languages and language groups. WALS languages have 2 or 3 letter IDs, whereas " \
+            "the taxonomic units of the  Genealogical Language List have IDs prefixed with " \
+            "'family-', 'subfamily-' or 'genus-'."
         cldf.add_component('ExampleTable')
         t = cldf.add_table(
             'language_names.csv',
@@ -395,7 +487,6 @@ class Dataset(BaseDataset):
             },
             'Provider',
         )
-        t.common_props['dc:conformsTo'] = None
         t = cldf.add_table(
             'countries.csv',
             {
@@ -407,18 +498,22 @@ class Dataset(BaseDataset):
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
             },
         )
-        t.common_props['dc:conformsTo'] = None
-        t = cldf.add_table(
-            'chapters.csv',
+        t = cldf.add_component(
+            'MediaTable',
             {
-                'name': 'ID',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
-                'valueUrl': 'docs/chapter_{ID}.html',
+                'name': 'Contribution_ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#contributionReference',
             },
             {
-                'name': 'Name',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+                'name': 'Conforms_To',
+                'propertyUrl': 'http://purl.org/dc/terms/conformsTo',
             },
+        )
+        t.common_props['dc:description'] = "Media files associated with WALS chapters."
+        cldf['TreeTable'].common_props['dc:description'] = \
+            "The family trees of WALS' Genealogical Language List."
+        cldf.add_columns(
+            'ContributionTable',
             'wp_slug',
             {
                 'name': 'Number',
@@ -439,7 +534,6 @@ class Dataset(BaseDataset):
                 'separator': ' ',
             },
         )
-        t.common_props['dc:conformsTo'] = None
         t = cldf.add_table(
             'areas.csv',
             {
@@ -486,10 +580,10 @@ class Dataset(BaseDataset):
         )
         cldf.__getitem__(('ValueTable', 'Comment')).common_props['dc:description'] = 'comments in HTML'
         cldf.__getitem__(('ValueTable', 'Comment')).common_props['dc:format'] = 'text/html'
-        cldf.add_foreign_key('chapters.csv', 'Contributor_ID', 'contributors.csv', 'ID')
-        cldf.add_foreign_key('chapters.csv', 'With_Contributor_ID', 'contributors.csv', 'ID')
-        cldf.add_foreign_key('ParameterTable', 'Chapter_ID', 'chapters.csv', 'ID')
-        cldf.add_foreign_key('chapters.csv', 'Area_ID', 'areas.csv', 'ID')
+        cldf.add_foreign_key('ContributionTable', 'Contributor_ID', 'contributors.csv', 'ID')
+        cldf.add_foreign_key('ContributionTable', 'With_Contributor_ID', 'contributors.csv', 'ID')
+        cldf.add_foreign_key('ParameterTable', 'Chapter_ID', 'ContributionTable', 'ID')
+        cldf.add_foreign_key('ContributionTable', 'Area_ID', 'areas.csv', 'ID')
         cldf.add_foreign_key('language_names.csv', 'Language_ID', 'LanguageTable', 'ID')
 
     #

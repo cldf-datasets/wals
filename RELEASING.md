@@ -5,3 +5,7 @@
 - Run `cldfbench readme cldfbench_wals.py`
 - Run `cldfbench zenodo cldfbench_wals.py`
 
+- Run `pytest`
+- Update `CHANGES.md`
+
+
