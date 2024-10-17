@@ -11925,7 +11925,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 11969,,juan1238,Juang,,gc-jun,glottolog,en,1
 11970,,hupd1244,Hupdë,,gc-jup,glottolog,en,1
 11971,,juru1256,Jurúna,,gc-jur,glottolog,en,1
-11972,,jiar1239,Jiarong,,gc-jya,glottolog,en,1
+11972,,jiar1240,Northern Gyalrong,,gc-jya,glottolog,en,1
 11973,,kaba1278,Kabardian,,gc-kbd,glottolog,en,1
 11974,,kara1467,Karakalpak,,gc-kaa,glottolog,en,1
 11975,,kara1482,Kara,,gc-kah,glottolog,en,1
@@ -13176,7 +13176,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 13222,,umbu1258,Umbu-Ungu,,gc-ubu,glottolog,en,1
 13223,,muns1251,Munsee,,gc-umu,glottolog,en,1
 13224,,ngar1284,Ngarinyin,,gc-ung,glottolog,en,1
-13225,,woro1255,Worora,,gc-unp,glottolog,en,1
+13225,,worr1237,Worora,,gc-unp,glottolog,en,1
 13226,,urip1239,Uripiv-Wala-Rano-Atchin,,gc-upv,glottolog,en,1
 13227,,urar1246,Urarina,,gc-ura,glottolog,en,1
 13228,,urub1250,Kaapor,,gc-urb,glottolog,en,1
@@ -13584,7 +13584,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 13633,,pumi1242,,,pumi1242,glottolog,en,1
 13634,,maza1293,,,maza1293,glottolog,en,1
 13635,,hong1241,,,hong1241,glottolog,en,1
-13636,,yidd1255,,,yidd1255,glottolog,en,1
+13636,,east2295,,,east2295,glottolog,en,1
 13637,,nucl1291,,,nucl1291,glottolog,en,1
 13638,,tuka1247,,,tuka1247,glottolog,en,1
 13639,,kewa1250,,,kewa1250,glottolog,en,1
@@ -13777,7 +13777,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 13838,,eude1234,,,gc-eude1234,glottolog,en,1
 13839,,katc1250,,,gc-katc1250,glottolog,en,1
 13840,,mamb1312,,,gc-mamb1312,glottolog,en,1
-13841,,jogl1236,,,gc-jogl1236,glottolog,en,1
+13841,,tase1235,,,gc-tase1235,glottolog,en,1
 13842,,spit1240,,,gc-spit1240,glottolog,en,1
 13843,,sout2999,,,gc-sout2999,glottolog,en,1
 13844,,makh1261,,,gc-makh1261,glottolog,en,1
@@ -13827,7 +13827,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 13888,,tazn1238,,,gc-tazn1238,glottolog,en,1
 13889,,donn1239,,,gc-donn1239,glottolog,en,1
 13890,,lipt1238,,,gc-lipt1238,glottolog,en,1
-13891,,cypr1245,,,gc-cypr1245,glottolog,en,1
+13891,,cypr1249,,,gc-cypr1249,glottolog,en,1
 13892,,tunu1234,,,gc-tunu1234,glottolog,en,1
 13893,,gula1266,,,gc-gula1266,glottolog,en,1
 13894,,situ1238,,,gc-situ1238,glottolog,en,1
@@ -13839,7 +13839,7 @@ pk,jsondata,name,description,markup_description,id,type,lang,version
 13900,,nica1252,,,gc-nica1252,glottolog,en,1
 13901,,kham1281,,,gc-kham1281,glottolog,en,1
 13902,,sanm1296,,,gc-sanm1296,glottolog,en,1
-13903,,sanm1259,,,gc-sanm1259,glottolog,en,1
+13903,,sanp1259,,,gc-sanp1259,glottolog,en,1
 13904,,more1259,,,gc-more1259,glottolog,en,1
 13905,,east2773,,,gc-east2773,glottolog,en,1
 13906,,sout2969,,,gc-sout2969,glottolog,en,1
