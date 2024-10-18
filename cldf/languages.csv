@@ -395,7 +395,7 @@ but,Buriat,Eurasia,52,108,mong1330,bxm,Altaic,,Mongolic,,bxm,false,false,CN RU M
 buu,Buru,Papunesia,-3.5,126.5,buru1303,mhs,Austronesian,,Central Malayo-Polynesian,,mhs,false,false,ID,Grimes-1991 Grimes-1995 Hendriks-1897,genus-centralmalayopolynesian
 buw,Bulu,Africa,3,11,bulu1251,bum,Niger-Congo,Benue-Congo,Bantu,,bum,false,false,CM,Alexandre-1966 Bates-1904,genus-bantu
 buy,Buli (in Ghana),Africa,10.5,-1.25,buli1254,bwu,Niger-Congo,Gur,Oti-Volta,,bwu,false,false,GH,Kroger-1992,genus-otivolta
-bvi,Bali-Vitu,Papunesia,-4.9,149.116666667,bali1280,,Austronesian,Eastern Malayo-Polynesian,Oceanic,,bbn wiv,false,false,PG,Ross-2002c,genus-oceanic
+bvi,Bali-Vitu,Papunesia,-4.9,149.116666667,unea1237,,Austronesian,Eastern Malayo-Polynesian,Oceanic,,bbn wiv,false,false,PG,Ross-2002c,genus-oceanic
 bwa,Bandjalang (Waalubal),Australia,-29.0833333333,152.583333333,band1339,bdy,Pama-Nyungan,,Southeastern Pama-Nyungan,,bdy,false,false,AU,Crowley-1978,genus-southeasternpamanyungan
 bwc,Bajau (West Coast),Papunesia,6.33333333333,116.333333333,west2560,bdr,Austronesian,,Sama-Bajaw,,bdr,false,false,MY,Miller-2007,genus-samabajaw
 bxj,Bayungu,Australia,-23,114,bayu1240,bxj,Pama-Nyungan,,Western Pama-Nyungan,,bxj,false,false,AU,,genus-westernpamanyungan
@@ -493,7 +493,7 @@ com,Comorian,Africa,-12,44,maor1244,swb,Niger-Congo,Benue-Congo,Bantu,,swb,false
 coo,Coos (Hanis),North America,43.5,-124.166666667,coos1249,csz,Oregon Coast,,Coosan,,csz,false,true,US,Frachtenberg-1910 Frachtenberg-1913 Frachtenberg-1922a Nichols-1992 Pierce-1971 Stolz-1996 Zenk-1990,genus-coosan
 cop,Coptic,Africa,26,32,copt1239,cop,Afro-Asiatic,,Egyptian-Coptic,,cop,false,false,EG,Lambdin-1983 Layton-2000 Mallon-1956 Plisch-1999 Plumley-1948 Shisha-Halevy-1988,genus-egyptiancoptic
 cor,Cora,North America,22.1666666667,-104.833333333,elna1235,crn,Uto-Aztecan,,Corachol,,crn,false,false,MX,Casad-1984 Casad-1985 Langacker-1976 McMahon-1959 McMahon-1967,genus-corachol
-cos,Rumsien,North America,36.8333333333333,-121.75,,,Penutian,Utian,Costanoan,,,false,false,US,Kroeber-1904,genus-costanoan
+cos,Rumsien,North America,36.8333333333333,-121.75,rums1243,,Penutian,Utian,Costanoan,,,false,false,US,Kroeber-1904,genus-costanoan
 cpa,Campa Pajonal Asheninca,South America,-10.6666666667,-74.25,ashe1273,cjo,Arawakan,,Pre-Andine Arawakan,,cjo,false,false,PE,Pike-and-Kindberg-1956 Wise-1978,genus-preandinearawakan
 cpl,Chinantec (Palantla),North America,18.8333333333,-96.75,pala1351,cpa,Oto-Manguean,,Chinantecan,,cpa,false,false,MX,Bybee-et-al-1994 Merrifield-1968,genus-chinantecan
 cpn,Chepang,Eurasia,27.6666666667,84.75,chep1245,cdm,Sino-Tibetan,Tibeto-Burman,Himalayish,,cdm,false,false,NP,Bybee-et-al-1994 Caughley-1982 Noonan-2003c,genus-himalayish
@@ -720,7 +720,7 @@ gbe,German (Bern),Eurasia,47,7.41666666667,swis1247,gsw,Indo-European,,Germanic,
 gbk,Gbaya (Northwest),Africa,6,15,nort2775,gya,Niger-Congo,,Gbaya-Manza-Ngbaka,,gya,false,false,CF CM,Monino-and-Roulon-1972 Roulon-1975 Roulon-Doko-1995 Tucker-and-Bryan-1966,genus-gbayamanzangbaka
 gbl,German (Berlin),Eurasia,52.5,13.3333333333,stan1295,deu,Indo-European,,Germanic,,deu,false,false,DE,,genus-germanic
 gbs,Gbaya (Southwest),Africa,4.7,14.96,sout2785,gso,Niger-Congo,,Gbaya-Manza-Ngbaka,,gso,false,false,,Tucker-and-Bryan-1966,genus-gbayamanzangbaka
-gcy,Greek (Cypriot),Eurasia,34.75,33,cypr1245,ell,Indo-European,,Greek,,ell,false,false,CY,,genus-greek
+gcy,Greek (Cypriot),Eurasia,34.75,33,cypr1249,ell,Indo-European,,Greek,,ell,false,false,CY,,genus-greek
 gdb,Gutob,Eurasia,19,83.6666666667,bodo1267,gbj,Austro-Asiatic,,Munda,,gbj,false,false,IN,Subba-Rao-and-Patnaik-1992,genus-munda
 gdf,Guduf,Africa,11.2333333333,13.8,gudu1252,gdf,Afro-Asiatic,Chadic,Biu-Mandara,,gdf,false,false,NG CM,,genus-biumandara
 gdi,Godié,Africa,5.41666666667,-5.83333333333,godi1239,god,Niger-Congo,,Kru,,god,false,false,CI,Marchese-1986a Marchese-1988,genus-kru
@@ -970,7 +970,7 @@ jeb,Jebero,South America,-5.41666666667,-76.5,jebe1250,jeb,Cahuapanan,,Cahuapana
 jeh,Jeh,Eurasia,15.1666666667,107.833333333,jehh1245,jeh,Austro-Asiatic,Mon-Khmer,Bahnaric,,jeh,false,false,VN LA,Cohen-1966 Gradin-1966 Gradin-and-Gradin-1979,genus-bahnaric
 jel,Jeli,Africa,9.5,-5.66666666667,jeri1242,jek,Mande,,Western Mande,,jek,false,false,CI,Trobs-1998,genus-westernmande
 jem,Jemez,North America,35.8333333333,-107,jeme1245,tow,Kiowa-Tanoan,,Kiowa-Tanoan,,tow,false,false,US,Yumitani-1998,genus-kiowatanoan
-jia,Jiarong,Eurasia,31.5,102,jiar1239,jya,Sino-Tibetan,Tibeto-Burman,Na-Qiangic,,jya,false,false,CN,,genus-naqiangic
+jia,Jiarong,Eurasia,31.5,102,jiar1240,jya,Sino-Tibetan,Tibeto-Burman,Na-Qiangic,,jya,false,false,CN,,genus-naqiangic
 jib,Jibbali,Eurasia,17.5,55,sheh1240,shv,Afro-Asiatic,,Semitic,,shv,false,false,OM,Lonnet-and-Simeone-Senelle-1997,genus-semitic
 jin,Jino,Eurasia,22,101,jino1236,jiu,Sino-Tibetan,Tibeto-Burman,Burmese-Lolo,,jiu,false,false,CN,Gai-1986,genus-burmeselolo
 jiv,Jivaro,South America,-2.5,-78,shua1257,jiv,Jivaroan,,Jivaroan,,jiv,false,false,EC,Beasley-and-Pike-1957 Beuchat-and-Rivet-1909 Bybee-et-al-1994 Ghinassi-1938 Nichols-1992 Pellizzaro-1969 Turner-1958,genus-jivaroan
@@ -985,7 +985,7 @@ jpn,Japanese,Eurasia,37,140,nucl1643,jpn,Japanese,,Japanese,,jpn,true,true,JP,Al
 jpr,Japreria,South America,10.5,-73,japr1238,jru,Cariban,,Cariban,,jru,false,false,VR,Durbin-and-Seijas-1972,genus-cariban
 jrn,Juruna,South America,-5,-54.5,juru1256,jur,Tupian,,Yuruna,,jur,false,false,BR,Rodrigues-1999a,genus-yuruna
 jrw,Jarawa (in Andamans),Eurasia,12,92.5833333333,jara1245,anq,South Andamanese,,South Andamanese,,anq,false,false,IN,Kumar-2003,genus-southandamanese
-jug,Jugli,Eurasia,27.5,96.3333333333,jogl1236,nst,Sino-Tibetan,Tibeto-Burman,Brahmaputran,,nst,false,false,IN,Rekhung-1988a,genus-brahmaputran
+jug,Jugli,Eurasia,27.5,96.3333333333,tase1235,nst,Sino-Tibetan,Tibeto-Burman,Brahmaputran,,nst,false,false,IN,Rekhung-1988a,genus-brahmaputran
 juh,Ju|'hoan,Africa,-19,21,juho1239,ktz,Kxa,,Ju-Kung,,ktz,false,true,AO NA BW,Bybee-et-al-1994 Dickens-1992 Dickens-1994 Dickens-nd Guldemann-2000 Nichols-1992 Snyman-1970 Snyman-1975 Stolz-1996,genus-jukung
 juk,Jukun,Africa,6.91666666667,10.4166666667,juku1254,jbu,Niger-Congo,Benue-Congo,Jukunoid,,jbu,false,false,NG,Shimuzu-1980 Welmers-1968b,genus-jukunoid
 jum,Júma,South America,-7.5,-64,juma1249,jua,Tupian,,Maweti-Guarani,,jua,false,false,BR,Abramson-1968,genus-mawetiguarani
@@ -1626,7 +1626,7 @@ mxe,Ifira-Mele,Papunesia,-17.75,168.25,mele1250,mxe,Austronesian,Eastern Malayo-
 mxg,Mixtec (San Miguel el Grande),North America,17.05,-97.5666666667,sanm1295,mig,Oto-Manguean,Mixtecan,Mixtec,,mig,false,false,MX,Dyk-and-Stoudt-1973,genus-mixtec
 mxj,Mixtec (Jicaltepec),North America,16.3333333333,-98,pino1237,mio,Oto-Manguean,Mixtecan,Mixtec,,mio,false,false,MX,Bradley-1970,genus-mixtec
 mxl,Mixtec (Alacatlatzala),North America,17.25,-98.5833333333,alac1244,mim,Oto-Manguean,Mixtecan,Mixtec,,mim,false,false,MX,,genus-mixtec
-mxm,Mixtec (Molinos),North America,17,-97.5833333333,sanm1259,mig,Oto-Manguean,Mixtecan,Mixtec,,mig,false,false,MX,Hunter-and-Pike-1969,genus-mixtec
+mxm,Mixtec (Molinos),North America,17,-97.5833333333,sanp1259,mig,Oto-Manguean,Mixtecan,Mixtec,,mig,false,false,MX,Hunter-and-Pike-1969,genus-mixtec
 mxo,Mixtec (Ocotepec),North America,17.1666666667,-97.75,ocot1243,mie,Oto-Manguean,Mixtecan,Mixtec,,mie,false,false,MX,Alexander-1988,genus-mixtec
 mxp,Mixtec (Peñoles),North America,17.0833333333,-96.9166666667,peno1244,mil,Oto-Manguean,Mixtecan,Mixtec,,mil,false,false,MX,Daly-1973,genus-mixtec
 mxs,Mixtec (Silacayoapan),North America,17.5,-98.1666666667,sila1250,mks,Oto-Manguean,Mixtecan,Mixtec,,mks,false,false,MX,Shields-1988,genus-mixtec
@@ -2295,7 +2295,7 @@ tli,Tlingit,North America,59,-135,tlin1245,tli,Na-Dene,,Tlingit,,tli,false,true,
 tll,Taulil,Papunesia,-4.41666666667,152.083333333,taul1251,tuh,Taulil,,Taulil,,tuh,false,false,PG,Stebbins-2002,genus-taulil
 tlo,Tobelo,Papunesia,1.5,128.5,tobe1252,tlb,North Halmaheran,,North Halmaheran,,tlb,false,false,ID,Holton-2003 Hueting-1908 Hueting-1936 den-Besten-2001,genus-northhalmaheran
 tlp,Tlapanec,North America,17.0833333333,-99,acat1239,tcf,Oto-Manguean,,Subtiaba-Tlapanec,,tcf,false,false,MX,Radin-1935 Suarez-1983a Suarez-1988,genus-subtiabatlapanec
-tls,Talysh (Southern),Eurasia,37.5,49,tari1263,shm,Indo-European,,Iranian,,shm,false,false,IR,Stilo-2005,genus-iranian
+tls,Talysh (Southern),Eurasia,37.5,49,shah1254,shm,Indo-European,,Iranian,,shm,false,false,IR,Stilo-2005,genus-iranian
 tma,Tama,Africa,14.5,22,tama1331,tma,Eastern Sudanic,,Taman,,tma,false,false,TD SD,Tucker-and-Bryan-1966,genus-taman
 tmc,Timucua,North America,30.25,-82.5,timu1245,tjm,Timucua,,Timucua,,tjm,false,false,US,Gatschet-1877 Granberry-1956 Granberry-1990 Granberry-1993,genus-timucua
 tmg,Tamagario,Papunesia,-6.41666666667,139.25,tama1336,tcg,Kayagar,,Kayagar,,tcg,false,false,ID,Voorhoeve-1975,genus-kayagar
@@ -2387,7 +2387,7 @@ tub,Tubar,North America,27,-108,tuba1279,tbu,Uto-Aztecan,,Tubar,,tbu,false,false
 tuc,Tucano,South America,0.5,-69.1666666667,tuca1252,tuo,Tucanoan,,Tucanoan,,tuo,false,false,CO BR,Aikhenvald-2007a Bybee-et-al-1994 Derbyshire-and-Payne-1990 Giacone-nd Huber-and-Reed-1992 Sorensen-1969 West-1980,genus-tucanoan
 tug,Tuareg (Ahaggar),Africa,23,6,taha1241,thv,Afro-Asiatic,,Berber,,thv,false,false,LY NE DZ,Bybee-et-al-1994 Hanoteau-1896 Louali-Reynal-et-al-1997 Penchoen-1973b Prasse-1972 Quitout-1997,genus-berber
 tui,Türk Isaret Dili,Eurasia,39,34,turk1288,tsm,other,,Sign Languages,,tsm,false,false,TR,,genus-signlanguages
-tuk,Tukang Besi,Papunesia,-5.5,123.5,tuka1247,,Austronesian,,Celebic,,bhq khc,true,true,ID,Donohue-1999a Donohue-1999c,genus-celebic
+tuk,Tukang Besi,Papunesia,-5.5,123.5,tuka1248,,Austronesian,,Celebic,,bhq khc,true,true,ID,Donohue-1999a Donohue-1999c,genus-celebic
 tul,Tulu,Eurasia,12.75,75.3333333333,tulu1258,tcy,Dravidian,,Dravidian,,tcy,false,false,IN,Bhat-1967 Brigel-1982,genus-dravidian
 tum,Tumleo,Papunesia,-3.08333333333,142.416666667,tuml1238,tmq,Austronesian,Eastern Malayo-Polynesian,Oceanic,,tmq,false,false,PG,Schultze-1911,genus-oceanic
 tun,Tunica,North America,32.6666666667,-91,tuni1252,tun,Tunica,,Tunica,,tun,false,true,US,Haas-1940 Haas-1953 Nichols-1992 Swanton-1919 Swanton-1921,genus-tunica
@@ -2514,7 +2514,7 @@ wog,Wogamusin,Papunesia,-4.25,142.333333333,woga1249,wog,Sepik,,Wogamusin-Chenap
 woi,Woisika,Papunesia,-8.25,124.833333333,kama1365,woi,Greater West Bomberai,Timor-Alor-Pantar,Alor-Pantar,,woi,false,false,ID,Stokhof-1979 Stokhof-1982,genus-alorpantar
 wol,Woleaian,Papunesia,7.33333333333,143.833333333,wole1240,woe,Austronesian,Eastern Malayo-Polynesian,Oceanic,,woe,false,false,FM,Sohn-1975 Sohn-and-Tawerilmang-1976,genus-oceanic
 wom,Womo,Papunesia,-2.91666666667,141.833333333,womo1238,wmx,Skou,,Serra Hills,,wmx,false,false,PG,,genus-serrahills
-wor,Worora,Australia,-15.6666666667,124.666666667,woro1255,wro,Worrorran,,Worrorran,,wro,false,false,AU,Bybee-et-al-1994 Love-2000,genus-worrorran
+wor,Worora,Australia,-15.6666666667,124.666666667,worr1237,wro,Worrorran,,Worrorran,,wro,false,false,AU,Bybee-et-al-1994 Love-2000,genus-worrorran
 wps,Wapishana,South America,2.66666666667,-60,wapi1253,wap,Arawakan,,Negro-Roraima,,wap,false,false,GY BR,Tracy-1972,genus-negrororaima
 wra,Warao,South America,9.33333333333,-61.6666666667,wara1303,wba,Warao,,Warao,,wba,true,true,VR,Osborn-1966 Osborn-1967 Romero-Figueroa-1985 Romero-Figueroa-1986 Romero-Figueroa-1997 Vaquero-1965 de-Barral-1979 de-Goeje-1930,genus-warao
 wrb,Warrnambool,Australia,-38.25,142.5,warr1257,gjm,Pama-Nyungan,,Southeastern Pama-Nyungan,,gjm,false,false,AU,Blake-2003,genus-southeasternpamanyungan
@@ -2535,7 +2535,7 @@ wtm,Watam,Papunesia,-3.91666666667,144.5,wata1253,wax,Ramu-Lower Sepik,Ramu,Lowe
 wuc,Wu,Eurasia,31.6666666667,119.916666667,wuch1236,wuu,Sino-Tibetan,,Chinese,,wuu,false,false,CN,Chao-1970,genus-chinese
 wur,Waurá,South America,-13,-53,waur1244,wau,Arawakan,,Central Arawakan,,wau,false,false,BR,Derbyshire-1986 Derbyshire-and-Payne-1990 Wise-1990,genus-centralarawakan
 wwa,Waama,Africa,10.5833333333,1.66666666667,waam1244,wwa,Niger-Congo,Gur,Oti-Volta,,wwa,false,false,BJ,Peter-1990,genus-otivolta
-wwr,Woiwurrung,Australia,-37.5,145.5,woiw1237,wyu,Pama-Nyungan,,Southeastern Pama-Nyungan,,wyu,false,false,AU,Blake-1991,genus-southeasternpamanyungan
+wwr,Woiwurrung,Australia,-37.5,145.5,woiw1237,wyi,Pama-Nyungan,,Southeastern Pama-Nyungan,,wyi,false,false,AU,Blake-1991,genus-southeasternpamanyungan
 wwy,Waray-Waray,Papunesia,12,125,wara1300,war,Austronesian,,Greater Central Philippine,,war,false,false,PH,Rubino-2001c,genus-greatercentralphilippine
 wya,Wyandot,North America,44.3333333333,-77.5,wyan1247,wya,Iroquoian,,Northern Iroquoian,,wya,false,false,CA,Kopris-2001,genus-northerniroquoian
 wyn,Wayana,South America,3.25,-54.1666666667,waya1269,way,Cariban,,Cariban,,way,false,false,GF SR BR,Jackson-1972 de-Goeje-1946,genus-cariban
@@ -2570,7 +2570,7 @@ ych,Yup'ik (Chevak),North America,61.5,-165.75,cent2127,esu,Eskimo-Aleut,,Eskimo
 ycn,Yucuna,South America,-0.75,-71,yucu1253,ycn,Arawakan,,Japura-Colombia,,ycn,false,false,CO,Huber-and-Reed-1992 Schauer-and-Schauer-1958 Schauer-and-Schauer-1967,genus-japuracolombia
 yct,Yucatec,North America,20,-89,yuca1254,yua,Mayan,,Mayan,,yua,false,false,MX,Arzapalo-1973 Bricker-et-al-1998 Straight-1976 Suarez-1983b Tozzer-1921,genus-mayan
 ydb,Yiddish (Bessarabian),Eurasia,47,28.5,east2295,ydd,Indo-European,,Germanic,,ydd,false,false,MD,,genus-germanic
-ydd,Yiddish,Eurasia,52,23,yidd1255,ydd,Indo-European,,Germanic,,ydd,false,false,UA BY DE LT PL,Katz-1987,genus-germanic
+ydd,Yiddish,Eurasia,52,23,east2295,ydd,Indo-European,,Germanic,,ydd,false,false,UA BY DE LT PL,Katz-1987,genus-germanic
 ydl,Yiddish (Lodz),Eurasia,51.75,19.4166666667,east2295,ydd,Indo-European,,Germanic,,ydd,false,false,PL,,genus-germanic
 yei,Yei,Papunesia,-7.91666666667,140.916666667,yeii1239,jei,Yam,,Yei,,jei,false,false,ID PG,Boelaars-1950,genus-yei
 yel,Yelî Dnye,Papunesia,-11.3666666667,154.166666667,yele1255,yle,Yele,,Yele,,yle,false,false,PG,Henderson-1975 Henderson-1995,genus-yele

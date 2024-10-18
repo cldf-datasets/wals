@@ -22,7 +22,7 @@ setup(
         'pycldf>=1.19.0',
         'pybtex>=0.24.0',
         'beautifulsoup4>=4.9.3',
-        'csvw>=1.10.1'
+        'csvw>=1.10.1',
     ],
     extras_require={
         'test': [

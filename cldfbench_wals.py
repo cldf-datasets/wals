@@ -54,6 +54,7 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         self.create_schema(args.writer.cldf)
+        glangs = {l.id for l in args.glottolog.api.languoids()}
 
         pk2id = collections.defaultdict(dict)
 
@@ -208,6 +209,9 @@ class Dataset(BaseDataset):
             family = families[genus['family_pk']]
             iso_codes = row['iso_codes'].replace(',', '').split()
             glottocodes = [i[0] for i in lang2id[row['pk']].get('glottolog', [])]
+            gcode = glottocodes[0] if len(glottocodes) == 1 else None
+            if gcode:
+                assert gcode in glangs, 'invalid Glottocode: {}'.format(gcode)
             srcs = lrefs[row['pk']]
             if id in gbs_lg_refs:
                 [srcs.append(s) for s in gbs_lg_refs[id] if s not in srcs]

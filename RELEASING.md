@@ -2,11 +2,11 @@
 
 - Run
   ```shell
-  cldfbench makecldf cldfbench_wals.py --glottolog-version v4.6
+  cldfbench makecldf cldfbench_wals.py --glottolog-version v5.0
   ```
 - Run
   ```shell
-  cldfbench cldfreadme cldfbench_wals.py`
+  cldfbench cldfreadme cldfbench_wals.py
   ```
 - Run
   ```shell

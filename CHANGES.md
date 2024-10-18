@@ -3,6 +3,13 @@
 Changes between releases of the WALS CLDF dataset.
 
 
+## [v2020.4] - 2024-10-18
+
+- Fixed errata in language metadata.
+- Updated Glottocodes to match Glottolog 5.0.
+- For a full list of changes run `git diff v2020.3 v2020.4 cldf` on the repository.
+
+
 ## [v2020.3] - 2022-12-01
 
 - Changes to language metadata as specified in `raw/languagesMSD_22-09.csv`.
