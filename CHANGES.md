@@ -2,6 +2,11 @@
 
 Changes between releases of the WALS CLDF dataset.
 
+## [v2020.5] - 2026-07-16
+
+- Fixed coordinate for Navajo
+- Updated Glottocodes to match Glottolog 5.3.
+
 
 ## [v2020.4] - 2024-10-18
 

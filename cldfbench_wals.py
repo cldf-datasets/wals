@@ -4,6 +4,7 @@ import json
 import pathlib
 import itertools
 import collections
+from typing import Optional
 
 from csvw import dsv
 from csvw.metadata import URITemplate
@@ -12,7 +13,7 @@ from cldfbench import CLDFSpec
 from clldutils.misc import data_url, slug
 from clldutils.color import qualitative_colors
 from pycldf.sources import Source, Reference
-from pybtex.database import parse_string
+from simplepybtex.database import parse_string
 from newick import Node
 import nexus
 from nexus.handlers.tree import Tree as NexusTree
@@ -39,16 +40,16 @@ class Dataset(BaseDataset):
     def cmd_download(self, args):
         pass
 
-    def read(self, core, extended=False, pkmap=None, key=None):
+    def read(self, core, extended: Optional[str] = None, pkmap=None, key=None):
         if not key:
             key = lambda d: int(d['pk'])
         res = collections.OrderedDict()
-        for row in sorted(self.raw_dir.read_csv('{0}.csv'.format(core), dicts=True), key=key):
+        for row in sorted(self.raw_dir.read_csv(f'{core}.csv', dicts=True), key=key):
             res[row['pk']] = row
             if pkmap is not None:
                 pkmap[core][row['pk']] = row['id']
         if extended:
-            for row in self.raw_dir.read_csv('{0}.csv'.format(extended), dicts=True):
+            for row in self.raw_dir.read_csv(f'{extended}.csv', dicts=True):
                 res[row['pk']].update(row)
         return res
 
