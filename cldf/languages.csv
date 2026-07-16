@@ -798,7 +798,7 @@ gti,German (Timisoara),Eurasia,45.75,21.25,stan1295,deu,Indo-European,,Germanic,
 gto,Guató,South America,-17,-58,guat1253,gta,Guató,,Guató,,gta,false,false,BR,Martius-1863 Rodrigues-1999b,genus-guato
 gua,Guaraní,South America,-26,-56,para1311,gug,Tupian,,Maweti-Guarani,,gug,true,true,PY,Ayala-1993 Bridgeman-1961 Dahl-1985 Gregores-and-Suarez-1967 Guasch-1976 Guasch-1996 Guasch-and-Ortiz-1986 Jensen-1998 Krivoshein-de-Canese-1983 Lunt-1973 Malherbe-and-Rosenberg-1996 Nichols-1992 Rosbottom-1965 Rosbottom-1967 Rosbottom-1968 Uldall-1956,genus-mawetiguarani
 gud,Gude,Africa,10.4166666667,13.4166666667,gude1246,gde,Afro-Asiatic,Chadic,Biu-Mandara,,gde,false,false,NG CM,Frajzyngier-1997 Hoskison-1983,genus-biumandara
-gue,Guere,Africa,6.66666666667,-7.75,guer1240,,Niger-Congo,,Kru,,gxx wec,false,false,CI,,genus-kru
+gue,Guere,Africa,6.66666666667,-7.75,guer1244,,Niger-Congo,,Kru,,gxx wec,false,false,CI,,genus-kru
 guf,Gupapuyngu,Australia,-12,136,gupa1247,guf,Pama-Nyungan,,Western Pama-Nyungan,,guf,false,false,AU,,genus-westernpamanyungan
 gug,Gugada,Australia,-30,134,koka1244,ktd,Pama-Nyungan,,Western Pama-Nyungan,,ktd,false,false,AU,Bybee-et-al-1994 Peile-1971 Platt-1972,genus-westernpamanyungan
 guh,Guhu-Samane,Papunesia,-8,147.333333333,guhu1244,ghs,Trans-New Guinea,Greater Binanderean,Guhu-Samane,,ghs,false,false,PG,Richert-1975,genus-guhusamane
@@ -1664,7 +1664,7 @@ nar,Nara (in Ethiopia),Africa,15.0833333333,37.5833333333,nara1262,nrb,Eastern S
 nas,Nasioi,Papunesia,-6.33333333333,155.583333333,naas1242,nas,South Bougainville,,South Bougainville,,nas,false,false,PG,Foley-1986 Hurd-and-Hurd-1966 Hurd-and-Hurd-1970 Nichols-1992 Rausch-1912,genus-southbougainville
 nat,Natchez,North America,31.75,-91.3333333333,natc1249,ncz,Natchez,,Natchez,,ncz,false,false,US,Haas-1975 Swanton-1991 Van-Tuyl-1979,genus-natchez
 nau,Nauruan,Papunesia,-0.5,166.916666667,naur1243,nau,Austronesian,Eastern Malayo-Polynesian,Oceanic,,nau,false,false,NR,Kayser-1993 Lynch-1998,genus-oceanic
-nav,Navajo,North America,36.1666666667,-108,nava1243,nav,Na-Dene,,Athapaskan,,nav,false,true,US,Baskakov-1966c Field-2001 Haile-1926 Haile-1941 Hale-and-Platero-2000 Landar-1963 Nichols-1992 Platero-1974 Reichard-1951 Sapir-and-Hoijer-1967 Schauber-1979 Speas-1990 Willie-1991 Willie-1996 Young-1992 Young-and-Morgan-1972 Young-and-Morgan-1980 Young-and-Morgan-1987,genus-athapaskan
+nav,Navajo,North America,36.33,-109.38,nava1243,nav,Na-Dene,,Athapaskan,,nav,false,true,US,Baskakov-1966c Field-2001 Haile-1926 Haile-1941 Hale-and-Platero-2000 Landar-1963 Nichols-1992 Platero-1974 Reichard-1951 Sapir-and-Hoijer-1967 Schauber-1979 Speas-1990 Willie-1991 Willie-1996 Young-1992 Young-and-Morgan-1972 Young-and-Morgan-1980 Young-and-Morgan-1987,genus-athapaskan
 nax,Naxi,Eurasia,27.5,100,naxi1245,nxq,Sino-Tibetan,Tibeto-Burman,Na-Qiangic,,nxq,false,false,CN,Bradley-1975 He-and-Jiang-1985 Jiang-1980 Jiang-1985,genus-naqiangic
 nbb,Nambas (Big),Papunesia,-16.0833333333,167.2,bign1238,nmb,Austronesian,Eastern Malayo-Polynesian,Oceanic,,nmb,false,false,VU,Fox-1979,genus-oceanic
 nbd,Nubian (Dongolese),Africa,18.25,30.75,dong1288,dgl,Eastern Sudanic,,Nubian,,dgl,false,true,SD,Armbruster-1960 Armbruster-1965 Gil-1982,genus-nubian

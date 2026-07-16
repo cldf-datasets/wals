@@ -16,20 +16,20 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/wals",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2020.2-11-g2955a01",
+            "dc:created": "v2020.4",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.12"
+            "dc:description": "3.12.3"
         },
         {
             "dc:title": "python-packages",
@@ -667,6 +667,17 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#metaLanguageReference",
                         "required": false,
                         "name": "Meta_Language_ID"
+                    },
+                    {
+                        "dc:description": "The level of conformance of the example with the Leipzig Glossing Rules",
+                        "dc:extent": "singlevalued",
+                        "datatype": {
+                            "base": "string",
+                            "format": "WORD_ALIGNED|MORPHEME_ALIGNED"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#lgrConformance",
+                        "required": false,
+                        "name": "LGR_Conformance"
                     },
                     {
                         "datatype": "string",
