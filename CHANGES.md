@@ -2,6 +2,14 @@
 
 Changes between releases of the WALS CLDF dataset.
 
+
+## [v2020.6] - 2026-09-28
+
+- Added a file listing errata.
+- Added acknowledgements and an explanation of the Genealogical Language List.
+- Recreated the dataset with upgraded dependencies.
+
+
 ## [v2020.5] - 2026-07-16
 
 - Fixed coordinate for Navajo

@@ -16,6 +16,7 @@ setup(
         ],
     },
     install_requires=[
+        'pyglottolog',
         'python-nexus',
         'newick',
         'cldfbench>=2',

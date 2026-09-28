@@ -1,6 +1,7 @@
 import io
 import re
 import json
+import shutil
 import pathlib
 import itertools
 import collections
@@ -427,6 +428,22 @@ class Dataset(BaseDataset):
                 'Contributor_ID': cid,
                 'With_Contributor_ID': wcid,
             }))
+        shutil.copy(self.raw_dir / 'docs' / 'genealogy.md', self.cldf_dir / 'docs')
+        args.writer.objects['MediaTable'].append(dict(
+            ID='genealogicallanguagelist',
+            Description='Explanation of the term "Genus" in the Genealogical Language List',
+            Media_Type='text/markdown',
+            Conforms_To='CLDF Markdown',
+            Download_URL='file:///docs/genealogy.md',
+        ))
+        shutil.copy(self.raw_dir / 'docs' / 'credits.md', self.cldf_dir / 'docs')
+        args.writer.objects['MediaTable'].append(dict(
+            ID='credits',
+            Description="Acknowledgements",
+            Media_Type='text/markdown',
+            Conforms_To='CLDF Markdown',
+            Download_URL='file:///docs/credits.md',
+        ))
 
     def create_schema(self, cldf):
         t = cldf.add_component(

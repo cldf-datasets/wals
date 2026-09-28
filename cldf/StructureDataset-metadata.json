@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/wals",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2020.4-1-ge0201f6",
+            "dc:created": "v2020.5",
             "dc:title": "Repository"
         },
         {
@@ -778,7 +778,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
             "dc:description": "Media files associated with WALS chapters.",
-            "dc:extent": 153,
+            "dc:extent": 155,
             "tableSchema": {
                 "columns": [
                     {

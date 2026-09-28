@@ -152,3 +152,5 @@ s6,,,text/markdown,file:/docs/chapter_s6.html,,s6,
 s7,,,text/markdown,file:/docs/chapter_s7.html,,s7,
 s8,,,text/markdown,file:/docs/chapter_s8.html,,s8,
 s9,,,text/markdown,file:/docs/chapter_s9.html,,s9,
+genealogicallanguagelist,,"Explanation of the term ""Genus"" in the Genealogical Language List",text/markdown,file:/docs/genealogy.md,,,CLDF Markdown
+credits,,Acknowledgements,text/markdown,file:/docs/credits.md,,,CLDF Markdown
